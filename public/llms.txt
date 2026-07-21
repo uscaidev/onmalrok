@@ -1,0 +1,21 @@
+# 온말록 (Onmalrok)
+
+> 대한민국 국무회의·국민업무보고 영상 아카이브. 공개된 자막을 문장 단위로 수집해
+> 검색·구간 재생·AI 요약을 제공하고, 이재명 정부 123대 국정과제별로 대통령 발언과
+> 각 부처의 보고를 시간순으로 추적한다. 모든 파생 콘텐츠는 원문 영상 구간 재생으로 검증 가능.
+
+## 주요 페이지
+
+- 홈·회의 목록: https://onmalrok.vercel.app/
+- 회의 발언록(자막 전문·AI 요약·챕터): https://onmalrok.vercel.app/watch/{meeting_id}
+- 국정과제 트래커(123과제, 목표별·부처별): https://onmalrok.vercel.app/tasks
+- 과제별 발언 기록: https://onmalrok.vercel.app/tasks/{1~123}
+- 부처 브리핑(회의별 지시사항·답변사항 발췌): https://onmalrok.vercel.app/briefing/{meeting_id}
+
+## 데이터
+
+- 범위: 2025-06(이재명 정부 출범) 이후 국무회의·국민업무보고 전체, 매 회의 자동 갱신
+- 원천: KTV 국민방송 유튜브 자동자막(LLM 오인식 교정, 원문 보존) · korea.kr
+- 인용 시 주의: AI 요약·화자 추정·연결 관계에는 오류가 있을 수 있음. 각 문장에
+  원문 영상 타임스탬프가 있으므로 인용 전 구간 재생으로 확인 권장.
+- 문의·오픈데이터: https://github.com/uscaidev

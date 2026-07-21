@@ -1,12 +1,27 @@
 import type { Metadata } from "next";
 import "@/styles/tokens.css";
 import "./globals.css";
+import { CONTACT_URL, SITE_NAME, SITE_URL } from "@/lib/site";
 import styles from "./layout.module.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: { default: "온말록 — 국무회의·국민업무보고 아카이브", template: "%s · 온말록" },
   description:
-    "국무회의·국민업무보고 영상을 자막 문장 단위로 검색하고 원문 구간을 바로 재생하는 아카이브",
+    "국무회의·국민업무보고 영상을 자막 문장 단위로 검색하고 원문 구간을 바로 재생하는 아카이브. 123대 국정과제별 대통령 발언·부처 보고 추적.",
+};
+
+// AEO: 사이트 정체를 기계가 읽을 수 있게 (schema.org WebSite)
+const WEBSITE_JSONLD = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: SITE_NAME,
+  alternateName: "Onmalrok",
+  url: SITE_URL,
+  description:
+    "대한민국 국무회의·국민업무보고 영상 아카이브 — 문장 단위 발언록 검색·구간 재생, 123대 국정과제별 대통령 발언·부처 보고 추적",
+  publisher: { "@type": "Organization", name: SITE_NAME, url: CONTACT_URL },
+  inLanguage: "ko",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -25,6 +40,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(WEBSITE_JSONLD) }}
+        />
         {children}
         <footer className={styles.footer}>
           요약·화자 구분·연결 관계는 AI가 생성한 것으로 오류가 있을 수 있습니다. 원문 확인을

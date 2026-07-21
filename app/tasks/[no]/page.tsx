@@ -8,6 +8,7 @@ import QuoteText from "@/components/QuoteText";
 import SiteHeader from "@/components/SiteHeader";
 import { getMeeting, getTaskMap, getTasks, getThreadsByIds } from "@/lib/data";
 import { formatDate, kindLabel } from "@/lib/format";
+import { SITE_URL } from "@/lib/site";
 import type { Meeting, ThreadStage } from "@/lib/types";
 import styles from "./TaskDetail.module.css";
 
@@ -17,8 +18,19 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: { no: string } }): Promise<Metadata> {
-  const task = (await getTasks()).find((t) => String(t.no) === params.no);
-  return { title: task ? `국정과제 ${task.no}. ${task.title}` : "국정과제" };
+  const [tasks, map] = await Promise.all([getTasks(), getTaskMap()]);
+  const task = tasks.find((t) => String(t.no) === params.no);
+  if (!task) return { title: "국정과제" };
+  const refs = map.find((e) => e.task_no === task.no)?.turn_refs ?? [];
+  const last = refs.length > 0 ? refs[refs.length - 1].date : null;
+  // AEO: "이 과제 어떻게 되고 있나" 질문에 바로 답하는 사실형 요약
+  const mention = last
+    ? `국무회의·업무보고 언급 ${refs.length}건(마지막 ${formatDate(last).replace(/\.$/, "")})`
+    : "국무회의·업무보고 언급 0회";
+  return {
+    title: `국정과제 ${task.no}. ${task.title} — 발언 기록`,
+    description: `주관 ${task.ministries.join("·")} · ${task.goal} · ${mention}. 대통령 발언·부처 보고 인용과 원문 구간 재생 제공.`,
+  };
 }
 
 // §6.3 준용 상태 어휘 (평가 어휘 금지 — §1-5)
@@ -59,8 +71,27 @@ export default async function TaskPage({ params }: { params: { no: string } }) {
 
   const hasAiInferred = refs.some((r) => r.grade === "ai_inferred");
 
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "국정과제", item: `${SITE_URL}/tasks` },
+      { "@type": "ListItem", position: 2, name: task.goal },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: `${task.no}. ${task.title}`,
+        item: `${SITE_URL}/tasks/${task.no}`,
+      },
+    ],
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
       <SiteHeader />
       <main className={styles.main}>
         <nav className={styles.crumb}>
