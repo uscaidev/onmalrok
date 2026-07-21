@@ -67,7 +67,7 @@ interface Meeting {
 
 interface AgendaBlock {
   aid: string;                   // "{meeting_id}@a{n}"
-  title: string;                 // korea.kr 공식 안건명 앵커 우선, 없으면 LLM 생성
+  title: string;                 // LLM 생성 기본. korea.kr 공식 안건명 앵커는 선택 보강(2026-07-21 필수 해제)
   start_sec: number;
   sid_range: [string, string];   // 포함 구간 [첫 sid, 끝 sid]
   official: boolean;             // korea.kr 안건 매핑 여부
@@ -139,7 +139,7 @@ discovered ──자막 확인──▶ waiting_captions ──자막 생성됨�
 | 02 | segment.py | vtt → Statement[](text_raw, start_sec). 종결어미+구두점 분할, 타임스탬프 = 문장 시작 cue |
 | 03 | correct.py | §5 교정 루프. 배치 50문장/호출, **오인식 교정만** — 의미 변경·요약·생략 금지. diff 없으면 corrected=false |
 | 04 | turns.py | Turn 경계 탐지: 사회자 소개 발화 정규식(`다음은.*(장관|위원장|처장|청장)의?.*(보고|말씀)`) + 화자 전환 단서 LLM 판정 → Turn 생성 + 화자 부여(확신 낮으면 null, inferred=true 고정) + rep_sid 선정(가장 정보량 많은 문장 LLM 선택) |
-| 05 | agenda.py | korea.kr 안건 목록을 앵커로 sid 구간 매핑(official=true). 매핑 안 되는 구간은 화제 전환점 LLM 분할(official=false) |
+| 05 | agenda.py | 화제 전환점 LLM 분할(official=false)이 기본이자 충분 조건. korea.kr 안건 앵커 매핑(official=true)은 선택 보강 — 구두 지시가 공식 문서에 선행할 수 있으므로 발화 기록을 1차 소스로 삼는다(2026-07-21 결정, 필수 아님) |
 | 06 | summarize.py | **Agenda 단위** 요약 → 전체 brief(5문단 이내, 문단별 근거 sid 배열) |
 | 07 | threads.py | 3단 판정(SPEC.md §8.2의 룰→키워드→LLM 동일)을 **Turn 단위**로 수행. 신규 스레드 생성은 대통령 화자 Turn의 명령형 발화에서만 |
 | 08 | build_index.py | 검색 샤드·keywords·meetings 목록·dump 생성 |
@@ -197,7 +197,7 @@ discovered ──자막 확인──▶ waiting_captions ──자막 생성됨�
 ### Phase P3 — 3층 구조 (Turn·Agenda)
 - [ ] 04 turns + 05 agenda + rep_sid
 - ✅ 전 문장이 정확히 하나의 Turn·Agenda에 속함(validate 통과)
-- ✅ korea.kr 안건이 있는 회의에서 official=true 매핑 확인
+- ~~korea.kr official=true 매핑 확인~~ → 2026-07-21 필수 해제: LLM 분할(official=false)만으로 완료 인정
 
 ### Phase P4 — 요약·스레드·색인·알림
 - [ ] 06~09 + 월간 재보강 workflow

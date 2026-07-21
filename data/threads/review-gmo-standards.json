@@ -1,0 +1,26 @@
+{
+  "id": "review-gmo-standards",
+  "title": "GMO 기준 심층 검토 보고",
+  "topic_tags": [
+    "GMO",
+    "기준",
+    "심층 검토",
+    "보고"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0721-bCztV4@t87",
+      "rep_sid": "2026-cab-0721-bCztV4#724",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "좀 더 심층으로 좀 검토해 가지고 다시 한번 얘기해 보죠.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T17:23:40+09:00"
+}

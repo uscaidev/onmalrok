@@ -95,8 +95,19 @@
       "grade_evidence": "채무자 지원 종합 창구를 만들었고요. 그 역할을 신용회복위원회가 하게 됩니다.",
       "reviewed": false,
       "rel_label": "채무자 지원 창구 도입 보고"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t16",
+      "rep_sid": "2026-cab-0721-bCztV4#38",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "식약처가 좀 어떤 대책을 좀 세우고 계시나요? 네.",
+      "reviewed": false,
+      "rel_label": "업계 지원대책 질의"
     }
   ],
   "followup": null,
-  "updated_at": "2026-07-21T16:59:13+09:00"
+  "updated_at": "2026-07-21T17:23:43+09:00"
 }

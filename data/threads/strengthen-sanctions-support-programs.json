@@ -41,8 +41,19 @@
       "grade_evidence": "제재 · 위반",
       "reviewed": true,
       "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t96",
+      "rep_sid": "2026-cab-0721-bCztV4#861",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "제재 · 위반",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
     }
   ],
   "followup": null,
-  "updated_at": "2026-07-21T16:59:34+09:00"
+  "updated_at": "2026-07-21T17:23:40+09:00"
 }

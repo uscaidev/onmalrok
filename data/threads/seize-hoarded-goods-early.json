@@ -1,0 +1,26 @@
+{
+  "id": "seize-hoarded-goods-early",
+  "title": "매점·매석 초기 압수강화",
+  "topic_tags": [
+    "매점·매석",
+    "압수",
+    "몰수",
+    "수사기관"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0721-bCztV4@t52",
+      "rep_sid": "2026-cab-0721-bCztV4#264",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "초기에 그 대상 매점·매석 물품은 아예 압수 몰수를 좀 강하면 좋겠어요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T17:23:40+09:00"
+}

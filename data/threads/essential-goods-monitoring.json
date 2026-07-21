@@ -8,7 +8,7 @@
     "공정위",
     "모니터링"
   ],
-  "stage": "progress",
+  "stage": "plan",
   "nodes": [
     {
       "tid": "2026-cab-0310-2B4Fqs@t29",
@@ -42,8 +42,19 @@
       "grade_evidence": "생리대 · 모니터링",
       "reviewed": true,
       "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t56",
+      "rep_sid": "2026-cab-0721-bCztV4#291",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "독과점 · 공정위",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
     }
   ],
   "followup": null,
-  "updated_at": "2026-07-21T16:59:38+09:00"
+  "updated_at": "2026-07-21T17:23:40+09:00"
 }

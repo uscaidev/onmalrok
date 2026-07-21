@@ -1,0 +1,27 @@
+{
+  "id": "study-expand-gm-labeling",
+  "title": "GM 표시 대상 확대 연구",
+  "topic_tags": [
+    "유전자 변형",
+    "표시 대상",
+    "간장",
+    "식용유",
+    "당류"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0721-bCztV4@t73",
+      "rep_sid": "2026-cab-0721-bCztV4#407",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "그런 소스류에 관해서는 저희가 좀 더 정착을 지금 해 보겠다는 말씀입니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T17:23:40+09:00"
+}

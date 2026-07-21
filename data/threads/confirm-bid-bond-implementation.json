@@ -6,7 +6,7 @@
     "입찰 보증금",
     "시행"
   ],
-  "stage": "order",
+  "stage": "plan",
   "nodes": [
     {
       "tid": "2026-rpt-0715--PQDTo@t41",
@@ -18,8 +18,19 @@
       "grade_evidence": "페이퍼 컴퍼니들 낙 입찰 보증금 내는 제도는 시행하고 있습니까?...8월부터 시행할 예정입니다.",
       "reviewed": true,
       "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t17",
+      "rep_sid": "2026-cab-0721-bCztV4#40",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "간장은 올해 12월 31일부터 GMO 완전 표시를 시행하고요. 당류와 식용 유지류는 내년 12월 31일부터 ",
+      "reviewed": false,
+      "rel_label": "시행 일정·지원 계획 보고"
     }
   ],
   "followup": null,
-  "updated_at": "2026-07-21T16:59:24+09:00"
+  "updated_at": "2026-07-21T17:23:43+09:00"
 }

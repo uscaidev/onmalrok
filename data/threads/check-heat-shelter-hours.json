@@ -1,0 +1,26 @@
+{
+  "id": "check-heat-shelter-hours",
+  "title": "무더위쉼터 운영시간 확대 점검",
+  "topic_tags": [
+    "무더위 쉼터",
+    "운영 시간",
+    "취약 계층",
+    "점검"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0721-bCztV4@t39",
+      "rep_sid": "2026-cab-0721-bCztV4#118",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "무더위 쉼터 운영 시간을 ... 확대하는 방안이 있을지 한번 점검해 주기 바랍니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T17:23:40+09:00"
+}

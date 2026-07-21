@@ -1,0 +1,26 @@
+{
+  "id": "preemptively-handle-disputes",
+  "title": "분쟁여지 사전 정리·대응",
+  "topic_tags": [
+    "분쟁",
+    "사전 정리",
+    "노사",
+    "행정 재량"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0721-bCztV4@t115",
+      "rep_sid": "2026-cab-0721-bCztV4#1209",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "분쟁의 여지가 있는 부분들은 가급적이면 미리미리 좀 정하시고요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T17:23:40+09:00"
+}

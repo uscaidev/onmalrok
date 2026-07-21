@@ -1,0 +1,26 @@
+{
+  "id": "reassess-and-report-standards",
+  "title": "표준 강도 재검토·보고",
+  "topic_tags": [
+    "강도",
+    "검토",
+    "보고",
+    "통상협의"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0721-bCztV4@t89",
+      "rep_sid": "2026-cab-0721-bCztV4#731",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "강도나 이런 것들 또 다시 한번 검토해서 보고해 주시기 바랍니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T17:23:40+09:00"
+}

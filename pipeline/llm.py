@@ -44,7 +44,7 @@ def _get_key(name: str) -> str | None:
             import winreg
             with winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Environment") as h:
                 key = winreg.QueryValueEx(h, name)[0]
-        except OSError:
+        except (OSError, ImportError):   # ImportError: Linux(Actions)엔 winreg 없음
             return None
     # 저장 형태 방어: 따옴표·공백 등이 섞여 있으면 sk- 토큰만 추출
     key = key.strip().strip('"').strip("'")

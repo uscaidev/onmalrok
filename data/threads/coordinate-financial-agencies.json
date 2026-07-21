@@ -119,8 +119,19 @@
       "grade_evidence": "금융위 · 협의",
       "reviewed": true,
       "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t104",
+      "rep_sid": "2026-cab-0721-bCztV4#993",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "기재부 · 협의",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
     }
   ],
   "followup": null,
-  "updated_at": "2026-07-21T16:59:24+09:00"
+  "updated_at": "2026-07-21T17:23:40+09:00"
 }

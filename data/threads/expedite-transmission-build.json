@@ -7,7 +7,7 @@
     "재원",
     "인프라 투자"
   ],
-  "stage": "order",
+  "stage": "plan",
   "nodes": [
     {
       "tid": "2026-cab-0317-bzrcCS@t58",
@@ -19,8 +19,19 @@
       "grade_evidence": "송배전망 구축... 이거 빨리 해야 될 거 아닙니까?",
       "reviewed": true,
       "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t100",
+      "rep_sid": "2026-cab-0721-bCztV4#920",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "report",
+      "grade": "explicit",
+      "grade_evidence": "바로 이을 활성화 지난 5월 개통하였고 현재는 278개 정도의 ",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
     }
   ],
   "followup": null,
-  "updated_at": "2026-07-21T16:57:16+09:00"
+  "updated_at": "2026-07-21T17:23:40+09:00"
 }

@@ -1,0 +1,26 @@
+{
+  "id": "use-administrative-discretion",
+  "title": "행정 재량 적극 활용",
+  "topic_tags": [
+    "재량",
+    "시행령",
+    "입법 남용",
+    "행정"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0721-bCztV4@t115",
+      "rep_sid": "2026-cab-0721-bCztV4#1209",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "그 법률에서 ... 그 법률 시행을 위해서 필요한 것은 광범위한 재량을 가지고 원래 할 수 있는 거예요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T17:23:40+09:00"
+}

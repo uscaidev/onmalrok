@@ -1,0 +1,26 @@
+{
+  "id": "secure-vulnerable-areas",
+  "title": "취약지역 안전관리 총력",
+  "topic_tags": [
+    "취약 지역",
+    "안전 관리",
+    "총력 대처",
+    "장마"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0721-bCztV4@t39",
+      "rep_sid": "2026-cab-0721-bCztV4#118",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "제 취약 지역에 대한 안전 관리에 총력을 다해 주셔야 되겠습니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T17:23:40+09:00"
+}

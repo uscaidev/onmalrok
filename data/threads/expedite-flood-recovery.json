@@ -1,0 +1,27 @@
+{
+  "id": "expedite-flood-recovery",
+  "title": "집중호우 피해 복구 서둘러",
+  "topic_tags": [
+    "집중 호우",
+    "피해 복구",
+    "강원",
+    "경북",
+    "의성"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0721-bCztV4@t39",
+      "rep_sid": "2026-cab-0721-bCztV4#118",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "피해 복구를 최대한 서둘러 주시기 바랍니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T17:23:40+09:00"
+}

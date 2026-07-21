@@ -570,8 +570,74 @@
       "grade_evidence": "법 · 시행",
       "reviewed": true,
       "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t25",
+      "rep_sid": "2026-cab-0721-bCztV4#57",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "result",
+      "grade": "topic",
+      "grade_evidence": "법 · 시행",
+      "reviewed": true,
+      "rel_label": "지시 이행 결과 보고"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t72",
+      "rep_sid": "2026-cab-0721-bCztV4#391",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "법 · 시행",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t83",
+      "rep_sid": "2026-cab-0721-bCztV4#649",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "법 · 시행",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t113",
+      "rep_sid": "2026-cab-0721-bCztV4#1195",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "법 · 시행",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t114",
+      "rep_sid": "2026-cab-0721-bCztV4#1196",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "시행령 · 법 · 시행",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t115",
+      "rep_sid": "2026-cab-0721-bCztV4#1209",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "시행령 · 법 · 시행",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
     }
   ],
   "followup": null,
-  "updated_at": "2026-07-21T16:59:38+09:00"
+  "updated_at": "2026-07-21T17:23:40+09:00"
 }

@@ -8,7 +8,7 @@
     "공정",
     "설명"
   ],
-  "stage": "progress",
+  "stage": "result",
   "nodes": [
     {
       "tid": "2026-cab-0120-1bgJaV@t90",
@@ -108,8 +108,19 @@
       "grade_evidence": "당장의 수급의 문제는 없지만 중동 전쟁이 장기화되는 것을 대비해서 식약처 산업부와 함께 수급 관리를 하고 있",
       "reviewed": false,
       "rel_label": "수급 관리 중간 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t25",
+      "rep_sid": "2026-cab-0721-bCztV4#57",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "result",
+      "grade": "topic",
+      "grade_evidence": "공정 · 설명",
+      "reviewed": true,
+      "rel_label": "지시 이행 결과 보고"
     }
   ],
   "followup": null,
-  "updated_at": "2026-07-21T16:58:02+09:00"
+  "updated_at": "2026-07-21T17:23:40+09:00"
 }

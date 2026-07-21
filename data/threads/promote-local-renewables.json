@@ -53,8 +53,19 @@
       "grade_evidence": "전수 조사 · 농림부",
       "reviewed": true,
       "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0721-bCztV4@t14",
+      "rep_sid": "2026-cab-0721-bCztV4#35",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "식약처가 이 취지에 대해서 좀 더 국민께 알려 드리고 다각적으로 홍보할 계획입니다.",
+      "reviewed": false,
+      "rel_label": "홍보 계획 보고"
     }
   ],
   "followup": null,
-  "updated_at": "2026-07-21T16:58:13+09:00"
+  "updated_at": "2026-07-21T17:23:43+09:00"
 }

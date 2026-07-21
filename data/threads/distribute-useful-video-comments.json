@@ -1,0 +1,26 @@
+{
+  "id": "distribute-useful-video-comments",
+  "title": "영상 유용 발언 각 부처로 분배",
+  "topic_tags": [
+    "영상 공보",
+    "스크린",
+    "부처 분배",
+    "체크"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0721-bCztV4@t111",
+      "rep_sid": "2026-cab-0721-bCztV4#1088",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "필요한 유용한 얘기들은 잘 체크해서 각 부처로 나눠 주든지",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T17:23:40+09:00"
+}

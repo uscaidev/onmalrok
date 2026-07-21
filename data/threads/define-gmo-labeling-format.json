@@ -1,0 +1,26 @@
+{
+  "id": "define-gmo-labeling-format",
+  "title": "GMO 표시 방식 규정",
+  "topic_tags": [
+    "GMO 표시",
+    "표시 방법",
+    "글자 크기",
+    "선택권"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0721-bCztV4@t79",
+      "rep_sid": "2026-cab-0721-bCztV4#543",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "표시도 어떻게 해라는 걸 정의해야 되겠죠...12포인트 이상으로 하게 됩니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T17:23:40+09:00"
+}

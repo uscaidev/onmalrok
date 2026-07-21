@@ -1,0 +1,26 @@
+{
+  "id": "prevent-corruption-in-prices",
+  "title": "부패 개입 차단 물가 관리",
+  "topic_tags": [
+    "물가 관리",
+    "수입 물가",
+    "부패 요소",
+    "관세"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0721-bCztV4@t50",
+      "rep_sid": "2026-cab-0721-bCztV4#259",
+      "meeting_id": "2026-cab-0721-bCztV4",
+      "date": "2026-07-21",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "중간에서 좀 약간 부패 요소가 끼어들지 않게 최선을 다해서 주시고 합니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T17:23:40+09:00"
+}

@@ -1,34 +1,34 @@
 {
   "2026-07": {
     "correct": {
-      "calls": 728,
-      "input_tokens": 2622345,
-      "output_tokens": 936410,
-      "cost_usd": 2.5282
+      "calls": 753,
+      "input_tokens": 2728201,
+      "output_tokens": 965358,
+      "cost_usd": 2.6126
     },
     "turns": {
-      "calls": 34,
-      "input_tokens": 1048454,
-      "output_tokens": 54237,
-      "cost_usd": 0.3704
+      "calls": 35,
+      "input_tokens": 1082641,
+      "output_tokens": 56756,
+      "cost_usd": 0.384
     },
     "agenda": {
-      "calls": 34,
-      "input_tokens": 1039775,
-      "output_tokens": 9825,
-      "cost_usd": 0.2795
+      "calls": 35,
+      "input_tokens": 1073702,
+      "output_tokens": 10062,
+      "cost_usd": 0.2885
     },
     "summarize": {
-      "calls": 34,
-      "input_tokens": 1047441,
-      "output_tokens": 19979,
-      "cost_usd": 0.3019
+      "calls": 35,
+      "input_tokens": 1081545,
+      "output_tokens": 20610,
+      "cost_usd": 0.3117
     },
     "threads": {
-      "calls": 54,
-      "input_tokens": 285607,
-      "output_tokens": 26025,
-      "cost_usd": 0.1237
+      "calls": 56,
+      "input_tokens": 296880,
+      "output_tokens": 27339,
+      "cost_usd": 0.1291
     }
   }
 }
