@@ -1,0 +1,38 @@
+{
+  "id": "price-monitoring-rapid-investigation",
+  "title": "가격모니터링·신속조사",
+  "topic_tags": [
+    "가격 모니터링",
+    "공정위",
+    "신속 조사",
+    "지역 중심",
+    "제재 신속"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0305-sPS14B@t11",
+      "rep_sid": "2026-cab-0305-sPS14B#169",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "지역들을 중심으로해서 공정이 조사를 시작하면 그 관련한 제재도 신속하게 내릴 수 있습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t6",
+      "rep_sid": "2026-cab-0406-IhS8yH#24",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "의료 현장을 상시적으로 모니터링하고 적극 대응하고 있습니다.",
+      "reviewed": false,
+      "rel_label": "가격·유통 모니터링 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:02+09:00"
+}

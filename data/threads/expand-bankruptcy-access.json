@@ -1,0 +1,25 @@
+{
+  "id": "expand-bankruptcy-access",
+  "title": "파산·면책 접근성 확대",
+  "topic_tags": [
+    "면책 제도",
+    "법률 구조 공단",
+    "홍보 강화"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0714-gXWij0@t54",
+      "rep_sid": "2026-cab-0714-gXWij0#1280",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "면책될 수 있게 하고 또 그 접근도 쉽게...홍보를 좀 많이 하십시오",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:07+09:00"
+}

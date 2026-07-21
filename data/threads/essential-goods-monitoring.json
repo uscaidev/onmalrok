@@ -1,0 +1,49 @@
+{
+  "id": "essential-goods-monitoring",
+  "title": "필수품 독과점 모니터링",
+  "topic_tags": [
+    "생리대",
+    "필수물품",
+    "독과점",
+    "공정위",
+    "모니터링"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t29",
+      "rep_sid": "2026-cab-0310-2B4Fqs#476",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "각 부처에서는 좀 그런 고민도 해와 주세요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t6",
+      "rep_sid": "2026-cab-0406-IhS8yH#24",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "공정위 · 모니터링",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-imQ8RH@t44",
+      "rep_sid": "2026-rpt-0716-imQ8RH#736",
+      "meeting_id": "2026-rpt-0716-imQ8RH",
+      "date": "2026-07-16",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "생리대 · 모니터링",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:38+09:00"
+}

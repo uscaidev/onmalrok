@@ -1,0 +1,27 @@
+{
+  "id": "shift-to-loan-guarantee-support",
+  "title": "융자·보증 중심 지원전환 지침",
+  "topic_tags": [
+    "융자",
+    "2차 보전",
+    "지급보증",
+    "지원 방식",
+    "금융위"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0324-56VTWK@t20",
+      "rep_sid": "2026-cab-0324-56VTWK#746",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "date": "2026-03-24",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "그거 최소화하고 필요하면은 어쨌든 2차 보전으로 바꾸고 지급보증 그 보증을 하고",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:28+09:00"
+}

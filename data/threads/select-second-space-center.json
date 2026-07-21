@@ -1,0 +1,26 @@
+{
+  "id": "select-second-space-center",
+  "title": "제2우주센터 공모 선정",
+  "topic_tags": [
+    "제2 우주센터",
+    "발사 장소",
+    "공모",
+    "선정"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0716-_t27O7@t69",
+      "rep_sid": "2026-rpt-0716-_t27O7#740",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "지금 8월 6일까지 공모 중이고요. 예. 들어오면 선정할 계획으로 있습니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

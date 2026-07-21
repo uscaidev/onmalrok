@@ -1,0 +1,27 @@
+{
+  "id": "adjust-palace-safety-management",
+  "title": "궁궐 안전관리 조정",
+  "topic_tags": [
+    "경복궁",
+    "안전 관리",
+    "무료 개방",
+    "문체부 협의",
+    "방문객 증가"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0331-pWre_D@t50",
+      "rep_sid": "2026-cab-0331-pWre_D#987",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "date": "2026-03-31",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "무료 개방에 대한 이야기도 ... 문체부와 상의하면서 하겠습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:42+09:00"
+}

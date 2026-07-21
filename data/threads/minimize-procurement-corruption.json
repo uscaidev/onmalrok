@@ -1,0 +1,26 @@
+{
+  "id": "minimize-procurement-corruption",
+  "title": "입찰 비리 최소화",
+  "topic_tags": [
+    "조달청",
+    "입찰 비리",
+    "특정업체",
+    "관리"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t43",
+      "rep_sid": "2026-rpt-0715--PQDTo#575",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "입찰 비리는 최소화 없게 될 수 있도록 하십시오.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "strengthen-avian-management",
+  "title": "계란·조류 관리 강화",
+  "topic_tags": [
+    "계란 문제",
+    "조류 관리",
+    "반복적 문제"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t68",
+      "rep_sid": "2026-cab-0623-2uViqE#763",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "계란 문제는 매년 반복... 조류도감 관리도 좀 잘해야 될 것 같습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:58+09:00"
+}

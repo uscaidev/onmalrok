@@ -1,0 +1,36 @@
+{
+  "id": "review-fuel-price-cap",
+  "title": "유가·최고가격제 검토",
+  "topic_tags": [
+    "석유 최고 가격제",
+    "국제 유가 동향",
+    "물가"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t22",
+      "rep_sid": "2026-cab-0623-2uViqE#176",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "최고 가격제를 ... 어떻게 하는 게 좋은지 검토 중에 있습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t27",
+      "rep_sid": "2026-cab-0630-dZLnc3#155",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "석유 최고 가격제 · 물가",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:00+09:00"
+}

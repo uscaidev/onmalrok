@@ -1,0 +1,48 @@
+{
+  "id": "develop-regional-incentive-index",
+  "title": "지방인센티브 지수 개발",
+  "topic_tags": [
+    "지수 개발",
+    "행안부",
+    "지방 인센티브",
+    "균형 발전"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t16",
+      "rep_sid": "2026-cab-0120-1bgJaV#154",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "이 지수 개발은 하고 있어요. 행안부가 하고 있을 것 같은데.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t5",
+      "rep_sid": "2026-cab-0526-B3JFkX#7",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "남부 해양수도권 육성 방향을 보고드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "남부 해양수도권 육성 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t6",
+      "rep_sid": "2026-cab-0526-B3JFkX#11",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "5극 3특의 성공 모델을 만들고자 이번에 남부 해양 수도권 육성 방향을 마련하게 된 것입니다.",
+      "reviewed": false,
+      "rel_label": "5극 3특 추진 취지 설명 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:33+09:00"
+}

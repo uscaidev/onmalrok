@@ -1,0 +1,27 @@
+{
+  "id": "support-security-oriented-supplychain",
+  "title": "소재부품장비 안보전환 지원",
+  "topic_tags": [
+    "소재부품",
+    "장비",
+    "산업 안보",
+    "생태 강화",
+    "지원금"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t72",
+      "rep_sid": "2026-cab-0120-1bgJaV#1200",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "소재부품 장비를 ...안보 자산으로 접근을 해서 생태계를 강화하자면...지원도 좀 해 주고",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:09+09:00"
+}

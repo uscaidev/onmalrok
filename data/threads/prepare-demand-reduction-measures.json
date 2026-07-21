@@ -1,0 +1,26 @@
+{
+  "id": "prepare-demand-reduction-measures",
+  "title": "수요 절감 대책 수립",
+  "topic_tags": [
+    "수요 절감",
+    "자동차 5부제",
+    "10부제",
+    "에너지 절약"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0317-bzrcCS@t3",
+      "rep_sid": "2026-cab-0317-bzrcCS#11",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "에너지 절약 노력의 범사회적 확산을 위해서 필요하면 자동차 5부제 또는 10부제 등 다각도의 수요 절감 대책",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:16+09:00"
+}

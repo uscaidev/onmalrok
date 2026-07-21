@@ -1,0 +1,93 @@
+{
+  "id": "review-direct-prosecution-rights",
+  "title": "직접 고발권 검토",
+  "topic_tags": [
+    "직접 고발권",
+    "검토",
+    "공정거래",
+    "관계기관",
+    "확대"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0331-pWre_D@t31",
+      "rep_sid": "2026-cab-0331-pWre_D#612",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "date": "2026-03-31",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "일단은 직접 고발권을 주는 방향으로 검토하는게 필요할 것 같",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0623-2uViqE@t23",
+      "rep_sid": "2026-cab-0623-2uViqE#178",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "검토 · 확대",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0623-2uViqE@t64",
+      "rep_sid": "2026-cab-0623-2uViqE#734",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "검토 · 확대",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t32",
+      "rep_sid": "2026-cab-0714-gXWij0#506",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "검토 · 확대",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-L64eg6@t137",
+      "rep_sid": "2026-rpt-0716-L64eg6#836",
+      "meeting_id": "2026-rpt-0716-L64eg6",
+      "date": "2026-07-16",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "검토 · 확대",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t108",
+      "rep_sid": "2026-rpt-0716-_t27O7#1075",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "검토 · 확대",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-imQ8RH@t44",
+      "rep_sid": "2026-rpt-0716-imQ8RH#736",
+      "meeting_id": "2026-rpt-0716-imQ8RH",
+      "date": "2026-07-16",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "검토 · 확대",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:38+09:00"
+}

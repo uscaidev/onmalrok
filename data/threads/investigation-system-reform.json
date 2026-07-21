@@ -1,0 +1,49 @@
+{
+  "id": "investigation-system-reform",
+  "title": "진상조사 제도 개선",
+  "topic_tags": [
+    "진상 조사",
+    "제도 개선",
+    "유가족 지원",
+    "독립적",
+    "객관적"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2025-cab-1230-L2JG9h@t2",
+      "rep_sid": "2025-cab-1230-L2JG9h#9",
+      "meeting_id": "2025-cab-1230-L2JG9h",
+      "date": "2025-12-30",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "진상 조사를 위한 제도 개선을 최대한 서둘러 주시고",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-rpt-0108-LvEXuS@t76",
+      "rep_sid": "2026-rpt-0108-LvEXuS#425",
+      "meeting_id": "2026-rpt-0108-LvEXuS",
+      "date": "2026-01-08",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "지역 단위에서 작동될 수 있도록 지금 하고 있다는 말씀을 드리고 조만간에 정부 차원에서이 부분을 정리해서 발",
+      "reviewed": false,
+      "rel_label": "지역 단위 응급체계 제도개선 예고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t4",
+      "rep_sid": "2026-cab-0414-mvVDdp#16",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "지난해 9월 15일 정부 합동으로 노동안전 종합 대책을 마련했습니다.",
+      "reviewed": false,
+      "rel_label": "지시에 대한 추진 내용 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:07+09:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "defense-rnd-budget-increase",
+  "title": "방산 R&D 예산 확대 추진",
+  "topic_tags": [
+    "연구 개발 예산",
+    "확대",
+    "핵심 부품 국산화"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0526-B3JFkX@t19",
+      "rep_sid": "2026-cab-0526-B3JFkX#74",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "연구 개발 예산의 지속적인 확대",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:25+09:00"
+}

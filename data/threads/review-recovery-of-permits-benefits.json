@@ -1,0 +1,27 @@
+{
+  "id": "review-recovery-of-permits-benefits",
+  "title": "인허가 특혜 회수 제도 검토",
+  "topic_tags": [
+    "스타트업",
+    "인허가",
+    "특혜 회수",
+    "국부펀드",
+    "제도 검토"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t92",
+      "rep_sid": "2026-cab-0120-1bgJaV#1650",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "인허가, 특허...특혜가 많이 주어지는 경우에는 그 일부를 회수하는 시스템을 반드시 고민을 좀 해 주시기 바",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:09+09:00"
+}

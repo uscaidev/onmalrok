@@ -1,0 +1,26 @@
+{
+  "id": "factory-accident-investigation",
+  "title": "공장사고 원인조사",
+  "topic_tags": [
+    "사고 원인 조사",
+    "재발 방지",
+    "안전 점검",
+    "사업장 안전"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0602-HokLaJ@t13",
+      "rep_sid": "2026-cab-0602-HokLaJ#65",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "관계 당국은 사고 원인을 철저히 조사하고 재발 방지 대책 수립에도 만전을 기해야 되겠습니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:42+09:00"
+}

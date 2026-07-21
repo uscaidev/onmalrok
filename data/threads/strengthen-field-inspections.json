@@ -1,0 +1,26 @@
+{
+  "id": "strengthen-field-inspections",
+  "title": "현장 점검 강화",
+  "topic_tags": [
+    "현장 점검",
+    "최고 가격제 시행",
+    "기름값 안정",
+    "가용 수단"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0317-bzrcCS@t3",
+      "rep_sid": "2026-cab-0317-bzrcCS#11",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "최고 가격제 시행 효과를 보다 충분히 체감하실 수 있도록 현장 점검 강화 등 가용 수단을 총동원해 주시기 바",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:16+09:00"
+}

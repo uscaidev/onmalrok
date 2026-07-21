@@ -1,0 +1,26 @@
+{
+  "id": "increase-tax-staff",
+  "title": "세무인력 증원",
+  "topic_tags": [
+    "국세청",
+    "인력 확대",
+    "세무 공무원",
+    "속도"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t36",
+      "rep_sid": "2026-rpt-0715--PQDTo#496",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "필요하면 인력 지금 만 명인데 더 늘려도 돼요...속도를 좀 내서",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "redeploy-police-staffing",
+  "title": "경찰 인력 전환 추진",
+  "topic_tags": [
+    "경찰",
+    "전환",
+    "수사인력",
+    "행정인력",
+    "치안 수요"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0331-pWre_D@t37",
+      "rep_sid": "2026-cab-0331-pWre_D#751",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "date": "2026-03-31",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "생활 치환으로 전환할 수 있는 부분은 최대한 전환을 좀 해서",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t7",
+      "rep_sid": "2026-cab-0526-B3JFkX#13",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "유망 기업 유치 그리고 어 청년 인재의 유입 촉진이 그 내용이고요.",
+      "reviewed": false,
+      "rel_label": "남부 해양수도권 기업유치 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:33+09:00"
+}

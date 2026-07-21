@@ -1,0 +1,48 @@
+{
+  "id": "public-agency-followup-6months",
+  "title": "공공기관 관리 점검(6개월)",
+  "topic_tags": [
+    "6개월",
+    "재점검",
+    "총리실",
+    "관리 체크"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2025-cab-1230-L2JG9h@t7",
+      "rep_sid": "2025-cab-1230-L2JG9h#371",
+      "meeting_id": "2025-cab-1230-L2JG9h",
+      "date": "2025-12-30",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "6개월 후에 한번 다시 잘 챙겨 볼 테고 총리실에서요",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-rpt-0108-LvEXuS@t74",
+      "rep_sid": "2026-rpt-0108-LvEXuS#416",
+      "meeting_id": "2026-rpt-0108-LvEXuS",
+      "date": "2026-01-08",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "총리실 주관으로 ... 지난주에 국무조정 실장님하고 복지부 장관님하고 저하고 ... 논의를 했는데요. 우선은",
+      "reviewed": false,
+      "rel_label": "응급 이송 트랙 운영 협의 보고"
+    },
+    {
+      "tid": "2026-rpt-0109-ysUA7r@t3",
+      "rep_sid": "2026-rpt-0109-ysUA7r#8",
+      "meeting_id": "2026-rpt-0109-ysUA7r",
+      "date": "2026-01-09",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "6개월 · 총리실",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:55:13+09:00"
+}

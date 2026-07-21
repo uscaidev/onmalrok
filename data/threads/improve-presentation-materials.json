@@ -1,0 +1,313 @@
+{
+  "id": "improve-presentation-materials",
+  "title": "보고자료 시각화 개선",
+  "topic_tags": [
+    "자료",
+    "정성스럽게",
+    "카메라",
+    "캡처",
+    "보고"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t37",
+      "rep_sid": "2026-cab-0120-1bgJaV#468",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "이 자료 좀 정성스럽게 하세요. 그 카메라도 가끔씩 내용을 좀 찍어 주세요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0203-96DaSs@t28",
+      "rep_sid": "2026-cab-0203-96DaSs#301",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0203-96DaSs@t9",
+      "rep_sid": "2026-cab-0203-96DaSs#93",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "어, 이건 일단 보고 별도로 하실 거죠? >> 예, 그렇습니다. 문서인데.",
+      "reviewed": false,
+      "rel_label": "보고 별도 요청에 대한 응답"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t31",
+      "rep_sid": "2026-cab-0224-DwvR4w#224",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t4",
+      "rep_sid": "2026-cab-0305-sPS14B#35",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "중동 상황 관련 대응 현황 및 계획을 외교부 장관, 기재부, 산업부, 금융위원회 순서로 보고해 주시기 바랍니",
+      "reviewed": false,
+      "rel_label": "부처별 대응 보고 지시"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t5",
+      "rep_sid": "2026-cab-0305-sPS14B#55",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "중동지역 상황 및 중동지역 내 체류 중인 재외국민 보호 방안에 대해 보고드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "중동 상황 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t8",
+      "rep_sid": "2026-cab-0305-sPS14B#83",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "중동 상황 관련한 경제분야 대응 현황과 대응 방향에 대해서 보고 드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "경제분야 대응 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t9",
+      "rep_sid": "2026-cab-0305-sPS14B#146",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "민생의 가장 직접적인 영향을 미치는 주유소 석유 가격이 하루 만에 지금 뭐 200원 넘게 오른 데도 있다는데",
+      "reviewed": false,
+      "rel_label": "유가 급등 관련 질의"
+    },
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t38",
+      "rep_sid": "2026-cab-0310-2B4Fqs#725",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0317-bzrcCS@t5",
+      "rep_sid": "2026-cab-0317-bzrcCS#85",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "먼저 중동 상황 관련 대형 현황을 보고받고 현안 토의와 어 기타 부처 보고를 진행하겠습니다.",
+      "reviewed": false,
+      "rel_label": "중동 상황 관련 보고 지시"
+    },
+    {
+      "tid": "2026-cab-0324-56VTWK@t27",
+      "rep_sid": "2026-cab-0324-56VTWK#1080",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "date": "2026-03-24",
+      "role": "report",
+      "grade": "explicit",
+      "grade_evidence": "대책 마련과 함께 지난 3월 11일 과학 기술 관계 장관에 의해",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t46",
+      "rep_sid": "2026-cab-0406-IhS8yH#904",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "result",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "지시 이행 결과 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t56",
+      "rep_sid": "2026-cab-0406-IhS8yH#1358",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t21",
+      "rep_sid": "2026-cab-0506-4cLwEz#593",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "interim",
+      "grade": "explicit",
+      "grade_evidence": "고 드리겠습니다. 지난 5월 4일 20시 40분 경에 호르무추 ",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t6",
+      "rep_sid": "2026-cab-0506-4cLwEz#82",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "국조실에서 전 부처 받아서 지금 총괄 TF에서 점검을 하고 있습니다.",
+      "reviewed": false,
+      "rel_label": "점검자료 수령·진행 보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t7",
+      "rep_sid": "2026-cab-0506-4cLwEz#208",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "항공사진, 위성사진까지 다 동원해 가지고... AI 기술까지 동원해서 전국을 싹 스크린을 했습니다.",
+      "reviewed": false,
+      "rel_label": "감찰·시각화 보완 관련 경과"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t47",
+      "rep_sid": "2026-cab-0526-B3JFkX#694",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t5",
+      "rep_sid": "2026-cab-0526-B3JFkX#7",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "남부 해양수도권 육성 방향을 보고드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "보고자료 시각화 관련 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t21",
+      "rep_sid": "2026-cab-0602-HokLaJ#197",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "result",
+      "grade": "explicit",
+      "grade_evidence": "가스 같은 경우는 지난 5월 26일 또 한 차례에 공급 불가능 ",
+      "reviewed": true,
+      "rel_label": "지시 이행 결과 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t41",
+      "rep_sid": "2026-cab-0602-HokLaJ#597",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t68",
+      "rep_sid": "2026-cab-0602-HokLaJ#1326",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t14",
+      "rep_sid": "2026-cab-0714-gXWij0#141",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t56",
+      "rep_sid": "2026-cab-0714-gXWij0#1323",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t58",
+      "rep_sid": "2026-cab-0714-gXWij0#1339",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "report",
+      "grade": "explicit",
+      "grade_evidence": "담당관을 지정하고 지난 3월 국무회의에서 보고드린 민원처리 소통",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t66",
+      "rep_sid": "2026-cab-0714-gXWij0#1716",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t69",
+      "rep_sid": "2026-cab-0714-gXWij0#1829",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t10",
+      "rep_sid": "2026-rpt-0715--PQDTo#143",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "자료 · 보고",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

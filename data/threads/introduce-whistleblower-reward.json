@@ -1,0 +1,26 @@
+{
+  "id": "introduce-whistleblower-reward",
+  "title": "신고포상제 도입",
+  "topic_tags": [
+    "신고 포상제",
+    "과징금",
+    "징수",
+    "인센티브"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0716-_t27O7@t19",
+      "rep_sid": "2026-rpt-0716-_t27O7#163",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "신고 포상제를 대규모로 도입해 가지고 징수된 과징금에 30%쯤 준다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

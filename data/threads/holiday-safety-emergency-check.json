@@ -1,0 +1,93 @@
+{
+  "id": "holiday-safety-emergency-check",
+  "title": "명절 안전·비상대응 점검",
+  "topic_tags": [
+    "설 명절",
+    "안전 대책",
+    "비상 대응",
+    "관계 부처",
+    "점검"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0210-usgbZR@t2",
+      "rep_sid": "2026-cab-0210-usgbZR#8",
+      "meeting_id": "2026-cab-0210-usgbZR",
+      "date": "2026-02-10",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "안전 대책을 철저하게 수립하고 또 ... 비상 대응 체계를 2중 3중으로 철저하게 점검해 주시기 바랍니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t8",
+      "rep_sid": "2026-cab-0305-sPS14B#83",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "중동 상황 관련한 경제분야 대응 현황과 대응 방향에 대해서 보고 드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "경제분야 대응 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t10",
+      "rep_sid": "2026-cab-0310-2B4Fqs#203",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "금주내는 하도록 하겠습니다.",
+      "reviewed": false,
+      "rel_label": "지시에 대한 추진 일정 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t7",
+      "rep_sid": "2026-cab-0414-mvVDdp#45",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "관계 부처 · 점검",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t17",
+      "rep_sid": "2026-cab-0414-mvVDdp#105",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "관계 부처 · 점검",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t6",
+      "rep_sid": "2026-cab-0506-4cLwEz#82",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "국조실에서 전 부처 받아서 지금 총괄 TF에서 점검을 하고 있습니다.",
+      "reviewed": false,
+      "rel_label": "점검 진행 상황 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t67",
+      "rep_sid": "2026-cab-0602-HokLaJ#1297",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "관계 부처 · 점검",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:42+09:00"
+}

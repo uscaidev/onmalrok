@@ -1,0 +1,25 @@
+{
+  "id": "consider-award-minagri",
+  "title": "농식품부 포상 검토",
+  "topic_tags": [
+    "농림부 협업",
+    "표창·포상",
+    "순방 성과"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0714-gXWij0@t42",
+      "rep_sid": "2026-cab-0714-gXWij0#818",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "나중에 저기 총리님 보셔 가지고 그 표창을 하든지 포상을 하든지 한번 해 보시죠",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:07+09:00"
+}

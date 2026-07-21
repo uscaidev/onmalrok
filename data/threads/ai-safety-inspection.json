@@ -1,0 +1,170 @@
+{
+  "id": "ai-safety-inspection",
+  "title": "AI·첨단 안전점검 도입",
+  "topic_tags": [
+    "AI",
+    "안전유지보수",
+    "철도안전",
+    "첨단장비",
+    "점검"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0114-nIdLEw@t61",
+      "rep_sid": "2026-rpt-0114-nIdLEw#973",
+      "meeting_id": "2026-rpt-0114-nIdLEw",
+      "date": "2026-01-14",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "최대한 AI 또 첨단 장비를 활용한 그런 안전 점검이 좀 필요하다고 보고요",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0120-1bgJaV@t39",
+      "rep_sid": "2026-cab-0120-1bgJaV#527",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "따로 챙겨서 그걸 또 보고해 주십시오.",
+      "reviewed": false,
+      "rel_label": "지시에 대한 추가 보고 지시"
+    },
+    {
+      "tid": "2026-cab-0210-usgbZR@t2",
+      "rep_sid": "2026-cab-0210-usgbZR#8",
+      "meeting_id": "2026-cab-0210-usgbZR",
+      "date": "2026-02-10",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "안전 대책을 철저하게 수립하고...비상 대응 체계를 2중 3중으로 점검해 주시기 바랍니다",
+      "reviewed": false,
+      "rel_label": "첨단 점검 도입 관련 안전대책 지시"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t87",
+      "rep_sid": "2026-cab-0224-DwvR4w#1010",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "AI · 점검",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t8",
+      "rep_sid": "2026-cab-0305-sPS14B#83",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "중동 상황 관련한 경제분야 대응 현황과 대응 방향에 대해서 보고 드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "경제분야 대응 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t10",
+      "rep_sid": "2026-cab-0305-sPS14B#150",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "오늘 오후에 가격을 점검해서... 최고가액 지정하는 방안까지도 좀 검토를 하도록 하겠습니다.",
+      "reviewed": false,
+      "rel_label": "가격·담합 대응 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t10",
+      "rep_sid": "2026-cab-0310-2B4Fqs#203",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "금주내는 하도록 하겠습니다.",
+      "reviewed": false,
+      "rel_label": "지시에 대한 추진 일정 보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t6",
+      "rep_sid": "2026-cab-0506-4cLwEz#82",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "국조실에서 전 부처 받아서 지금 총괄 TF에서 점검을 하고 있습니다.",
+      "reviewed": false,
+      "rel_label": "전 부처 TF 점검 중간보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t7",
+      "rep_sid": "2026-cab-0506-4cLwEz#208",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "항공사진, 위성사진까지 다 동원해... AI 기술까지 동원해서 전국을 싹 스크린을 했습니다.",
+      "reviewed": false,
+      "rel_label": "감찰·첨단기술 적용 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t7",
+      "rep_sid": "2026-cab-0526-B3JFkX#13",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "경남은 항만 물류 제조 AI가 결합된 산업 생태계를 조성하겠습니다.",
+      "reviewed": false,
+      "rel_label": "첨단융합 중심 육성계획 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t38",
+      "rep_sid": "2026-cab-0602-HokLaJ#541",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "AI · 점검",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t79",
+      "rep_sid": "2026-rpt-0715--PQDTo#1236",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "AI · 점검",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-L64eg6@t51",
+      "rep_sid": "2026-rpt-0716-L64eg6#218",
+      "meeting_id": "2026-rpt-0716-L64eg6",
+      "date": "2026-07-16",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "AI · 점검",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t93",
+      "rep_sid": "2026-rpt-0716-_t27O7#937",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "AI · 점검",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

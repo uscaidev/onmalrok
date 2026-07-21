@@ -1,0 +1,27 @@
+{
+  "id": "check-supply-risk-items",
+  "title": "수급 우려 품목 점검",
+  "topic_tags": [
+    "수급 우려",
+    "품목 점검",
+    "대체 공급선",
+    "대비책",
+    "비상 대응 체계"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0324-56VTWK@t2",
+      "rep_sid": "2026-cab-0324-56VTWK#8",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "date": "2026-03-24",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "각 부처는 수급 우려 품목을 포괄적이고 꼼꼼하게 점검하시고",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:28+09:00"
+}

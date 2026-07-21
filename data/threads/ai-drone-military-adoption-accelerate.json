@@ -1,0 +1,25 @@
+{
+  "id": "ai-drone-military-adoption-accelerate",
+  "title": "AI·드론 군도입 가속화",
+  "topic_tags": [
+    "인공지능",
+    "드론",
+    "도입 가속화"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0526-B3JFkX@t19",
+      "rep_sid": "2026-cab-0526-B3JFkX#74",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "인공지능과 드론 기술 도입을 가속화하고",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:25+09:00"
+}

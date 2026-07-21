@@ -1,0 +1,25 @@
+{
+  "id": "hoarding-emergency-action",
+  "title": "매점·매석 긴급조치",
+  "topic_tags": [
+    "매점·매석",
+    "몰수·추징",
+    "긴급 수거 조치"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0506-4cLwEz@t12",
+      "rep_sid": "2026-cab-0506-4cLwEz#371",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "긴급 수거 조치까지 같이 하기 때문에 어떤 그 몰수 전에 이거를 이렇게 옮겨라라고 명령도 같이 할 수 있습니",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:13+09:00"
+}

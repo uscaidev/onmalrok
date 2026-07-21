@@ -1,0 +1,136 @@
+{
+  "id": "energy-coop-staffing-review",
+  "title": "에너지협동조합 인력검토",
+  "topic_tags": [
+    "에너지 협동조합",
+    "검토",
+    "공직자 데려오기",
+    "확산"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2025-cab-1216-8p6pXm@t20",
+      "rep_sid": "2025-cab-1216-8p6pXm#318",
+      "meeting_id": "2025-cab-1216-8p6pXm",
+      "date": "2025-12-16",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "그 아예 데려다가 한번 쓰든지 그것도 검토해 보십시오",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-rpt-0108-LvEXuS@t46",
+      "rep_sid": "2026-rpt-0108-LvEXuS#244",
+      "meeting_id": "2026-rpt-0108-LvEXuS",
+      "date": "2026-01-08",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "금년도는 좀 크게 행사를 해서 ... 실제 필요한 유가족에 대한 생계 지원이 현실적인 문제입니다. 그래서이 ",
+      "reviewed": false,
+      "rel_label": "메모리얼데이 확대 및 유가족 지원 검"
+    },
+    {
+      "tid": "2026-rpt-0108-LvEXuS@t61",
+      "rep_sid": "2026-rpt-0108-LvEXuS#353",
+      "meeting_id": "2026-rpt-0108-LvEXuS",
+      "date": "2026-01-08",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "리튬 배터리 소형 ... 소화기는 개발됐다는 말씀을 드리고요. 어 그게 이제에 그 실증 단계도 거쳤습니다.",
+      "reviewed": false,
+      "rel_label": "소형 리튬 배터리용 소화기 개발·실증"
+    },
+    {
+      "tid": "2026-rpt-0112-5DLxn1@t18",
+      "rep_sid": "2026-rpt-0112-5DLxn1#256",
+      "meeting_id": "2026-rpt-0112-5DLxn1",
+      "date": "2026-01-12",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "조직 진단은 사장님이 2월이나 3월에 부임하시는 그 정도에 완료... 혁신 계획은 5월까지 수립을 하겠다.",
+      "reviewed": false,
+      "rel_label": "조직 진단·혁신 계획 수립 보고"
+    },
+    {
+      "tid": "2026-rpt-0114-kvXX3W@t6",
+      "rep_sid": "2026-rpt-0114-kvXX3W#35",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "date": "2026-01-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "지금부터 우주항공청 '26년도 업무 계획을 보고드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "연간 업무계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0114-kvXX3W@t10",
+      "rep_sid": "2026-rpt-0114-kvXX3W#126",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "date": "2026-01-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "올해 지스트가 추진할 핵심 과제를 말씀드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "기관 연간 추진과제 보고"
+    },
+    {
+      "tid": "2026-rpt-0114-kvXX3W@t34",
+      "rep_sid": "2026-rpt-0114-kvXX3W#436",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "date": "2026-01-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "'25년도 주요 성과입니다. 먼저... 기술 기준을 개정하였습니다.",
+      "reviewed": false,
+      "rel_label": "연간 성과·추진과제 보고"
+    },
+    {
+      "tid": "2026-rpt-0114-kvXX3W@t41",
+      "rep_sid": "2026-rpt-0114-kvXX3W#584",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "date": "2026-01-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "다음 페이지에서 세부 내용과 '26년 중점 추진 과제를 보고 드리도록 하겠습니다.",
+      "reviewed": false,
+      "rel_label": "연간 추진과제·중점사업 보고"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t10",
+      "rep_sid": "2026-cab-0305-sPS14B#150",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "오늘 오후에 가격을 점검해서... 최고가액 지정하는 방안까지도 좀 검토를 하도록 하겠습니다.",
+      "reviewed": false,
+      "rel_label": "가격·담합 대응 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0317-bzrcCS@t3",
+      "rep_sid": "2026-cab-0317-bzrcCS#11",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "검토 · 확산",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0331-pWre_D@t14",
+      "rep_sid": "2026-cab-0331-pWre_D#204",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "date": "2026-03-31",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "검토 · 확산",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:42+09:00"
+}

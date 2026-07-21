@@ -1,0 +1,71 @@
+{
+  "id": "manage-interkorean-tensions",
+  "title": "남북 긴장 관리",
+  "topic_tags": [
+    "남북",
+    "신뢰",
+    "수사 기관",
+    "긴장 고조",
+    "관리"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t6",
+      "rep_sid": "2026-cab-0120-1bgJaV#55",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "남북 사이에 이런 신뢰가 깨지지 않도록 ... 최선으로 잘 관리하시기 바랍니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0317-bzrcCS@t15",
+      "rep_sid": "2026-cab-0317-bzrcCS#151",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "수사 기관 · 관리",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t6",
+      "rep_sid": "2026-cab-0406-IhS8yH#24",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "당장의 수급의 문제는 없지만 중동 전쟁이 장기화되는 것을 대비해서 식약처 산업부와 함께 수급 관리를 하고 있",
+      "reviewed": false,
+      "rel_label": "수급 관리 중간 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t8",
+      "rep_sid": "2026-cab-0406-IhS8yH#41",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "외교적 역량을 총동원해 에너지 확보와 재외국민 안전 보호에 만전을 기할 방침입니다.",
+      "reviewed": false,
+      "rel_label": "재외국민 안전·외교 대응 보고"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t34",
+      "rep_sid": "2026-rpt-0715--PQDTo#474",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "신뢰 · 관리",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

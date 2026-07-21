@@ -1,0 +1,115 @@
+{
+  "id": "daily-supply-monitoring",
+  "title": "수급 동향 일일 모니터링",
+  "topic_tags": [
+    "수급",
+    "1일 단위",
+    "모니터링",
+    "선재적 대응",
+    "비상 대책"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0331-pWre_D@t3",
+      "rep_sid": "2026-cab-0331-pWre_D#10",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "date": "2026-03-31",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "정부 각 부처는 담당 품목의 동향을 1일 단위로 세밀하게 모니터링하고",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t6",
+      "rep_sid": "2026-cab-0406-IhS8yH#24",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "수급 · 모니터링",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t26",
+      "rep_sid": "2026-cab-0406-IhS8yH#359",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "수급 · 모니터링",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t20",
+      "rep_sid": "2026-cab-0414-mvVDdp#119",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "수급 · 모니터링",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t34",
+      "rep_sid": "2026-cab-0414-mvVDdp#264",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "수급 · 모니터링",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t35",
+      "rep_sid": "2026-cab-0526-B3JFkX#347",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "수급 · 모니터링",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t10",
+      "rep_sid": "2026-cab-0602-HokLaJ#42",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "수급 · 모니터링",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0623-2uViqE@t45",
+      "rep_sid": "2026-cab-0623-2uViqE#453",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "result",
+      "grade": "explicit",
+      "grade_evidence": " 있는 중입니다. 지난 6월 3일에 발표한 여름철 취약계층 보호",
+      "reviewed": true,
+      "rel_label": "지시 이행 결과 보고"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t29",
+      "rep_sid": "2026-cab-0630-dZLnc3#181",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "수급 · 모니터링",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:00+09:00"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pursue-multilingual-ai-cooperation",
+  "title": "다국어 AI 협력 추진",
+  "topic_tags": [
+    "다국어",
+    "협력",
+    "학습데이터",
+    "수평적 협력"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0716-_t27O7@t63",
+      "rep_sid": "2026-rpt-0716-_t27O7#702",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "처음부터 논의를 해서...학습 단계부터 모델이...언어 그 데이터들이 들어오는 게 좀 좋습니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

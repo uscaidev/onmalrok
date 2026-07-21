@@ -1,0 +1,27 @@
+{
+  "id": "market-stability-program-execution",
+  "title": "시장안정프로그램 집행",
+  "topic_tags": [
+    "시장 안정 프로그램",
+    "자금 시장",
+    "집행 관리",
+    "금융 시장 변동성",
+    "100조원"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0305-sPS14B@t3",
+      "rep_sid": "2026-cab-0305-sPS14B#12",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "100조원 규모의 시장 안정 프로그램을 적절하게 또 신속하게 집행 관리해 주시 바랍니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:43+09:00"
+}

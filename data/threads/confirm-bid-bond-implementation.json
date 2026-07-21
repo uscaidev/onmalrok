@@ -1,0 +1,25 @@
+{
+  "id": "confirm-bid-bond-implementation",
+  "title": "입찰 보증제 시행 확인",
+  "topic_tags": [
+    "페이퍼컴퍼니",
+    "입찰 보증금",
+    "시행"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t41",
+      "rep_sid": "2026-rpt-0715--PQDTo#552",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "페이퍼 컴퍼니들 낙 입찰 보증금 내는 제도는 시행하고 있습니까?...8월부터 시행할 예정입니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "combat-misinformation",
+  "title": "가짜뉴스·허위정보 대응",
+  "topic_tags": [
+    "가짜 뉴스",
+    "허위 사실 공표",
+    "인공지능 악용"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t15",
+      "rep_sid": "2026-cab-0623-2uViqE#102",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "가짜 뉴스 ... 명백한 허위 사실을 정말로 그럴 듯하게 퍼뜨려서",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:58+09:00"
+}

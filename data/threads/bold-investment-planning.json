@@ -1,0 +1,236 @@
+{
+  "id": "bold-investment-planning",
+  "title": "과감한 투자 기획",
+  "topic_tags": [
+    "투자",
+    "기획",
+    "과감한 투자",
+    "기획을",
+    "집중"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0203-96DaSs@t21",
+      "rep_sid": "2026-cab-0203-96DaSs#175",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "과감하게 투자를 하는게 맞죠? 예. 그렇게 하십시오. 기획을 좀 해서.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0210-usgbZR@t16",
+      "rep_sid": "2026-cab-0210-usgbZR#138",
+      "meeting_id": "2026-cab-0210-usgbZR",
+      "date": "2026-02-10",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "투자 · 집중",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t8",
+      "rep_sid": "2026-cab-0305-sPS14B#83",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "중동 상황 관련한 경제분야 대응 현황과 대응 방향에 대해서 보고 드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "경제분야 대응 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t19",
+      "rep_sid": "2026-cab-0310-2B4Fqs#313",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "투자 · 집중",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0317-bzrcCS@t47",
+      "rep_sid": "2026-cab-0317-bzrcCS#551",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "기획 · 집중",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0317-bzrcCS@t57",
+      "rep_sid": "2026-cab-0317-bzrcCS#755",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "report",
+      "grade": "explicit",
+      "grade_evidence": " 보시면 대통령님 말씀하신 대로 지방 주도 경제 성장을 위해서",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0324-56VTWK@t15",
+      "rep_sid": "2026-cab-0324-56VTWK#508",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "date": "2026-03-24",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "투자 · 기획 · 집중",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t36",
+      "rep_sid": "2026-cab-0406-IhS8yH#694",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "투자 · 기획",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t38",
+      "rep_sid": "2026-cab-0406-IhS8yH#774",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "기획 · 집중",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t50",
+      "rep_sid": "2026-cab-0406-IhS8yH#1208",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "투자 · 기획",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t54",
+      "rep_sid": "2026-cab-0406-IhS8yH#1319",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "기획 · 기획을",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t70",
+      "rep_sid": "2026-cab-0602-HokLaJ#1415",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "result",
+      "grade": "explicit",
+      "grade_evidence": "년 기획을 마치고 지난 1월 건축 설계 공모를 시작하였으며 현재",
+      "reviewed": true,
+      "rel_label": "지시 이행 결과 보고"
+    },
+    {
+      "tid": "2026-cab-0623-2uViqE@t25",
+      "rep_sid": "2026-cab-0623-2uViqE#207",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "투자 · 기획",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t6",
+      "rep_sid": "2026-rpt-0715--PQDTo#51",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "투자 · 기획",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t59",
+      "rep_sid": "2026-rpt-0715--PQDTo#792",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "투자 · 집중",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t78",
+      "rep_sid": "2026-rpt-0715--PQDTo#1155",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "투자 · 기획",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t82",
+      "rep_sid": "2026-rpt-0715--PQDTo#1269",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "기획 · 집중",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-L64eg6@t18",
+      "rep_sid": "2026-rpt-0716-L64eg6#37",
+      "meeting_id": "2026-rpt-0716-L64eg6",
+      "date": "2026-07-16",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "투자 · 집중",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t12",
+      "rep_sid": "2026-rpt-0716-_t27O7#104",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "투자 · 집중",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-imQ8RH@t39",
+      "rep_sid": "2026-rpt-0716-imQ8RH#613",
+      "meeting_id": "2026-rpt-0716-imQ8RH",
+      "date": "2026-07-16",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "투자 · 집중",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:38+09:00"
+}

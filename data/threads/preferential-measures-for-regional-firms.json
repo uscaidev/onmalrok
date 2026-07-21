@@ -1,0 +1,26 @@
+{
+  "id": "preferential-measures-for-regional-firms",
+  "title": "지방기업 우대 방안 마련",
+  "topic_tags": [
+    "지방 기업",
+    "중소기업 정책",
+    "펀드 매칭",
+    "우대"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0317-bzrcCS@t51",
+      "rep_sid": "2026-cab-0317-bzrcCS#683",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "지방 관련된 기업들의 사업에는 훨씬 더 가중치를 주고 ... 펀드 구성 부분도 지방하고 매칭 비율도 지방일 ",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:16+09:00"
+}

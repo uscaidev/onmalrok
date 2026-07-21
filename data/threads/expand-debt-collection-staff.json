@@ -1,0 +1,48 @@
+{
+  "id": "expand-debt-collection-staff",
+  "title": "체납관리단 인력 확대",
+  "topic_tags": [
+    "체납 관리단",
+    "인원 확대",
+    "지방정부",
+    "국세청"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t50",
+      "rep_sid": "2026-cab-0120-1bgJaV#770",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "인원을 뽑는데 좀 늘리라는 얘기고...과감하게 좀 많이 뽑으세요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t30",
+      "rep_sid": "2026-rpt-0715--PQDTo#427",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "report",
+      "grade": "explicit",
+      "grade_evidence": " 확인하겠습니다. 지난 3월 500명으로 출범한 국세 체납 관리",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t34",
+      "rep_sid": "2026-rpt-0715--PQDTo#474",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "체납 관리단 · 국세청",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

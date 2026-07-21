@@ -1,0 +1,27 @@
+{
+  "id": "review-scope-of-prosecution-rights",
+  "title": "고발권 확대 범위 검토",
+  "topic_tags": [
+    "범위 확대",
+    "직접 고발권",
+    "검토",
+    "감사원",
+    "조달청"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0331-pWre_D@t31",
+      "rep_sid": "2026-cab-0331-pWre_D#612",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "date": "2026-03-31",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "직접 고발을 할 수 있는 경우를 어느 범위까지 넓힐 거냐 검토",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:42+09:00"
+}

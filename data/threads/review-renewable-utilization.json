@@ -1,0 +1,25 @@
+{
+  "id": "review-renewable-utilization",
+  "title": "재생에너지 활용 검토",
+  "topic_tags": [
+    "재생 에너지 활용",
+    "선남 해안 중심",
+    "복합적 고려"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t32",
+      "rep_sid": "2026-cab-0623-2uViqE#312",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "선남 해안 중심으로 일단 재생 에너지를 어떻게 우리가 활용을 할 거냐는 ... 잘 좀 고려해 주시기 바랍니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:58+09:00"
+}

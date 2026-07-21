@@ -1,0 +1,27 @@
+{
+  "id": "cancel-illicit-fuel-sales-license",
+  "title": "석유 불법판매 사업 취소",
+  "topic_tags": [
+    "가짜 석유",
+    "사업 취소",
+    "영업정지",
+    "강력 제재",
+    "불법 판매"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0305-sPS14B@t14",
+      "rep_sid": "2026-cab-0305-sPS14B#200",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "가짜 석유를 팔거나...그 사업을 한...취소를 시키든지 해가지고 못 하게 해야 되는 거 아닙니까?",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:43+09:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "activate-system",
+  "title": "시스템 가동 지시",
+  "topic_tags": [
+    "시스템 가동",
+    "의사결정",
+    "현장 소통"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0406-IhS8yH@t21",
+      "rep_sid": "2026-cab-0406-IhS8yH#266",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "그렇게 시스템을 좀 가동하도록 그렇게 지시하겠습니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:50+09:00"
+}

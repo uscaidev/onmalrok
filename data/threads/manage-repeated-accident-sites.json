@@ -1,0 +1,26 @@
+{
+  "id": "manage-repeated-accident-sites",
+  "title": "반복사고 사업장 관리",
+  "topic_tags": [
+    "동일 유형 사고",
+    "사업장 관리",
+    "특별관리",
+    "노동부"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0602-HokLaJ@t13",
+      "rep_sid": "2026-cab-0602-HokLaJ#65",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "동일한 사업장 안에서 동일한 유형의 사고가 반복적으로 발생하는 것은 심각한 문제입니다. 특별히 잘 챙겨 주시",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:42+09:00"
+}

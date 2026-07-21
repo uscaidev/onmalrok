@@ -1,0 +1,59 @@
+{
+  "id": "vulnerable-household-linkage",
+  "title": "위기가구 연계체계 구축",
+  "topic_tags": [
+    "위기가구",
+    "연계",
+    "신용회복위원회",
+    "서민금융지원센터"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0602-HokLaJ@t30",
+      "rep_sid": "2026-cab-0602-HokLaJ#353",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "위기를 촉발한 위험 요인이...빚이나 금융에 대한 부분이면 신용회복위원회...상호 연계하고 있습니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t4",
+      "rep_sid": "2026-cab-0714-gXWij0#23",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "연계 · 신용회복위원회",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t6",
+      "rep_sid": "2026-cab-0714-gXWij0#33",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "연계 · 신용회복위원회",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t63",
+      "rep_sid": "2026-rpt-0715--PQDTo#933",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "interim",
+      "grade": "explicit",
+      "grade_evidence": "령께서 금융당국에 당부하신 두 가지가 있었습니다. 취약 채무자",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

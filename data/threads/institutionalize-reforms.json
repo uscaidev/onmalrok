@@ -1,0 +1,92 @@
+{
+  "id": "institutionalize-reforms",
+  "title": "개혁 제도화 추진",
+  "topic_tags": [
+    "개혁",
+    "제도화",
+    "입법",
+    "지속성"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2025-cab-1230-L2JG9h@t10",
+      "rep_sid": "2025-cab-1230-L2JG9h#446",
+      "meeting_id": "2025-cab-1230-L2JG9h",
+      "date": "2025-12-30",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "개혁을...가급적 제도화하자...가능하면 입법으로 가급적",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-rpt-0109-ysUA7r@t63",
+      "rep_sid": "2026-rpt-0109-ysUA7r#686",
+      "meeting_id": "2026-rpt-0109-ysUA7r",
+      "date": "2026-01-09",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "개혁 · 입법",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t8",
+      "rep_sid": "2026-cab-0224-DwvR4w#61",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "이 개혁 과제들은 사실은 해야 될 일인데 쉽지가 않습니다.",
+      "reviewed": false,
+      "rel_label": "개혁 과제 추진 경과 점검"
+    },
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t47",
+      "rep_sid": "2026-cab-0310-2B4Fqs#845",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "제도화 · 입법",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t10",
+      "rep_sid": "2026-cab-0310-2B4Fqs#203",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "금주내는 하도록 하겠습니다.",
+      "reviewed": false,
+      "rel_label": "지시에 대한 추진 일정 보고"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t56",
+      "rep_sid": "2026-cab-0630-dZLnc3#429",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "개혁 · 제도화",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t57",
+      "rep_sid": "2026-cab-0630-dZLnc3#442",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "개혁 · 입법",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:00+09:00"
+}

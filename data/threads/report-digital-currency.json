@@ -1,0 +1,80 @@
+{
+  "id": "report-digital-currency",
+  "title": "디지털화폐 보고",
+  "topic_tags": [
+    "디지털 화폐",
+    "보고",
+    "검토"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t68",
+      "rep_sid": "2026-cab-0623-2uViqE#763",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "디지털 화폐 부분은 나중에 ... 따로 보고 한번 해 주세요",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t48",
+      "rep_sid": "2026-cab-0630-dZLnc3#355",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "보고 · 검토",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t23",
+      "rep_sid": "2026-cab-0714-gXWij0#252",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "보고 · 검토",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t21",
+      "rep_sid": "2026-rpt-0716-_t27O7#166",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "보고 · 검토",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t27",
+      "rep_sid": "2026-rpt-0716-_t27O7#187",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "보고 · 검토",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t108",
+      "rep_sid": "2026-rpt-0716-_t27O7#1075",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "보고 · 검토",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

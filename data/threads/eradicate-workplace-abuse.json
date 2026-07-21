@@ -1,0 +1,25 @@
+{
+  "id": "eradicate-workplace-abuse",
+  "title": "직장내 갑질 근절",
+  "topic_tags": [
+    "직장내 갑질",
+    "조사",
+    "피해자 보호"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t17",
+      "rep_sid": "2026-cab-0623-2uViqE#124",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "직장내 갑질이라고 하는 거죠. 이것도 ... 각 부처에",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:58+09:00"
+}

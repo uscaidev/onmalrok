@@ -1,0 +1,27 @@
+{
+  "id": "strict-warlevel-material-control",
+  "title": "전시수준 원자재 엄격관리",
+  "topic_tags": [
+    "요소수",
+    "헬륨",
+    "알루미늄",
+    "전시 물자 수준",
+    "엄격 관리"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0331-pWre_D@t3",
+      "rep_sid": "2026-cab-0331-pWre_D#10",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "date": "2026-03-31",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "요소 또 요소수, 헬륨, 알루미늄 등 핵심 원자재 역시도 전시 물자의 준한 수준으로 엄격하게 관리해야",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:42+09:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "national-visitor-group-management",
+  "title": "국민창관단 실무관리",
+  "topic_tags": [
+    "국민창관단",
+    "삽비",
+    "챙기겠습니다"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0716-imQ8RH@t2",
+      "rep_sid": "2026-rpt-0716-imQ8RH#12",
+      "meeting_id": "2026-rpt-0716-imQ8RH",
+      "date": "2026-07-16",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "챙기겠습니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:38+09:00"
+}

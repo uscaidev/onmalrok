@@ -1,0 +1,26 @@
+{
+  "id": "expand-fiscal-disclosure",
+  "title": "재정공개 확대",
+  "topic_tags": [
+    "모두의 재정",
+    "공개 확대",
+    "정보공개",
+    "AI전략위"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t80",
+      "rep_sid": "2026-rpt-0715--PQDTo#1248",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "모두의 재정에서는 5,009종까지 확대해서 공개하도록 하겠습니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

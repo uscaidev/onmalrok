@@ -1,0 +1,26 @@
+{
+  "id": "foster-advanced-industries",
+  "title": "첨단산업 육성",
+  "topic_tags": [
+    "로봇",
+    "우주 항공",
+    "K바이오",
+    "K방산"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t3",
+      "rep_sid": "2026-cab-0623-2uViqE#3",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "로봇, 우주 항공, 또 K바이오, K방산 등 ... 새로운 엔진을 육성해야 됩니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:58+09:00"
+}

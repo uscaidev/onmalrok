@@ -1,0 +1,38 @@
+{
+  "id": "consider-technical-judges",
+  "title": "기술전문 판사 제도 검토",
+  "topic_tags": [
+    "특허법원",
+    "기술 판사",
+    "법원",
+    "전문성",
+    "업계 요구"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t86",
+      "rep_sid": "2026-cab-0120-1bgJaV#1549",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "기술 전공한 사람들이 기술 판사로 임용돼서...도입해 달라는 게 업계 요구입니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t12",
+      "rep_sid": "2026-cab-0526-B3JFkX#31",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "국제 상사법원 2028년 개원 및 수도권 해운선사 연관기업 추가 유치를 차질없이 추진하겠습니다.",
+      "reviewed": false,
+      "rel_label": "해양수도권 기업유치·국제법원 추진 보"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:33+09:00"
+}

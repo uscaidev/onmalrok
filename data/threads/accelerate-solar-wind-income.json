@@ -1,0 +1,93 @@
+{
+  "id": "accelerate-solar-wind-income",
+  "title": "햇빛·바람소득 속도확보",
+  "topic_tags": [
+    "햇빛소득",
+    "바람소득",
+    "속도",
+    "행안부",
+    "농식품부"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0203-96DaSs@t76",
+      "rep_sid": "2026-cab-0203-96DaSs#879",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "행안부 그다음에 농림부 농식품부 이것도 속도를 좀 챙겨 주시기 바라고요",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0210-usgbZR@t54",
+      "rep_sid": "2026-cab-0210-usgbZR#737",
+      "meeting_id": "2026-cab-0210-usgbZR",
+      "date": "2026-02-10",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "속도 · 행안부",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t39",
+      "rep_sid": "2026-cab-0224-DwvR4w#273",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "행안부 · 농식품부",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t46",
+      "rep_sid": "2026-cab-0224-DwvR4w#403",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "행안부 · 농식품부",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t58",
+      "rep_sid": "2026-cab-0224-DwvR4w#537",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "행안부 · 농식품부",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0324-56VTWK@t18",
+      "rep_sid": "2026-cab-0324-56VTWK#678",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "date": "2026-03-24",
+      "role": "report",
+      "grade": "explicit",
+      "grade_evidence": "니다. 이에 따라 지난 2월 행안부에 범정부 햇빛 소득마을 추진",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t14",
+      "rep_sid": "2026-cab-0714-gXWij0#141",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "행안부 · 농식품부",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:07+09:00"
+}

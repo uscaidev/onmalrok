@@ -1,0 +1,213 @@
+{
+  "id": "structural-safety-inspection",
+  "title": "구조적 안전 점검·보완",
+  "topic_tags": [
+    "구조적 안전",
+    "점검",
+    "보완",
+    "전 부처"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2025-cab-1230-L2JG9h@t2",
+      "rep_sid": "2025-cab-1230-L2JG9h#9",
+      "meeting_id": "2025-cab-1230-L2JG9h",
+      "date": "2025-12-30",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "전 부처는 다시는 이러한 비극이 반복되지 않도록 구조적 안전 문제를 근본부터 점검하고 철저하게 보완해 주시기",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-rpt-0108-LvEXuS@t31",
+      "rep_sid": "2026-rpt-0108-LvEXuS#180",
+      "meeting_id": "2026-rpt-0108-LvEXuS",
+      "date": "2026-01-08",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "금년 6월 말까지 ... 전수 조사를 해서 ... 제도적 보완 장치를 강화해 나갈 계획입니다.",
+      "reviewed": false,
+      "rel_label": "전수조사 및 제도 보완 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0108-LvEXuS@t66",
+      "rep_sid": "2026-rpt-0108-LvEXuS#375",
+      "meeting_id": "2026-rpt-0108-LvEXuS",
+      "date": "2026-01-08",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "노후 아파트 ... 스프링클러가 설치되어 있지 않는 노후 아파트가 제일 문제고요.",
+      "reviewed": false,
+      "rel_label": "노후 아파트 점검·대응 준비 현황 보"
+    },
+    {
+      "tid": "2026-rpt-0113-_LWZQp@t23",
+      "rep_sid": "2026-rpt-0113-_LWZQp#2049",
+      "meeting_id": "2026-rpt-0113-_LWZQp",
+      "date": "2026-01-13",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "점검 · 보완",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0114-kvXX3W@t16",
+      "rep_sid": "2026-rpt-0114-kvXX3W#263",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "date": "2026-01-14",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "누리호 4차 발사 성공... 성공률을 보면 어 75%의 성공률을 지금 갖고 있습니다.",
+      "reviewed": false,
+      "rel_label": "성과·성공률 현황 평가"
+    },
+    {
+      "tid": "2026-rpt-0114-kvXX3W@t35",
+      "rep_sid": "2026-rpt-0114-kvXX3W#458",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "date": "2026-01-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "'25년 성과입니다. 민관군 합동 GPS 전파 혼신 대응 훈련과 태백지역 산불 대비 비상 통신 훈련을 실시하",
+      "reviewed": false,
+      "rel_label": "연간 성과·추진과제 보고"
+    },
+    {
+      "tid": "2026-rpt-0114-kvXX3W@t36",
+      "rep_sid": "2026-rpt-0114-kvXX3W#477",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "date": "2026-01-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "'25년도에는 엑셀러레이티드 차단 시스템 등을 통한 정밀 탐지로 수신을 72% 감소시키는 등 3대 디지털 문",
+      "reviewed": false,
+      "rel_label": "연간 성과·추진과제 보고"
+    },
+    {
+      "tid": "2026-rpt-0114-kvXX3W@t37",
+      "rep_sid": "2026-rpt-0114-kvXX3W#504",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "date": "2026-01-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "향후 2020년도 핵심 추진 과제를 요약하여 보고드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "기관 연간 추진과제 보고"
+    },
+    {
+      "tid": "2026-cab-0120-1bgJaV@t46",
+      "rep_sid": "2026-cab-0120-1bgJaV#694",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "interim",
+      "grade": "explicit",
+      "grade_evidence": "그래서 동포청에서 지난 12월 달에 자체 조사를 해서 차별 요인이",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0120-1bgJaV@t39",
+      "rep_sid": "2026-cab-0120-1bgJaV#527",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "설명가지고 전체 경과를 다 확인한 다음에",
+      "reviewed": false,
+      "rel_label": "징계·조치 경과 중간보고"
+    },
+    {
+      "tid": "2026-cab-0203-96DaSs@t73",
+      "rep_sid": "2026-cab-0203-96DaSs#816",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "점검 · 보완",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0210-usgbZR@t2",
+      "rep_sid": "2026-cab-0210-usgbZR#8",
+      "meeting_id": "2026-cab-0210-usgbZR",
+      "date": "2026-02-10",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "모든 관계 부처는...비상 대응 체계를 2중 3중으로 철저하게 점검해 주시기 바랍니다",
+      "reviewed": false,
+      "rel_label": "안전 점검 경과 보고와 연계"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t72",
+      "rep_sid": "2026-cab-0224-DwvR4w#714",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "구조적 안전 · 점검",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t8",
+      "rep_sid": "2026-cab-0305-sPS14B#83",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "중동 상황 관련한 경제분야 대응 현황과 대응 방향에 대해서 보고 드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "경제분야 대응 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t10",
+      "rep_sid": "2026-cab-0305-sPS14B#150",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "오늘 오후에 가격을 점검해서... 최고가액 지정하는 방안까지도 좀 검토를 하도록 하겠습니다.",
+      "reviewed": false,
+      "rel_label": "가격·담합 대응 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t10",
+      "rep_sid": "2026-cab-0310-2B4Fqs#203",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "금주내는 하도록 하겠습니다.",
+      "reviewed": false,
+      "rel_label": "지시에 대한 추진 일정 보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t6",
+      "rep_sid": "2026-cab-0506-4cLwEz#82",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "점검 · 전 부처",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t42",
+      "rep_sid": "2026-cab-0630-dZLnc3#305",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "점검 · 보완",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:00+09:00"
+}

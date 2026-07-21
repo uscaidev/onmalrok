@@ -1,0 +1,27 @@
+{
+  "id": "airport-demand-impact-survey",
+  "title": "공항 수요·영향 조사",
+  "topic_tags": [
+    "인천공항",
+    "수요파악",
+    "김포",
+    "지방공항활성화",
+    "연계교통"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0114-nIdLEw@t25",
+      "rep_sid": "2026-rpt-0114-nIdLEw#399",
+      "meeting_id": "2026-rpt-0114-nIdLEw",
+      "date": "2026-01-14",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "인천공항에 들어오는 외국인들이 지방으로 가는 게 어느 정도 수요에서 형성되는지에 대한 좀 수요 파악을 정확히",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:55:48+09:00"
+}

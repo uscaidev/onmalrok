@@ -1,0 +1,27 @@
+{
+  "id": "boost-and-police-local-tourism",
+  "title": "지방관광 활성화·단속",
+  "topic_tags": [
+    "지방 관광",
+    "관광 활성화",
+    "바가지 단속",
+    "불친절",
+    "단속"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t82",
+      "rep_sid": "2026-cab-0120-1bgJaV#1497",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "관광을 늘려...바가지, 불친절 이런 거 하면 안 된다...철저히 단속도 단속",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:09+09:00"
+}

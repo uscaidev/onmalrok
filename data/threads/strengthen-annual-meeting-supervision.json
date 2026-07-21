@@ -1,0 +1,26 @@
+{
+  "id": "strengthen-annual-meeting-supervision",
+  "title": "주총 표결 감독 강화",
+  "topic_tags": [
+    "주총",
+    "표결 결과",
+    "감독",
+    "발표"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t23",
+      "rep_sid": "2026-rpt-0715--PQDTo#339",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "표결 결과를 즉시 발표하는게 아니고...그런 부분에 대해서도 감독을 잘해야 될 것 같아요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

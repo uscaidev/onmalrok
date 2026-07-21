@@ -1,0 +1,26 @@
+{
+  "id": "develop-citizen-invested-infra",
+  "title": "국민참여형 인프라 투자 발굴",
+  "topic_tags": [
+    "국민 참여",
+    "인프라 투자",
+    "시범사업",
+    "제3섹터"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0317-bzrcCS@t58",
+      "rep_sid": "2026-cab-0317-bzrcCS#801",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "국민들이 참여할 수 있게 해 주면... 최대한 많이 발굴해서 합시다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:16+09:00"
+}

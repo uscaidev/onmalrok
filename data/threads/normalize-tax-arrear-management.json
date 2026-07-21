@@ -1,0 +1,26 @@
+{
+  "id": "normalize-tax-arrear-management",
+  "title": "체납 관리 정상화",
+  "topic_tags": [
+    "국세청",
+    "체납 관리",
+    "자동 알림",
+    "결손 처리"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t31",
+      "rep_sid": "2026-rpt-0715--PQDTo#441",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "그걸 반드시 싹 가로...바로 잡아야 됩니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

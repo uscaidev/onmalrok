@@ -1,0 +1,38 @@
+{
+  "id": "expand-overseas-korean-youth-support",
+  "title": "재외동포 청년 지원 확충",
+  "topic_tags": [
+    "재외동포",
+    "모국 정착",
+    "통일부",
+    "누리집",
+    "접근성"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t57",
+      "rep_sid": "2026-cab-0120-1bgJaV#900",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "모국 정착이 재외동포 청년의 현실적인 진로가 되도록 하겠다. 통일부 누리집을 자유롭게 이용할 수 있게 하겠다",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t4",
+      "rep_sid": "2026-cab-0602-HokLaJ#8",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "올 4월에 독립유공자법 개정을 해서... 매연 2027년 1월 1일부터 시행",
+      "reviewed": false,
+      "rel_label": "지시 결과·정책설명 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:45+09:00"
+}

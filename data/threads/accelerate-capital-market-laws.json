@@ -1,0 +1,26 @@
+{
+  "id": "accelerate-capital-market-laws",
+  "title": "자본시장·상법 입법 속도",
+  "topic_tags": [
+    "상법",
+    "자본시장법",
+    "입법 속도",
+    "정무위"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0317-bzrcCS@t43",
+      "rep_sid": "2026-cab-0317-bzrcCS#484",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "우리 상법이나 관련 입법들 좀 속도를 좀 내게 좀 해 주세요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:16+09:00"
+}

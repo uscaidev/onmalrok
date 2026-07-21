@@ -1,0 +1,27 @@
+{
+  "id": "dawon-sys-contract-explanation",
+  "title": "다원시스 납품·계약 설명",
+  "topic_tags": [
+    "다원시스",
+    "납품지연",
+    "3차계약",
+    "코레일",
+    "의사결정"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0114-nIdLEw@t52",
+      "rep_sid": "2026-rpt-0114-nIdLEw#855",
+      "meeting_id": "2026-rpt-0114-nIdLEw",
+      "date": "2026-01-14",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "납품 지연이 있음에도 불구하고 3차 계약을 진행했거든요...그 문제에 대한 말씀을 좀 해 주셔야겠어요",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:55:48+09:00"
+}

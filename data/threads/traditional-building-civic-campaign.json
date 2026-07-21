@@ -1,0 +1,38 @@
+{
+  "id": "traditional-building-civic-campaign",
+  "title": "재래건축 결합 시민운동 요청",
+  "topic_tags": [
+    "재래건축",
+    "국토관리원",
+    "시민운동",
+    "결합",
+    "공무원문화"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0114-nIdLEw@t70",
+      "rep_sid": "2026-rpt-0114-nIdLEw#1169",
+      "meeting_id": "2026-rpt-0114-nIdLEw",
+      "date": "2026-01-14",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "국토한정관리원에서 그 시민운동 내지는...좀 결합시켜서 해 주기를...꼭 당부드리겠습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t7",
+      "rep_sid": "2026-cab-0526-B3JFkX#13",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "그 남부 해양 수도권 육성 방향은 크게 네 가지 방향을 담고 있습니다.",
+      "reviewed": false,
+      "rel_label": "남부 해양수도권 계획 요약 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:33+09:00"
+}

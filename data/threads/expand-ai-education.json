@@ -1,0 +1,37 @@
+{
+  "id": "expand-ai-education",
+  "title": "국민 대상 AI 교육 확대",
+  "topic_tags": [
+    "인공지능",
+    "일반 국민",
+    "평생교육",
+    "노동부"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0317-bzrcCS@t65",
+      "rep_sid": "2026-cab-0317-bzrcCS#1045",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "일반 국민들 대상으로도... 교육시키려고",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0324-56VTWK@t27",
+      "rep_sid": "2026-cab-0324-56VTWK#1080",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "date": "2026-03-24",
+      "role": "report",
+      "grade": "explicit",
+      "grade_evidence": "대책 마련과 함께 지난 3월 11일 과학 기술 관계 장관에 의해",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:28+09:00"
+}

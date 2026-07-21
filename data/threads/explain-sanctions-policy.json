@@ -1,0 +1,26 @@
+{
+  "id": "explain-sanctions-policy",
+  "title": "제재정책 설명",
+  "topic_tags": [
+    "제재",
+    "설명",
+    "정부 방침",
+    "기업설명"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0716-_t27O7@t17",
+      "rep_sid": "2026-rpt-0716-_t27O7#156",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "명확하게…제재를 강화한다라는 것이고...충분히 설명하면 좋겠어요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

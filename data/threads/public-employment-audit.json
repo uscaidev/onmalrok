@@ -1,0 +1,93 @@
+{
+  "id": "public-employment-audit",
+  "title": "공공기관 고용관행 일괄점검",
+  "topic_tags": [
+    "공공기관",
+    "비정규직",
+    "계약관행",
+    "국무조정실",
+    "점검"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t49",
+      "rep_sid": "2026-cab-0310-2B4Fqs#870",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "어 한 번에 모아 가지고 어 신속하게",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t6",
+      "rep_sid": "2026-cab-0506-4cLwEz#82",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "국조실에서 전 부처 받아서 지금 총괄 TF에서 점검을 하고 있습니다.",
+      "reviewed": false,
+      "rel_label": "전 부처 점검 진행상황 보고"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t7",
+      "rep_sid": "2026-cab-0526-B3JFkX#13",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "공공기관 이전, 유망 기업 유치 그리고 어 청년 인재의 유입 촉진이 그 내용이고요.",
+      "reviewed": false,
+      "rel_label": "해양수도권 인재유입 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t14",
+      "rep_sid": "2026-rpt-0715--PQDTo#209",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "공공기관 · 비정규직",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t8",
+      "rep_sid": "2026-rpt-0716-_t27O7#87",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "report",
+      "grade": "explicit",
+      "grade_evidence": "환하고 있습니다. 지난 5월에 대통령님께 보고드린 대로 2,30",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t44",
+      "rep_sid": "2026-rpt-0716-_t27O7#285",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "report",
+      "grade": "explicit",
+      "grade_evidence": "래서 저는 대통령 말씀하신 것처럼 법적 기반이 마련된다면 오히",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t93",
+      "rep_sid": "2026-rpt-0716-_t27O7#937",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "공공기관 · 점검",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

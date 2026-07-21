@@ -1,0 +1,169 @@
+{
+  "id": "strengthen-discipline-rewards",
+  "title": "공직자 문책·포상 강화",
+  "topic_tags": [
+    "공직자",
+    "문책",
+    "포상",
+    "징계"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2025-cab-1216-8p6pXm@t33",
+      "rep_sid": "2025-cab-1216-8p6pXm#786",
+      "meeting_id": "2025-cab-1216-8p6pXm",
+      "date": "2025-12-16",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "문책이나 이런 것도 좀 엄정하게 좀 해야 될 것 같습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0120-1bgJaV@t6",
+      "rep_sid": "2026-cab-0120-1bgJaV#55",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "공직자 · 포상",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0120-1bgJaV@t38",
+      "rep_sid": "2026-cab-0120-1bgJaV#509",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "포상 · 징계",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0120-1bgJaV@t39",
+      "rep_sid": "2026-cab-0120-1bgJaV#527",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "따로 챙겨서 그걸 또 보고해 주십시오.",
+      "reviewed": false,
+      "rel_label": "지시에 대한 추진 상황 보고 요청"
+    },
+    {
+      "tid": "2026-cab-0203-96DaSs@t7",
+      "rep_sid": "2026-cab-0203-96DaSs#72",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "공직자 · 포상",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t6",
+      "rep_sid": "2026-cab-0224-DwvR4w#34",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "공직자 · 문책",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t7",
+      "rep_sid": "2026-cab-0224-DwvR4w#43",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "공직자 · 문책",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t74",
+      "rep_sid": "2026-cab-0224-DwvR4w#740",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "문책 · 징계",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t8",
+      "rep_sid": "2026-cab-0224-DwvR4w#61",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "이 개혁과 혁신이 적절하게 조화를 이루어야 되는데",
+      "reviewed": false,
+      "rel_label": "공직자 혁신·개혁 유도 경과"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t11",
+      "rep_sid": "2026-cab-0224-DwvR4w#82",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "기관장이 내가 책임진다라는 점을 분명하게 밝혀서 공직자들이 자신감을 가지고 할 일을 하게",
+      "reviewed": false,
+      "rel_label": "기관장 책임 분명화 지시"
+    },
+    {
+      "tid": "2026-cab-0324-56VTWK@t4",
+      "rep_sid": "2026-cab-0324-56VTWK#64",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "date": "2026-03-24",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "공직자 · 징계",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0324-56VTWK@t5",
+      "rep_sid": "2026-cab-0324-56VTWK#86",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "date": "2026-03-24",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "공직자 · 포상 · 징계",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t4",
+      "rep_sid": "2026-cab-0414-mvVDdp#16",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "현재 추진하고 있는 정책 그리고 또 앞으로 중점적으로 추진할 정책 어떤 것들이 있을까요?",
+      "reviewed": false,
+      "rel_label": "현재 추진 정책·계획 보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t8",
+      "rep_sid": "2026-cab-0506-4cLwEz#243",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "1차 감찰을 하고요. ... 횡락철 시작되고 나면 2차 감찰을 또 할 계획입니다.",
+      "reviewed": false,
+      "rel_label": "감찰 1·2차 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:20+09:00"
+}

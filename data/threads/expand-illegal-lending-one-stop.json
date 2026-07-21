@@ -1,0 +1,25 @@
+{
+  "id": "expand-illegal-lending-one-stop",
+  "title": "사금융 원스톱지원 확대",
+  "topic_tags": [
+    "불법 사금융",
+    "원스톱 지원",
+    "피해구제"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0506-4cLwEz@t27",
+      "rep_sid": "2026-cab-0506-4cLwEz#1014",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "한 번만 신고하면 전담자가 지정되어 옆에서 모든 절차를 원스톱으로 지원하는 전담 체계가 가동 중입니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:13+09:00"
+}

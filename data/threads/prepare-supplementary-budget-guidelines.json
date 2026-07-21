@@ -1,0 +1,38 @@
+{
+  "id": "prepare-supplementary-budget-guidelines",
+  "title": "추경·재정 보강 지침 마련",
+  "topic_tags": [
+    "추경 예산",
+    "재정 부족",
+    "지침 마련",
+    "보증·융자",
+    "기재부"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0324-56VTWK@t20",
+      "rep_sid": "2026-cab-0324-56VTWK#746",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "date": "2026-03-24",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "그 재정이 부족하면 추경 예산을 더 확보하시고요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t6",
+      "rep_sid": "2026-cab-0406-IhS8yH#24",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "4월 중 전쟁 추경 집행과 함께 물가 관리·원유 공급망 안정에 총력을 기울이겠다고 밝혔습니다.",
+      "reviewed": false,
+      "rel_label": "추경·재정 대응 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:02+09:00"
+}

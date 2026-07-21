@@ -1,0 +1,26 @@
+{
+  "id": "diaspora-communication-platform",
+  "title": "재외동포 소통플랫폼 구축",
+  "topic_tags": [
+    "재외동포",
+    "재외공관",
+    "DB 구축",
+    "플랫폼"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0602-HokLaJ@t62",
+      "rep_sid": "2026-cab-0602-HokLaJ#1118",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "현재 동포 DB 구축이나 커뮤니티 지원과 통합 플랫폼 구축하면 아마 훨씬 더 소통이나 이런 체계들이 좀 잡혀",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:42+09:00"
+}

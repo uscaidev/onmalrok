@@ -1,0 +1,47 @@
+{
+  "id": "strengthen-coop-capacity",
+  "title": "협동조합 역량 강화",
+  "topic_tags": [
+    "협동조합",
+    "교육",
+    "활동가 양성"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0406-IhS8yH@t51",
+      "rep_sid": "2026-cab-0406-IhS8yH#1228",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "교육된 훈련된 협동조합 활동가들이 그리 많지 않아서",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t99",
+      "rep_sid": "2026-cab-0414-mvVDdp#1004",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "협동조합 · 교육",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t103",
+      "rep_sid": "2026-cab-0414-mvVDdp#1043",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "협동조합 · 교육",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:04+09:00"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "strengthen-national-data-office",
+  "title": "데이터처 권한 강화",
+  "topic_tags": [
+    "데이터처",
+    "CDO",
+    "공공데이터",
+    "역할강화"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t46",
+      "rep_sid": "2026-rpt-0715--PQDTo#659",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "데이터처를 대한민국 데이터 최고 책임자 CDO다. 이렇게 생각하고 업무하셔야 됩니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

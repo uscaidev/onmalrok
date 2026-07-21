@@ -1,0 +1,25 @@
+{
+  "id": "inspect-fall-accidents",
+  "title": "추락사고 안전점검",
+  "topic_tags": [
+    "추락 사고",
+    "안전대 설치",
+    "현장 점검"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t49",
+      "rep_sid": "2026-cab-0623-2uViqE#499",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "A자형 사다리... 라튼간 좀 챙겨 보세요",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:58+09:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "regular-field-visits",
+  "title": "현장 방문 주기화",
+  "topic_tags": [
+    "현장 방문",
+    "주간 점검",
+    "고위 공직자"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t49",
+      "rep_sid": "2026-cab-0623-2uViqE#499",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "맨날 매주 간다고 했습니다. 매주 가고... 매주 가겠습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:58+09:00"
+}

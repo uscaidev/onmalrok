@@ -1,0 +1,27 @@
+{
+  "id": "increase-illegal-boat-bond",
+  "title": "불법어선 담보금 인상",
+  "topic_tags": [
+    "불법어선",
+    "담보금",
+    "벌금상한",
+    "해경",
+    "제재효과"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0203-96DaSs@t57",
+      "rep_sid": "2026-cab-0203-96DaSs#646",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "이거를 다섯 배 정도 올리면 상당한 제재 효과가 있을 것으로",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:21+09:00"
+}

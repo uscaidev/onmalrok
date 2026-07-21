@@ -1,0 +1,25 @@
+{
+  "id": "strengthen-renewable-industry-support",
+  "title": "재생에너지 산업 지원 강화",
+  "topic_tags": [
+    "재생 에너지",
+    "지원 투자",
+    "국내 산업 육성"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t30",
+      "rep_sid": "2026-cab-0623-2uViqE#300",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "재생 에너지 관련된 산업에 대한 지원 투자를 각별히 좀 신경을 써야 될 것 같아요",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:58+09:00"
+}

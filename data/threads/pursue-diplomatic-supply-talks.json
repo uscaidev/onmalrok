@@ -1,0 +1,247 @@
+{
+  "id": "pursue-diplomatic-supply-talks",
+  "title": "외교 통해 수급 협의 추진",
+  "topic_tags": [
+    "외교",
+    "현지파견",
+    "협의",
+    "기업의견",
+    "중동"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0331-pWre_D@t18",
+      "rep_sid": "2026-cab-0331-pWre_D#234",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "date": "2026-03-31",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "외교 분야에서 우리 정부가 나서서 좀 정리를 해 줘야",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t8",
+      "rep_sid": "2026-cab-0406-IhS8yH#41",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "외교 · 중동",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t15",
+      "rep_sid": "2026-cab-0406-IhS8yH#184",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "외교 · 중동",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t30",
+      "rep_sid": "2026-cab-0406-IhS8yH#438",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "협의 · 중동",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t34",
+      "rep_sid": "2026-cab-0406-IhS8yH#536",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "협의 · 중동",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t19",
+      "rep_sid": "2026-cab-0414-mvVDdp#116",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "외교 · 중동",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t36",
+      "rep_sid": "2026-cab-0414-mvVDdp#286",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "외교 · 협의 · 중동",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t9",
+      "rep_sid": "2026-cab-0506-4cLwEz#305",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "외교 · 중동",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t21",
+      "rep_sid": "2026-cab-0506-4cLwEz#593",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "interim",
+      "grade": "explicit",
+      "grade_evidence": "고 드리겠습니다. 지난 5월 4일 20시 40분 경에 호르무추 ",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t20",
+      "rep_sid": "2026-cab-0526-B3JFkX#103",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "외교 · 중동",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t40",
+      "rep_sid": "2026-cab-0526-B3JFkX#440",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "외교 · 협의",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t16",
+      "rep_sid": "2026-cab-0602-HokLaJ#123",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "외교 · 중동",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t33",
+      "rep_sid": "2026-cab-0602-HokLaJ#436",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "외교 · 협의 · 중동",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0623-2uViqE@t19",
+      "rep_sid": "2026-cab-0623-2uViqE#142",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "외교 · 중동",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0623-2uViqE@t55",
+      "rep_sid": "2026-cab-0623-2uViqE#606",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "외교 · 협의 · 중동",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t22",
+      "rep_sid": "2026-cab-0630-dZLnc3#105",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "외교 · 중동",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t27",
+      "rep_sid": "2026-cab-0630-dZLnc3#155",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "외교 · 중동",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t51",
+      "rep_sid": "2026-cab-0630-dZLnc3#379",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "외교 · 중동",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t52",
+      "rep_sid": "2026-cab-0630-dZLnc3#389",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "외교 · 중동",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t10",
+      "rep_sid": "2026-cab-0714-gXWij0#56",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "result",
+      "grade": "explicit",
+      "grade_evidence": "과가 공개됩니다. 지난 4월 시민 참여단 수기 토론에 참여한 시",
+      "reviewed": true,
+      "rel_label": "지시 이행 결과 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t40",
+      "rep_sid": "2026-cab-0714-gXWij0#756",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "interim",
+      "grade": "explicit",
+      "grade_evidence": "니다. 그까 아까 말씀하신 그냥 M 체기 옛날처럼 그냥 아 뭐",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:07+09:00"
+}

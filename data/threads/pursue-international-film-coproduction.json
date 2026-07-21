@@ -1,0 +1,26 @@
+{
+  "id": "pursue-international-film-coproduction",
+  "title": "국제영화 공동제작 추진",
+  "topic_tags": [
+    "문화체육관광부",
+    "영화 공동제작",
+    "이탈리아",
+    "예산 확보"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t65",
+      "rep_sid": "2026-cab-0120-1bgJaV#1078",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "이탈리아 총리께서 영화 공동제작하자고 그러대요...빨리 좀 한번 해 보시죠.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:09+09:00"
+}

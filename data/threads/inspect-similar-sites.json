@@ -1,0 +1,25 @@
+{
+  "id": "inspect-similar-sites",
+  "title": "유사장소 안전점검",
+  "topic_tags": [
+    "안전 점검",
+    "유사장소",
+    "재발 방지"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0602-HokLaJ@t13",
+      "rep_sid": "2026-cab-0602-HokLaJ#65",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "다른 유사장소들에 대해서 안전 점검도 서둘러 주길 바랍니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:42+09:00"
+}

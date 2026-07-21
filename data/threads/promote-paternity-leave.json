@@ -1,0 +1,27 @@
+{
+  "id": "promote-paternity-leave",
+  "title": "남성 육아휴직 촉진 방안 검토",
+  "topic_tags": [
+    "남성 육아휴직",
+    "제도개선",
+    "페널티",
+    "노동부",
+    "촉진방안"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t39",
+      "rep_sid": "2026-cab-0310-2B4Fqs#749",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "한번 살펴보겠습니다. 남성이 안 쓰면...",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:00+09:00"
+}

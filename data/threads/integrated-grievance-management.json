@@ -1,0 +1,25 @@
+{
+  "id": "integrated-grievance-management",
+  "title": "민원 통합관리 방안 마련",
+  "topic_tags": [
+    "민원 통합 관리",
+    "국민권익위원회",
+    "범정부 로드맵"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0714-gXWij0@t60",
+      "rep_sid": "2026-cab-0714-gXWij0#1396",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "이거를 통합 관리 방안을 좀 찾아보세요",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:07+09:00"
+}

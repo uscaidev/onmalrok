@@ -1,12 +1,12 @@
 [
   {
-    "id": "2026-rpt-0716-_t27O7",
+    "id": "2026-rpt-0716-imQ8RH",
     "kind": "report",
-    "title": "(26.7.16.) 과학기술정보통신부·우주항공청·방송미디어통신위원회·개인정보보호위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
+    "title": "(26.7.16.) 보건복지부·질병관리청·식품의약품안전처·성평등가족부·국민권익위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
     "date": "2026-07-16",
-    "youtube_id": "_t27O7XlfRY",
-    "duration_sec": 8440,
-    "statement_count": 1121,
+    "youtube_id": "imQ8RHurjTc",
+    "duration_sec": 7367,
+    "statement_count": 1247,
     "pipeline_status": "done"
   },
   {
@@ -20,13 +20,13 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0716-imQ8RH",
+    "id": "2026-rpt-0716-_t27O7",
     "kind": "report",
-    "title": "(26.7.16.) 보건복지부·질병관리청·식품의약품안전처·성평등가족부·국민권익위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
+    "title": "(26.7.16.) 과학기술정보통신부·우주항공청·방송미디어통신위원회·개인정보보호위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
     "date": "2026-07-16",
-    "youtube_id": "imQ8RHurjTc",
-    "duration_sec": 7367,
-    "statement_count": 1247,
+    "youtube_id": "_t27O7XlfRY",
+    "duration_sec": 8440,
+    "statement_count": 1121,
     "pipeline_status": "done"
   },
   {
@@ -47,16 +47,6 @@
     "youtube_id": "gXWij0P7xPk",
     "duration_sec": 11653,
     "statement_count": 1861,
-    "pipeline_status": "done"
-  },
-  {
-    "id": "2026-cab-0708-dQw4w9",
-    "kind": "cabinet",
-    "title": "[샘플] 제30회 국무회의",
-    "date": "2026-07-08",
-    "youtube_id": "dQw4w9WgXcQ",
-    "duration_sec": 1980,
-    "statement_count": 11,
     "pipeline_status": "done"
   },
   {
@@ -220,16 +210,6 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0114-nIdLEw",
-    "kind": "report",
-    "title": "(26.1.14.) 국토교통부 산하기관 민생·안전 분야 업무보고",
-    "date": "2026-01-14",
-    "youtube_id": "nIdLEwH6pSY",
-    "duration_sec": 11349,
-    "statement_count": 1317,
-    "pipeline_status": "done"
-  },
-  {
     "id": "2026-rpt-0114-kvXX3W",
     "kind": "report",
     "title": "(26.1.14.) 과학기술정보통신부 소속 우주, 과학기술원, AI, ICT 기관 업무보고",
@@ -240,13 +220,13 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0113-_LWZQp",
+    "id": "2026-rpt-0114-nIdLEw",
     "kind": "report",
-    "title": "(26.1.13.) 문화체육관광부 소속·공공기관 업무보고",
-    "date": "2026-01-13",
-    "youtube_id": "_LWZQp7Zz-E",
-    "duration_sec": 16047,
-    "statement_count": 2068,
+    "title": "(26.1.14.) 국토교통부 산하기관 민생·안전 분야 업무보고",
+    "date": "2026-01-14",
+    "youtube_id": "nIdLEwH6pSY",
+    "duration_sec": 11349,
+    "statement_count": 1317,
     "pipeline_status": "done"
   },
   {
@@ -260,13 +240,13 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0112-CUltdo",
+    "id": "2026-rpt-0113-_LWZQp",
     "kind": "report",
-    "title": "(26.1.12.) 보건복지부 소속 국민건강보험공단 등 업무보고",
-    "date": "2026-01-12",
-    "youtube_id": "CUltdoq_NnU",
-    "duration_sec": 7190,
-    "statement_count": 726,
+    "title": "(26.1.13.) 문화체육관광부 소속·공공기관 업무보고",
+    "date": "2026-01-13",
+    "youtube_id": "_LWZQp7Zz-E",
+    "duration_sec": 16047,
+    "statement_count": 2068,
     "pipeline_status": "done"
   },
   {
@@ -277,6 +257,16 @@
     "youtube_id": "5DLxn1ybiNY",
     "duration_sec": 8358,
     "statement_count": 870,
+    "pipeline_status": "done"
+  },
+  {
+    "id": "2026-rpt-0112-CUltdo",
+    "kind": "report",
+    "title": "(26.1.12.) 보건복지부 소속 국민건강보험공단 등 업무보고",
+    "date": "2026-01-12",
+    "youtube_id": "CUltdoq_NnU",
+    "duration_sec": 7190,
+    "statement_count": 726,
     "pipeline_status": "done"
   },
   {

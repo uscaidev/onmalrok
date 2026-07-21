@@ -1,0 +1,26 @@
+{
+  "id": "review-frontier-model-development",
+  "title": "프런티어 모델 개발 검토",
+  "topic_tags": [
+    "프런티어 모델",
+    "개발",
+    "고도화",
+    "검토"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0716-_t27O7@t42",
+      "rep_sid": "2026-rpt-0716-_t27O7#276",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "우리도 이런 어떤 고도화된 어떤 프런티어 모델 개발에 대한 좀 고민이 필요합니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

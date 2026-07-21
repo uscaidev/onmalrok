@@ -1,0 +1,26 @@
+{
+  "id": "expedite-transmission-build",
+  "title": "송배전망 구축 신속 추진",
+  "topic_tags": [
+    "송배전망",
+    "구축",
+    "재원",
+    "인프라 투자"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0317-bzrcCS@t58",
+      "rep_sid": "2026-cab-0317-bzrcCS#801",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "송배전망 구축... 이거 빨리 해야 될 거 아닙니까?",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:16+09:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "collect-diaspora-contacts",
+  "title": "재외동포 연락처 확보 및 서비스",
+  "topic_tags": [
+    "연락처 확보",
+    "정보 서비스",
+    "재외동포"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0602-HokLaJ@t62",
+      "rep_sid": "2026-cab-0602-HokLaJ#1118",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "재외국민·재외동포들의 연락처도 좀 확보하고 필요한 뭐 정보 서비스도 좀 제공하고",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:42+09:00"
+}

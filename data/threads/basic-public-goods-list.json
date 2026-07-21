@@ -1,0 +1,27 @@
+{
+  "id": "basic-public-goods-list",
+  "title": "기본공공물품 목록화",
+  "topic_tags": [
+    "기본물품",
+    "물가관리",
+    "목록작성",
+    "필수품",
+    "공급보장"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t31",
+      "rep_sid": "2026-cab-0310-2B4Fqs#534",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "기본 공공 물품이어서 그런 리스트를 한번 별도로 정리해 볼 필요가 있는 거 같아요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:00+09:00"
+}

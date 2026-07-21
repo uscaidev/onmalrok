@@ -1,0 +1,60 @@
+{
+  "id": "promote-local-renewables",
+  "title": "재생에너지 마을단위 확산 홍보",
+  "topic_tags": [
+    "재생 에너지",
+    "마을 단위",
+    "홍보",
+    "전수 조사",
+    "농림부"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t74",
+      "rep_sid": "2026-cab-0120-1bgJaV#1260",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "재생 에너지로 국민 소득 높이고...마을 단위로 권장을 해야 되니까 홍보도 좀 잘하시고요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0203-96DaSs@t62",
+      "rep_sid": "2026-cab-0203-96DaSs#730",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "홍보 · 농림부",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t15",
+      "rep_sid": "2026-cab-0310-2B4Fqs#272",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "재생 에너지 · 마을 단위",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t22",
+      "rep_sid": "2026-cab-0506-4cLwEz#614",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "전수 조사 · 농림부",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:13+09:00"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "promote-technology-market",
+  "title": "기술거래 활성화 추진",
+  "topic_tags": [
+    "기술 거래 시장",
+    "기술 보증 기금",
+    "공개",
+    "무료·유료",
+    "활성화"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0203-96DaSs@t65",
+      "rep_sid": "2026-cab-0203-96DaSs#756",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "공공이나 대들 같이 예를 들면 무상 거래 영역, 유료 거래 영역 이렇게 나눠서 해도 되고도 확대하도록 해 보",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t7",
+      "rep_sid": "2026-cab-0526-B3JFkX#13",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "진해 신항과 배우 단지를 피지컬 AI 테스트 베드로 활용하고 AI 기업 유치를 통해 제조 물류 기업과 협업 ",
+      "reviewed": false,
+      "rel_label": "산업·기술 집적화 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:33+09:00"
+}

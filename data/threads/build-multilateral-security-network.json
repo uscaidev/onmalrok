@@ -1,0 +1,25 @@
+{
+  "id": "build-multilateral-security-network",
+  "title": "다자 안보 네트워크 구축",
+  "topic_tags": [
+    "다자 안보",
+    "네트워크 구축",
+    "실용 외교"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0526-B3JFkX@t19",
+      "rep_sid": "2026-cab-0526-B3JFkX#74",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "다자 안보 네트워을 경고하게 구축해야 되겠습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:25+09:00"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "strengthen-sanctions-support-programs",
+  "title": "지원사업 제재 강화",
+  "topic_tags": [
+    "지원 사업",
+    "제재",
+    "응모 기업",
+    "위반"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t27",
+      "rep_sid": "2026-rpt-0715--PQDTo#405",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "위반했을 때 다음번 사업을 정말 강력하게 못 하게 한다거나 이런 강력한 제재 조치들을 각 부처가 좀 강화하기",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t27",
+      "rep_sid": "2026-rpt-0716-_t27O7#187",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "제재 · 위반",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t51",
+      "rep_sid": "2026-rpt-0716-_t27O7#381",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "제재 · 위반",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

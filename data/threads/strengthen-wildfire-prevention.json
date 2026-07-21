@@ -1,0 +1,48 @@
+{
+  "id": "strengthen-wildfire-prevention",
+  "title": "산불 예방 강화",
+  "topic_tags": [
+    "산불",
+    "예방",
+    "입산자 주의",
+    "소각"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0210-usgbZR@t2",
+      "rep_sid": "2026-cab-0210-usgbZR#8",
+      "meeting_id": "2026-cab-0210-usgbZR",
+      "date": "2026-02-10",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "산불 예방에 더 힘써 주시길 바랍니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t69",
+      "rep_sid": "2026-cab-0602-HokLaJ#1347",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "산불 · 예방",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-L64eg6@t107",
+      "rep_sid": "2026-rpt-0716-L64eg6#615",
+      "meeting_id": "2026-rpt-0716-L64eg6",
+      "date": "2026-07-16",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "산불 · 예방",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:25+09:00"
+}

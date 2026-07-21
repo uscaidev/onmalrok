@@ -1,0 +1,25 @@
+{
+  "id": "strengthen-land-disposal-duty",
+  "title": "농지처분 의무 강화",
+  "topic_tags": [
+    "농지",
+    "처분 의무",
+    "법률 개정"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0506-4cLwEz@t25",
+      "rep_sid": "2026-cab-0506-4cLwEz#847",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "걸려서 1년 내에 저기 경작을 안 하거나 계속 경작을 한 번이라도 안 하면 그때는 처분 대상이 된다 이렇게 ",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:13+09:00"
+}

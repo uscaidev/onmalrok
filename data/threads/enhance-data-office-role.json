@@ -1,0 +1,26 @@
+{
+  "id": "enhance-data-office-role",
+  "title": "데이터처 역할 강화 요청",
+  "topic_tags": [
+    "데이터처",
+    "부처 연결",
+    "속도감",
+    "데이터 활용"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t48",
+      "rep_sid": "2026-rpt-0715--PQDTo#701",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "데이터처를 첫번째 업무보로 별도로 좀 받고...데이터 역할을 좀 더 강화하도록 하시죠.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

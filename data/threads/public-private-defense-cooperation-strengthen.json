@@ -1,0 +1,25 @@
+{
+  "id": "public-private-defense-cooperation-strengthen",
+  "title": "민관협력 방산체계 강화",
+  "topic_tags": [
+    "민관 협력",
+    "K방산",
+    "체계 강화"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0526-B3JFkX@t19",
+      "rep_sid": "2026-cab-0526-B3JFkX#74",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "민관 협력 체계 강화 등을 통해서",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:25+09:00"
+}

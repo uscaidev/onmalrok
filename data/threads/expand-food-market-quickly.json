@@ -1,0 +1,38 @@
+{
+  "id": "expand-food-market-quickly",
+  "title": "푸드마켓 신속확대",
+  "topic_tags": [
+    "푸드마켓",
+    "푸드뱅크",
+    "신속하게 확대",
+    "지자체",
+    "자원봉사"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0203-96DaSs@t61",
+      "rep_sid": "2026-cab-0203-96DaSs#700",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "신속하게 좀 확대하시고요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0210-usgbZR@t2",
+      "rep_sid": "2026-cab-0210-usgbZR#8",
+      "meeting_id": "2026-cab-0210-usgbZR",
+      "date": "2026-02-10",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "민족 대이동 시기인만큼 방역 상황이 악화되지 않게 가축 방역 기관과...인력을 최대한 투입",
+      "reviewed": false,
+      "rel_label": "푸드마켓 신속확대 관련 지원 지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:32+09:00"
+}

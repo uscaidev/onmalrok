@@ -1,0 +1,60 @@
+{
+  "id": "improve-competition-prosecution",
+  "title": "공정거래 고발절차 개선",
+  "topic_tags": [
+    "전속고발",
+    "고발절차",
+    "공정거래",
+    "검찰",
+    "신속처리"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0203-96DaSs@t47",
+      "rep_sid": "2026-cab-0203-96DaSs#522",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "공정 거래 사건은 누군가가 꼭 고발해야 되고 고발 안 하면 수사도 못 하고",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0331-pWre_D@t20",
+      "rep_sid": "2026-cab-0331-pWre_D#299",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "date": "2026-03-31",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "공정거래 · 검찰",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0331-pWre_D@t22",
+      "rep_sid": "2026-cab-0331-pWre_D#335",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "date": "2026-03-31",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "공정거래 · 검찰",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0331-pWre_D@t30",
+      "rep_sid": "2026-cab-0331-pWre_D#516",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "date": "2026-03-31",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "공정거래 · 검찰",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:42+09:00"
+}

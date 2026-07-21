@@ -1,0 +1,26 @@
+{
+  "id": "prepare-broadcast-monitoring",
+  "title": "중계·모니터링 준비",
+  "topic_tags": [
+    "중계",
+    "모니터링",
+    "국민참여단",
+    "요약소개"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t10",
+      "rep_sid": "2026-rpt-0715--PQDTo#143",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "지금부터 준비를 누가 좀 하세요. 거기에 의미 있는...요약, 중간중간 정리해서 소개할 수 있도록 준비해 주",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

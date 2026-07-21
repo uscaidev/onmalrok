@@ -8,9 +8,407 @@
   "source": {
     "video": "https://www.youtube.com/watch?v=sPS14B4GNbU"
   },
-  "summary": null,
-  "agenda": [],
-  "turns": [],
+  "summary": {
+    "brief": "개회와 모두발언에서 대통령은 중동 위기로 인한 글로벌 경제·안보 환경 악화와 국내 영향 가능성을 언급하고 금융시장·에너지 수급·민생 보호 등 예상 가능한 모든 문제에 대해 각 부처가 신속하고 세밀하게 대응할 것을 지시하였으며 재외국민 안전을 최우선으로 군용기·전세기 등 가능한 수단을 총동원해 철수 대책을 마련하라고 보고받았다. [#10 #14 #19 #31]\n\n회의는 총리 주재로 부처별 보고를 진행하였고 외교부는 상황 발생 이후 우방국과 정보교류를 통해 중동 정세를 면밀히 주시하며 장관 본부장으로 재외국민 보호 대책본부를 가동해 약 18,472명 규모의 재외국민 안전 공지·대피 지원과 전세기·군수송기 투입 등 신속 대응팀 운영을 보고하였다. [#38 #56 #58 #71]\n\n기획재정부 등은 에너지 가격 상승과 금융시장 변동성, 수출·물류 차질 등을 24시간 모니터링하고 있으며 비축유·대체수입선 확보, 비축물 방출 검토, 중소기업 금융지원 및 피해·애로 접수 체계 운영 등 실물·금융·에너지 분야의 단기·중장기 대응 계획을 보고하였다. [#88 #101 #116 #118]\n\n주유소 유류 가격 급등과 관련하여 정부는 석유사업법·물가안정법에 따른 최고가격 지정, 공정위 담합 조사, 불법 석유유통 단속 및 행정처분 계획을 보고받았고 추가 제도 보완과 소비자 가격 정보 공개 방안 등을 검토하도록 지시하였다. [#148 #150 #192 #241]\n\n금융위는 24시간 금융시장 비상체제 운영과 시장 안정 프로그램(100조원 규모) 집행, 중소기업 대상 정책금융(23조원) 지원 및 시장 교란행위 단속 계획을 보고하였고 국방부는 교민 철수 지원을 위한 군수송기 대기 등 24시간 위기대응 체계 가동을 보고함으로써 향후 의안 심의로 전환되었다. [#16 #312 #313 #395 #411]",
+    "generated_at": "2026-07-21T16:52:41+09:00",
+    "model": "gpt-5-mini"
+  },
+  "agenda": [
+    {
+      "aid": "2026-cab-0305-sPS14B@a1",
+      "title": "개회 및 국민의례와 대통령 모두발언",
+      "start_sec": 3.639,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#1",
+        "2026-cab-0305-sPS14B#34"
+      ],
+      "official": false
+    },
+    {
+      "aid": "2026-cab-0305-sPS14B@a2",
+      "title": "회의 진행 및 부처별 중동 대응 지시",
+      "start_sec": 427.039,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#35",
+        "2026-cab-0305-sPS14B#37"
+      ],
+      "official": false
+    },
+    {
+      "aid": "2026-cab-0305-sPS14B@a3",
+      "title": "외교부 중동 상황 및 재외국민 보호 보고",
+      "start_sec": 436.96,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#38",
+        "2026-cab-0305-sPS14B#81"
+      ],
+      "official": false
+    },
+    {
+      "aid": "2026-cab-0305-sPS14B@a4",
+      "title": "기획재정부 등 경제분야 대응 보고",
+      "start_sec": 1005.12,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#82",
+        "2026-cab-0305-sPS14B#187"
+      ],
+      "official": false
+    },
+    {
+      "aid": "2026-cab-0305-sPS14B@a5",
+      "title": "주유소·석유시장 가격·단속 논의",
+      "start_sec": 1810.159,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#188",
+        "2026-cab-0305-sPS14B#252"
+      ],
+      "official": false
+    },
+    {
+      "aid": "2026-cab-0305-sPS14B@a6",
+      "title": "에너지 수급 현황 및 대응 보고",
+      "start_sec": 2236.4,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#253",
+        "2026-cab-0305-sPS14B#287"
+      ],
+      "official": false
+    },
+    {
+      "aid": "2026-cab-0305-sPS14B@a7",
+      "title": "금융시장 비상대응 보고",
+      "start_sec": 2488.44,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#288",
+        "2026-cab-0305-sPS14B#392"
+      ],
+      "official": false
+    },
+    {
+      "aid": "2026-cab-0305-sPS14B@a8",
+      "title": "국방부 조치 및 안보 논의",
+      "start_sec": 3375.28,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#393",
+        "2026-cab-0305-sPS14B#410"
+      ],
+      "official": false
+    },
+    {
+      "aid": "2026-cab-0305-sPS14B@a9",
+      "title": "의안 심의 전환 및 심의 안내",
+      "start_sec": 3500.76,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#411",
+        "2026-cab-0305-sPS14B#418"
+      ],
+      "official": false
+    }
+  ],
+  "turns": [
+    {
+      "tid": "2026-cab-0305-sPS14B@t1",
+      "speaker": {
+        "name": "사회자",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#1",
+        "2026-cab-0305-sPS14B#7"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
+      "rep_sid": "2026-cab-0305-sPS14B#4"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t2",
+      "speaker": null,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#8",
+        "2026-cab-0305-sPS14B#9"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
+      "rep_sid": "2026-cab-0305-sPS14B#8"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t3",
+      "speaker": {
+        "name": "이재명 대통령",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#10",
+        "2026-cab-0305-sPS14B#34"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
+      "rep_sid": "2026-cab-0305-sPS14B#12"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t4",
+      "speaker": {
+        "name": "사회자",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#35",
+        "2026-cab-0305-sPS14B#39"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a2",
+      "rep_sid": "2026-cab-0305-sPS14B#35"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t5",
+      "speaker": {
+        "name": "외교부 장관",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#40",
+        "2026-cab-0305-sPS14B#77"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
+      "rep_sid": "2026-cab-0305-sPS14B#55"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t6",
+      "speaker": {
+        "name": "사회자",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#78",
+        "2026-cab-0305-sPS14B#80"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
+      "rep_sid": "2026-cab-0305-sPS14B#79"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t7",
+      "speaker": null,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#81",
+        "2026-cab-0305-sPS14B#81"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
+      "rep_sid": "2026-cab-0305-sPS14B#81"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t8",
+      "speaker": {
+        "name": "재경부 장관",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#82",
+        "2026-cab-0305-sPS14B#145"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
+      "rep_sid": "2026-cab-0305-sPS14B#83"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t9",
+      "speaker": {
+        "name": "이재명 대통령",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#146",
+        "2026-cab-0305-sPS14B#147"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
+      "rep_sid": "2026-cab-0305-sPS14B#146"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t10",
+      "speaker": {
+        "name": "재경부 장관",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#148",
+        "2026-cab-0305-sPS14B#168"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
+      "rep_sid": "2026-cab-0305-sPS14B#150"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t11",
+      "speaker": {
+        "name": "이재명 대통령",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#169",
+        "2026-cab-0305-sPS14B#188"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
+      "rep_sid": "2026-cab-0305-sPS14B#169"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t12",
+      "speaker": {
+        "name": "산업부 장관(또는 차관)",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#189",
+        "2026-cab-0305-sPS14B#197"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
+      "rep_sid": "2026-cab-0305-sPS14B#191"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t13",
+      "speaker": null,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#198",
+        "2026-cab-0305-sPS14B#199"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
+      "rep_sid": "2026-cab-0305-sPS14B#199"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t14",
+      "speaker": {
+        "name": "이재명 대통령",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#200",
+        "2026-cab-0305-sPS14B#230"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
+      "rep_sid": "2026-cab-0305-sPS14B#200"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t15",
+      "speaker": {
+        "name": "법무/민정 관련 발표자",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#231",
+        "2026-cab-0305-sPS14B#243"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
+      "rep_sid": "2026-cab-0305-sPS14B#232"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t16",
+      "speaker": null,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#244",
+        "2026-cab-0305-sPS14B#252"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
+      "rep_sid": "2026-cab-0305-sPS14B#245"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t17",
+      "speaker": {
+        "name": "산업부(또는 에너지 담당)",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#253",
+        "2026-cab-0305-sPS14B#287"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
+      "rep_sid": "2026-cab-0305-sPS14B#254"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t18",
+      "speaker": {
+        "name": "금융위원장",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#288",
+        "2026-cab-0305-sPS14B#319"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
+      "rep_sid": "2026-cab-0305-sPS14B#289"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t19",
+      "speaker": {
+        "name": "이재명 대통령",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#320",
+        "2026-cab-0305-sPS14B#392"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
+      "rep_sid": "2026-cab-0305-sPS14B#322"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t20",
+      "speaker": {
+        "name": "국방부 장관",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#393",
+        "2026-cab-0305-sPS14B#398"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
+      "rep_sid": "2026-cab-0305-sPS14B#395"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t21",
+      "speaker": {
+        "name": "이재명 대통령",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#399",
+        "2026-cab-0305-sPS14B#409"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
+      "rep_sid": "2026-cab-0305-sPS14B#400"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t22",
+      "speaker": null,
+      "sid_range": [
+        "2026-cab-0305-sPS14B#410",
+        "2026-cab-0305-sPS14B#416"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
+      "rep_sid": "2026-cab-0305-sPS14B#410"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t23",
+      "speaker": {
+        "name": "사회자",
+        "inferred": true,
+        "verified": false
+      },
+      "sid_range": [
+        "2026-cab-0305-sPS14B#417",
+        "2026-cab-0305-sPS14B#418"
+      ],
+      "agenda_id": "2026-cab-0305-sPS14B@a9",
+      "rep_sid": "2026-cab-0305-sPS14B#418"
+    }
+  ],
   "statements": [
     {
       "sid": "2026-cab-0305-sPS14B#1",
@@ -18,8 +416,8 @@
       "text": "먼저 국민의뢰를 하겠습니다.",
       "text_raw": "먼저 국민의뢰를 하겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t1",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -30,8 +428,8 @@
       "text": "모두 국기를 향해 주시기 바랍니다.",
       "text_raw": "모두 국기를 향해 주시기 바랍니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t1",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -42,8 +440,8 @@
       "text": "국기에 대하여 경례 예.",
       "text_raw": "국기에 대하여 경례 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t1",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -54,8 +452,8 @@
       "text": ">> [음악] >> 바로 모두 자리 앉아 주시기 바랍니다.",
       "text_raw": ">> [음악] >> 바로 모두 자리 앉아 주시기 바랍니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t1",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -66,8 +464,8 @@
       "text": "제8회 국무회의입니다.",
       "text_raw": "제8회 국무회의입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t1",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -78,8 +476,8 @@
       "text": "대통령께서 개회사와 함께 모두 말씀을 하시겠습니다.",
       "text_raw": "대통령께서 개선언과 함께 모두 말씀을 하시겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t1",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -90,8 +488,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t1",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -102,8 +500,8 @@
       "text": "제 8회 국무회의를 시작하겠습니다.",
       "text_raw": "제 8회 국무회를 시작하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t2",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -114,8 +512,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t2",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -126,8 +524,8 @@
       "text": "제가 해외에 나가 있는 며칠 사이에 꽤 많은 일들이 벌어진 거 같습니다.",
       "text_raw": "제가 해외에 나가 있는 며칠 사이에 꽤 많은 일들이 벌어진 거 같습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -138,8 +536,8 @@
       "text": "우리 대한민국은 지금까지 있었던 그 수없이 많은 위기 상황들을 슬기롭게 극복해 왔습니다.",
       "text_raw": "우리 대한민국은 지금까지 있었던 그 수없이 많은 위기 상황들을 설기롭게 극복해 왔습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -150,11 +548,24 @@
       "text": "우리 국민들의 단합된 힘으로 또 대한민국의 저력으로 어 지금의 약간의 혼란도 어 큰 무리 없이 잘 이겨낼 것이고 오히려 넘어진 김에 쉬어간다고 오히려 좋은 기회로 만들 수 있을 것입니다.",
       "text_raw": "우리 국민들의 단합된 힘으로 또 대한민국의 저력으로 어 지금의이 약간의 혼란도 어 큰 무리 없이 잘 이겨낼 것이고 오히려 넘어진 김에 쉬어간다고 오히려 좋은 기회로 만들 수 있을 것입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "market-stability-program-execution",
+          "grade": "explicit"
+        },
+        {
+          "thread_id": "block-fake-news-price-manipulation",
+          "grade": "explicit"
+        },
+        {
+          "thread_id": "investigate-quickly-thoroughly",
+          "grade": "topic"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#13",
@@ -162,8 +573,8 @@
       "text": "중동 지역 위기가 고조되면서 글로벌 경제 안보 환경이 많이 악화되고 있습니다.",
       "text_raw": "중동 지역 위기가 고조되면서 글로벌 경제 안보 환경이 많이 악화되고 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -174,8 +585,8 @@
       "text": "세계 각국의 금융 시장이 금리 불확실성에 직면한 가운데 에너지 수급 또 수출입 불안으로 경제 산업과 민생 전반에 상당한 어려움이 예상이 됩니다.에 에 각 부처는 엄중한 상황 인식을 바탕으로 예상 가능한 모든 문제들에 대해서 신속한 대책을 빠짐없게 또 세밀하게 추진해 나가야 되겠습니다.",
       "text_raw": "세계 각국의 금융 시장이 금 불확실성에 직면한 가운데 에너지 수급 또 수출입 불안으로 경제 산업과 민생 전반에 상당한 어려움이 예상이 됩니다.에 에 각 부처는 엄중한 상황 인식을 바탕으로 예상 가능한 모든 문제들에 대해서 신속한 대책을 빠짐없게 또 세밀하게 추진해 나가야 되겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -186,8 +597,8 @@
       "text": "첫째로 주식과 환율 같은 금융 시장의 변동성 확대에 적극적으로 대응해야 됩니다.",
       "text_raw": "첫째로 주식과 환율 같은 금융 시장의 변동성 확대에 적극적으로 대응해야 됩니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -198,8 +609,8 @@
       "text": "정부는 자본 시장 안정과 체질 개선을 위한 정책적 노력을 가속화하고 자금 시장 불안을 사전에 차단하기 위해 마련된 100조원 규모의 시장 안정 프로그램을 적절하게 또 신속하게 집행 관리해 주시기 바랍니다.",
       "text_raw": "정부는 자본 시장 안정과 체질 개선을 위한 정책적 노력을 가속화하고 자금 시장 불안을 사전에 차단하기 위해 마련된 100조원 규모의 시장 안정 프로그램을 적절하게 또 신속하게 집행 관리해 주시기 바랍니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -210,8 +621,8 @@
       "text": "어 이럴 때 기승을 부리는 가짜 뉴스나 또 시세 조작 같은 범죄 행위도 철저하게 차단하기 바랍니다.",
       "text_raw": "어 이럴 때 기승을 부리는 가짜 뉴스포 또 시세 교환 같은 범죄 행위도 철저하게 차단하기 바랍니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -222,8 +633,8 @@
       "text": "특히 국민 경제의 혼란을 조장해서 이익을 취하려는 그런 세력들에 대해서는 무관용의 원칙으로 엄중하게 책임을 물어야 되겠습니다.",
       "text_raw": "특히 국민 경제의 혼란을 조장해서 이익을 취하려는 그런 세력들에 대해서는 무관의 원칙으로 엄중하게 책임을 무려야 되겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -234,8 +645,8 @@
       "text": "둘째 민생과 산업 경제에 전반에 걸쳐서 직접적인 영향을 미치는 에너지 수급 또 가격 불안정 역시 각별하게 신경을 써야 되겠습니다.",
       "text_raw": "둘째 민생과 산업 경제에 전반에 걸쳐서 직접적인 영향을 미치는 에너지 수급 또 가격 불안정 역시 각별하게 신경을 써야 되겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -246,8 +657,8 @@
       "text": "원유, 가스, 나프타 등에 대한 긴급 수급 안정책과 함께 중장기적으로 수입처를 다변화하는 방안을 신속하게 추진해 주시기 바랍니다.",
       "text_raw": "원유, 가스, 나쁘다 등에 대한 긴급 수급 안정책과 함께 중장기적으로 수입처를 다 갖고 하는 방안을 신속하게 추진해 주시기 바랍니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -258,8 +669,8 @@
       "text": "어려운 시장 환경을 악용해서 매점 매석이나 불합리한 폭리를 취하려는 시도를 강력하게 단속하고 이에 대해서 단호하게 대응할 필요가 있습니다.",
       "text_raw": "어려운 시장 환경을 악용해서 매점 매석이나 불합리한 폭리를 취하려는 시도를 강력하게 단속하고 이에 대해서 단호하게 대응할 필요가 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -270,8 +681,8 @@
       "text": "국가적 위기 상황을 이용해서 어 다른 사람들의 고통은 외면하고도 하지 않고 이익을 챙겨 보겠다는 이런 일들이 벌어지는 것 같습니다.",
       "text_raw": "국가적 위기 상황을 이용해서 어 다른 사람들의 고통은 나온고도 하지 않고 이익을 지어 보겠다는 이런 일들이 벌어지는 것 같습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -282,8 +693,8 @@
       "text": "어 사실 유류 공급에 관해서는 아직까지 객관적으로는 지금 심각한 차질이 벌어지는 것도 아닌데 갑자기 무슨 주유소 그 휘발류 가격 유류 가격이 폭등을 했다고 합니다.",
       "text_raw": "어 사실 유료 공급에 관해서는 아직까지 객관적으로는 지금 심각한 차질이 벌어지는 것도 아닌데 갑자기 무슨 주유소 그 휘발류 가격 유료 가격이 폭등을 했다고 합니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -294,8 +705,8 @@
       "text": "아침 전과 저녁에 가격이 다들 다르다고 하고 심지어는 한 리터당 200원 가까이 올리는 곳도 있다고 합니다.이 이 첨에 대해서 어 잠시 후에 한번 체크해 볼 텐데 어 제재 방안이 구체적으로 어떤게 있는지 한번 논의해 보기 바랍니다.",
       "text_raw": "아침 전심 저녁에 가격이 다들 다르다고 하고 심지어는 한 리터당 200원 가까이 올리는 곳도 있다고 합니다.이 이 첨에 대해서 어 잠시 후에 한번 체크해 볼 텐데 어 제재 방언이 구체적으로 어떤게 있는지 한번 논의해 보기 바랍니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -306,8 +717,8 @@
       "text": "어 실물 경제에 미치는 영향을 최소화하는 노력도 기울여야 되겠습니다.",
       "text_raw": "어 실물 경제에 미치는 영향을 최소화하는 노력도 기울여야 되겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -318,8 +729,8 @@
       "text": "중동 수출 의존도가 높은 기업이나 또 해운 같은 이런 분야에 대해서는 이번 상황에 직접적인 영향을 받게 되기 때문에 이에 대해서 신속하고 폭넓은 정책금융 지원을 서두르기 바랍니다.",
       "text_raw": "중동 수출 의존도가 높은 기업이나 또 해운 같은 이런 부야에 대해서는 이번 상황에 직접적인 영향을 받게 되기 때문에 이에 대해서 신속하고 폭넓은 정책금융 지원을 서두르기 바랍니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -330,8 +741,8 @@
       "text": "국제 정세가 상당히 불안하지만 우리 대한민국은 이보다 더한 고비도 슬기롭게 해쳐온 저력이 있습니다.",
       "text_raw": "국제 정세가 상당히 불안하지만 우리 대한민국은 이보다 더한 고비도 슬기롭게 해쳐온 저력이 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -342,8 +753,8 @@
       "text": "정부는 다양한 가능성에 대비해서 종합적인 장단기 대응 전략을 빼곡틈 없이 추진해 나갈 것입니다.",
       "text_raw": "정부는 다양한 가능성에 대비해서 종합적인 장단기 대응 전략을 물셀틈 없이 추진해 나갈 것입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -354,8 +765,8 @@
       "text": "우리 국민 여러분께서는 정부를 믿고 차분하게 일상을 이어가시기 바랍니다.",
       "text_raw": "우리 국민 여러분께서는 정부를 믿고 차분하게 일상을 이어가시기 바랍니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -366,8 +777,8 @@
       "text": "경제산업과 민생부분 피해 최소와 함께 무엇보다 시급한 과제는 국민의 안전 문제입니다.",
       "text_raw": "경제산업과 민생부분 피해 최소와 함께 무엇보다 시급한 과제는 국민의 안전 문제입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -378,8 +789,8 @@
       "text": "관계당국은 주재원, 출장자, 유학생, 여행객 등 현재 체류중인 우리 국민들을 빠짐없이 파악하고 만일의 상황을 대비한 비상 철수 대책을 2중 3중으로 치밀하게 준비해 주시기 바랍니다.에 에 특히 현지 국민들의 안전을 수시로 확인하면서 필요한 경우에는 우리 방국들 간의 공조를 바탕으로 신속하고 안전한 철수 계획을 수립해서 시행하기 바랍니다.",
       "text_raw": "관계당국은 주제원, 출장자, 유학생, 여행객획 등 현재 체중인 우리 국민들을 빠짐없이 파악하고 만일의 상황을 대비한 비상 철수 대책을 2중 3중으로 치밀하게 준비해 주시기 바랍니다.에 에 특히 현지 국민들의 안전을 수시로 확인하면서 필요한 경우에는 우반국들 간의 공조를 바탕으로 신속하고 안전한 철수 계획을 수립해서 시행하기 바랍니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -390,8 +801,8 @@
       "text": "군용기와 전세기, 육로 교통 등 가능한 모든 수단을 총동원 하기 바랍니다.",
       "text_raw": "군용기와 전세기, 육로 교통 등 가능한 모든 수단을 총동을 하기 바랍니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -402,8 +813,8 @@
       "text": "아울러 현재 중동 해역에 있는 우리 선박과 선원의 안전에도 만전을 해 주시기 바랍니다.",
       "text_raw": "아울러 현재 중동 해역에 있는 우리 선박과 선원의 안전에도 만전을 해 주시기 바랍니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -414,8 +825,8 @@
       "text": "이상입니다.",
       "text_raw": "이상입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t3",
+      "agenda_id": "2026-cab-0305-sPS14B@a1",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -426,11 +837,28 @@
       "text": ">> 이후 회의는 국무총리께서 진행해 주시겠습니다.",
       "text_raw": ">> 이후 회의는 국무총리께서 진행해 주시겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t4",
+      "agenda_id": "2026-cab-0305-sPS14B@a2",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "pursue-imjeong-preservation-agreement",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "improve-presentation-materials",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "ensure-service-charge-transparency",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "increase-penalties-prep",
+          "grade": "ai_inferred"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#36",
@@ -438,8 +866,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t4",
+      "agenda_id": "2026-cab-0305-sPS14B@a2",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -450,8 +878,8 @@
       "text": "부처보고 시작하겠습니다.",
       "text_raw": "부처보고 시작하겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t4",
+      "agenda_id": "2026-cab-0305-sPS14B@a2",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -462,8 +890,8 @@
       "text": "중동 상황 관련 대응 현황 및 계획을 외교부 장관, 기재부, 산업부, 금융위원회 순서로 보고해 주시기 바랍니다.",
       "text_raw": "중동 상황 관련 대응 현황 및 계획을 외교부 장관, 재경부, 산업부, 금융위원회 순서로 보고해 주시기 바랍니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t4",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -474,8 +902,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t4",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -486,8 +914,8 @@
       "text": "중동지역 상황 및 중동지역 내 체류 중인 재외국민 보호 방안에 대해 보고드리겠습니다.",
       "text_raw": "중동지역 상황 및 중동지역 내 체류 중인 재외국민 보호 방안에 대해 보고드리겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -498,8 +926,8 @@
       "text": "2월 28일부터 시작된 미국과 이스라엘의 대이란 공격과 이에 따른 이란의 보복 공격이 6일째에 지속되고 있습니다.",
       "text_raw": "2월 28일부터 시작된 미국과 이스라엘의 대이란 공격과 이에 따른 이란의 보복 공격이 6일째에 지속되고 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -510,8 +938,8 @@
       "text": "트럼프 미국 대통령은 3월 1일 이란 최고 지도자를 포함한 이란 지도부 대부분이 사망하였다고 발표했습니다.",
       "text_raw": "트럼프대 미국 대통령은 3월 1일이란 최고 지도자를 포함한 아이란 지도부 대부분이 사망하였다고 발표했습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -522,8 +950,8 @@
       "text": "또한 4주에서 5주 또는 그 이상의 작전 가능성을 언급하면서 근본 분쟁의 장기화를 시사하였습니다.이라는 최고 지도자 사망 후 강력한 보복 의지를 천명하고 이스라엘과 UAE, 사우디, 카타르, 쿠웨이트, 오만, 바레인 등 걸프 국가는 물론 사이프러스까지 미사일 공격을 감행하고 있습니다.",
       "text_raw": "또한 4주에서 5주 또는 그 이상의 작전 가능성을 언급하면서 근본 분쟁의 장기화를 시사하였습니다.이라는 최고 지도자 사망 후 강력한 보복 의지를 천명하고 이스라엘과 UAE, 사우디, 카타르, 쿠웨이트, 오만, 바레인 등 걸프 국가는 물론 사이프로스까지 미사일 공격을 감행하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -534,8 +962,8 @@
       "text": "또한 호르무즈 봉쇄 위협 항공 항만 등 공격을 통해 유가 급등 물류 차질 항공 대란을 야기시켜서 글로벌 경제에 심각한 영향을 가하려고 합니다.",
       "text_raw": "또한 호르무 어 봉쇄 위협 항공 항만 등 공격을 통해 육가 급등 물류 차질 항공 대란을 야기시켜서 글로벌 경제에 심각한 영향을 가하려고 합니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -546,8 +974,8 @@
       "text": "이러한 가운데 외신들은 사망한 최고 지도자의 장남인 모스타파 하메네이가 새로운 최고 지도자로 선출될 가능성이 유력하다고 보도하고 있습니다.",
       "text_raw": "이러한 가운데 외신들은 사망한 최고 지도자의 찬남인 모스타바 하메네이가 새로운 최고 지도자로 선출될 가능성이 유력하다고 보도하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -558,8 +986,8 @@
       "text": "이제 미국과 이란 간의 대화 가능성에 대해서도 예의 주시해야 될 것으로 보입니다.",
       "text_raw": "이제 미국과 이란간의 대화 가능성에 대해서도 예의 주시해야 될 것으로 보입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -570,8 +998,8 @@
       "text": "한편 확전에 대한 우려도 지속적으로 고조되고 있습니다.",
       "text_raw": "한편 확전에 대한 우려도 지속적으로 고정되고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -582,8 +1010,8 @@
       "text": "레바논의 헤즈볼라와 이스라엘 간의 상호 공방이 진행 중이며 또한 오늘 이라크 쿠르드족 전투원들이 이란에 대한 지상전을 시작했다는 보도가 나오고 있어서 그 사실 여부와 동향을 면밀히 보고 있습니다.",
       "text_raw": "레바논의 헤즈볼라와 이스라엘 간의 상호 공방이 진행 중이며 또한 오늘 이라크 쿠루드족 전투원들이 이란에 대한 지상전을 시작했다는 보도가 나오고 있어서 그 사실 여부와 동향을 면밀히 보고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -594,8 +1022,8 @@
       "text": "특히 자국 내 민간인과 민간 시설이 공격받은 걸프 국가들은 공동으로 이란을 규탄하면서 우리를 비롯한 국제 사회의 외교적 지원을 요청하고 있습니다.",
       "text_raw": "특히 자국내 민 민간인과 민간 시설이 공격받은 걸프 국가들은 공동으로 일란을 규탄하면서 우리를 비롯한 국제 사회의 외교적 지원을 요청하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -606,8 +1034,8 @@
       "text": "대다수 국가들이 자제와 긴장 완화를 촉구하는 가운데 현재까지 이란, 러시아, 파키스탄, 북한이 미국과 이스라엘의 공격을 규탄하였습니다.",
       "text_raw": "대다수 국가들이 자재와 긴장 완화를 촉구하는 가운데 현재까지 이란, 러시아, 파키스탄, 북한이 미국과 이스라엘의 공격을 규탄하였습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -618,8 +1046,8 @@
       "text": "중국은 규탄까지는 나가지 않고 깊은 우려를 표명하였습니다.",
       "text_raw": "중국은 규탄까지는 나가지 않고 깊은 우려를 표명하였습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -630,8 +1058,8 @@
       "text": "한편 이유를 중심으로 서방 국가들은 이란 핵무기 개발에 대한 심각한 우려를 표명하면서 이란의 무차별적 민간 시설 공격을 규탄하고 있는 상황입니다.",
       "text_raw": "한편 이유를 중심으로 서방 국가들은이란 핵무기 개발에 대한 심각한 우려를 표명하면서 이란의 무차별적 민간 시설 공격을 규탄하고 있는 상황입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -642,8 +1070,8 @@
       "text": "이러한 가운데 우리 정부는 2월 28일 상황 발생 당일 외교부 대변인 논평을 통해서 모든 당사자의 긴장완화 노력을 촉구하였고 3월 2일에 추가로 지역 상황 전개에 대한 우려를 역시 외교부 대변인 성명으로 발표하였습니다.",
       "text_raw": "이러한 가운데 우리 정부는 2월 28일 상황 발생 당일 외교부 대변인 논평을 통해서 모든 당사자의 긴장완화 노력을 촉구하였고 3월 2일에 추가로 지역 상황 전기에 대한 우려를 역시 외교부 대변인 성명으로 발표하였습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -654,8 +1082,8 @@
       "text": "현재 상황이 유동적이고 시시각각으로 변하고 있으며 이러한 상황에서 외교부는 중동 상황 전개에 대해 우방국과 정보를 교류하면서 지속적으로 면밀히 주시해 나갈 예정입니다.",
       "text_raw": "현재 상황이 유동적이고 시시 각각으로 변하고 있으며 어 그 이런 상황에서 외교부는 중동 상황 전기에 대해 우반국과 정보를 교류하면서 지속적으로 면밀히 주시해 나갈 예정입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -666,11 +1094,20 @@
       "text": "현재로서는 확전 가능성, 전쟁의 장기화 가능성을 모두 배제할 수는 없다고 봅니다.이어서 재외국민 보호 조치에 대해 보고드리겠습니다.",
       "text_raw": "현재로서는 확전 가능성, 장기이 전쟁의 장기화 가능성을 모두 배제할 수는 없다고 봅니다.이어서 이어서 재외국민 보호 조치에 대해 보고드리겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "improve-presentation-materials",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "increase-penalties-prep",
+          "grade": "ai_inferred"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#56",
@@ -678,8 +1115,8 @@
       "text": "외교부는 장관을 본부장으로 하는 재외국민 보호 대책 본부를 가동하고 재외국민 보호를 위해 총력 대응하고 있습니다.",
       "text_raw": "외교부는 장관을 본부장으로 하는 재외국민 보호 대책 본부를 가동하고 재국민 보호를 위해 총력 대응하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -690,8 +1127,8 @@
       "text": "상황 발생 후부터 매일 본부와 공관 합동 점검 회의를 개최하였으며 3월 3일 국무총리 주재로 상황 점검 회의를 개최하여 14개 현지 대사들과 현지 상황 및 재외국민 보호 방안을 밀도 있게 논의하였습니다.",
       "text_raw": "상황 발생후부터 매일 본부와 공간 합동 점검 회의를 개최하였으며 3월 3일 국무총리 주제로 상황 점검 회의를 개최하여 14개 현지 대사들과 현지 상황을에 또 재외국민 보호 방안을 밀도 있게 논의하였습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -702,8 +1139,8 @@
       "text": "외교부는 현지 각 공관을 통해 각국별 우리 국민 구체적 체류 현황은 물론 영공 폐쇄 여부와 민항 운항 현황 등을 매일 확인하여 우리 국민들께 안내하고 있습니다.",
       "text_raw": "외교부는 현지 각 공간을 통해 각국별 우리 국민 구체 체류 현황은 물론 영공 폐쇄 여부와 민기 운항 현황 등을 매일 확 확인하여 우리 국민들께 안내하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -714,8 +1151,8 @@
       "text": "현재 2만 명으로 추산되는 우리 국민을 대상으로 홈페이지와 단체 SNS 방을 통해 수시로 안전 공지를 전파하고 안전 확인 등 필요한 소통을 진행해 왔습니다.",
       "text_raw": "현재 2만 명으로 추산되는 우리 국민을 대상으로 홈페이지와 단체 SNS 방을 통해 수시로 안전 공지를 전파하고 안전 확인 등 필요한 소통을 진행해 왔습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -726,8 +1163,8 @@
       "text": "아 이 시각 현재 단기 체류자는 4,935명 전체 14개국에 모두 합해서 단기 체류자는 4,935명.",
       "text_raw": "아 이시각 현재 단기 체류자는 4,935명 전체 14개국에 모두 합해서 단기 체류자는 4,935명.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -738,8 +1175,8 @@
       "text": "이를 포함한 전체 우리 한국인 국적자는 약 18,472명으로 집계되고 있습니다.",
       "text_raw": "어이를 포함한 전체 우리 한국 어인 국적자는 어 18, 472명으로 어 집게되고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -750,8 +1187,8 @@
       "text": "인터넷이 끊긴 경우 국내 가족과 소통을 연결해 주기도 하고 또 항공편 안내와 숙소, 차량 예약 등도 지원 중입니다.",
       "text_raw": "어 인터넷이 끊긴 경우 국내 가족과 소통을 연결해 주기도 하고 또 항공편 안내와 숙소, 차량 예약 등도 지원 중입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -762,8 +1199,8 @@
       "text": "3월 2일에는 중동지역 일곱 개 국가에 대해 특별 여행주의보를 일괄 발령했습니다.",
       "text_raw": "3월 2일에는 중동지역 일곱 개 국가에 대해 특별 여행주의 보도 어 여행주의보를 일괄 발령했습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -774,8 +1211,8 @@
       "text": "이로써 중동지역 저역에 최소 2단계 이상의 여행 경보와 출국 권고 등 여행 경보가 발령되어 있습니다.",
       "text_raw": "이로써 어 중동지역 저역에 최소 2단계 이상의 여행 자재와 출국 권고 등 여행 경보가 발령되어 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -786,8 +1223,8 @@
       "text": "다행히 현재까지는 우리 국민 피해는 없으며 또 현지 공관 지원 하에 우리 국민들이 안전한 인근국으로 무사히 대피 중입니다.",
       "text_raw": "다행히 현재까지는 우리 국민 피해는 없으며 또 현지 공관 지원 하에 우리 국민들이 안전한 인근국으로 무사히 대피 중입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -798,8 +1235,8 @@
       "text": "지난 화요일에는 이란에 체류 중이던 교민 아홉명과 이란 국적 가족 네명, 공관원 가족 13명, 단기 체류자 2명 등 총 28명이 육로로 투르크메니스탄으로 입국했고 다음날에도 교민 한 명이 추가되어 총 29명의 안전을 확보했습니다.",
       "text_raw": "어 지난 화요일에는 이란의 체류 중이던 교민 아홉명과 이란국적 가족 네명, 공관원 가족 13명, 단기 체류자 2명 등 총 28명이 육로로 트루크메니스탄으로 입국했고 다음날에도 교민 한 명이 추가되어 총 29명의 안전을 확보했습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -810,8 +1247,8 @@
       "text": "이스라엘에서도 지난 화요일 66명의 우리 교민과 47명의 관광객 등 단기 체류자가 이집트로 무사히 입국했습니다.",
       "text_raw": "이스라엘에서도 지난 화요일 66명의 우리 교민과 47명의 관광객 등 단기 체류자가 이집트로 무사히 입국했습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -822,8 +1259,8 @@
       "text": "두 경우 모두 버스 임차, 입국 수속, 숙박 확보 등 전 과정에 걸쳐 현지 공관과 본부에서 급파한 신속 대응 팀이 적극적으로 지원을 제공하였습니다.",
       "text_raw": "두 경우 모두 버스 임차 입국 수속 숙박 확보 등 전 과정에 걸쳐 현지 공강과 본부에서 급화한 신속 대응 팀이 적극적으로 지원을 제공하였습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -834,8 +1271,8 @@
       "text": "또한 바레인에 있던 국민 13명과 이라크에 있던 우리 국민 두 명도 현지 공관의 지원으로 무사히 안전한 지역으로 대피하였고 남아 계신 국민들이 요청이 있을 경우 계속해서 이러한 지원을 적극 제공해 나갈 계획입니다.",
       "text_raw": "또한 바레인에 있던 국민 13명과 이라크에 있던 우리 국민이 두 명도 현지 공관의 지원으로 무사히 안전한 지역으로 대피하였고 남아 남아계신 국민들이 요청이 있을 경우 계속해서 이러한 지원을 적극 제공해 나갈 계획입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -846,8 +1283,8 @@
       "text": "외교부는 UAE와 카타르 등에서 영공 폐쇄 또 민항편 취소로 발이 묶인 우리 국민들이 안전한 귀국을 위해서도 관계부처와 협의하에 필요한 조치를 착실히 준비하고 있습니다.",
       "text_raw": "외교부은 UA와 카타로 등에서 연공 폐쇄 또 민왕편 취소로 발휘 묶긴 우리 국민들이 안전한 귀국을 위해서도 관계부처와 협의하에 필요한 조치를 착실히 준비하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -858,8 +1295,8 @@
       "text": "3월 3일 외교부는 보호대책 본부 회의를 개최해서 국방부, 국토교통부 등 유관부처와 관련 사항을 논의했고 현재 아랍에미리트 대사관, 주아부다비 총영사관, 오만 대사관 등의 전세기와 군수송기 투입 방안에 대해서 협의를 진행하고 있습니다.",
       "text_raw": "3월 3일 그 외교부는 보호대책 본부 회의를 개최해서 국방부, 국토교통부 등 유관부처와 관련 사항을 논의했고 현재에 아랍 에미리트 대사관, 주바이 총영사관, 오만 대사관 등의 전세기와 군수송기 투입 방안에 대해서 협의를 진행하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -870,8 +1307,8 @@
       "text": "아울러 오늘 밤 중동지역 및 영사국의 근무 경험이 있는 대사급 2명을 각각 단장으로 파견하여 정부 합동 신속 대응 팀을 운영하겠습니다.",
       "text_raw": "아울러 오늘 밤 중동지역 및 영사국의 근무 경험이 있는 대사급 2명을 각각 단장으로 어 파견하여 정부 합동 어 신속 대응 팀을 운영하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -882,8 +1319,8 @@
       "text": "사전적 차원에서 현지 공관과 함께 또 필요한 대피 작전도 준비할 예정입니다.",
       "text_raw": "사전적 차원에서 현지 공과 함께 또 필요한 대피 작전도 준비할 예정입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -894,8 +1331,8 @@
       "text": "현지 상황이 악화될 경우 즉각적으로 여행 경보를 추가 상향 조정할 필요성도 검토하고 있습니다.",
       "text_raw": "현지 상황이 악화될 경우 즉각적으로 여행 경보를 추가 상향 조정할 필요성도 검토하고 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -906,8 +1343,8 @@
       "text": "또한 재외동포청 주관으로 이번에 귀국하는 우리 국민에 대해서 원스톱 지원 서비스를 가동하고자 합니다.",
       "text_raw": "또한 재회동포청 주관으로 어 이번에 귀국하는 우리 국민에 대해서 어 원스톱 지원 서비스를 가동하고자 합니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -918,8 +1355,8 @@
       "text": "동포청에서는 전담 창구를 설치하고 전담 요원을 지정하여 관련부처와 총괄를 하며 관련 부처에서 심리지원 등 구체적인 지원도 할 계획으로 있습니다.",
       "text_raw": "동포청에서는 전담 창구를 설치하고 전담 요원을 지정하여 관련부에 또 어 총괄를 하지만은 관련 부처에서 심리지원 등 구체적인 지원도 할 계획으로 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -930,8 +1367,8 @@
       "text": "외교부는 계속해서 우리 국민의 안전 확보라는 최우선 목표를 달성하기 위해 모든 외교적 자원을 총동원하겠습니다.",
       "text_raw": "의교부는 계속해서 우리 국민이 안전 확보라는 최우선 목표를 달성하기 위해 모든 외교적 자원을 총동원하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t5",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -942,8 +1379,8 @@
       "text": "이상입니다.",
       "text_raw": "이상입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t6",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -954,8 +1391,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t6",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -966,8 +1403,8 @@
       "text": "이어서음 >> 잠깐만. 예. 어.",
       "text_raw": "이어서음 >> 잠깐만. 예. 어.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t6",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -978,11 +1415,28 @@
       "text": "재외국민 안전보호 문제는 우리 국민들의 관심도 그럴뿐만 아니라 실제로 피해가 발생할 경우에 국가의 책임 문제가 약이 될 수도 있기 때문에 지금까지도 아주 잘 해오고 계신데 향후에도 철저하게 또 신속하게 대응할 수 있도록 완전을 기해 주시기 바랍니다. 네.",
       "text_raw": "재외국민 안전보 문제는 우리 국민들의 관심도 그럴뿐만 아니라 어 실제로 피해가 발생할 경우에 국가의 책임 문제가 약이 될 수도 있기 때문에 어 지금까지도 아주 잘 해오고 계신데 향후에도 철저하게 또 신속하게 대응할 수 있도록 완전을 개해 주시기 바랍니다. 네.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t7",
+      "agenda_id": "2026-cab-0305-sPS14B@a3",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "investigate-quickly-thoroughly",
+          "grade": "topic"
+        },
+        {
+          "thread_id": "roadcorp-safety-reward",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "revise-enforcement-decree-quickly",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "establish-strict-sanctions",
+          "grade": "ai_inferred"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#82",
@@ -990,8 +1444,8 @@
       "text": "예. 이어서 재경부 장관 보고 드리겠습니다.",
       "text_raw": "예.이어서 이어서 재경부 장관 보고 드리겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1002,11 +1456,48 @@
       "text": "중동 상황 관련한 경제분야 대응 현황과 대응 방향에 대해서 보고 드리겠습니다.",
       "text_raw": "중동 상황 관련한 경제분야 대응 현황과 대응 방향에 대해서 보고 드리겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "structural-safety-inspection",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "ai-safety-inspection",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "pursue-imjeong-preservation-agreement",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "improve-presentation-materials",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "military-part-performance-validation",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "maintain-population-decline-pilot",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "bold-investment-planning",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "increase-penalties-prep",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "holiday-safety-emergency-check",
+          "grade": "ai_inferred"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#84",
@@ -1014,8 +1505,8 @@
       "text": "그간의 대응 현황입니다.",
       "text_raw": "그간의 대응 현황입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1026,8 +1517,8 @@
       "text": "중동 상황 발생 직후부터 범부가 총력으로 대응해 오고 있습니다.",
       "text_raw": "중동 상황 발생 직구부터 범부가 총력으로 대응해 오고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1038,8 +1529,8 @@
       "text": "매일 그동안 국무총리 주재로 중동상황 관계 장관 회의를 개최해 왔습니다.",
       "text_raw": "어 매일 어 그동안에 국무 총리 주제로 중동상황 관계 장관 회의를 개최했었습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1050,8 +1541,8 @@
       "text": "정부에서 중동 상황에 대한 부처별 조치 상황을 모니터링하고 꼼꼼하게 챙겨왔습니다.",
       "text_raw": "에서 중동 상황에 대한 구처별 조치 상황을 모니터링하고 꼼꼼하게 챙겨왔습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1062,8 +1553,8 @@
       "text": "경제분야에서는 제가 관계부처 합동으로 24시간 모니터링 및 대응 체계를 구축해 왔습니다.",
       "text_raw": "경제분야에서는 제가 관계부처 합동으로 24시간 모니터링 및 대응 체계를 구축해 왔습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1074,8 +1565,8 @@
       "text": "첫 번째 경제 상황 및 공급망에 있어서는 매일 시장 개장 전에 모니터링 및 대응 체계를 구축했습니다.",
       "text_raw": "첫 번째 경제 상황 및 공급망에 있어서는 매일 시장 개정 전에 모니터링 및 대응 체계를 구축했습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1086,8 +1577,8 @@
       "text": "재경부뿐만이 아니라 해수부, 중기부, 기획부 등 관계부처가 매일 점검을 했다는 말씀을 드리겠습니다.",
       "text_raw": "어 재경부뿐만이 아니라 해수부, 중기부, 기후부 등 관계부처가 매일 점검을 했다는 말씀을 드리겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1098,8 +1589,8 @@
       "text": "국제 에너지 분야에 있어서는 그 상황 발생 당일 산업부 장관 주재로 비상 상황 점검회를 했고요.",
       "text_raw": "국제 에너지 반에 있어서는 그 상황 발생 당일 산업부 장관 주제로 비상 상황 점검회를 했고요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1110,8 +1601,8 @@
       "text": "매일 석유·가스 수급 현황과 영향 등을 지속적으로 점검해 왔습니다.",
       "text_raw": "매매 매매일 석유 가스 수거 현황 어깨 영향등을 지속적으로 점검해 왔습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1122,8 +1613,8 @@
       "text": "금융 시장 분야에 있어서는 금융위원장 주재로 시장 상황 점검회를 개최해서 금융시장 동향 점검 그다음 시장 안정 조치 및 수출·중소기업 금융 지원 방안도 마련했습니다.",
       "text_raw": "금융 시장 반반에 있어서는 금융위원장 주제로 시장 상황 점검회를 개최해서 어 금융시장 동량 점검 그다음 시장 안정 조치 및 수출 중기 금융 지원 방안도 마련했습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1134,8 +1625,8 @@
       "text": "이외에도 무역협회, 수출입은행, 한국은행 등 각 기관별로 분야별 점검대응 체제를 마련했습니다.",
       "text_raw": "이외에도 어 무역 협회 수출회 위반행 한국은행 등 각 기관별로 분야별 점검대응 체제를 마련했습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1146,8 +1637,8 @@
       "text": "그 표에서 보시는 바와 같이 외교부의 동향과 연계해서 저희들이 세계 지역별로 대응해 왔다는 보고를 드리겠습니다.",
       "text_raw": "어 그 표에서 보시는 바와 같이 외교부의 동양반과 연계해서 어 저희들이 세계 반별로 대응해 왔다는 보고를 드리겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1158,8 +1649,8 @@
       "text": "다음 쪽입니다.",
       "text_raw": "다음 쪽입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1170,8 +1661,8 @@
       "text": "현 상황 평가입니다.",
       "text_raw": "현 상황 평가입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1182,8 +1673,8 @@
       "text": "현재 유가나 금융시장 변동성은 크게 확대된 상황입니다.",
       "text_raw": "현재 육가나 금융시장 변동성은 크게 확대된 상황입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1194,8 +1685,8 @@
       "text": "그래서 향후 상황 전개에 따라서는 실물 경제에도 영향 가능성이 있기 때문에 면밀하게 지금 지켜보고 있는 상황입니다.",
       "text_raw": "어 그래서 향후 상황 전개에 따라서는 실물 경제에도 영향 가능성이 있기 때문에 면밀하게 지금 지켜보고 있는 상황입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1206,8 +1697,8 @@
       "text": "먼저 에너지 가격입니다.",
       "text_raw": "먼저 에너지 가격입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1218,8 +1709,8 @@
       "text": "어 호르무저 회이 사실상 봉쇄된 그런 상황하에서 어 금일 아침 8시 기준으로 어 자료를 보고 드리면 브랜트는 82.4불 그다음에 서부 텍사스유는 74.5불로 어제 그 22시 기준입니다만 오늘 그 8시 기준으로는 76불로 올랐습니다.",
       "text_raw": "어 호르무저 회이 사실상 봉쇄된 그런 상황하에서 어 금일 아침 8시 기준으로 어 자료를 보고 드리면 브랜트는 82.4불 그다음에 서브 텍사스유는 74.5불로 어제 그 22시 기준입니다만 오늘 그 8시 기준으로는 76불로 올랐습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1230,8 +1721,8 @@
       "text": "두바이유는 80.4불로 사로 유지해서 상황 전 대비에서 한 13% 정도 어 에너지 가격이 올라 있는 상황입니다.",
       "text_raw": "두바이오는 80.4불로 사로 유지해서 상황 전 대비에서 한 13% 정도 어 에너지 가격이 올라 있는 상황입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1242,8 +1733,8 @@
       "text": "시장 상황입니다.",
       "text_raw": "시장 상황입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1254,8 +1745,8 @@
       "text": "코스피는 어 지정학적 리스크나 그동안의 그 주요국 대비에서 높은 상승 등을 보임에 따라서 어제는 어 12.1%로 많이 내렸습니다만 제가 회의 들어오기 전 9시 30분 기준으로는 다시 11.93%가 올라서 어제의 낙폭을 오늘 많이하는 상황입니다.",
       "text_raw": "코스피는 어 지정학적 리스크나 그동안의 그 주요국 대비에서 높은 상승 등을 보임에 따라서 어제는 어 12.1%로 많이 내렸습니다만 제가 회의 들어오기 전 9시 30분 기준으로는 다시 11.93%가 93%가 올라서 어제의 낙폭을 오늘 많이하는 상황입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1266,8 +1757,8 @@
       "text": "그리고 외환 어 같은 경우도 어저께는 1476원을 했습니다만 제가 오늘 아침 9시 30분 기준으로는 1459원으로 것도 한 16원 이상 정도가 이렇게 다시 시장에서 정상으로를 찾아가고 있는 그런 과정으로 보입니다.",
       "text_raw": "그리고 외한 어 같은 경우도 어저께는 1476불을 했습니다만 제가 오늘 아침 9시 30분 기준으로는 1459불로 것도 한 16원 이상 정도가 이렇게 다시 시장에서 정상으로를 찾아가고 있는 그런 과정으로 보입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1278,8 +1769,8 @@
       "text": "실물 부분에 있어서는 수출·중개로상항을 저희들이 저 관측을 했습니다.",
       "text_raw": "실물 부분에 있어서는 수출 중개 로상항을 저희들이 저 관측을 했습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1290,8 +1781,8 @@
       "text": "한 40건의 피해 신고가 접수가 되었고요.",
       "text_raw": "한 40건의 피해 에로가 접수가 되었고요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1302,8 +1793,8 @@
       "text": "그 내용으로는 운송 차질이라든지 대금 미지급 물류비 증가 등 에로 등에 있어서 저희들이 모니터링해서 그 대응책을 마련하고 있습니다.",
       "text_raw": "그 내용으로는 운송 차질이라든지 대금 미지업 물류비 증가 에로 등에 있어서 저희들이이 모니터링해서 그 대형책을 마련하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1314,8 +1805,8 @@
       "text": "앞으로도 상황 장기화시에 내수 회복 제약 가능성을 염두해 두고 대응책을 마련할 필요가 있다고 보여집니다.",
       "text_raw": "앞으로도 상황 장기화시에 내수 회벽 제약 가능성을 염두해 두고 대응책을 마련할 필요가 있다고 보여집니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1326,8 +1817,8 @@
       "text": "안전에 있어서는 중동 지역에 운항하는 선박 안전 그리고 건설 근로자들의 안전 확보의 정보에 어 적극적으로 대응해 왔습니다.",
       "text_raw": "안전에 있어서는 중동 지역에 운항하는 선박 선언 그리고 건설 근로자들의 안전 확보의 정보가 어 적극적으로 대응해 왔습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1338,8 +1829,8 @@
       "text": "현재 호르무즈 및 인근 해역에는 그 38척의 배가 있고 호르무즈 해협 내측에는 26척의 선박이 위치하고 있습니다.",
       "text_raw": "현재 호르무 및 인근 해역에는 그 38척의 배가 있고 호르무저 해협 네측에는 26척에 선박이 위치하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1350,8 +1841,8 @@
       "text": "현재까지 우리 선박에 피해는 없는 상황입니다.",
       "text_raw": "현재까지 우리 선박에 피해는 없는 상황입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1362,8 +1853,8 @@
       "text": "어, 그리고 건설 근로자의 경우에는 현재 2,289개 사업장에서 45개사 2,592명의 건설 근로자들이 근무 중입니다.",
       "text_raw": "어, 그리고 건설 근로자의 경우에는 현재 20 289개 사업장에서 45개사 2,592명의 건설 근로자들이 근무 중입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1374,8 +1865,8 @@
       "text": "대사관 정보 공유 등을 통해서 현재 대피 중에 있으며 어, 안전 지역은 공사를 재개할 그런 예정으로 있습니다.",
       "text_raw": "대사관 정보 공유 등을 통해서 현재 대피 중에 있으며 어, 안전 지역은 공사를 제개할 그런 예정으로 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1386,8 +1877,8 @@
       "text": "향후 대응 방향입니다.",
       "text_raw": "향후 대응 방향입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1398,8 +1889,8 @@
       "text": "앞으로도 정부는 관계기관 긴밀한 공조를 통해서 실물, 금융, 에너지 모든 분야에 있어서 어 지속 점검하고 이상 징후 발생시는 기민하게 대응하도록 하겠습니다.",
       "text_raw": "앞으로도 정부는 관계 기간 긴밀한 공조를 통해서 실물, 금융, 에너지 모든 분야에 있어서 어 지속 점검하고 이상 징후 발생시는 기민하게 대응하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1410,8 +1901,8 @@
       "text": "에너지는 중동 외량 확보도 추진하고 해외 생산분 도입 그다음에 공동 비축 우선 구매권 행사 등 비상 매뉴얼을 철저히 준비하도록 하겠습니다.",
       "text_raw": "에너지는 중동 외량 확보도 추진하고 해외 생산분 도입 그다음에 공동 비축 우선 구매권 행사 등 비상 메뉴얼을 철저히 준비하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1422,8 +1913,8 @@
       "text": "필요시에는 비축물도 신속하게 방출하도록 하겠습니다.",
       "text_raw": "필요시에는 비중류도 신숙하게 방출하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1434,8 +1925,8 @@
       "text": "시장은 오늘 오전으로는 어 시장 불안 심리가 다소 진정되었습니다만 상황 진전에 따라서는 또 시장 쏠림 확대가 나타날 수도 있기 때문에 상황별 대응 계획을 마련해서 시장 안정 조치를 하도록 하겠습니다.",
       "text_raw": "시장은 오늘 오전으로는 어 시장 불안 심리가 다소 진정되었습니다만 상황 진전에 따라서는 또 시장 솔림 확대가 나타날 수도 있기 때문에 상별 대응 계획을 마련해서 시장 안정 조치를 하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1446,8 +1937,8 @@
       "text": "좀 전에 대표님께서 말씀하신 바와 같이 백조 플러스 알파의 채권 시장 안전 프로그램도 마련해 두고 있다는 말씀을 드리겠습니다.",
       "text_raw": "좀 전에 대표님께서 말씀하신 바와 같이 백조 플러스 알파의 채권 시장 안전 프로그램도 마련해 두고 있다는 말씀을 드리겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1458,8 +1949,8 @@
       "text": "외환의 경우도 오늘 아침에는 어 진정세를 보이고 있습니다만 어 앞으로 쏠림 현상이 확대되지 않도록 원·달러 움직임을 각별히 경계감을 가지고 예의 주시하고 필시 적기 대응 조치를 하도록 하겠습니다.",
       "text_raw": "외안의 경우도 오늘 아침에는 어 진정세를 보이고 있습니다만 어 앞으로 쏠림 현상이 확대되지 않도록 원달러 움직임을 각별히 경계감을 가지고 예의 주시하고 필시 적기 대응 조치를 하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1470,8 +1961,8 @@
       "text": "실물 분야입니다.",
       "text_raw": "실물 분야입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1482,8 +1973,8 @@
       "text": "물가는 어 최근 휘발유 가격의 과도한 인상 등 현상이 나타나고 있습니다.",
       "text_raw": "물가는 어 최근 휘발류 가격의 과도한 인상 등 현상이 나타나고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1494,8 +1985,8 @@
       "text": "이런 부분에 대해서는 어 집중 점검을 해서 어 민생물자 특별 관리 품목 관련해서 담합 또는 어 불공정 행위 등에 대해서는 엄단을 하도록 하겠습니다.",
       "text_raw": "이런 부분에 대해서는 어 집중 점검을 해서 어 민생불가 특별 관리 품목 관련해서 담합 또는 어 불공정 행위 등에 대해서는 엄단을 하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1506,8 +1997,8 @@
       "text": "오늘 오후에 긴급 민생 관련 관계부처 장관 회의를 소집해서 점검하고 시정 조치를 발동하도록 하겠습니다.",
       "text_raw": "오늘 오후에 긴급 민생 관련 관계부처 장관 회의를 소집해서 점검하고 시정 조치를 발로하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1518,8 +2009,8 @@
       "text": "수출에 있어서는 중소·벤처기업의 경우에는 피해 피해나 어 애로 대응 TF를 운영 중에 있습니다.",
       "text_raw": "수출에 있어서는 중소 벤처 기업의 경우에는 피로 피해나 어 에로 대형 TF를 운영 중에 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1530,8 +2021,8 @@
       "text": "중기부하고 관계부 합동으로 15개 수출 지원 센터 및 누리집을 통한 피해·애로도 접수하고 있고 어 중소기업에 대해서는 일대일 전담 관제를 통해서 기업별로 애로 사항을 점검하고 개선 방안을 마련하도록 하겠습니다.",
       "text_raw": "중개부하고 관계부 합동으로 15개 수출 지원 센터 및 누리집을 통한 피해 에로도 접수하고 있고 어 중소기업에 대해서는 일대일 전담 관제를 통해서 기업별로 에로 사항을 점검하고 개선 방안을 마련하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1542,8 +2033,8 @@
       "text": "그리고 어 애로를 겪고 있는 수출 중소기업 지원을 위해서 2조 3,억 원의 그 자금을 마련해서 금리 인하나 그리고 대출 확대 등을 통해서 어려움을 겪지 않도록 하겠습니다.",
       "text_raw": "그리고 어 애로를 겪고 있는 수출 중소기업 지원을 위해서 20조 3,억 원의 그 자금을 마련해서 금리 인하나 그리고 대출 확대 등을 통해서 어려움을 겪지 않도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1554,8 +2045,8 @@
       "text": "그리고 피해 중소 기업에 대해서는 법인세 납기 연장이나 세무조사 부담 완화 등 세정 지원도 해 나가도록 하겠습니다.",
       "text_raw": "그리고 피해 중소 기업에 대해서는 법인세 납기 연장이나 세무조사 부담 완화 등 세정 지원도 해 나가도록 하겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1566,8 +2057,8 @@
       "text": "호르무즈 해협 봉쇄 장기화에 따른 물류 차질에 대비해서 수출입 물류 비상 대응 태세를 구성해서 물류 바우처 한도 증액 등 추가 지원도 마련토록 하겠습니다.",
       "text_raw": "호르무저 회협 봉쇄 장기화에 따른 물류 차질을에 대비해서 수출인 물류 비상 대응 방어를 구성해서 물류 바우토 한도 증액 등 추가 지원도 마련토록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1578,8 +2069,8 @@
       "text": "그리고 지금 현재 중동 의존도가 높은 납사 등 품목에 대해서는 공급망 안정화 기금 비상 대응반을 가동해서 어 품목별로 지금 저희들이 점검을 하고 있습니다.",
       "text_raw": "그리고 지금 현재 중동 의존도가 높은 납사등 품목에 대해서는 공급망 안종화 기금 비상 대응반을 가동해서 어 품목별로 지금 저희들이 점검을 하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1590,8 +2081,8 @@
       "text": "해서 구매 자금이나 긴급 운영 자금 지원도 확대토록 하겠습니다.",
       "text_raw": "해서 구매 자금이나 긴급 운영 자금 지원도 확대토록 하겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1602,8 +2093,8 @@
       "text": "그리고 코트라를 중심으로 기업 지원 헬프데스크 등을 통해서 기업 맞춤형 지원도 병행하고 있습니다.",
       "text_raw": "그리고 코트라를 중심으로 기업 지원 헬프 데스크 등을 통해서 기업 맞춤명 지원도 병행하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1614,8 +2105,8 @@
       "text": "선박 통항 안전 조치를 위해서 선원 인별로 상세 연락을 이미 파악을 했습니다.",
       "text_raw": "선박 통 안전 조치를 위해서 선언 인별로 상세 연항을 이미 파악을 했습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1626,8 +2117,8 @@
       "text": "현재 그 항구 인근에 있는 그 우리 선원들은 어 전체가 어 186명입니다.",
       "text_raw": "현재 그 코로저 인근에 있는 그 우리 선언들은 어 전체가 어 186명입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1638,8 +2129,8 @@
       "text": "내항 선사에는 144명.",
       "text_raw": "내양 선사에는 144명.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1650,8 +2141,8 @@
       "text": "그다음 외항선사의 42명에서 186명의 인적 사항 연락처까지 저희들이 확보해 놓은 사항입니다.",
       "text_raw": "그다음 외양선사의 42명에서 186명의 인적 사항 연락처까지 저희들이 확보해 놓은 사항입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1662,8 +2153,8 @@
       "text": "그래서 이분들에 대한 선용품을 보급하고 또 필요한 경우는 하선 지원도 할 계획입니다.",
       "text_raw": "그래서 이분들에 대한 선용품을 보급하고 또 필요한 경우는 하선 지원도 할 계획입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1674,8 +2165,8 @@
       "text": "그래서 외국인까지 포함할 경우 저희들이 한 640명 정도로 파악되고 있습니다.",
       "text_raw": "그래서 외국인까지 포함할 경우 저희들이 한 640명 정도로 파악되고 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1686,8 +2177,8 @@
       "text": "이분들까지도 조치를 해서 안전을 확보하도록 하겠습니다.",
       "text_raw": "이분들까지도 조치를 해서 안전을 확보하도록 하겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1698,8 +2189,8 @@
       "text": "건설 근로자의 경우에도 비상 대체반을 가동 중에 있습니다.",
       "text_raw": "건설 권료자의 경우에도 비상 대체반을 가동 중에 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1710,8 +2201,8 @@
       "text": "어 그래서 긴급한 경우 대피 지원을 하고 상황 종료 후에는 어 비용 분쟁 해소 등을 위한 정책 금융도 차질없이 지원하도록 하겠습니다.",
       "text_raw": "어 그래서 긴급한 경우 대피 지원을 하고 상황 종료 후에는 어 비용 분쟁 해수 등을 위한 정책 금융도 차질없이 지원도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1722,8 +2213,8 @@
       "text": "현재로서는 중동 상황을 저희들이 예단하기가 어렵습니다.",
       "text_raw": "현재로서는 중동 상황을 저희들이 애단하기가 어렵습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1734,8 +2225,8 @@
       "text": "정부는 단기적인 대응은 단기적 대응대로 또 장기화에 대비해서 경기·민생 안정 대책 추가 대책도 적시 마련해서 어 시행토록 하겠습니다.",
       "text_raw": "정부는 단기적인 대응은 단기적 대응대로 또 장기화에 대비해서 경기 민생 안정 대책 추가 대책도 적치 마련해서 어 시행토록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1746,8 +2237,8 @@
       "text": "이상 보고를 마치겠습니다.",
       "text_raw": "이상 보호를 마치겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t8",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1758,11 +2249,24 @@
       "text": "예, 이 보고 내용 중에 있긴 한데 어, 지금 어, 민생의 가장 직접적인 영향을 미치는 주유소 석유 가격이 하루 만에 지금 뭐 200원 넘게 오른 데도 있다는데 요거에 대한 대응 방안과 대응 부처는 어디 어디예요?",
       "text_raw": "예,이 보고 내용 중에 있긴 한데 어, 지금 어, 민생의 가장 직접적인 영향을 미치는 주유소 석유 가격이 하루 만에 지금 뭐 200원 넘게 오른데도 있다는데 요거에 대한 대응 방안과 대응 부처은 어디 어디예요?",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t9",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "fuel-price-response-report",
+          "grade": "explicit"
+        },
+        {
+          "thread_id": "improve-presentation-materials",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "increase-penalties-prep",
+          "grade": "ai_inferred"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#147",
@@ -1770,8 +2274,8 @@
       "text": "어디에 어떤게 있습니까?",
       "text_raw": "어디에 어떤게 있습니까?",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t9",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1782,8 +2286,8 @@
       "text": "예, 대통령님, 지금 그 석유 사업법 23조에 보면은요. 어.",
       "text_raw": ">> 예, 대통령님, 지금 그 석유 사법 23조에 보면은요. 어.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1794,8 +2298,8 @@
       "text": "이제 가격이 급등하는 경우는 최고가격을 지정하도록 되어 있습니다.",
       "text_raw": "이제 가격이 급등하는 경우는 최고 가격을 지정하도록 되어가 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1806,11 +2310,32 @@
       "text": "그래서 저희들 오늘 오후에 가격을 점검해서 어 가격이 높은 경우는 고시를 통해서 최고가액 지정하는 방안까지도 좀 검토를 하도록 하겠습니다.",
       "text_raw": "그래서 저희들 오늘 오후에 가격을 점검해서 어이 가격이 높은 경우는 고시를 통해서 최고가액 지정하는 방안까지도 좀 검토를 하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "investigate-quickly-thoroughly",
+          "grade": "topic"
+        },
+        {
+          "thread_id": "energy-coop-staffing-review",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "structural-safety-inspection",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "ai-safety-inspection",
+          "grade": "ai_inferred"
+        },
+        {
+          "thread_id": "ensure-transparency-sculpture-permits",
+          "grade": "ai_inferred"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#151",
@@ -1818,8 +2343,8 @@
       "text": "두 번째로는 공정위에서 담합으로 인정되면 담합 조사을 할 겁니다.",
       "text_raw": "두 번째로는 공정위에서 담합으로 인정 담합 조사를 할 겁니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1830,8 +2355,8 @@
       "text": "어 가격이 높은 주수에 대해서는.",
       "text_raw": "어 가격이 높은 주수에 대해서는.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1842,8 +2367,8 @@
       "text": "그래서 담합으로 인정되면은 또 가격 재조정 조치 또 가능할 수 있다고 생각합니다.",
       "text_raw": "그래서 담합으로 인정되면은 또 가격 재조정 조치 또 가능할 수 있다고 생각합니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1854,8 +2379,8 @@
       "text": "그리고 어 물가 안정 법에 따라서 저희들 매점 매이 일어난다면은 또 저희들이 매전 매에 따른 치정 조치 또는 어 형사 처벌까지도 가능하기 때문에 정부가 가용할 수 있는 모든 행정 조치를 통해서이 이런 위기 사항을 이용해서 또 부당하게 돈을 버는 행위는 결코 용납되지 않도록 어 철저하게 >> 네.",
       "text_raw": "그리고 어 물가 안정 법에 따라서 저희들 매점 매이 일어난다면은 또 저희들이 매전 매에 따른 치정 조치 또는 어 형사 처벌까지도 가능하기 때문에 정부가 가용할 수 있는 모든 행정 조치를 통해서이 이런 위기 사항을 이용해서 또 부당하게 돈을 버는 행위는 결코 용납되지 않도록 어 철저하게 >> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1866,8 +2391,8 @@
       "text": "를 해 나합니다.",
       "text_raw": "를 해 나습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1878,8 +2403,8 @@
       "text": ">> 어 하여튼 우리 국민들께서 그 일상에서 느끼기로는 오를 때는 엄청 빨리 많이 오르고 내릴 때는 천천히 조금만 내린다.",
       "text_raw": ">> 어 하여튼 우리 국민들께서 그 일상에서 느끼기로는 오를 때는 엄청 빨리 많이 오르고 내릴 때는 천천히 조금만 내린다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1890,8 +2415,8 @@
       "text": "이게 뭔가 좀 문제가 있다.",
       "text_raw": "이게 뭔가 좀 문제가 있다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1902,8 +2427,8 @@
       "text": "이런 인식을 가지고 있습니다.",
       "text_raw": "이런 인식을 가지고 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1914,8 +2439,8 @@
       "text": "실제로 지금 현재 상태로 어 지금 호르무주 해협봉쇄나 뭐 국제육과 원유가 상승이 있긴 한데 >> 그게 국내에 실질적으로 영향을 아직은 미치고 있지 않은 상태잖아요.",
       "text_raw": "실제로 지금 현재 상태로 어 지금 호르무주 해협봉쇄나 뭐 국제육과 원유가 상승이 있긴 한데 >> 그게 국내에 실질적으로 영향을 아직은 미치고 있지 않은 상태잖아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1926,8 +2451,8 @@
       "text": "이제 미칠 걸로 예상이 된다.",
       "text_raw": "이제 미칠 걸로 예상이 된다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1938,8 +2463,8 @@
       "text": "이런 정도인데 >> 네.",
       "text_raw": "이런 정도인데 >> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1950,8 +2475,8 @@
       "text": "있습니다.",
       "text_raw": "있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1962,8 +2487,8 @@
       "text": "어, 실제 그게 국내 가격의 영향을 미치는 상황이 돼서 가격이 조정되는 거는 이해할 수 있는데 >> 네.",
       "text_raw": "어, 실제 그게 국내 가격의 영향을 미치는 상황이 돼서 가격이 조정되는 거는 이해할 수 있는데 >> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1974,8 +2499,8 @@
       "text": ">> 그게 오를 거라고 예상이 된다고 갑자기 소비 가격 자체가 이렇게 폭등하는 거는 이거 지금 국민들이 겪는 국가적인 또 어려움 이런 상황을 이용해서 자기 이익만 보겠다.",
       "text_raw": ">> 그게 오를 거라고 예상이 된다고 갑자기 소비 가격 자체가 이렇게 폭등하는 거는 이거 지금 국민들이 겪는 국가적인 또 어려움 이런 상황을 이용해서 자기 이익만 보겠다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1986,8 +2511,8 @@
       "text": "그런 태도잖아요.",
       "text_raw": "그런 태도잖아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -1998,8 +2523,8 @@
       "text": "네.이 이 공동체 일반 원리에 어긋나다는 거 아닙니까?",
       "text_raw": "네.이 이 공동체 일반 원리에 어긋나다는 거 아닙니까?",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2010,8 +2535,8 @@
       "text": "우리 국민들은 사실은 무슨 사제이나 이런 것도 안 하실만큼 시민 의식 수준이 높은데 요런 상황 이용해 가지고 그 돈을 좀 벌겠다고 혼 혼란을 주는 것에 대해서는 엄정하게 대응해야 될 것 같아.",
       "text_raw": "우리 국민들은 사실은 무슨 사제이나 이런 것도 안 하실만큼 시민 의식 수준이 높은데 요런 상황 이용해 가지고 그 돈을 좀 벌겠다고 혼 혼란을 주는 것에 대해서는 엄정하게 대응해야 될 것 같아.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2022,8 +2547,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t10",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2034,11 +2559,28 @@
       "text": "엄정하게 대응하겠습니다.",
       "text_raw": "엄정하게 대응하겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "impose-sanctions-unfair-pricing",
+          "grade": "explicit"
+        },
+        {
+          "thread_id": "price-monitoring-rapid-investigation",
+          "grade": "explicit"
+        },
+        {
+          "thread_id": "investigate-quickly-thoroughly",
+          "grade": "topic"
+        },
+        {
+          "thread_id": "revise-enforcement-decree-quickly",
+          "grade": "topic"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#170",
@@ -2046,8 +2588,8 @@
       "text": "뭐 아무리 돈이 막이라고 하지만 이게 너무 심한 거 같습니다.",
       "text_raw": "뭐 아무리 돈이 막이라고 하지만 이게 너무 심한 거 같습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2058,8 +2600,8 @@
       "text": "최고 가격 지정도 이전에는 잘 안 했던 거 같긴 한데 >> 네.",
       "text_raw": "최고 가격 지정도 이전에는 잘 안 했던 거 같긴 한데 >> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2070,8 +2612,8 @@
       "text": ">> 옛날에 했냐 안 했냐는 중요한게 아니고 >> 네.",
       "text_raw": ">> 옛날에 했냐 안 했냐는 중요한게 아니고 >> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2082,8 +2624,8 @@
       "text": ">> 현재 상태로 또 미래 지향적으로 할 일은 하자.",
       "text_raw": ">> 현재 상태로 또 미래 지향적으로 할 일은 하자.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2094,8 +2636,8 @@
       "text": "법에 있는 제도를 잘 활용해서 어 이런 부당하게 좀 이익을 추구하는 행위는 좀 제재하시고요. 네.",
       "text_raw": "법에 있는 제도를 잘 활용해서 어 이런 부당하게 좀 이익을 추구하는 행위는 좀 제재하시고요. 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2106,8 +2648,8 @@
       "text": "담 조사와 그의 따른 대응 조치는 사실 시간이 많이 걸리잖아. 그죠?",
       "text_raw": "담 조사와 그의 따른 대응 조치는 사실 시간이 많이 걸리잖아. 그죠?",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2118,8 +2660,8 @@
       "text": "뭐 필요하면 하기 하되 지금 당장 할 수 있는게 뭔지라 고민 봐 주시고요.",
       "text_raw": "뭐 필요하면 하기 하되 지금 당장 할 수 있는게 뭔지라 고민 봐 주시고요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2130,8 +2672,8 @@
       "text": ">> 매전 매부분 조사 처벌도 마찬가지 않습니까?",
       "text_raw": ">> 매전 매 부분 조사 처벌도 마찬가지 않습니까?",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2142,8 +2684,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2154,8 +2696,8 @@
       "text": "그렇게 하도록 >> 네.",
       "text_raw": "그렇게 하도록 >> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2166,8 +2708,8 @@
       "text": "어이 행정 처분은 물론 이게 최고가 지정도 일종 행정 처분인데 그거 말고 이렇게 부당하게 과도하게 어 가격을 올려서 부당한 이익을 취하는 행위에 대한 무슨 영업 정지나 아니면 뭐 과태료 부과나 과징금 부가나 이런 제도는 없어요?",
       "text_raw": "어이 행정 처분은 물론 이게 최고가 지정도 일종 행정 처분인데 그거 말고 이렇게 부당하게 과도하게 어 가격을 올려서 부당한 이익을 취하는 행위에 대한 무슨 영업 정지나 아니면 뭐 과태료 부과나 과진금 부가나 이런 제도는 없어요?",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2178,8 +2720,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2190,8 +2732,8 @@
       "text": "현재는 알겠습니다.",
       "text_raw": "현재는 알습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2202,8 +2744,8 @@
       "text": "그럼 필요하다면 제도까지도 마련하는 >> 아니 마련하는게 현재 상대로 >> 예 지금 공정에서 가격 전국적으로 지역 사무소 다 가동해서 가격 모니터링 중입니다.",
       "text_raw": "그럼 필요하다면 제도까지도 마련하는 >> 아니 마련하는게 현재 상대로 >> 예 지금 공정에서 가격 전국적으로 지역 사무소 다 가동해서 가격 모니터링 중입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2214,8 +2756,8 @@
       "text": "그래서 가격이 >> 지금 많이 오은 어 지역이 있거든요.",
       "text_raw": "그래서 가격이 >> 지금 많이 오은 어 지역이 있거든요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2226,8 +2768,8 @@
       "text": "그런 지역들을 중심으로 해서 담사에 좀 신속하게 어 공정이 조사를 시작하면 그 관련한 제재도 어 신속하게 내릴 수 있습니다.",
       "text_raw": "그런 지역들을 중심으로 해서 담사에 좀 신속하게 어 공정이 조사를 시작하면 그 관련한 제재도 어 신속하게 내릴 수 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2238,8 +2780,8 @@
       "text": ">> 근데 시간이 꽤 걸릴 것 같아서요.",
       "text_raw": ">> 근데 시간이 꽤 걸릴 것 같아서요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2250,8 +2792,8 @@
       "text": "이게 지금 어제부터 이미 당장 엄청나게 휘발류 경육 가격을 올렸다는데 >> 그 주유소들은 이제 그렇게 영업 그 규모가 작기 때문에요.",
       "text_raw": "이게 지금 어제부터 이미 당장 엄청나게 휘발류 경육 가격을 올렸다는데 >> 그 주유소들은 이제 그렇게 영업 그 규모가 작기 때문에요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a4",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2262,8 +2804,8 @@
       "text": "조사도 좀 신속하게 할 수 있습니다.",
       "text_raw": "조사도 좀 신속하게 할 수 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t11",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2274,8 +2816,8 @@
       "text": "대통령님 그 산업부에서 추가로 좀 보고를 드리겠습니다.",
       "text_raw": "대통령님 그 산업부에서 추가로 좀 보고를 드리겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t12",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2286,8 +2828,8 @@
       "text": "부총님께서 말씀하셨듯이 그 석유 사업법에 이런 상황에서 어 단속하고 어 점검할 수 있는 그런 근거가 있고요.",
       "text_raw": "부총님께서 말씀하셨듯이 그 석유 사업법에 이런 상황에서 어 단속하고 어 점검할 수 있는 그런 근거가 있고요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t12",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2298,8 +2840,8 @@
       "text": "지금 그 산업부 공정위 재경부 국대청 등 그 관세부처 관계부처 합동으로 범부처 석유시장 점검단이라는 것을 운영을 하고 있습니다.",
       "text_raw": "지금 그 산업부 공정위 재경부 국대청 등 그 관세부처 관계부처 합동으로 범부처 석유시장 점검단이라는 것을 운영을 하고 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t12",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2310,8 +2852,8 @@
       "text": "근데 이거를 저희가 지금 더 강화해서 3월 6일부터 석유 관리원, 경찰청, 지자체 등 관계 기관이 협력해서 월 2천회 2천회 이상 강력한 그 특별 기획 검사를 실시하려고 합니다.",
       "text_raw": "근데 이거를 저희가 지금 더 강화해서 3월 6일부터 석유 관리원, 경찰청, 지자체 등 관계 기관이 협력해서 월 2천회 2천회 이상 강력한 그 특별 기획 검사를 실시하려고 합니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t12",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2322,8 +2864,8 @@
       "text": "그래서 주유소 직접 방문하고 어 그 예고 없이 방문하고 하면서 이게 정량에 미달하거나 그 담합비나 요런 거는 물론이 정량 미달 뭐 가짜 석유 판매 요런 부분에 대해서는 그 행정 권한에 따라서 이제 철저히 단속을 해 나갈 계획이고요.",
       "text_raw": "그래서 주유소 직접 방문하고 어 그 예고 없이 방문하고 하면서 이게 정량에 미달하거나 그 담합비나 요런 거는 물론이 정량 미달 뭐 가짜 석유 판매 요런 부분에 대해서는 그 행정 권한에 따라서 이제 철저히 단속을 해 나갈 계획이고요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t12",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2334,8 +2876,8 @@
       "text": "지금 말씀하신 대로 만약에 그 품질 기준을 위반할 경우에는 1회 경계 경고 그리고 2회 사업정지 3개월을 할 수가 있습니다.",
       "text_raw": "지금 말씀하신 대로 만약에 그 품질 기준을 위반할 경우에는 1회 경계 경고 그리고 2회 사업정지 3개월을 할 수가 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t12",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2346,8 +2888,8 @@
       "text": "또 가짜 석유 판매 시에도 1회 사업 정지에 3개월 할 수 있고요.",
       "text_raw": "또 가짜 석유 판매 시에도 1회 사업 정지에 3개월 할 수 있고요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t12",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2358,8 +2900,8 @@
       "text": "정량 위반 시에도 1% 초과시에는 사업 정지 2개월 할 수가 있습니다.",
       "text_raw": "정량 위반 시에도 1% 초과시에는 사업 정지 2개월 할 수가 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t12",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2370,8 +2912,8 @@
       "text": "그래서 요런 행정 조치 권한을 아 그 활용을 해서 어 철저하게 단속을 하도록 하겠습니다.",
       "text_raw": "그래서 요런 행정 조치 권한을 아 그 활용을 해서 어 철저하게 단속을 하도록 하겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t12",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2382,8 +2924,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t13",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2394,8 +2936,8 @@
       "text": "건 좀 시간이 걸리겠지만 철저하게 하도록 하시고요.",
       "text_raw": "건 좀 시간이 걸리겠지만 철저하게 하도록 하시고요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t13",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2406,11 +2948,16 @@
       "text": "뭐 말씀하신 것 관련해서 가짜 석유를 팔거나 뭐 이러면 한두 달 정지가 아니라 그 사업을 한 뭐 6개월 한 1년 하든지 취소를 시키든지 해가지고 못 하게 해야 되는 거 아닙니까?",
       "text_raw": "뭐 말씀하신 것 관련해서 가짜 석유를 팔거나 뭐 이러면 한두 달 정지가 아니라 그 사업을 한 뭐 6개월 한 1년 하든지 취소를 시키든지 해가지고 못 하게 해야 되는 거 아닙니까?",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "cancel-illicit-fuel-sales-license",
+          "grade": "explicit"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#201",
@@ -2418,8 +2965,8 @@
       "text": "어쨌든 그거 나중에 고민하고 지금 당장이 문제니까 제가 궁금한 거는 부당하게 가격을 높이 책정해서 받는 행위는 예를 들면 우리가 바가지 요금에 대해서 영업 정지 취소 뭐 이런 거 하잖아. 그죠?",
       "text_raw": "어쨌든 그거 나중에 고민하고 지금 당장이 문제니까 제가 궁금한 거는 부당하게 가격을 높이 책정해서 받는 행위는 예를 들면 우리가 바가지 요금에 대해서 영업 정지 취소 뭐 이런 거 하잖아. 그죠?",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2430,8 +2977,8 @@
       "text": "석유류 판매 사업자에 대해서는 그 소위 바가지 이건 바가지 아니에요.",
       "text_raw": "석유류 판매 사업자에 대해서는 그 소위 바가지 이건 바가지 아니에요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2442,8 +2989,8 @@
       "text": "지금 위기 상황을 악용한 바가지인데이 바가지 행위에 대해서 제재하는 행정 처분 근거는 없냐 그 말이죠.",
       "text_raw": "지금 위기 상황을 악용한 바가지인데이 바가지 행위에 대해서 제재하는 행정 처분 근거는 없냐 그 말이죠.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2454,8 +3001,8 @@
       "text": "지금 그 가격 담합에 대해서는 공정위 위원장 >> 아 담 말고 >> 예 >> 뭐 담 많고 내가 이제 위험하니 위기이니까 나 높이 비싸게 받겠다 이런 행위에 대해서 바가지를 씌워 보겠다.",
       "text_raw": "지금 그 가격 담합에 대해서는 공정 위원장 >> 아 담 말고 >> 예 >> 뭐 담 많고 내가 이제 위험하니 위기이니까 나 높이 비싸게 받겠다 이런 행위에 대해서 바가지를 씌워 보겠다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2466,8 +3013,8 @@
       "text": "근데 혼자 각계 주유소들이 그렇게 할 수도 있잖아요.",
       "text_raw": "근데 혼자 각계 주유소들이 그렇게 할 수도 있잖아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2478,8 +3025,8 @@
       "text": "거기에 대한 제재 방법은 없냐 그 말이죠.",
       "text_raw": "거기에 대한 제재 방법은 없냐 그 말이죠.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2490,8 +3037,8 @@
       "text": ">> 그걸 이제 핀포인트로 할 수 있는 거는 지금 없는 것으로 지금 알고 있습니다.",
       "text_raw": ">> 그걸 이제 핀포인트로 할 수 있는 거는 지금 없는 것으로 지금 알고 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2502,8 +3049,8 @@
       "text": ">> 그러니까 이게 예를 들면 음식점에 가격을 바가지를 씌운다.",
       "text_raw": ">> 그러니까 이게 예를 들면 음식점에 가격을 바가지를 씌운다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2514,8 +3061,8 @@
       "text": "관광지에뭐 손님 많이 오니까 바가지 씌워야지.",
       "text_raw": "관광지에뭐 손님 많이 오니까 바가지 씌워야지.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2526,8 +3073,8 @@
       "text": "이런 거 지금 제하잖아요.",
       "text_raw": "이런 거 지금 제하잖아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2538,8 +3085,8 @@
       "text": ">> 예.데이 >> 석유 판매에 대해서는 이거 바가지이 바가지 아닙니까?",
       "text_raw": ">> 예.데이 >> 석유 판매에 대해서는 이거 바가지이 바가지 아닙니까?",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2550,8 +3097,8 @@
       "text": ">> 예.이 >> 바가지에 대해서는 제재할 법적 근거가 현재는 없다는 겁니까?",
       "text_raw": ">> 예.이 >> 바가지에 대해서는 제재할 법적 근거가 현재는 없다는 겁니까?",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2562,8 +3109,8 @@
       "text": ">> 담합을 하거나 뭐 이상한 다른 거 안 하면 >> 그냥 정상적인 석유주 제품을 아 사람들이 불안하니까 비싸게 받아야지 이래 가지고 올리는 행위에 대해서 제재할 방법이 없다 그 말인가요?",
       "text_raw": ">> 담합을 하거나 뭐 이상한 다른 거 안 하면 >> 그냥 정상적인 석유주 제품을 아 사람들이 불안하니까 비싸게 받아야지 이래 가지고 올리는 행위에 대해서 제재할 방법이 없다 그 말인가요?",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2574,8 +3121,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2586,8 +3133,8 @@
       "text": "현재는 그런 부분에 대해서 제재하는 방안은 지금 그 없는데 지금 대통령이 말씀하신 그런 어 부분이 그 저 그런 부분에 대한 미비점을 저희가 추가로 검토해서 하여튼 그런 부분에도에 있어서도 그 행정 조치를 할 수 있는 그런 부분을 >> 예 그러면 업 있는지 한번 다시 한번 점검해 보시고요.",
       "text_raw": "현재는 그런 부분에 대해서 제재하는 방안은 지금 그 없는데 지금 대통령이 말씀하신 그런 어 부분이 그 저 그런 부분에 대한 미비점을 저희가 추가로 검토해서 하여튼 그런 부분에도에 있어서도 그 행정 조치를 할 수 있는 그런 부분을 >> 예 그러면 업 있는지 한번 다시 한번 점검해 보시고요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2598,8 +3145,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2610,8 +3157,8 @@
       "text": "만약에 없다면 이런게 과거부터 계속 있었는데 일종의 위기 사항이나 뭐 이런 상황이 되면 사실 막 바가지를 씌웠단 말이에요.",
       "text_raw": "만약에 없다면 이런게 과거부터 계속 있었는데 일종의 위기 사항이나 뭐 이런 상황이 되면 사실 막 바가지를 씌웠단 말이에요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2622,8 +3169,8 @@
       "text": "그 뭐 당연한 걸로 생각하고 그냥 어쩔 수 없다 이렇게 넘어갔는데 그럴 일이 아닌 거 같아요.이 물가 문제는 어쨌든 석유 판매도 허가 제도 지금 현재 허가 제도죠.",
       "text_raw": "그 뭐 당연한 걸로 생각하고 그냥 어쩔 수 없다 이렇게 넘어갔는데 그럴 일이 아닌 거 같아요.이 물가 문제는 어쨌든 석유 판매도 허가 제도 지금 현재 허가 제도죠.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2634,8 +3181,8 @@
       "text": "신고 제도입니까?",
       "text_raw": "신고 제도입니까?",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2646,8 +3193,8 @@
       "text": "주유소 설치하는 거.",
       "text_raw": "주유소 설치하는 거.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2658,8 +3205,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2670,8 +3217,8 @@
       "text": "신고 제도입니다.",
       "text_raw": "신고 제도입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2682,8 +3229,8 @@
       "text": ">> 신고요.",
       "text_raw": ">> 신고요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2694,8 +3241,8 @@
       "text": "어쨌든 그 무제한 허용하는 건 사실 아닐 텐데 이렇게 공동체의 위기가 도려했을 때 그걸 이용해서 뭐 많은 사람들을 해를 끼치면서 나는 나만 잘 살아야 되겠다.",
       "text_raw": "어쨌든 그 무제한 허용하는 건 사실 아닐 텐데 이렇게 공동체의 위기가 도려했을 때 그걸 이용해서 뭐 많은 사람들을 해를 끼치면서 나는 나만 잘 살아야 되겠다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2706,8 +3253,8 @@
       "text": "이번 교회 돈 좀 벌어야 돈 좀 축적해야 되겠다.",
       "text_raw": "이번 교회 돈 좀 벌어야 돈 좀 축적해야 되겠다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2718,8 +3265,8 @@
       "text": "이런 거 못 하게 해야 되잖아요.",
       "text_raw": "이런 거 못 하게 해야 되잖아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2730,8 +3277,8 @@
       "text": "그게 우리 공동체 기본적인 건전한 상식인데 그건 한 번 더 체크하고 어 그에 대한 제도가 없으면 제도도 만들고 >> 그 관련해서 그 시장 지배적 사업자의 경우는 가격 남용 행위를 규제할 수는 있습니다.",
       "text_raw": "그게 우리 공동체 기본적인 건전한 상식인데 그건 한 번 더 체크하고 어 그에 대한 제도가 없으면 제도도 만들고 >> 그 관련해서 그 시장 지배적 사업자의 경우는 가격 남용 행위를 규제할 수는 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2742,8 +3289,8 @@
       "text": "근데 이제 작은 호텔이나 숙박업체나 주유소 같은 데서 가격 나무용하는 거에 대해서는 >> 제재 수단은 없지만 >> 어 공정위에서는 이제 주변 가격을 투명하게 공개하고 소비자들에 안내해서 예 너무 높은 가격인 주유소를 피하는 방식으로이 경쟁을 유도하는 그런 방식에 >> 어 규제는 하고 있습니다. 예.",
       "text_raw": "근데 이제 작은 호텔이나 숙박업체나 주유소 같은 데서 가격 나무용하는 거에 대해서는 >> 제재 수단은 없지만 >> 어 공정위에서는 이제 주변 가격을 투명하게 공개하고 소비자들에 안내해서 예 너무 높은 가격인 주유소를 피하는 방식으로이 경쟁을 유도하는 그런 방식에 >> 어 규제는 하고 있습니다. 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2754,8 +3301,8 @@
       "text": "그 관련해서 법률 부분 간단히 말씀드리겠습니다.",
       "text_raw": "그 관련해서 법률 부분 간단히 말씀드리겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2766,8 +3313,8 @@
       "text": "뒤에 민정석입니다.",
       "text_raw": "뒤에 민정석입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t14",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2778,8 +3325,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2790,11 +3337,16 @@
       "text": "물가 안정에 관한 법률 2조에 보면은 정부에서는 어 최고 가격 지정을 할 수 있도록 돼 있고 그 경우에는 그 부당 이득 전액을 3 2조의 2에 따라서 과징금으로 환수할 수 있는 제도가 돼 있는 걸 간단히 말씀 올리 >> 가격 지정을 어겨서 얻는 이익은 환수한다.",
       "text_raw": "물가 안정에 관한 법률 2조에 보면은 정부에서는 어 최고 가격 지정을 할 수 있도록 돼 있고 그 경우에는 그 부당 이득 전액을 3 2조의 2에 따라서 과증금으로 환수할 수 있는 제도가 돼 있는 걸 간단히 말씀 올리 >> 가격 지정을 어겨서 얻는 이익은 환수한다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "revise-enforcement-decree-quickly",
+          "grade": "topic"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#233",
@@ -2802,8 +3354,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2814,8 +3366,8 @@
       "text": "그렇습니다.",
       "text_raw": "그렇습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2826,8 +3378,8 @@
       "text": "그럼 현재 상태로 할 수 있는 건 가격 지정을 빨리 하는 거네요.",
       "text_raw": "그럼 현재 상태로 할 수 있는 건 가격 지정을 빨리 하는 거네요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2838,8 +3390,8 @@
       "text": "최고 가격 지정을.",
       "text_raw": "최고 가격 지정을.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2850,8 +3402,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2862,8 +3414,8 @@
       "text": "그게 최고 가격 지정을 하게 되가 있는데 보니까 요거는 그 과거에는 보니까 석탄 뭐 연탄등을 아주 예외적으로 운영한 사례가 있습니다.",
       "text_raw": "그게 최고 가격 지정을 하게 되가 있는데 보니까 요거는 그 과거에는 보니까 석탄 뭐 연탄등을 아주 예외적으로 운영한 사례가 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2874,8 +3426,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2886,8 +3438,8 @@
       "text": ">> 지금도 뭐 예외적 상황이니까 최고 가격 지정을 일률적으로 전국적으로 하면 또 문제가 될 테니까 >> 네 >> 지역별로 뭐 유료 종별로 >> 네 >> 좀 현실적인 최고 가격을 신속하게 지정을 하도록 하십시오.",
       "text_raw": ">> 지금도 뭐 예외적 상황이니까 최고 가격 지정을 일률적으로 전국적으로 하면 또 문제가 될 테니까 >> 네 >> 지역별로 뭐 유료 종별로 >> 네 >> 좀 현실적인 최고 가격을 신속하게 지정을 하도록 하십시오.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2898,8 +3450,8 @@
       "text": "그러면 >> 네 >> 그리고 어 얘기를 들어 보니까 어쨌든 바가지 유류 때 바가지는 현재로선 단속이 엄 불가능한 거 같은데 예 행정 처분은 불가능한 거 같은데 어 그 제도도 좀 신속하게 점검해서 좀 만들어 보시죠.",
       "text_raw": "그러면 >> 네 >> 그리고 어 얘기를 들어 보니까 어쨌든 바가지 유류 때 바가지는 현재로선 단속이 엄 불가능한 거 같은데 예 행정 처분은 불가능한 거 같은데 어 그 제도도 좀 신속하게 점검해서 좀 만들어 보시죠.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2910,8 +3462,8 @@
       "text": "뭐 유류만 이렇게 방치할 일은 아닌 거 같습니다.",
       "text_raw": "뭐 유류만 이렇게 방치할 일은 아닌 거 같습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2922,8 +3474,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t15",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2934,8 +3486,8 @@
       "text": ">> 예.\n대통령님 그 혁신보정입니다.",
       "text_raw": "대통령님 그 혁신보정입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t16",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2946,8 +3498,8 @@
       "text": "그 최조 최고 가격 지정하는 거보다 차라리 그 시민들이 매입 가격을 알 수 있도록 공개 약간이라도 공개를 하게 되면 폭리를 취하는지 알 수 있으니까 오히려 저 주유소 매입 가격을 알 수 있는 방법을 알려져주는게 더 나을 것 같습니다.",
       "text_raw": "그 최조 최고 가격 지정하는 거보다 차라리 그 시민들이 매입 가격을 알 수 있도록 공개 약간이라도 공개를 하게 되면 폭리를 취하는지 알 수 있으니까 오히려 저 주유소 매입 가격을 알 수 있는 방법을 알려져주는게 더 나을 것 같습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t16",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2958,8 +3510,8 @@
       "text": ">> 그것도 좀 준비하려면 시간이 좀 걸릴 테니까요.",
       "text_raw": ">> 그것도 좀 준비하려면 시간이 좀 걸릴 테니까요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t16",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2970,8 +3522,8 @@
       "text": "뭐 예를 들면 객관적인 가격 정보를 제공하는 거.",
       "text_raw": "뭐 예를 들면 객관적인 가격 정보를 제공하는 거.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t16",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2982,8 +3534,8 @@
       "text": "그 뭐 홈페이지를 하나 만들든지 아니면 비교 사이트를 하나 만들지 좀 그렇게 한번 해 보시죠.",
       "text_raw": "그 뭐 홈페이지를 하나 만들든지 아니면 비교 사이트를 하나 만들지 좀 그렇게 한번 해 보시죠.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t16",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -2994,8 +3546,8 @@
       "text": "하여튼 최고격 지정이 지금 현재로선 가장 신속하게 할 수 있는 현실 좋지 그 너무 망설리지 말고요. 예.",
       "text_raw": "하여튼 최고격 지정이 지금 현재로선 가장 신속하게 할 수 있는 현실 좋지 그 너무 망설리지 말고요. 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t16",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3006,8 +3558,8 @@
       "text": ">> 뭐 손해 보기 할 일은 아니지만 부당하게 취하지 않 그렇게 하겠습니다.",
       "text_raw": ">> 뭐 손해 보기 할 일은 아니지만 부당하게 취하지 않 그렇게 하겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t16",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3018,8 +3570,8 @@
       "text": "그렇게 하십시오.",
       "text_raw": "그렇게 하십시오.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t16",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3030,8 +3582,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t16",
+      "agenda_id": "2026-cab-0305-sPS14B@a5",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3042,8 +3594,8 @@
       "text": ">> 네.이어서 이어서 그 국제 에너지 분야 보고 드리겠습니다.",
       "text_raw": ">> 네.이어서 이어서 그 국제 에너지 분야 보고 드리겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3054,8 +3606,8 @@
       "text": "아 현재 그 중동 상황으로 어 원유, 천연가스 등 국내 에너지 가격이 상승 중이고 또한 그 유조선 및 LNG선의 호르무즈 해협 통항에 차질이 발생하고 있는 상황입니다.",
       "text_raw": "아 현재 그 중동 상황으로 어 원유, 천연가스 등 국내 에너지 가격이 상승 중이고 또한 그 유조선 및 LNG선의 호르무주 해협 통항에 차질이 발생하고 있는 상황입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3066,8 +3618,8 @@
       "text": "아 호르무즈 해협은 그 원유의 69% 천연가스의 19.5%를 5%를 도입하는 중요한 에너지 공급 루트인데 현재 그 중동 상황 악화로 우리나라 유조선 일곱척 그리고 LNG선 한척의 이 호르무즈 통과가 지금 모두 멈춘 상태입니다.",
       "text_raw": "아 호르무즈 해업은 그 원유의 69% 천연 가스의 19.5%를 5%를 도입하는 중요한 에너지 공급 루트인데 현재 그 중동 상황 악화로 우리나라 유조선 일곱척 그리고 LNG선 한척의이 호르모즈 통과가 지금 모두 멈춘 상태입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3078,8 +3630,8 @@
       "text": "아 비축 현황은 석유의 경우 1.9억 배럴 이상을 우리가 비축하고 있습니다.",
       "text_raw": "아 비축 현황은 석유의 경우 1.9억 배럴 이상을 우리가 비축하고 있습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3090,8 +3642,8 @@
       "text": "아 지금 IA 즉 그 국제 에너지 기구의 기준에 따르면 요거는 208일 정도의 비축량에 해당을 합니다.",
       "text_raw": "아 지금 IA 즉 그 국제 에너지 기구의 기준에 따르면 요거는 208일 정도의 비축량에 해당을 합니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3102,8 +3654,8 @@
       "text": "아 동 에너지 기구는 그 최소 공고 기준으로 90일을 어 그 권고하고 있는데 아 이거에 그 비해서는 약 2.3배의 어 비축량을 우리가 보유하고 있는 상태이고요.",
       "text_raw": "아 동 에너지 기구는 그 최소 공고 기준으로 90일을 어 그 권고하고 있는데 아 이거에에 그 비해서는 약 2.3배의 어 비축량을 우리가 보유하고 있는 상태고요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3114,8 +3666,8 @@
       "text": "어, 이 천연가스의 경우도 어, 지금 카타르산 물량이 지금 도입되지 않더라도 저희가 호주, 미국, 말련 등 어 다양한 그 소스로부터 지금 계약 물량을 계속 받아들인다고 하면 11월 하순까지는 어, 사용이 가능한 그런 상황입니다.",
       "text_raw": "어,이 천연 가스의 경우도 어, 지금 카타르산 물량이 지금 도입지 도입되지 않더라도 저희가 호주, 미국, 만련 등 어 다양한 그 소스로부터 지금 계약 물려을 계속 받아들인다라고 하면 11월 하순까지는 어, 사용이 가능한 그런 상황입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3126,8 +3678,8 @@
       "text": "그간 산업과 그 범부처 공동으로 어 중동 지역 불확실성에 선제 대응하기 위해서 비상 상황 점검 회의를 추진하는 등 1일 점검 체제를 유지를 해 왔고 향후에도 어 범처 공조 체제를 강화할 계획입니다.",
       "text_raw": "그간 산업와 그 범부처 공동으로 어 중동 지역 불확실성에 선재 대응하기 위해서 비상 상황 점검 회의를 추진하는 등 1일 점점 점검 체제를 유지를 해 왔고 향후에도 어이 범처 공조 체제를 강화할 계획입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3138,8 +3690,8 @@
       "text": "향후 대응으로는 먼저 그 대체 수입선 확보, 석유공사 해외 생산분 도입 등을 통해 석유 비축을 확대하고 어 중동산 천연가스 도입 중단에 대비하여 어 가스 공사의 해외 지분 물량과 현물 구매를 통해 안정적인 수급 관리에 최선을 다하겠습니다.",
       "text_raw": "향후 대응으로는 먼저 그 대체 수입선 확보, 석유공사 해외 생산분 도입 등을 통해 석유 비축을 확대하고 어 중동산 천역 가스 도입 중단에 대비하여 어 가스 공사의 해외 지분 물류항과 현물 구매를 통해 안정적인 수급 관리에 최선을 다하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3150,8 +3702,8 @@
       "text": "아, 둘째는 어, 그 지금 최근 국내 주유소 가격이 크게 인상된 바와 그리고 어, 바가지 등 그리고 또 가짜 석유 등 불법 어, 석유 유통 방지를 위해서 어, 공종이 등 본부처 합동으로 어, 3월 6일부터 어, 불법 석유통 특별 점검 등 어 그 무관용 원칙으로 어, 엄단하도록 하겠습니다.",
       "text_raw": "아, 둘째는 어, 그 지금 최근 국내 주유소 가격이 크게 인상된 바지 그리고 어, 바가지 등 그리고 또 가짜 석유등의 그 불법 어, 석유 유통 방지를 위해서 어, 공종이 등 본부처 합동으로 어, 3월 6일부터 어, 불법 석유통 특별 점검 등 어 그 무관형 원칙으로 어, 엄단하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3162,8 +3714,8 @@
       "text": "아 셋째로는 그 국민 경제에 미치는 영향을 최소하기 위해서 어 만약의 경우에 대비해 비축류 그 세부 방출 계획을 수립 중에 있으며 어 수급 위기 시에 즉시 대응하도록 하겠습니다.",
       "text_raw": "아 셋째로는 그 국민 경제 미치는 영향을 최소하기 위해서 어 만약의 경우에 대비해 비축류 그 세부 방출 계획을 수립 중에 있으며 어 수급 위기 아시에 즉시 대응하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3174,8 +3726,8 @@
       "text": "현재 이런 그 에너지 비상 상황에 대한 그 엄중한 상황 인식하에 앞으로도 빈틈이 없도록 어 총력 대응하겠습니다.네 예.",
       "text_raw": "현재 이런 그 에너지 비상 상황에 대한 그 엄중한 상황 인식하에 앞으로도 빈틈이 없도록 어 총력 대응하겠습니다.네 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3186,8 +3738,8 @@
       "text": "지금 우리나라는 원유 석유 비축 물량이 200, 208일분이 있다 그 말이죠.",
       "text_raw": "지금 우리나라는 원유 석유 비축 물량이 200 208일분이 있다 그 말이죠.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3198,8 +3750,8 @@
       "text": "그 이거는 논리적으로 말하면 208일간은 수입이 전면 지금 제한돼도 일상적으로 사용하는데 문제가 없다 그 말입니다.",
       "text_raw": "그 이거는 논리적으로 말하면 208일간은 수입이 전면 지금 제한돼도 일상적으로 사용하는데 문제가 없다 그 말입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3210,8 +3762,8 @@
       "text": ">> 그렇습니다. 예.",
       "text_raw": ">> 그렇습니다. 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3222,8 +3774,8 @@
       "text": ">> 7개월 분이 있다는 거죠.",
       "text_raw": ">> 7개월 분이 있다는 거죠.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3234,8 +3786,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3246,8 +3798,8 @@
       "text": "그렇습니다.",
       "text_raw": "그렇습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3258,8 +3810,8 @@
       "text": ">> 전 세계 기준으로도 가장 많이 비축하고 있는 거 같기도 하네요.",
       "text_raw": ">> 전 세계 기준으로도 가장 많이 한 위축하고 있는 거 같기도 하네요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3270,8 +3822,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3282,8 +3834,8 @@
       "text": "굉장히 그 한 5, 6위 하여튼 상위 상위에 우리가 해당되고 있습니다.",
       "text_raw": "굉장히 그 한 5, 6이 하여튼 상위 상위에 우리가 해당되고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3294,8 +3846,8 @@
       "text": ">> 하여튼 우리 국민들께서 이거를 어 당장 수입에 차질이 생기면 사용에 당장 차질이 발생할 것처럼 생각하지만 사실은 아니다. 예.",
       "text_raw": ">> 하여튼 우리 국민들께서 이거를 어 당장 수입에 차질이 생기면 사용에 당장 차질이 발생할 것처럼 생각하지만 사실은 아니다. 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3306,8 +3858,8 @@
       "text": "그 완전 제한돼도 7개월 동안 쓰는데 문제가 없다 그 말이잖아요.",
       "text_raw": "그 완전 제한돼도 7개월 동안 쓰는데 문제가 없다 그 말이잖아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3318,8 +3870,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3330,8 +3882,8 @@
       "text": "그렇습니다.",
       "text_raw": "그렇습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3342,8 +3894,8 @@
       "text": "어쨌든 이거 국내 비축 사용도 거의 뭐 사용한 일이 없어 보이는데.",
       "text_raw": "어쨌든 이거 국내 비축 사용도 거의 뭐 사용한 일이 없어 보이는데.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3354,8 +3906,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3366,8 +3918,8 @@
       "text": ">> 어쨌든 이것도 뭐 위기당 상황을 대비한 거니까 그 시중에 부족함이 없도록 예.",
       "text_raw": ">> 어쨌든 이것도 뭐 위기당 상황을 대비한 거니까 그 시중에 부족함이 없도록 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3378,8 +3930,8 @@
       "text": "잘 운용하기 바랍니다.",
       "text_raw": "잘 운용하기 바랍니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3390,8 +3942,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3402,8 +3954,8 @@
       "text": "그렇게 하겠습니다.",
       "text_raw": "그렇게 하겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3414,8 +3966,8 @@
       "text": ">> 음.",
       "text_raw": ">> 음.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3426,8 +3978,8 @@
       "text": "다 됐나요? 네.",
       "text_raw": "다 됐나요? 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3438,8 +3990,8 @@
       "text": ">> 아.",
       "text_raw": ">> 아.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3450,8 +4002,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t17",
+      "agenda_id": "2026-cab-0305-sPS14B@a6",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3462,8 +4014,8 @@
       "text": "금융위원장입니다. 예.",
       "text_raw": "금융위원장입니다. 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3474,8 +4026,8 @@
       "text": "금융시장 비상대응 상황 보고 드리겠습니다.",
       "text_raw": "금융시장 비상대응 상황 보고 드리겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3486,8 +4038,8 @@
       "text": "첫째 금융 국내 금융시장 동행입니다.",
       "text_raw": "첫째 금융 국내 금융시장 동행입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3498,8 +4050,8 @@
       "text": "주식 상 살펴보면 국내의 증시는 높은 변동성을 지금 나타내고 있습니다.",
       "text_raw": "주식상 살펴보면 국내의 중 증시는 높은 변동성을 지금 나타내고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3510,8 +4062,8 @@
       "text": "그 이유는 중동 상황 불확실성에 따른 위험회피 심리, 특히 그간 높은 상승세에 따른 차익 실현 수요 등이 주요 요인입니다.",
       "text_raw": "그 이유는 중동 상황 불확실성에 따른 위험회피 심리 특히 그가 높은 상승세에 따른 차익 실현 수요 등이 주요 요인입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3522,8 +4074,8 @@
       "text": "그 작은 글씨를 보시면 금년도에 2월까지 주요국 중에 우리나라 증시가 제일 많이 올랐습니다.",
       "text_raw": "그 작은 글씨를 보시면 금년도에 2월까지 주요곡 중에 우리나라 증시가 제일 많이 올랐습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3534,8 +4086,8 @@
       "text": "48.2% 올랐고요.",
       "text_raw": "48.2% 2% 올랐고요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3546,8 +4098,8 @@
       "text": "그러다 보니까 지금 사태 이후에 18.4%가 빠졌습니다. 다른 나라들도 보면 대만 같은 경우 22.3% 올랐는데 7.3%가 빠졌고요.",
       "text_raw": "그러다 보니까 지금 사태 이후에 18.4%가 빠졌습니다.데 다른 나라들도 보면 대만 같은 경우 22.3% 올랐는데 7.3%가 빠졌고요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3558,8 +4110,8 @@
       "text": "일본 같은 경우는 16.9% 올랐는데 7.8%가 빠졌습니다.",
       "text_raw": "일본 같은 경우는 16.9% 올랐는데 7.8%가 빠졌습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3570,8 +4122,8 @@
       "text": "미국 같은 경우는 0.5%밖에 안 올라서 0.9%가 빠진 그런 모습이 되겠습니다.",
       "text_raw": "미국 같은 경우는 0.5%밖에 안 올라서 0.9% 9% 빠진 그런 모습이 되겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3582,8 +4134,8 @@
       "text": "수급을 살펴보면 외국인과 기관이 매도세를 주도하고 개인이 받아주는 모습입니다.",
       "text_raw": "수급을 살펴보면 외국인과 기관이 매도세를 주도하고 개인이 받아주는 모습입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3594,8 +4146,8 @@
       "text": "외국인은 3월 3일 큰 폭에 순매도세를 보였지만 어제 3월 4일은 장 막판 저가 매수하면서 순수로 전환했고요.",
       "text_raw": "외국인은 3월 3일 큰 폭에 순 매도세를 보였지만 어제 3월 4일은 장막판 저가 매수하면서 순수로 전환했고요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3606,8 +4158,8 @@
       "text": "아침에도 보니까 9시 45분 정도 보면 계속 외국인도 다시 계속해서 순매수로 전환된 상황입니다.",
       "text_raw": "아침에도 보니까 9시 45분 정도 보면 계속 외국인도 다시 계속해서 순매수로 전환된 상황입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3618,8 +4170,8 @@
       "text": "시장 전문가들 의견을 들어보면 단기적인 변동성도 있고 그다음에 앞으로의 상황 전개가 좀 불확실한 측면은 있지만 아 기업 실적, 정부 정책, 증시로의 자금 유입 등 기본 요건을 감안하면 증시의 추세적 하락 가능성은 낮다고 평가하고 있습니다.",
       "text_raw": "시장 전문가들 의견을 들어보면 단기적인 변동성도 있고 그다음에 앞으로이 상황 전개가 좀 불확실한 측면은 있지만 아 기업 실적, 정부 정책, 증시로의 자금 요입 등 기본 요건을 감안하면 증시의 추세적 하락 가능성은 낮다고 평가하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3630,8 +4182,8 @@
       "text": "뭐 밑에 박스를 보시면 어제 제가 증권사 리서치 센터장들이랑 의견 수렴을 했는데 아 결국 중동발이 대외 충격 요인 외부 요인에도 불구하고 그간 우리 증시 상승을 견인했던 밸류에이션 기업 실적은 바뀐 게 하나도 없다.",
       "text_raw": "뭐 밑에 박스를 보시면 어제 제가 증권사 리서치 센터장들이랑 의견 수렴을 했는데 아 결국 중동발이 대회 충격 요인 외부 요인에도 불구하고 그간 우리 증시 상승을 견인했던 밸류에이션 기업 실적은 바뀐게 하나도 없다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3642,8 +4194,8 @@
       "text": "밑에 구체적인 숫자를 보시면 영업 이익 전망한 걸 보면 작년에 코스피 상장사가 우리나라 같은 경우 274조원의 영업 이익을 냈는데 금년의 예상이 550조원입니다.",
       "text_raw": "밑에 구체적인 숫자를 보시면 영업 이익 전망한 걸 보면 작년에 코스피 상장사가 우리나라 같은 경우 274조원의 영업 이익을 냈는데 금년의 예상이 550조원입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3654,8 +4206,8 @@
       "text": "그리고 특히 반도체 삼성전자나 SK 하이닉스는 작년에 90조원인데 금년에 311조원이고 예상할 때마다 최근에 400조원까지 나오고 예상할 때마다 기업 실적이 계속 높아지는 상황입니다.",
       "text_raw": "그리고 특히 반도체 삼성전자나 SK 하이닉스는 작년에 90조원인데 금년에 311조원이고 예상할 때마다 최근에 400조원까지 나오고 예상할 때마다 기업 실적이 계속 높아지는 상황입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3666,8 +4218,8 @@
       "text": "그래서 이분들 말씀들은 맨 밑에 보시는 것처럼 과도한 불안보다는 우리 경제 금융 시장에 대한 신뢰를 기반으로 좀 합리적인 판단할 수 있도록 정부가 확고한 시장 안정 의지를 가져 달라.",
       "text_raw": "그래서 이분들 말씀들은 맨 밑에 보시는 것처럼 과도한 불안보다는 우리 경제 금융 시장에 대한 신뢰를 기반으로 좀 합리적인 판단할 수 있도록 정부가 확고한 시장 안정 의지를 가져 달라.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3678,8 +4230,8 @@
       "text": "그리고 구조적으로는 그 위에 중간에서 보시는 것처럼 지배 구조 개선, 불공정거래 근절, 생산적 금융 등 지금까지 해왔던 그런 정책들을 일관성 있게 계속해서 추진해 달라 이런 주문들이었습니다. 예.",
       "text_raw": "그리고 구조적으로는 그 위에 중간에서 보시는 것처럼 지배 구조 개선, 불공정거래 근절, 생산적 금융 등 지금까지 해왔던 그런 정책들을 일관성 있게 계속해서 추진해 달라 이런 주문들이었습니다. 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3690,8 +4242,8 @@
       "text": "다음 페이지 채권 시장 보겠습니다.",
       "text_raw": "다음 페이지 채권 시장 보겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3702,8 +4254,8 @@
       "text": "채권 시장은 중동 상황에 따른 유가 급등으로 인플레이션 우려가 부각되면서 금리가 전반적으로 상승하고 있는데요.",
       "text_raw": "채권 시장은 중동 상황에 따른 유가 급등으로 인플레이션 우려가 부각되면서 금리가 전반적으로 상승하고 있는데요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3714,8 +4266,8 @@
       "text": "아침에 오전에 보면 살짝 금리가 좀 빠지는 그런 모습입니다.",
       "text_raw": "아침에 오전에 보면 살짝 금리가 좀 빠지는 그런 모습입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3726,8 +4278,8 @@
       "text": "외환 같은 경우도 안전자산 선호에 따른 글로벌 강달러 흐름, 외국인의 증시 순매도 등으로 환율이 큰 상승해서 어제 같은 경우 1,476원이었지만 지금 오전에 보면 한 1,460원대로 다시 또 안정세 하락한 그런 모습입니다.",
       "text_raw": "외양 같은 경우도 안전자산 선호에 따른 글로벌 강달러 흐름, 외국인의 증시 순매도 등으로 환율이 큰 상승해서 어제 같은 경우 1476원이었지만 지금 오전에 보면 한 1,460원대로 다시 또 안정세 하락한 그런 모습입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3738,8 +4290,8 @@
       "text": "그간 안에 대응한 모습을 보이면 사태 발발 이후 바로 관계 합동 금융 시장만 구성해서 24시간 모니터링 체계를 구축했고요.",
       "text_raw": "그간 안에 대응한 모습을 보이면 사태 발발 이후 바로 관계 합동 금융 시장만 구성해서 24시간 모니터링 체계를 구축했고요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3750,8 +4302,8 @@
       "text": "제가 직접 금융시장 점검회의 서차 주재해서 선제적인 시장 안정 메시지를 발표하고 백조원 플러스 알파 규모의 시장 안정 프로그램 적극적으로 운영하겠다.",
       "text_raw": "제가 직접 금융시장 점검회의 세차 주제해서 선재적인 시장 안정 메시지를 발표하고 백조원플러스 알파 규모의 시장 안정 프로그램 적극적으로 운영하겠다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3762,8 +4314,8 @@
       "text": "그리고 중동 상황 관련 피해 중소 기업에 대한 23조원의 3조원의 정책금융 지원 프로그램도 마련해서 발표한 바 있습니다.",
       "text_raw": "그리고 중동 상황 관련 피해 중소 기업에 대한 20.3조원의 3조원의 정책금융 지원 프로그램도 마련해서 발표한 바 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3774,8 +4326,8 @@
       "text": "앞으로의 대응 방향입니다.",
       "text_raw": "앞으로의 대응 방향입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3786,8 +4338,8 @@
       "text": "아 앞으로의 불확실성이 계속 크기 때문에 최고 수준의 경각심을 가지고 중동 상황 관련 금융시장 안정과 실물 경제 영향 최소화에 최선을 기약했습니다.",
       "text_raw": "아 앞으로이 불확실성이 계속 크기 때문에 최고 상태의 경각심을 가지고 중동 상황 관련 금융시장 안정과 실물 경제 영향 최소화에 안전을 기약했습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3798,8 +4350,8 @@
       "text": "아 중동 상황이 장기화될 경우라든지 여러 가지 상황들을 봐가면서 지금 백조원 플러스 알파 시장 안정 프로그램도 더 규모가 확대할 필요가 있으면 확대하도록 하겠습니다.",
       "text_raw": "아 중동 상황이 장교화될 경우라든지 여러 가지 상황들을 봐가면서 지금 백조원플러스 알파 시장 안정 프로그램도 더 규모가 확대할 필요가 있으면 확대하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3810,8 +4362,8 @@
       "text": "그리고 시장 불안감에 편승한 가짜 뉴스 유포 등 시장 교란 행위를 세밀히 감시하고 적발되는 경우는 무관용으로 엄단하도록 하겠습니다.",
       "text_raw": "그리고 시장 불안감에 편승한 가짜 뉴스 유포 등 시장 교환 행위를 몇밀히 감시하고 적발 지혜는 무관형 무관용으로 엄단하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3822,8 +4374,8 @@
       "text": "그리고 금권의 중동상황 피해 중소기업에 대한 자금 지원의 경우에는 그 은행권에서 담당자들이 적극적으로 할 수 있도록 면책까지 적용해서 적극적인 지원을 유도하도록 하겠습니다.",
       "text_raw": "그리고 고민권의 중동상황 피해 중소기업에 대한 자금 지원의 경우에는 그 은행권에서 담당자들이 적극적으로 할 수 있도록 면책까지 적용해서 적극적인 지원을 유도하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3834,8 +4386,8 @@
       "text": "이상 보고 마치겠습니다.",
       "text_raw": "이상 보고 마치겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t18",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3846,8 +4398,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3858,8 +4410,8 @@
       "text": "뭐 준비들 잘하고 계신 것 같아서 다행입니다.",
       "text_raw": "뭐 준비들 잘하고 계신 거 같아서 다행입니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3870,11 +4422,16 @@
       "text": "어 전체적으로 보면 이게 시장이라고 하는 게 그 심리에 많이 좌우되는데 어 어쩌면 이번이 좋은 기회일 수도 있죠.",
       "text_raw": "어 전체적으로 보면 이게 시장이라고 하는게 그 심리에 많이 자우되는데 어 어쩌면 이번이 좋은 기회일 수도 있죠.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "expand-transmission-grid",
+          "grade": "explicit"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#323",
@@ -3882,8 +4439,8 @@
       "text": "그 우리 옛말에 그런 말 있잖아요.",
       "text_raw": "그 우리 옛말에 그런 말 있잖아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3894,8 +4451,8 @@
       "text": "자빠진 김에 쉬어간다고.",
       "text_raw": "자빠진 김에 쉬어간다고.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3906,8 +4463,8 @@
       "text": "어, 주식 시장도 어쩌면 너무 계속 상승만 하였기 때문에 사실은 어, 조정을 하면서 가야 든든한데 어, 너무 조정 없이 일방적으로 상승만 두 배가 넘게 하는 바람에 사실 매우 불안정한 측면이 좀 있었죠.",
       "text_raw": "어, 주식 시장도 어쩌면 너무 계속 상승만 하였기 때문에 사실은 어, 조정을 하면서 가야 단탄한데 어, 너무 조정 없이 일방적으로 상승만 두 배가 넘게 하는 바람에 사실 매우 불안정한 측면이 좀 있었죠.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3918,8 +4475,8 @@
       "text": "어 근데 이번 계에 어쩌면 좀 단단하게 다져지는 측면도 있어 보이고 좀 조정이 필요한 조정을 겪어서 오히려 기회가 될 수도 있겠다.",
       "text_raw": "어 근데 이번 교회에 어쩌면 좀 단단하게 다져지는 측면도 있어 보이고 좀 조정이 필요한 조정을 겪어서 오히려 기회윤이 될 수도 있겠다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3930,8 +4487,8 @@
       "text": "이런 생각도 듭니다.",
       "text_raw": "이런 생각도 듭니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3942,8 +4499,8 @@
       "text": "어 넘어진 김에 쉬어간다는 얘기처럼 사실 이제 국제의 유가 문제 또는 원유 조달 문제는 앞으로도 계속 반복될 수 있는 일이고 과거에도 반복됐던 일이죠.",
       "text_raw": "어 넘어진 김경이 쉬어간다는 얘기처럼 사실 이제 국제에 육가 문제 또는 원유 조달 문제는 앞으로도 계속 반복될 수 있는 일이고 과거에도 반복됐던 일이죠.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3954,8 +4511,8 @@
       "text": "이번 기회에 재생에너지로 전환을 좀 신속하게 대대적으로 좀 하는 게 어떨까 싶어요.",
       "text_raw": "이번 기회에 재생 에너지로 전환을 좀 신속하게 대대적으로 좀 하는게 어떨까 싶어요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3966,8 +4523,8 @@
       "text": "좋은 기회 아닐까 싶습니다. 음 음, 좀 에너지 부에서도 뭐 열심히 하고는 있을 텐데 우리나라도 이제 화석 연료 의존도를 최소한으로 좀 내리고 재생에너지의 비중을 계속 높여야 되잖아요.",
       "text_raw": "좋은 기회 아닐까 싶습니다.음 음, 좀 에너지 부에서도 뭐 열심히 하고는 있을 텐데 우리나라도 이제 화석 연료 의존도를 최소한으로 좀 내리고 재생 에너지의 비중을 계속 높여야 되잖아요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3978,8 +4535,8 @@
       "text": "근데 실제로는 좀 쉽지가 않은 상태죠.",
       "text_raw": "근데이 실제로는 좀 쉽지가 않은 상태죠.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -3990,8 +4547,8 @@
       "text": "특히 송전망 부족 때문에 저 서남 해안 쪽의 재생에너지는 생산 여력이 있는데도 지금 제대로 쓰지 못하는 상황 아닙니까?",
       "text_raw": "특히 송전만 부정 부족 때문에 저 선남 해안 쪽의 재생 에너지는 생산 여력이 있는데도 지금 제대로 쓰지 못하는 상황 아닙니까?",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4002,8 +4559,8 @@
       "text": "그리고 앞으로도 지금 송전망을 계속 확충해야 될 상황인데 송전망 확충도 그 하루 이틀이 되는 건 아니고 좀 신속하게 해야 되는데 더 근본적인 과제는 음 소위 지산지소 원칙에 따라서 에너지가 생산되는 지역에서 소비될 수 있게 하는 게 제일 중요하지 않습니까?",
       "text_raw": "그리고 앞으로도 지금 송존망을 계속 확충해야 될 상황인데 송존망 확충도 그 하루 이틀이 되는 건 아니고 좀 신속하게 해야 되는데 더 근본적인 과제는음 소위 지산 지소 원칙에 따라서 에너지가 생산되는 지역에서 소비될 수 있게 하는게 제일 중요하지 않습니까?",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4014,8 +4571,8 @@
       "text": "그리고 우리 대한민국의 가장 구조적인 문제, 근본적인 문제는 수도권 집중인데 어쨌든 산업 배치도 에너지가 많은 지역으로 좀 대대적으로 신속하게 옮겨갈 필요가 있어요. 그죠?",
       "text_raw": "그리고 우리 대한민국의 가장 구조적인 문제, 근본적인 문제는 수도권 집중인데 어쨌든 산업 배치도 에너지가 많은 지역으로 좀 대대적으로 신속하게 옮겨갈 필요가 있어요. 그죠?",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4026,8 +4583,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4038,8 +4595,8 @@
       "text": "그렇습니다.",
       "text_raw": "그렇습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4050,8 +4607,8 @@
       "text": ">> 그 산업부도 계속 애를 쓰고는 있는데 뭐 재경부도 마찬가지고 어 이번 기회에 좀 인식도 바꾸고 이게 화석 연료에 의존하는 게 바람직하지도 않을뿐만 아니라 대외적 불안정 요소가 크니까 의존도를 최소화해야 된다는 걸 우리가 이제 모두가 느끼는 거 아닙니까?",
       "text_raw": ">> 그 산업부도 계속 애를 쓰고는 있는데 뭐 재경구도 마찬가지고 어 이번 기회에 좀 인식도 바꾸고 이게 화석 연료에 의존하는게 바람직하지도 않을뿐만 아니라 대회적 불안정 요소가 크니까 의존들을 최소화해야 된다라는 걸 우리가 이제 모두가 느끼는 거 아닙니까?",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4062,8 +4619,8 @@
       "text": "그럼 이럴 때 정부도 그렇고 민간도 그렇고 산업계, 경제계도 좀 근본적인 사고에 전환을 해야 될 것 같아요.",
       "text_raw": "그럼 이럴 때 정부도 그렇고 민간도 그렇고 산업계, 경제계도 좀 근본적인 사고에 전환을 해야 될 것 같아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4074,8 +4631,8 @@
       "text": "어, 너무 수도권이 다 집중돼서 전기를 지방에서 생산해 가지고 수도권으로 옮긴다고 막 송전망을 대대적으로 건설한다고 하니까 주민들은 반대 시위하고 또 국토 불균형은 점점 악화되고 또 생산 비용이 올라가 가지고 산업 발전도 지체되고 다 문제잖아요.",
       "text_raw": "어, 너무 수도권이 다 집중돼서 전기를 지방에서 생산해 가지고 수도권으로 옮긴다고 막 송전망을 대대적으로 건설한다고 하니까 주민들은 반대 시위하고 또 국토 불균형은 점점 악화되고 또 생산 비용이 올라가 가지고 산업 발전도 지체되고 다 문제잖아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4086,8 +4643,8 @@
       "text": "그리고 우리가 여태까지 얘기했던 대로 사실은 지방에서 에너지를 생산해서 수도권으로 끌고 오느라고 엄청난 비용이 발생하는데 지금 사실은 지금 수도 전기 요금이 전국에서 똑같다 보니까 >> 네 >> 생산 지역에서는 억울하게 손해를 보는 상황이고 또 집중돼서 사용되는 지역은 부당하게 이익을 보는 측면이 있잖아요.",
       "text_raw": "그리고 우리가 여때까지 얘기했던 대로 사실은 지방에서 에너지를 생산해서 수도권으로 끌고 오느라고 엄청난 비용이 발생하는데 지금 사실은 지금 수도 전기 요금이 전국에서 똑같다 보니까 >> 네 >> 생산 지역에서는 억울하게 손해를 보는 상황이고 또 집중돼서 사용되는 지역은 부당하게 이익을 보는 측면이 있잖아요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4098,8 +4655,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4110,8 +4667,8 @@
       "text": "그러니까 지금 연계 계획 중에 정산 금 차등제 또 지금 말씀을 하고는 있는데 이게 이것도 이제 현실적인 고민을 실질로 해야 될 것 같아요.",
       "text_raw": "그러니까이 지금 얘 계획 중에 정기금 차등제 또 지금 말을 하고는 있는데 이게 이것도 이제 현실적인 고민을 실질로 해야 될 것 같아요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4122,8 +4679,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4134,8 +4691,8 @@
       "text": ">> 그리고 기업들도 이제 수도권에서 저 멀리서 전기 끌어오는 비용을 사실은 국민 세금으로 부담하면서 거기서 혜택을 보는데 이제는 계속 이렇게 갈 수는 없다는 거 아닙니까?",
       "text_raw": ">> 그리고 기업들도 이제 수도권에서 저 멀리서 전기 끌어오는 비용을 사실은 국민 세금으로 부담하면서 거기서 혜택을 보는데 이제는 계속 이렇게 갈 수는 없다는 거 아닙니까?",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4146,8 +4703,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4158,8 +4715,8 @@
       "text": "그 공정하지도 않고 또 국가 발전에도 저해가 되고 그럼 이제 원칙대로 생산비가 싼 데서 쓰는 건 싸게 또 송전 비용을 포함해서 비싼 데는 비싸게 제대로 가격을 책정해야 되겠다는 생각이 들어요.",
       "text_raw": "그 공정하지도 않고 또 국가 발전에도 저해야 되고 그럼 이제 원칙대로 생산비가 싼 데서 쓰는 건 싸게 또 송전 비용을 포함해서 비싼 데는 비싸게 제대로 가격을 책정해야 되겠다는 생각이 들어요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4170,8 +4727,8 @@
       "text": "그래서 전 부처들이 예, 산업 경제 관련 부처들은 이번 기회에 사실은 위기를 기회로 활용하는 게 언제나 중요한데 위기를 위기로 방치하고 끌려다니면은 어 그야말로 우리도 낙오할 수밖에 없고 오히려 이 위기는 모든 사람이 겪는 모든 나라가 겪는 상황이기 때문에 이 기회를 이 위기를 이제 기회로 누가 더 빨리 전환하느냐에 따라서 경쟁의 판도가 바뀌잖아요. 예.",
       "text_raw": "그래서 전 부처들이 예, 산업 경제 관련 부처들은 이번 기회이 사실은 위기를 기회로 활용하는게 언제나 중요한데 위기를 위기로 방치하고 끌려다니면은 어 그야말로 우리도 낙할 수밖에 없고 오히려이 위기는 모든 사람이 겪는 모든 나라가 겪는 상황이기 때문에이 기회를이 위기를 이제 기회로 누가 더 빨리 전환하느냐에 따라서 경쟁의 판도 도가 바뀌잖아요. 예.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4182,8 +4739,8 @@
       "text": "오히려 이번 기회에 우리의 의식도 바꾸고 좀 더 신속하게 과감하게 전환을 해 나가야 되겠습니다.",
       "text_raw": "오히려 이번 기회에 우리의 의식도 바꾸고 좀 더 신속하게 과감하게 전환을 해 나가야 되겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4194,8 +4751,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4206,8 +4763,8 @@
       "text": ">> 산업보도 마찬가지죠.",
       "text_raw": ">> 산업보도 마찬가지죠.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4218,8 +4775,8 @@
       "text": "산업보도 지금 장관이 지금 캐나다 캐나다 가셨죠?",
       "text_raw": "산업보도 지금 장관이 지금 캐나다 캐나다 가셨죠?",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4230,8 +4787,8 @@
       "text": ">> 그렇습니다.",
       "text_raw": ">> 그렇습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4242,8 +4799,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4254,8 +4811,8 @@
       "text": "차관이 나오셨는데 여튼 산업부도 노력은 하고 있는 건 아는데 좀 더 가속화할 필요가 있겠습니다.",
       "text_raw": "차관이 나오셨는데 여튼 산업부도 노력은 하고 있는 건 아는데 좀 더 가속화할 필요가 있겠습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4266,8 +4823,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4278,8 +4835,8 @@
       "text": ">> 재경부도 마찬가지요. 예.",
       "text_raw": ">> 재경부도 마찬가지요. 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4290,8 +4847,8 @@
       "text": ">> 음.",
       "text_raw": ">> 음.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4302,8 +4859,8 @@
       "text": "그리고 금융 부분은 이게 뭐 이 경제 분야 중에 제일 심리에 크게 영향을 받는 게 금융분야죠.",
       "text_raw": "그리고 금융 부분은 이게 뭐이 경제 분야 중에 제일 심리에 크게 영향을 받는게 금융분야죠.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4314,8 +4871,8 @@
       "text": ">> 네, 맞습니다.",
       "text_raw": ">> 네, 맞습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4326,8 +4883,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4338,8 +4895,8 @@
       "text": "그 소위 주식 시장은 공포와 욕망을 누가 잘 이겨내느냐로 결판한다 그러잖아요.",
       "text_raw": "그 소위 주식 시장은 공포와 욕망을 누가 잘 이겨내느냐로 결판한다 그러잖아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4350,8 +4907,8 @@
       "text": ">> 맞습니다.",
       "text_raw": ">> 맞습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4362,8 +4919,8 @@
       "text": ">> 냉정하게 객관적인 평가에 따라서 판단하면 결국은 진폭이 있긴 하지만 결국은 실체에 수렴하잖아요.",
       "text_raw": ">> 냉정하게 객관적인 평가에 따라서 판단하면 결국은 진폭이 있긴 하지만 결국은 실체에 수렴하잖아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4374,8 +4931,8 @@
       "text": "그래서 혹시 이런게 있을 수 있는데 그 어제 100조원 플러스 알파의 안정화 기금을 준비한다.",
       "text_raw": "그래서 혹시 이런게 있을 수 있는데 그 어제 100조원 플러스 알파의 안정을 안전 기금을 준비한다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4386,8 +4943,8 @@
       "text": "어주 잘하신 거 같고요.",
       "text_raw": "어주 잘하신 거 같고요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4398,8 +4955,8 @@
       "text": "근데 이게 혹시라도 오해를 사서 주가를 직접적으로 떠받치겠다고 오해하는 경우가 있을 수 있는데 >> 그건 아니죠.",
       "text_raw": "근데 이게 혹시라도 오해를 사서 주가를 직접적으로 떠바치겠다고 오해하는 경우가 있을 수 있는데 >> 그건 아니죠.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4410,8 +4967,8 @@
       "text": ">> 그렇게 하면 안 되죠.",
       "text_raw": ">> 그렇게 하면 안 되죠.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4422,8 +4979,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4434,8 +4991,8 @@
       "text": "요거는 백조원 플러스 알파는 채권 시장이랑 단기 자금 시장용으로 하는 거고요.",
       "text_raw": "요거는 백조원플러스 알파는 채권 시장이랑 단기 자금 시장용으로 하는 거고요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4446,8 +5003,8 @@
       "text": ">> 그렇죠.",
       "text_raw": ">> 그렇죠.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4458,8 +5015,8 @@
       "text": ">> 그러니까 구조적으로 문제가 없는데 일시적으로 비정상이 발생할 때 그걸 교정하기 위한 거지.",
       "text_raw": ">> 그러니까 구조적으로 문제가 없는데 일시적으로 비정상이 발생할 때 그걸 교정하기 위한 거지.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4470,8 +5027,8 @@
       "text": ">> 억지로 가격을 지지하거나 그러려고 하는 건 아니죠.",
       "text_raw": ">> 억지로 가격을 지지하거나 그러려고 하는 건 아니죠.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4482,8 +5039,8 @@
       "text": "그렇게 하면 안 돼요.",
       "text_raw": "그렇게 하면 안 돼요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4494,8 +5051,8 @@
       "text": ">> 네. 네.",
       "text_raw": ">> 네. 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4506,8 +5063,8 @@
       "text": ">> 예. 이 자금 시장 채권 시장 아까 금융장 말씀들 하는 거고 >> 네 >> 뭐 일부에서 말한 증권시장 안정 그런 개념하고 전혀 다른 겁니다.",
       "text_raw": ">> 예.이 이 자금 시장 채권 시장 아까 금융장 말씀들 하는 거고 >> 네 >> 뭐 일부에서 말하 증권시장 안정 그런 그런 어 개념하고 전혀 다른 겁니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4518,8 +5075,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4530,8 +5087,8 @@
       "text": "옛날에는 뭐 주식 가격을 떠바치기 위해서 어거지로 사거나 뭐 이런 거 했는데 그런 거 하면 안 됩니다.",
       "text_raw": "옛날에는 뭐 주식 가격을 떠바치기 위해서 어거지로 사거나 뭐 이런 거 했는데 그런 거 하면 안 됩니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4542,8 +5099,8 @@
       "text": ">> 완전히 다른 게 아니에요.",
       "text_raw": ">> 완전히 다른게 아니에요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4554,8 +5111,8 @@
       "text": ">> 우리 경제 체제를 제대로 바꾸고 또 시장의 불공정성, 불합리성을 제거해서 정상 가격에 수렴하게 만들려고 하는 거잖아요.",
       "text_raw": ">> 우리 경제 체제를 제대로 바꾸고 또 시장의 불공정성, 불합리성을 제거해서 정상 가격에 수렴하게 만들려고 하는 거잖아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4566,8 +5123,8 @@
       "text": "대한민국의 주식 시장은 전 세계적으로 저평가되어 있다는 건 온 동네가 다 하는 건데 우리가 지금까지 운명적으로 받아들여 왔잖아요.",
       "text_raw": "대한민국의 주식 시장은 전 세계적으로 저평가되 있다는 건 온 동네가 다 하는 건데 우리가 지금까지 운명적으로 받아 받아들여 왔잖아요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4578,8 +5135,8 @@
       "text": "그 한국이니까 싸 원래 싸 그러니까 우리나라에 상장도다가 해외에 상장하려 그러고 똑같은 회사가 근데 이거를 지금 우리가 고쳐가는 중이고 정상화 과정이라는 거 아닙니까?",
       "text_raw": "그 한국이니까 싸 원래 싸 그러니까 우리나라에 상장도다고 해외에 상장하려 그러고 똑같은 회사가 근데 이거를 지금 우리가 고쳐가는 중이고 정상화 과정이라는 거 아닙니까?",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4590,8 +5147,8 @@
       "text": "그래서 이것도 역시 일종의 기회 요인으로 좀 활용을 해서 여전히 지금 저평가 상태라고 보여지기 때문에 그 이유도 우리가 다 알잖아요.",
       "text_raw": "그래서 이것도 역시 일종의 기회 요인으로 좀 활용을 해서 여전히 지금 저평가 상태라고 보여지기 때문에 그 이유도 우리가 다 알잖아요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4602,8 +5159,8 @@
       "text": "예를 들면 지배구조가 좀 좀 이상하다.",
       "text_raw": "예를 들면 지배 구조가 좀 좀 이상하다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4614,8 +5171,8 @@
       "text": "지배권이 남용된다.",
       "text_raw": "지배권이 남용된다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4626,8 +5183,8 @@
       "text": "지배권이 그거 빨리 정리해야 되고 또 시장의 불투명 불공정성 뭐 주가 조작을 하거나 무슨 미리 정보를 알아가지고 자기는 사 놓고 나중에 그 뭐 기사 쓰고 팔고 막 이런 거 있잖아요.",
       "text_raw": "지배경권이 그거 빨리 정리해야 되고 또 시장의 불투명 불공정성 뭐 주가 조작을 하거나 무슨 미리 정보를 알아가지고 자기는 사 놓고 나중에 그뭐 기사 쓰고 팔고 막 이런 거 있잖아요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4638,8 +5195,8 @@
       "text": "통정 매매해 가지고 어지로 가격을 올리고 가짜 정보 유포해 가지고 시장 조작하고 이제 이런 걸 철저하게 지금 제거해야 된다.",
       "text_raw": "통적 매매해 가지고 어지로 가격을 올리고 가짜 정보 유 유 유포해 가지고 시장 조 조 조 조 조 조 조작하고 이제 이런 걸 철저하게 지금 제거해야 된다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4650,8 +5207,8 @@
       "text": "그리고 이제 뭐 우리 한반도에 군사 안보적 리스크 남북 관계가 불안정해지면 경제가 악영향을 미치는 뭐 그런 것도 제거하고 그건 우리가 할 일이고 산업 경제정책을 적절하게 잘 만들어서 우리 산업 체질을 바꾸는 거 경제 체질을 바꾸는 거 국토 불균형을 시정하는 거 뭐 이런 것들 통해서 근본적으로 체질을 강화하는 거 이게 이제 문제 해결의 근본적인 방법이죠.",
       "text_raw": "그리고 이제 뭐 우리 한반도에 군사 안보적 리스크 남북 관계가 불안정해지면 경제가 악영향을 미치는 뭐 그런 것도 제거하고 그건 우리가 할 일이고 산업 경제정책을 적절하게 잘 만들어서 우리 산업 체질를 바꾸는 거 경제 체질를 바꾸는 거 국토 불균형을 시정하는 거 뭐 이런 것들 통해서 근본적으로 체질를 강화하는 거 이게 이제 문제 해결의 근본적인 방법이죠.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4662,8 +5219,8 @@
       "text": "그래서 역시 넘어진 김에 옷도 바꿔 있고 쉬뿐만 아니라 옷도 갈아입고 해야 되니까 그 시장 비정상 상황을 교정하는 입법도 좀 계속 더 강력하게 좀 추진을 하면 좋겠어요.",
       "text_raw": "그래서 역시 넘어진 김에 옷도 바꿔 있고 쉬뿐만 아니라 옷도 갈아입고 해야 되니까 그 시장 비정상 상황을 교정하는 입법도 좀 계속 더 강력하게 좀 추진을 하면 좋겠어요.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4674,8 +5231,8 @@
       "text": "지금 뭐 그 주가를 일부러 상승을 대비해서 뭐 누르고 있는 거를 지금 시정하기 위한 입법도 지금 준비는 하고 있을 텐데 뭐 그 포함해서 해야 될 일이 아직도 엄청 많잖아요.",
       "text_raw": "지금 뭐 그 주가를 일부러 상속을 대비해서 뭐 누르고 있는 거를 지금 시정하기 위한 입법도 지금 준비는 하고 있을 텐데 뭐 그 포함해서 해야 될 일이 아직도 엄청 많잖아요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4686,8 +5243,8 @@
       "text": "다른 전 세계 어떤 자본 시장보다도 더 합리적이고 공정하고 투명하게 예측 가능한 시장을 만들어야 되는데 그렇게 하기 위한 정책적 조치나 입법 조치들은 이번 기회에 좀 더 속도를 내면 좋겠어요. 예.",
       "text_raw": "다른 전 세계 어떤 자본 시장보다도 더 합리적이고 공정하고 투명하게 예측 가능한 시장을 만들어야 되는데 그렇게 하기 위한 정책적 조치나 입법 조치들은 이번 기회에 좀 더 속도를 내면 좋겠어요. 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4698,8 +5255,8 @@
       "text": "어쨌든 뭐 잠시 외부 요인에 의해서 흔들리긴 하지만 어쨌든 우리 경제 소위 펀더멘탈이라고 하는 기초 체력은 계속 강화되고 있기 때문에 흔들림 없이 안정적으로 정책을 집행해 가면 좋겠어요.",
       "text_raw": "어쨌든 뭐 잠시 외부 요인에 의해서 흔들리긴 하지만 어쨌든 우리 경제 소위 펀더멘탈이라고 하는 기초 체력은 계속 강화되고 있기 때문에 흔들 흔들림 없이 안정적으로 정책을 집행해 가면 좋겠어요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4710,8 +5267,8 @@
       "text": "우리 총리께서 아주 뭐 잘 해 주고 계신데 예 좀 더 주무가 편이라고 이번 기회에 좀 강력하게 신속하게 정책 입안과 추진을 해 주면 좋겠습니다. 네. 네.",
       "text_raw": "우리 총리께서 아주 뭐 잘 해 주고 계신데 예 좀 더 주마가 편이라고 이번 기회에 좀 강력하게 신속하게 정책 입안과 추진을 해 주면 좋겠습니다. 네. 네.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t19",
+      "agenda_id": "2026-cab-0305-sPS14B@a7",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4722,8 +5279,8 @@
       "text": "국방부 장관입니다.",
       "text_raw": "국방부 장관입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t20",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4734,8 +5291,8 @@
       "text": "어 대님 국방부 조치 사항에 대해서 좀 >> 아 네네.네 예.",
       "text_raw": "어 대님 국방부 조치 사항에 대해서 좀 >> 아 네네.네 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t20",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4746,11 +5303,16 @@
       "text": "국방부는 24시간 어 위기 대응 체계를 가동하고 있고 어 교민 철수 지원 요청시 군수송기 등을 즉각 어 출동할 수 있도록 대비를 어 강화하고 있습니다.",
       "text_raw": "국방부는 24시간 어 위기 대응금 체계를 가동하고 있고 어 교민 철수 지원 요청시 군수송기 등을 즉각 어 출동할 수 있도록 준비 대서를 어 강화하고 있습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t20",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "increase-penalties-prep",
+          "grade": "topic"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#396",
@@ -4758,8 +5320,8 @@
       "text": "어 해병대 인원과 장비는 현재까지 이상 없습니다.",
       "text_raw": "어 해파대 인원과 장비는 현재까지 이상 없습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t20",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4770,8 +5332,8 @@
       "text": "해병부대는 영내에서 안전 대책을 세우는 가운데에 여러 가지 어 부대 방호 시설에 대해서 준비 태세를 강화하고 있다는 말씀을 드리고 또 연합 방위 태세는 한미가 긴밀한 공조하에 지난번에 3월 2일 날 미측과도 공조 통화했습니다만은 여러 가지 26년도 FTX 훈련 등 정상적으로 준비를 철저히 하고 있다는 그런 보고 말씀을 드립니다.",
       "text_raw": "해파 부대는 영 내에서 안전 대책을 세우는 가운데에 여러 가지 어 부대 방호 시설에 대해서 준비 퇴사를 강화하고 있다는 말씀을 드리고 또 연합 방위 태세는 한미가 긴밀한 공조하에 지난번에 3월 2일 날 미측카도 공조 통화했습니다만은 여러 가지 26년도 FS 훈련 등 정상적으로 준비를 철저히 하고 있다는 그런 보고 말씀을 드립니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t20",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4782,8 +5344,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t20",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4794,8 +5356,8 @@
       "text": "이상입니다.",
       "text_raw": "이상입니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t21",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4806,11 +5368,16 @@
       "text": ">> 아, 국방 안보 얘기를 하셔서 그런데 하여튼 대한민국의 지속적인 성장 발전을 위해서는 어쨌든 한반도의 안보 상황을 잘 관리하는 게 정말로 중요하잖아요.",
       "text_raw": ">> 아, 국방 안보 얘기를 하셔서 그런데 하여튼 대한민국의에 지속적인 성장 발전을 위해서는 어쨌든 한반도의 안보 상황을 잘 관리하는게 정말로 중요하잖아요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t21",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
-      "thread_refs": []
+      "thread_refs": [
+        {
+          "thread_id": "actively-manage-security-policy",
+          "grade": "explicit"
+        }
+      ]
     },
     {
       "sid": "2026-cab-0305-sPS14B#401",
@@ -4818,8 +5385,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t21",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4830,8 +5397,8 @@
       "text": "어, 안보의 핵심은 상대를 자극해서 싸워서 이기는 게 아니고 싸울 필요가 없게 되는 평화 체제를 구축하는 게 가장 확실한 안보 아니겠습니까?",
       "text_raw": ">> 어, 안보의 핵심은 상대를 자극해서 싸워서이기는게 아니고 싸울 필요가 없게만 되는 평화 체제를 구축하는게 가장 확실한 안보 아니겠습니까?",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t21",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4842,8 +5409,8 @@
       "text": "그렇습니다.",
       "text_raw": "그렇습니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t21",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4854,8 +5421,8 @@
       "text": "이번에는 북한이다 뭐 이런 이상한 소리 하는 사람도 있고 그러던데 그렇게 해 가지고 한반도의 평화와 안정을 불안하게 만들었으면 무슨 덕이 되겠어요?",
       "text_raw": ">> 이번에는 북한이다 뭐 이런 이상한 소리 하는 사람도 있고 그러던데 그렇게 해 가지고이 한반도의 평화와 안정을 불안하게 만들었으면 무슨 덕이 되겠어요?",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t21",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4866,8 +5433,8 @@
       "text": "저 이런 부분에 대해서도 각 부처에서 가능하면 우리 국민들이 불안하지 않게 또 한반도 정세나 안보 상황이 불안정하게 되지 않도록 적극적으로 좀 관리하면 좋겠어요.",
       "text_raw": "저 이런 부분에 대해서도 각 부처에서 가능하면 우리 국민들이 불안하지 않게 또 한반도 정세나 안포 상황이 불안정하게 되지 않도록 적극적으로 좀 관리하면 좋겠어요.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t21",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4878,8 +5445,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t21",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4890,8 +5457,8 @@
       "text": "어, 여러 가지 여건을 고려해서 철저히 그런 대책들을 준비하도록 하겠습니다.",
       "text_raw": "어, 여러 가지 여권을 고려해서 철저히 그런 퇴사들을 준비하도록 하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t21",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4902,8 +5469,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t21",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4914,8 +5481,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t21",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4926,8 +5493,8 @@
       "text": "상황을 안정시키고 어이 위기를 악용하는 것을 방지하고 위기를 기회로 만드는 관점에서 정부는 최선을 다하고 또 국민 여러분께서도 안심해 주시기 바랍니다.",
       "text_raw": "상황을 안정시키고 어이 위기를 악용하는 것을 방지하고 위기를 기회로 만드는 관점에서 정부는 최선을 다하고 또 국민 여러분께서도 안심해 주시기 바랍니다.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t22",
+      "agenda_id": "2026-cab-0305-sPS14B@a8",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4938,8 +5505,8 @@
       "text": "지금 오늘 보고 사항은 다 토된 것을 기초로 해서 의견을 접수하고 이제 의안 심의로 넘어가겠습니다.",
       "text_raw": "지금 오늘 보고 사항은 다 토된 것을 기초로 해서 원한을 접수하고 이제 의한 시비의로 넘어가겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t22",
+      "agenda_id": "2026-cab-0305-sPS14B@a9",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4950,8 +5517,8 @@
       "text": "제가 한 말씀만 좀 더 드리면 정치라고 하는 것이 언제나 국민의 삶이 개선되고 또 국가가 안정되고 또 성장 발전을 하는데 도움이 돼야 되는데이 국가적 위기를 초래해 가면서 또는 불안을 조장해 가면서 정치적 이익을 얻겠다는 그런 형태는 정말로 조심해야 됩니다.",
       "text_raw": "제가 한 말씀만 좀 더 드리면 정치라고 하는 것이 언제나 어 국민의 삶이 개선되고 또 국가가 안정되고 또 성장 발전을 하는데 도움이 돼야 되는데이 국가적 위기를 초래해 가면서 또는 불안을 조장해 가면서 정치적 이익을 얻겠다는 그런 형태는 정말로 조심해야 됩니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t22",
+      "agenda_id": "2026-cab-0305-sPS14B@a9",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4962,8 +5529,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t22",
+      "agenda_id": "2026-cab-0305-sPS14B@a9",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4974,8 +5541,8 @@
       "text": ">> 예.",
       "text_raw": ">> 예.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t22",
+      "agenda_id": "2026-cab-0305-sPS14B@a9",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4986,8 +5553,8 @@
       "text": "의안 심의는 비공개로 운영되오니 언론인 여러분께서는 진행에 협조해 주시기 바랍니다.",
       "text_raw": "의한 시민은 비공개로 운영되오니 언론인 여러분께서는 진행에 협조해 주시기 바랍니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t22",
+      "agenda_id": "2026-cab-0305-sPS14B@a9",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -4998,8 +5565,8 @@
       "text": ">> 네.",
       "text_raw": ">> 네.",
       "corrected": false,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t22",
+      "agenda_id": "2026-cab-0305-sPS14B@a9",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -5010,8 +5577,8 @@
       "text": "국회 본회의를 통과하고 지금으로 이송된 법령 보완을 심의하겠습니다.",
       "text_raw": "국회본회의를 통과하고 정보로 이송된 법령 보안을 심의하겠습니다.",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t23",
+      "agenda_id": "2026-cab-0305-sPS14B@a9",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -5022,8 +5589,8 @@
       "text": "제37호 323호까지 일곱 건",
       "text_raw": "제37호 323호까지 일곱건",
       "corrected": true,
-      "turn_id": null,
-      "agenda_id": null,
+      "turn_id": "2026-cab-0305-sPS14B@t23",
+      "agenda_id": "2026-cab-0305-sPS14B@a9",
       "text_verified": false,
       "history": [],
       "thread_refs": []
@@ -5031,7 +5598,7 @@
   ],
   "stats": {
     "statement_count": 418,
-    "turn_count": 0
+    "turn_count": 23
   },
   "pipeline_status": "done"
 }

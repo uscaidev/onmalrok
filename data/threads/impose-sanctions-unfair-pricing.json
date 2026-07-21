@@ -1,0 +1,49 @@
+{
+  "id": "impose-sanctions-unfair-pricing",
+  "title": "부당가격 제재조치 시행",
+  "topic_tags": [
+    "부당하게 가격을 올려",
+    "영업정지",
+    "과태료·과징금",
+    "제재",
+    "행정 처분"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0305-sPS14B@t11",
+      "rep_sid": "2026-cab-0305-sPS14B#169",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "부당하게 좀 이익을 추구하는 행위는 좀 제재하시고요",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t59",
+      "rep_sid": "2026-cab-0414-mvVDdp#555",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "제재 · 행정 처분",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-L64eg6@t47",
+      "rep_sid": "2026-rpt-0716-L64eg6#191",
+      "meeting_id": "2026-rpt-0716-L64eg6",
+      "date": "2026-07-16",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "영업정지 · 제재",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:25+09:00"
+}

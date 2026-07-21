@@ -1,0 +1,26 @@
+{
+  "id": "reform-tax-expenditures",
+  "title": "조세지출·감면 정비",
+  "topic_tags": [
+    "조세 지출",
+    "세금 감면",
+    "정비",
+    "정책 효과"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0317-bzrcCS@t36",
+      "rep_sid": "2026-cab-0317-bzrcCS#362",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "세금 감면 제도 조세 지출 제도를 정비를 한번 해야 되겠네.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:16+09:00"
+}

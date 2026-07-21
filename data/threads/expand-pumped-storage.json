@@ -1,0 +1,25 @@
+{
+  "id": "expand-pumped-storage",
+  "title": "양수발전 확대 검토",
+  "topic_tags": [
+    "양수 발전",
+    "기저력 확보",
+    "환경 훼손 최소화"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t32",
+      "rep_sid": "2026-cab-0623-2uViqE#312",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "양수 발전도 많이 늘리려고 하고 있습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:58+09:00"
+}

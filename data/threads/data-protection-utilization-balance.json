@@ -1,0 +1,27 @@
+{
+  "id": "data-protection-utilization-balance",
+  "title": "데이터 보호·활용 균형",
+  "topic_tags": [
+    "개인정보",
+    "데이터 활용",
+    "개인정보보호위원회",
+    "균형",
+    "보호·활용"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0716-_t27O7@t6",
+      "rep_sid": "2026-rpt-0716-_t27O7#60",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "보호도 잘하면서 활용도 잘할 수 있게 하는 그러려면... 잘 챙겨 주기 바랍니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

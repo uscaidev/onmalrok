@@ -1,0 +1,26 @@
+{
+  "id": "promote-planning-capability",
+  "title": "기획기능 강화 유도",
+  "topic_tags": [
+    "기획 기능",
+    "공무원 전문성",
+    "국장 과장",
+    "유도"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t82",
+      "rep_sid": "2026-rpt-0715--PQDTo#1269",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "국장 과장들이 자기의 기획 기능을 스스로 공부하고...보고을 만들어 낼 수 있도록 계속 좀 유도해 볼 생각입",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

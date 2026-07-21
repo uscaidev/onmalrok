@@ -1,0 +1,38 @@
+{
+  "id": "fuel-tax-policy-study",
+  "title": "유류세 대책 연구",
+  "topic_tags": [
+    "유류세",
+    "재정지원",
+    "타겟지원",
+    "양극화",
+    "물가영향"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t12",
+      "rep_sid": "2026-cab-0310-2B4Fqs#235",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "그 연구를 잘 해 보시.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0623-2uViqE@t23",
+      "rep_sid": "2026-cab-0623-2uViqE#178",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "유류세 · 양극화",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:58+09:00"
+}

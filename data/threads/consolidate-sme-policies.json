@@ -1,0 +1,26 @@
+{
+  "id": "consolidate-sme-policies",
+  "title": "중소기업 정책 통합·재편",
+  "topic_tags": [
+    "중소기업 정책",
+    "통합",
+    "재교육",
+    "대체 산업"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0317-bzrcCS@t51",
+      "rep_sid": "2026-cab-0317-bzrcCS#683",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "중기부의 모든 방향들은 많이 하는 것보다는 다 줄여서 통합해서 좀 하나로 좀 규모가 있게 하는 걸로",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:16+09:00"
+}

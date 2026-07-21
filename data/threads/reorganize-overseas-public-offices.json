@@ -1,0 +1,82 @@
+{
+  "id": "reorganize-overseas-public-offices",
+  "title": "공공기관 해외지사 재정비",
+  "topic_tags": [
+    "공공기관",
+    "해외 지사",
+    "재정비",
+    "관계부처 협의체",
+    "통합"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t37",
+      "rep_sid": "2026-cab-0120-1bgJaV#468",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "공공기관의 지사들과 대사관과의 관계를 재정비하는 것입니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t37",
+      "rep_sid": "2026-cab-0506-4cLwEz#1611",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "공공기관 · 통합",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t7",
+      "rep_sid": "2026-cab-0526-B3JFkX#13",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "공공기관 이전, 유망 기업 유치 그리고 어 청년 인재의 유입 촉진이 그 내용이고요.",
+      "reviewed": false,
+      "rel_label": "공공기관 이전 등 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t12",
+      "rep_sid": "2026-cab-0526-B3JFkX#31",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "해양수 공공기관 이전 국회 논의를 통해 동남권 투자공사 신설... 차질없이 추진하겠습니다.",
+      "reviewed": false,
+      "rel_label": "공공기관 이전·정책추진 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t4",
+      "rep_sid": "2026-cab-0602-HokLaJ#8",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "올 4월에 독립유공자법 개정을 해서... 매연 2027년 1월 1일부터 시행",
+      "reviewed": false,
+      "rel_label": "지시 결과·정책설명 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t49",
+      "rep_sid": "2026-rpt-0716-_t27O7#344",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "공공기관 · 통합",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

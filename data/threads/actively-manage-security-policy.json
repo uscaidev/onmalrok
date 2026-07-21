@@ -1,0 +1,27 @@
+{
+  "id": "actively-manage-security-policy",
+  "title": "안보정책 적극 관리",
+  "topic_tags": [
+    "한반도 안보",
+    "정세 관리",
+    "국민 불안 해소",
+    "평화체제 구축",
+    "각 부처 준비"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0305-sPS14B@t21",
+      "rep_sid": "2026-cab-0305-sPS14B#400",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "각 부처에서...국민들이 불안하지 않게...한반도 정세나 안보 상황이 불안정하게 되지 않도록 적극적으로 좀 ",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:43+09:00"
+}

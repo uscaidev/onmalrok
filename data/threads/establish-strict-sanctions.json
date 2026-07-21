@@ -1,0 +1,71 @@
+{
+  "id": "establish-strict-sanctions",
+  "title": "엄정 제재 기준 마련",
+  "topic_tags": [
+    "엄정하게",
+    "신속하게",
+    "제재",
+    "경정",
+    "일반예방효과"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0203-96DaSs@t51",
+      "rep_sid": "2026-cab-0203-96DaSs#575",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "방법을 좀 찾아서 최대한 신속하게 하십시다. 예. 최대한 어 엄중하게",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t80",
+      "rep_sid": "2026-cab-0224-DwvR4w#835",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "result",
+      "grade": "topic",
+      "grade_evidence": "엄정하게 · 제재",
+      "reviewed": true,
+      "rel_label": "지시 이행 결과 보고"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t7",
+      "rep_sid": "2026-cab-0305-sPS14B#81",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "향후에도 철저하게 또 신속하게 대응할 수 있도록 완전을 기해 주시기 바랍니다.",
+      "reviewed": false,
+      "rel_label": "재외국민 보호 관련 추가 지시"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t6",
+      "rep_sid": "2026-cab-0414-mvVDdp#36",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "신속하게 · 제재",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t40",
+      "rep_sid": "2026-rpt-0715--PQDTo#543",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "엄정하게 · 신속하게",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

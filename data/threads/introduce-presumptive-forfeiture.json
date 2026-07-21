@@ -1,0 +1,71 @@
+{
+  "id": "introduce-presumptive-forfeiture",
+  "title": "몰수 간주규정 도입",
+  "topic_tags": [
+    "몰수",
+    "간주 규정",
+    "입법",
+    "시행령",
+    "간주"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0203-96DaSs@t43",
+      "rep_sid": "2026-cab-0203-96DaSs#469",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "몰수 규정에 대해서 일종이 간주 추정 규정을 만들면 되잖아요",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t20",
+      "rep_sid": "2026-cab-0506-4cLwEz#573",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "몰수 · 입법",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t29",
+      "rep_sid": "2026-cab-0602-HokLaJ#336",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "시행령 · 간주",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t44",
+      "rep_sid": "2026-cab-0602-HokLaJ#661",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "입법 · 시행령",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t58",
+      "rep_sid": "2026-cab-0630-dZLnc3#458",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "입법 · 시행령",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:00+09:00"
+}

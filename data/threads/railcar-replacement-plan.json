@@ -1,0 +1,27 @@
+{
+  "id": "railcar-replacement-plan",
+  "title": "철도 차량 교체 대책 제출",
+  "topic_tags": [
+    "기차교체",
+    "대규모교체",
+    "특별대책",
+    "재정",
+    "시작시기"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0114-nIdLEw@t61",
+      "rep_sid": "2026-rpt-0114-nIdLEw#973",
+      "meeting_id": "2026-rpt-0114-nIdLEw",
+      "date": "2026-01-14",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "별도로...대규모 차량 교체에 따른 특별 그 대책...별도로 작성해서 좀 제출해 주세요",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:55:48+09:00"
+}

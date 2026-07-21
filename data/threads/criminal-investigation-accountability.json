@@ -1,0 +1,25 @@
+{
+  "id": "criminal-investigation-accountability",
+  "title": "형사수사·책임 규명",
+  "topic_tags": [
+    "형사적 문제",
+    "정확하게 수사",
+    "책임을 물어야"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t12",
+      "rep_sid": "2026-cab-0623-2uViqE#88",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "형사적으로 문제되는 부분들은 다 정확하게 수사하고 밝혀서 책임을 물어야 될 것 같습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:58+09:00"
+}

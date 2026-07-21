@@ -1,0 +1,102 @@
+{
+  "id": "bereaved-support-measures",
+  "title": "유가족 지원 대책 마련",
+  "topic_tags": [
+    "유가족 지원",
+    "대책",
+    "세심하게 살펴봐 주시기"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2025-cab-1230-L2JG9h@t2",
+      "rep_sid": "2025-cab-1230-L2JG9h#9",
+      "meeting_id": "2025-cab-1230-L2JG9h",
+      "date": "2025-12-30",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "유가족들에 대한 지원 대책도 세심하게 살펴봐 주시기 바랍니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-rpt-0108-LvEXuS@t35",
+      "rep_sid": "2026-rpt-0108-LvEXuS#199",
+      "meeting_id": "2026-rpt-0108-LvEXuS",
+      "date": "2026-01-08",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "국토부하고 ... 자금 지원하는 방안이라든지 ... 이자를 대신 납부해 주는 방안이라든지 ... 협의를 하고",
+      "reviewed": false,
+      "rel_label": "국토부 협의 및 지원방안 협의 보고"
+    },
+    {
+      "tid": "2026-rpt-0108-LvEXuS@t37",
+      "rep_sid": "2026-rpt-0108-LvEXuS#213",
+      "meeting_id": "2026-rpt-0108-LvEXuS",
+      "date": "2026-01-08",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "올해 이제 저 상담원들이 각 그 예 소방서에 일선 상담원 이렇게 이제 배치를 어 할 수 있게 됐다.",
+      "reviewed": false,
+      "rel_label": "상담원 배치·심리지원 실행계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0108-LvEXuS@t38",
+      "rep_sid": "2026-rpt-0108-LvEXuS#221",
+      "meeting_id": "2026-rpt-0108-LvEXuS",
+      "date": "2026-01-08",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "정부에서 한 두 배 이상 ... 마음 건강 관리 사업비로 ... 한 150억 정도 투자를 해서 금년부터는",
+      "reviewed": false,
+      "rel_label": "마음건강 사업비 확대 제안"
+    },
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t10",
+      "rep_sid": "2026-cab-0310-2B4Fqs#203",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "금주내는 하도록 하겠습니다.",
+      "reviewed": false,
+      "rel_label": "지시에 대한 추진 일정 보고"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t8",
+      "rep_sid": "2026-cab-0406-IhS8yH#41",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "금융권과 협력해 민생 경제의 신규 자금을 지원하고 취약계층 발굴과 의약품 수급 관리 등 복지 사각지대 해소를",
+      "reviewed": false,
+      "rel_label": "민생·수급 종합대책 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t4",
+      "rep_sid": "2026-cab-0414-mvVDdp#16",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "재보 재조사 보고서를 공개한다든지",
+      "reviewed": false,
+      "rel_label": "유가족 지원 대책 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t4",
+      "rep_sid": "2026-cab-0714-gXWij0#23",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "채무자 지원 종합 창구를 만들었고요. 그 역할을 신용회복위원회가 하게 됩니다.",
+      "reviewed": false,
+      "rel_label": "채무자 지원 창구 도입 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:13+09:00"
+}

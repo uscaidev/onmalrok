@@ -1,0 +1,25 @@
+{
+  "id": "oversee-capital-market",
+  "title": "자본시장 챙겨보기",
+  "topic_tags": [
+    "자본시장",
+    "선진화",
+    "챙겨 보십시오"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t75",
+      "rep_sid": "2026-rpt-0715--PQDTo#1147",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "자본 시장 정상화 선진화 문제는 중요한 과제니까 잘 챙겨 보십시오.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "roadcorp-safety-reward",
+  "title": "도로공사 안전강화·포상",
+  "topic_tags": [
+    "도로공사",
+    "포상",
+    "안전",
+    "직원관리",
+    "겨울안전"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0114-nIdLEw@t33",
+      "rep_sid": "2026-rpt-0114-nIdLEw#517",
+      "meeting_id": "2026-rpt-0114-nIdLEw",
+      "date": "2026-01-14",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "그 일을 제대로 해는 사람들에게는 정확한 그분에게 포상을 하다거나 응분의 그 상을 줄 수 있도록 해야 된다",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0210-usgbZR@t2",
+      "rep_sid": "2026-cab-0210-usgbZR#8",
+      "meeting_id": "2026-cab-0210-usgbZR",
+      "date": "2026-02-10",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "안전 대책을 철저하게 수립하고...비상 대응 체계를 2중 3중으로 점검",
+      "reviewed": false,
+      "rel_label": "도로공사 안전조치 지시 보고"
+    },
+    {
+      "tid": "2026-cab-0224-DwvR4w@t72",
+      "rep_sid": "2026-cab-0224-DwvR4w#714",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "date": "2026-02-24",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "포상 · 안전",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t7",
+      "rep_sid": "2026-cab-0305-sPS14B#81",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "향후에도 철저하게 또 신속하게 대응할 수 있도록 완전을 기해 주시기 바랍니다.",
+      "reviewed": false,
+      "rel_label": "재외국민 보호 관련 추가 지시"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t53",
+      "rep_sid": "2026-cab-0406-IhS8yH#1304",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "포상 · 안전",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t4",
+      "rep_sid": "2026-cab-0414-mvVDdp#16",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "result",
+      "grade": "topic",
+      "grade_evidence": "포상 · 안전",
+      "reviewed": true,
+      "rel_label": "지시 이행 결과 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t69",
+      "rep_sid": "2026-cab-0414-mvVDdp#653",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "포상 · 안전",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-L64eg6@t19",
+      "rep_sid": "2026-rpt-0716-L64eg6#76",
+      "meeting_id": "2026-rpt-0716-L64eg6",
+      "date": "2026-07-16",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "포상 · 안전",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t12",
+      "rep_sid": "2026-rpt-0716-_t27O7#104",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "포상 · 안전",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "promote-renewable-transition",
+  "title": "재생에너지 전환 추진",
+  "topic_tags": [
+    "재생 에너지 중심",
+    "에너지 믹스",
+    "탈플라스틱"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0623-2uViqE@t3",
+      "rep_sid": "2026-cab-0623-2uViqE#3",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "재생 에너지 중심의 에너지 믹스 탈플라스틱 순환 경제료의 이행을 서둘러야겠습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:58+09:00"
+}

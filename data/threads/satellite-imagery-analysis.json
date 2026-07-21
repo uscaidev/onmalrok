@@ -1,0 +1,25 @@
+{
+  "id": "satellite-imagery-analysis",
+  "title": "위성사진 정기분석",
+  "topic_tags": [
+    "위성사진",
+    "국토부",
+    "인공지능 분석"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0506-4cLwEz@t23",
+      "rep_sid": "2026-cab-0506-4cLwEz#706",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "정기적으로 위성사진을 전 국토에 대해서 찍는 걸로 알고 있는데 주기적으로 확인을 좀 해 봐야 될 것 같은데요",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:13+09:00"
+}

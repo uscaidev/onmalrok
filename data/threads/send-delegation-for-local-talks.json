@@ -1,0 +1,27 @@
+{
+  "id": "send-delegation-for-local-talks",
+  "title": "현지 파견 통한 협상 시도",
+  "topic_tags": [
+    "현지 파견",
+    "중동",
+    "구체적 협의",
+    "비서실 사례",
+    "직접 방문"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0331-pWre_D@t18",
+      "rep_sid": "2026-cab-0331-pWre_D#234",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "date": "2026-03-31",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "필요하면 현지의 사람들을 좀 보내서라도 좀 구체적 협의나 이런 걸 좀 해 보면 좋을 것 같아요",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:42+09:00"
+}

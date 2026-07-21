@@ -1,0 +1,26 @@
+{
+  "id": "pursue-capital-market-reforms",
+  "title": "자본시장 구조개선 추진",
+  "topic_tags": [
+    "자본시장",
+    "주식시장 정상화",
+    "상장폐지",
+    "제도도입"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0715--PQDTo@t60",
+      "rep_sid": "2026-rpt-0715--PQDTo#860",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "반드시 필요한 조치는 저항이 있더라도 반 신속하게 도입 받도록 하시고요.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:24+09:00"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "alternative-to-labor-detention",
+  "title": "노역형 집행 대체 검토",
+  "topic_tags": [
+    "노역장 유치",
+    "사회봉사 대체",
+    "법무부",
+    "가석방"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0602-HokLaJ@t30",
+      "rep_sid": "2026-cab-0602-HokLaJ#353",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "노역장 유치자 중에서 사회봉사로 좀 대체할 수 있도록 한 그런 방안 저희들이 적극 좀 권장하고 있습니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:42+09:00"
+}

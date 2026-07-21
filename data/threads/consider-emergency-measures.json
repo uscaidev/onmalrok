@@ -1,0 +1,26 @@
+{
+  "id": "consider-emergency-measures",
+  "title": "비상 전력·수출 통제 검토",
+  "topic_tags": [
+    "수출 통제",
+    "원자력 가동 확대",
+    "비상 대책",
+    "검토"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0317-bzrcCS@t3",
+      "rep_sid": "2026-cab-0317-bzrcCS#11",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "필요하다면 수출 통제도 검토하고 어, 원자력 발전소에 가동을 늘린다든지 이런 비상 대책도 강구해야 되겠습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:16+09:00"
+}

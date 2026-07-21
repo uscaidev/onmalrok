@@ -1,0 +1,26 @@
+{
+  "id": "ai-generated-content-labeling",
+  "title": "AI창작물 표시제도 정비",
+  "topic_tags": [
+    "인공지능",
+    "창작물표시",
+    "영상·이미지",
+    "법제도"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0716-_t27O7@t50",
+      "rep_sid": "2026-rpt-0716-_t27O7#370",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "인공지능으로 만든 가짜 그림...표시하는 그 법제를 지금 어 추진하고 있고",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

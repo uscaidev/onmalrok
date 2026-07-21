@@ -1,0 +1,37 @@
+{
+  "id": "improve-veterans-medical-access",
+  "title": "지역 보훈 진료 접근성 강화",
+  "topic_tags": [
+    "국가보훈부",
+    "진료 접근성",
+    "지역 보훈회관",
+    "서비스 제공"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t65",
+      "rep_sid": "2026-cab-0120-1bgJaV#1078",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "집 근처에서 진료받을 수 있도록 보건 의료 접근성을 강화한다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t4",
+      "rep_sid": "2026-cab-0602-HokLaJ#8",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "올 4월에 독립유공자법 개정을 해서... 매연 2027년 1월 1일부터 시행",
+      "reviewed": false,
+      "rel_label": "지시 결과·정책설명 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:58:45+09:00"
+}

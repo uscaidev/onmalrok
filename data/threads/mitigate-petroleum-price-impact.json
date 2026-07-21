@@ -1,0 +1,26 @@
+{
+  "id": "mitigate-petroleum-price-impact",
+  "title": "석유제품 가격 충격 완화 방안 마련",
+  "topic_tags": [
+    "석유 제품 가격",
+    "구체적 방안",
+    "국민 충격 완화",
+    "신속 마련"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0324-56VTWK@t11",
+      "rep_sid": "2026-cab-0324-56VTWK#295",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "date": "2026-03-24",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "국민 삶에 미칠 충격을 조금이라도 줄이기 위한 구체적 방안을 신속하게 마련해야 되겠습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:28+09:00"
+}

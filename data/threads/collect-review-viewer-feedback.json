@@ -1,0 +1,26 @@
+{
+  "id": "collect-review-viewer-feedback",
+  "title": "시청자 의견 수집·점검",
+  "topic_tags": [
+    "방송 의견",
+    "수집",
+    "점검",
+    "각 기관"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-rpt-0716-imQ8RH@t56",
+      "rep_sid": "2026-rpt-0716-imQ8RH#1240",
+      "meeting_id": "2026-rpt-0716-imQ8RH",
+      "date": "2026-07-16",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "실질적인 건의 지적이나 의견이 있는 거는 다 수집해서 각 기관들이 나눠서 점검하도록 하십시오.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:38+09:00"
+}

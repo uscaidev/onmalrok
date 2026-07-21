@@ -1,0 +1,27 @@
+{
+  "id": "startup-regulation-review",
+  "title": "창업규제 전면정비",
+  "topic_tags": [
+    "창업",
+    "규제 전반",
+    "제로베이스",
+    "제도혁신",
+    "자금지원"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0203-96DaSs@t3",
+      "rep_sid": "2026-cab-0203-96DaSs#10",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "date": "2026-02-03",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "창업 관련 규제 전반을 제로베이스 차원에서 손 볼 필요가 있습니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:21+09:00"
+}

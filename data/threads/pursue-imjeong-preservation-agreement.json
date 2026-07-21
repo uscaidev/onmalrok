@@ -1,0 +1,48 @@
+{
+  "id": "pursue-imjeong-preservation-agreement",
+  "title": "임정청사 보존협의 추진",
+  "topic_tags": [
+    "임정청사",
+    "외교부",
+    "중국 정부",
+    "보존 협의"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t34",
+      "rep_sid": "2026-cab-0120-1bgJaV#405",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "외교부에서 중국 정부하고 ... 보존 협박이라든지 ... 해 놔야 되지 않습니까?",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t4",
+      "rep_sid": "2026-cab-0305-sPS14B#35",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "중동 상황 관련 대응 현황 및 계획을 외교부 장관, 기재부, 산업부, 금융위원회 순서로 보고해 주시기 바랍니",
+      "reviewed": false,
+      "rel_label": "부처별 대응 보고 지시"
+    },
+    {
+      "tid": "2026-cab-0305-sPS14B@t8",
+      "rep_sid": "2026-cab-0305-sPS14B#83",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "중동 상황 관련한 경제분야 대응 현황과 대응 방향에 대해서 보고 드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "경제분야 대응 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:55+09:00"
+}

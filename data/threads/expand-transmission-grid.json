@@ -1,0 +1,27 @@
+{
+  "id": "expand-transmission-grid",
+  "title": "송전망 확대 추진",
+  "topic_tags": [
+    "송전망 부족",
+    "재생에너지 활용",
+    "송전망 확충",
+    "서남 해안",
+    "재생에너지 비중"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0305-sPS14B@t19",
+      "rep_sid": "2026-cab-0305-sPS14B#322",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "송전망 부족 때문에...재생에너지는 생산 여력이 있는데도 지금 제대로 쓰지 못하는 상황",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:43+09:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "compensate-based-on-production-cost",
+  "title": "생산원가 기준 보전 검토",
+  "topic_tags": [
+    "유류세",
+    "생산 원가",
+    "정유사",
+    "보전",
+    "가격 대책"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0324-56VTWK@t11",
+      "rep_sid": "2026-cab-0324-56VTWK#295",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "date": "2026-03-24",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "생산 원가 기준으로 기업들이 손해를 안 보는 네. 걸로 그렇게 좀 해 주면",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:28+09:00"
+}

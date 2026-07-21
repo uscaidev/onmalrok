@@ -1,0 +1,25 @@
+{
+  "id": "accelerate-renewable-transition",
+  "title": "재생에너지 중심 전환 가속",
+  "topic_tags": [
+    "재생 에너지",
+    "화석 연료 전환",
+    "에너지 대전환"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0406-IhS8yH@t13",
+      "rep_sid": "2026-cab-0406-IhS8yH#75",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "화석 연료 중심의 산업 체계를 과감하게 그리고 신속하게 전환해야 되겠습니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:50+09:00"
+}

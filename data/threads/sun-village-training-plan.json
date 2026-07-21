@@ -1,0 +1,81 @@
+{
+  "id": "sun-village-training-plan",
+  "title": "햇빛마을 교육방법 연구",
+  "topic_tags": [
+    "햇빛소득마을",
+    "교육",
+    "전국확산",
+    "사례교육"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2025-cab-1216-8p6pXm@t28",
+      "rep_sid": "2025-cab-1216-8p6pXm#582",
+      "meeting_id": "2025-cab-1216-8p6pXm",
+      "date": "2025-12-16",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "교육할 수 있는 그 방법을 집중적으로 먼저 좀 연구를 해 주시는 게 필요합니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-rpt-0108-LvEXuS@t33",
+      "rep_sid": "2026-rpt-0108-LvEXuS#189",
+      "meeting_id": "2026-rpt-0108-LvEXuS",
+      "date": "2026-01-08",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "특별 소방 검사도 하고 훈련도 하고 교육도 하고 실제로 어떻게 피난할 수 있는지 그 입주민들한테 ... 피난",
+      "reviewed": false,
+      "rel_label": "특별 검사·교육·훈련 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0114-kvXX3W@t10",
+      "rep_sid": "2026-rpt-0114-kvXX3W#126",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "date": "2026-01-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "올해 지스트가 추진할 핵심 과제를 말씀드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "기관 연간 추진과제 보고"
+    },
+    {
+      "tid": "2026-rpt-0114-kvXX3W@t11",
+      "rep_sid": "2026-rpt-0114-kvXX3W#145",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "date": "2026-01-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "26년에는 약 2,424억의 예산을 바탕으로... 중점 과제들을 말씀드리겠습니다.",
+      "reviewed": false,
+      "rel_label": "기관 연간 추진과제 보고"
+    },
+    {
+      "tid": "2026-rpt-0114-kvXX3W@t12",
+      "rep_sid": "2026-rpt-0114-kvXX3W#169",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "date": "2026-01-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "저희는 지난해... 주요 성과를 말씀드렸습니다.",
+      "reviewed": false,
+      "rel_label": "기관 성과·추진과제 보고"
+    },
+    {
+      "tid": "2026-rpt-0114-kvXX3W@t42",
+      "rep_sid": "2026-rpt-0114-kvXX3W#601",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "date": "2026-01-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "'26년 예산은 약 1조 9천억 원 정도를 투입할 계획입니다.",
+      "reviewed": false,
+      "rel_label": "연간 성과·추진과제 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:55:41+09:00"
+}

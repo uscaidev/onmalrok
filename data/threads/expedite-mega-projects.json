@@ -1,0 +1,25 @@
+{
+  "id": "expedite-mega-projects",
+  "title": "메가프로젝트 절차 신속화",
+  "topic_tags": [
+    "3대 메가 프로젝트",
+    "절차 단축",
+    "중앙정부·지방정부 협력"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0714-gXWij0@t13",
+      "rep_sid": "2026-cab-0714-gXWij0#99",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "모든 관련 절차를 최대한 빠르게 진행해 주시기 바랍니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:07+09:00"
+}

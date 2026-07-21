@@ -1,0 +1,92 @@
+{
+  "id": "prepare-housing-financial-measures",
+  "title": "부동산·금융 대책 준비",
+  "topic_tags": [
+    "부동산",
+    "금융 부문",
+    "세금",
+    "준비"
+  ],
+  "stage": "progress",
+  "nodes": [
+    {
+      "tid": "2026-cab-0317-bzrcCS@t22",
+      "rep_sid": "2026-cab-0317-bzrcCS#218",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "그 준비 잘하십시오.",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t32",
+      "rep_sid": "2026-cab-0414-mvVDdp#256",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "부동산 · 준비",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t35",
+      "rep_sid": "2026-cab-0714-gXWij0#576",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "부동산 · 세금",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t37",
+      "rep_sid": "2026-cab-0714-gXWij0#649",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "부동산 · 세금",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0714-gXWij0@t4",
+      "rep_sid": "2026-cab-0714-gXWij0#23",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "date": "2026-07-14",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "채무자 지원 종합 창구를 만들었고요. 그 역할을 신용회복위원회가 하게 됩니다.",
+      "reviewed": false,
+      "rel_label": "채무자 지원 창구 도입 보고"
+    },
+    {
+      "tid": "2026-rpt-0715--PQDTo@t88",
+      "rep_sid": "2026-rpt-0715--PQDTo#1341",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "date": "2026-07-15",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "부동산 · 준비",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-rpt-0716-_t27O7@t110",
+      "rep_sid": "2026-rpt-0716-_t27O7#1093",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "date": "2026-07-16",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "세금 · 준비",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:34+09:00"
+}

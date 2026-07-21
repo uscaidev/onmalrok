@@ -1,0 +1,27 @@
+{
+  "id": "consult-signage-language-change",
+  "title": "현판 표기 변경 의견수렴",
+  "topic_tags": [
+    "현판",
+    "한글 표기",
+    "여론 조사",
+    "의견 수렴",
+    "국가 유산"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0120-1bgJaV@t88",
+      "rep_sid": "2026-cab-0120-1bgJaV#1609",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "date": "2026-01-20",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "앞으로 의견 수령을 좀 거쳐 나가도록 하겠습니다.",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:09+09:00"
+}

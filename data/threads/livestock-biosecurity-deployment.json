@@ -1,0 +1,27 @@
+{
+  "id": "livestock-biosecurity-deployment",
+  "title": "가축 방역 인력 집중투입",
+  "topic_tags": [
+    "가축 전염병",
+    "방역",
+    "지자체",
+    "인력 투입",
+    "민족 대이동"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0210-usgbZR@t2",
+      "rep_sid": "2026-cab-0210-usgbZR#8",
+      "meeting_id": "2026-cab-0210-usgbZR",
+      "date": "2026-02-10",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "가축 방역 기관과 해당 지자체의 인력을 최대한 투입해서 집중해 주시기 바랍니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:27+09:00"
+}

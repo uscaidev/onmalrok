@@ -1,0 +1,26 @@
+{
+  "id": "prepare-worst-case-measures",
+  "title": "최악 가정 대비책 수립",
+  "topic_tags": [
+    "최악의 상황",
+    "대비책 수립",
+    "대체 공급선",
+    "영향 분석"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0324-56VTWK@t2",
+      "rep_sid": "2026-cab-0324-56VTWK#8",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "date": "2026-03-24",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "최악의 상황까지 가정한 대비책을 철저하게 수립 시행해 주시기 바랍니다",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:57:28+09:00"
+}

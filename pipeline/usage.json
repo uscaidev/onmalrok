@@ -5,6 +5,30 @@
       "input_tokens": 2622345,
       "output_tokens": 936410,
       "cost_usd": 2.5282
+    },
+    "turns": {
+      "calls": 34,
+      "input_tokens": 1048454,
+      "output_tokens": 54237,
+      "cost_usd": 0.3704
+    },
+    "agenda": {
+      "calls": 34,
+      "input_tokens": 1039775,
+      "output_tokens": 9825,
+      "cost_usd": 0.2795
+    },
+    "summarize": {
+      "calls": 34,
+      "input_tokens": 1047441,
+      "output_tokens": 19979,
+      "cost_usd": 0.3019
+    },
+    "threads": {
+      "calls": 54,
+      "input_tokens": 285607,
+      "output_tokens": 26025,
+      "cost_usd": 0.1237
     }
   }
 }

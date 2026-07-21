@@ -1,0 +1,26 @@
+{
+  "id": "parliament-perjury-cases-speed",
+  "title": "국회 위증 고발 신속처리",
+  "topic_tags": [
+    "국회",
+    "위증 고발",
+    "신속 가려야",
+    "권위 훼손"
+  ],
+  "stage": "order",
+  "nodes": [
+    {
+      "tid": "2026-cab-0210-usgbZR@t7",
+      "rep_sid": "2026-cab-0210-usgbZR#60",
+      "meeting_id": "2026-cab-0210-usgbZR",
+      "date": "2026-02-10",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "국회 위증 고발 사건에 대해서는 ... 신속하게 가려 줘야",
+      "reviewed": true,
+      "rel_label": "지시"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:56:27+09:00"
+}

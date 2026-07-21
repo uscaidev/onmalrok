@@ -1,0 +1,192 @@
+{
+  "id": "fuel-price-response-report",
+  "title": "유류값 대응방안 보고",
+  "topic_tags": [
+    "주유소 석유 가격",
+    "대응 방안",
+    "대응 부처",
+    "가격 급등",
+    "보고"
+  ],
+  "stage": "plan",
+  "nodes": [
+    {
+      "tid": "2026-cab-0305-sPS14B@t9",
+      "rep_sid": "2026-cab-0305-sPS14B#146",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "date": "2026-03-05",
+      "role": "order",
+      "grade": "explicit",
+      "grade_evidence": "주유소 석유 가격이 하루 만에...요거에 대한 대응 방안과 대응 부처는 어디 어디예요?",
+      "reviewed": true,
+      "rel_label": "지시"
+    },
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t8",
+      "rep_sid": "2026-cab-0310-2B4Fqs#139",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "대응 방안 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0310-2B4Fqs@t20",
+      "rep_sid": "2026-cab-0310-2B4Fqs#331",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "date": "2026-03-10",
+      "role": "report",
+      "grade": "explicit",
+      "grade_evidence": "니다. 자토님께서 말씀하신 자영업자 농민 등 고육과 영향의 취",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0317-bzrcCS@t48",
+      "rep_sid": "2026-cab-0317-bzrcCS#576",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "대응 방안 · 보고",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0317-bzrcCS@t5",
+      "rep_sid": "2026-cab-0317-bzrcCS#85",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "date": "2026-03-17",
+      "role": "report",
+      "grade": "ai_inferred",
+      "grade_evidence": "그러면 먼저 중동 상황 관련 대형 현황을 보고받고 현안 토의와 어 기타 부처 보고를 진행하겠습니다.",
+      "reviewed": false,
+      "rel_label": "지시에 대한 현황 보고 예정"
+    },
+    {
+      "tid": "2026-cab-0406-IhS8yH@t24",
+      "rep_sid": "2026-cab-0406-IhS8yH#339",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "date": "2026-04-06",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "대응 방안 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t29",
+      "rep_sid": "2026-cab-0414-mvVDdp#215",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "대응 방안 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0414-mvVDdp@t62",
+      "rep_sid": "2026-cab-0414-mvVDdp#567",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "date": "2026-04-14",
+      "role": "report",
+      "grade": "explicit",
+      "grade_evidence": ". 다만 제조업은 지난 3월 발생한 대전 화제 사고 등 영향으로",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t11",
+      "rep_sid": "2026-cab-0506-4cLwEz#351",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "대응 방안 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0506-4cLwEz@t6",
+      "rep_sid": "2026-cab-0506-4cLwEz#82",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "date": "2026-05-06",
+      "role": "interim",
+      "grade": "ai_inferred",
+      "grade_evidence": "국조실에서 전 부처 받아서 지금 총괄 TF에서 점검을 하고 있습니다.",
+      "reviewed": false,
+      "rel_label": "총괄 TF 점검 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0526-B3JFkX@t35",
+      "rep_sid": "2026-cab-0526-B3JFkX#347",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "date": "2026-05-26",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "대응 방안 · 보고",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0602-HokLaJ@t55",
+      "rep_sid": "2026-cab-0602-HokLaJ#940",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "date": "2026-06-02",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "대응 방안 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0623-2uViqE@t26",
+      "rep_sid": "2026-cab-0623-2uViqE#256",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "report",
+      "grade": "explicit",
+      "grade_evidence": " 전 대통령님께서 말씀하신 대로 중동 상황을 앞으로의 변화를 ",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    },
+    {
+      "tid": "2026-cab-0623-2uViqE@t45",
+      "rep_sid": "2026-cab-0623-2uViqE#453",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "date": "2026-06-23",
+      "role": "result",
+      "grade": "explicit",
+      "grade_evidence": " 있는 중입니다. 지난 6월 3일에 발표한 여름철 취약계층 보호",
+      "reviewed": true,
+      "rel_label": "지시 이행 결과 보고"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t41",
+      "rep_sid": "2026-cab-0630-dZLnc3#299",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "interim",
+      "grade": "topic",
+      "grade_evidence": "대응 방안 · 보고",
+      "reviewed": true,
+      "rel_label": "관련 경과 보고"
+    },
+    {
+      "tid": "2026-cab-0630-dZLnc3@t42",
+      "rep_sid": "2026-cab-0630-dZLnc3#305",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "date": "2026-06-30",
+      "role": "report",
+      "grade": "topic",
+      "grade_evidence": "대응 방안 · 보고",
+      "reviewed": true,
+      "rel_label": "지시에 대한 추진 계획 보고"
+    }
+  ],
+  "followup": null,
+  "updated_at": "2026-07-21T16:59:00+09:00"
+}
