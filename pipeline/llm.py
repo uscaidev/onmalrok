@@ -17,12 +17,16 @@ from .config import KST, ROOT
 
 MODEL = "claude-sonnet-5"
 OPENROUTER_MODEL = "anthropic/claude-sonnet-5"
+OPENAI_MODEL = "gpt-5-mini"   # 스펙 §6(claude-sonnet 고정)의 예외 — 사용자가 OpenAI 키 선택
 # Anthropic Message Batches 단가 (표준가 $3/$15의 50%)
 BATCH_USD_PER_MTOK_INPUT = 1.5
 BATCH_USD_PER_MTOK_OUTPUT = 7.5
 # OpenRouter 단가 (2026-07 기준 $2/$10)
 OPENROUTER_USD_PER_MTOK_INPUT = 2.0
 OPENROUTER_USD_PER_MTOK_OUTPUT = 10.0
+# OpenAI gpt-5-mini 단가
+OPENAI_USD_PER_MTOK_INPUT = 0.25
+OPENAI_USD_PER_MTOK_OUTPUT = 2.0
 
 USAGE_FILE = ROOT / "pipeline" / "usage.json"
 PROMPTS_DIR = ROOT / "pipeline" / "prompts"
@@ -52,7 +56,13 @@ def _get_key(name: str) -> str | None:
 
 
 def _openrouter_key() -> str | None:
-    return _get_key("OPENROUTER_API_KEY")
+    key = _get_key("OPENROUTER_API_KEY")
+    return key if key and key.startswith("sk-or-") else None  # 형식 불량 키 배제
+
+
+def _openai_key() -> str | None:
+    key = _get_key("OPENAI_API_KEY")
+    return key if key and key.startswith("sk-") else None
 
 
 def provider() -> str | None:
@@ -60,6 +70,8 @@ def provider() -> str | None:
         return "anthropic"
     if _openrouter_key():
         return "openrouter"
+    if _openai_key():
+        return "openai"
     return None
 
 
@@ -73,20 +85,27 @@ def get_client():
 
 
 def complete(prompt: str, stage: str, max_tokens: int = 8000) -> str:
-    """OpenRouter 동기 호출 (429/5xx 3회 재시도). 응답 텍스트 반환 + 사용량 기록."""
-    key = _openrouter_key()
-    body = {
-        "model": OPENROUTER_MODEL,
-        "max_tokens": max_tokens,
-        "messages": [{"role": "user", "content": prompt}],
-    }
+    """동기 호출 (429/5xx 3회 재시도). 응답 텍스트 반환 + 사용량 기록."""
+    prov = provider()
+    if prov == "openai":
+        url = "https://api.openai.com/v1/chat/completions"
+        key = _openai_key()
+        body = {
+            "model": OPENAI_MODEL,
+            "max_completion_tokens": max_tokens,  # gpt-5 계열은 max_tokens 미지원
+            "messages": [{"role": "user", "content": prompt}],
+        }
+    else:
+        url = "https://openrouter.ai/api/v1/chat/completions"
+        key = _openrouter_key()
+        body = {
+            "model": OPENROUTER_MODEL,
+            "max_tokens": max_tokens,
+            "messages": [{"role": "user", "content": prompt}],
+        }
     for attempt in range(3):
-        res = requests.post(
-            "https://openrouter.ai/api/v1/chat/completions",
-            headers={"Authorization": f"Bearer {key}"},
-            json=body,
-            timeout=300,
-        )
+        res = requests.post(url, headers={"Authorization": f"Bearer {key}"},
+                            json=body, timeout=300)
         if res.status_code in (429, 500, 502, 503, 529):
             time.sleep(10 * (attempt + 1))
             continue
@@ -94,9 +113,9 @@ def complete(prompt: str, stage: str, max_tokens: int = 8000) -> str:
         data = res.json()
         usage = data.get("usage", {})
         record_usage(stage, usage.get("prompt_tokens", 0), usage.get("completion_tokens", 0),
-                     provider_name="openrouter")
+                     provider_name=prov)
         return data["choices"][0]["message"]["content"]
-    raise RuntimeError(f"OpenRouter 호출 3회 실패 (마지막 status {res.status_code})")
+    raise RuntimeError(f"{prov} 호출 3회 실패 (마지막 status {res.status_code})")
 
 
 def load_prompt(name: str) -> str:
@@ -110,6 +129,8 @@ def record_usage(stage: str, input_tokens: int, output_tokens: int, calls: int =
     """월 단위 사용량 누적."""
     if provider_name == "openrouter":
         in_price, out_price = OPENROUTER_USD_PER_MTOK_INPUT, OPENROUTER_USD_PER_MTOK_OUTPUT
+    elif provider_name == "openai":
+        in_price, out_price = OPENAI_USD_PER_MTOK_INPUT, OPENAI_USD_PER_MTOK_OUTPUT
     else:
         in_price, out_price = BATCH_USD_PER_MTOK_INPUT, BATCH_USD_PER_MTOK_OUTPUT
     month = datetime.now(KST).strftime("%Y-%m")
