@@ -2,7 +2,7 @@
 // 파일 경로·형식에 대한 지식을 여기에만 둔다. 서버(빌드 시) 전용.
 import { readdir, readFile } from "node:fs/promises";
 import path from "node:path";
-import type { GovTask, Meeting, MeetingIndexItem, TaskMapEntry, Thread } from "./types";
+import type { AgendaIndex, GovTask, Meeting, MeetingIndexItem, TaskMapEntry, Thread } from "./types";
 
 const dataDir = path.join(process.cwd(), "data");
 
@@ -31,6 +31,16 @@ export async function getAllMeetings(): Promise<Meeting[]> {
     files.map(async (f) => JSON.parse(await readFile(path.join(dataDir, "meetings", f), "utf8")) as Meeting)
   );
   return meetings.sort((a, b) => (a.date < b.date ? 1 : -1));
+}
+
+/** 의제 뷰 인덱스 — 파이프라인 12 agenda_view 산출 (SPEC-PIPELINE.md §2.5). 없으면 null */
+export async function getAgenda(): Promise<AgendaIndex | null> {
+  try {
+    const raw = await readFile(path.join(dataDir, "index", "agenda.json"), "utf8");
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
 }
 
 // ── 국정과제 축 (SPEC-PIPELINE.md §2.4) ──

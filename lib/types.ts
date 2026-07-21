@@ -134,6 +134,48 @@ export interface TaskMapEntry {
   turn_refs: TaskTurnRef[]; // 과제 관련 언급 전체 — 빈 배열 = "언급 0회"도 기록
 }
 
+// 의제 뷰 — SPEC-PIPELINE.md §2.5 (data/index/agenda.json)
+export interface AgendaSeed {
+  date: string;
+  quote: string; // 시드 explicit 지시 발화의 grade_evidence
+  speaker: string | null; // Turn 화자 — AI 추정 병기 필수
+  meeting_id: string;
+  youtube_id: string;
+  t: number; // 재생 시작 초 (rep_sid start_sec - 3)
+}
+
+export interface AgendaLatest {
+  date: string;
+  speaker: string | null;
+  rel_label: string;
+  meeting_id: string;
+  youtube_id: string;
+  t: number;
+}
+
+export interface AgendaThread {
+  id: string;
+  title: string; // 명사형 의제문 — AI 산출이므로 AiLabel 대상
+  stage: ThreadStage;
+  field_ids: string[]; // 미매치면 ["etc"]
+  node_dates: string[]; // 기간 창 필터·집계는 클라이언트 계산
+  seed: AgendaSeed;
+  latest: AgendaLatest;
+}
+
+export interface AgendaBriefItem {
+  text: string;
+  thread_ids: string[]; // 근거 스레드 — 항목당 1개 이상 보장
+}
+
+export interface AgendaIndex {
+  generated_at: string;
+  ref_date: string; // 기간 창 기준일 = 최신 회의 날짜
+  fields: { id: string; label: string; thread_count: number }[];
+  threads: AgendaThread[];
+  briefs: { window_days: number; items: AgendaBriefItem[] }[];
+}
+
 // 검색 색인 — SPEC.md §4.3
 export interface SearchDoc {
   sid: string;

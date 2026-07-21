@@ -1,0 +1,241 @@
+.section {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 8px 16px 4px;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 8px 0 4px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--txt);
+  margin: 0;
+}
+
+.windows {
+  display: flex;
+  gap: 6px;
+}
+
+.windowBtn {
+  background: var(--card-sub);
+  color: var(--dim);
+  font-size: 13px;
+  font-weight: 500;
+  padding: 5px 12px;
+  border-radius: var(--r-chip);
+}
+
+.windowBtn:hover {
+  background: var(--hover);
+}
+
+.windowActive {
+  background: var(--txt);
+  color: var(--bg);
+}
+
+.windowActive:hover {
+  background: var(--txt);
+}
+
+.fieldChips {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  overflow-x: auto;
+  padding: 8px 0;
+}
+
+.chip {
+  flex-shrink: 0;
+  background: var(--card-sub);
+  color: var(--txt);
+  font-size: 13px;
+  font-weight: 500;
+  padding: 5px 11px;
+  border-radius: var(--r-chip);
+  white-space: nowrap;
+}
+
+.chip:hover {
+  background: var(--hover);
+}
+
+.chipActive {
+  background: var(--txt);
+  color: var(--bg);
+}
+
+.chipActive:hover {
+  background: var(--txt);
+}
+
+/* 미분류는 숨기지 않되 구분 — 점선 (§6.1) */
+.chipEtc {
+  background: transparent;
+  border: 1px dashed var(--line);
+  color: var(--dim);
+}
+
+.chipEtc.chipActive {
+  background: var(--txt);
+  color: var(--bg);
+  border-style: solid;
+}
+
+.brief {
+  background: var(--card);
+  border-radius: var(--r-card);
+  padding: 14px 16px;
+  margin: 4px 0 8px;
+}
+
+.briefHead {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.briefTitle {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--txt);
+}
+
+.briefMeta {
+  font-size: 12px;
+  color: var(--dim);
+}
+
+.briefList {
+  margin: 0;
+  padding-left: 18px;
+  display: grid;
+  gap: 6px;
+}
+
+.briefItem {
+  font-size: 13.5px;
+  line-height: 1.65;
+  color: var(--txt);
+}
+
+.briefLinks {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-left: 8px;
+}
+
+.meta {
+  font-size: 13px;
+  color: var(--dim);
+  margin: 4px 0 0;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.row:last-child {
+  border-bottom: none;
+}
+
+.rowHead {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.rowTitle {
+  font-size: 15.5px;
+  font-weight: 500;
+  color: var(--txt);
+  line-height: 1.45;
+}
+
+.rowCount {
+  flex-shrink: 0;
+  font-size: 12.5px;
+  color: var(--dim);
+}
+
+.rowMeta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.fieldTag,
+.stageTag {
+  font-size: 11.5px;
+  color: var(--dim);
+  background: var(--card-sub);
+  padding: 2px 8px;
+  border-radius: var(--r-badge);
+}
+
+/* 대통령 지시 = red (§5.2) */
+.orderBadge {
+  font-size: 11.5px;
+  color: var(--red);
+  border: 1px solid var(--red);
+  padding: 1px 7px;
+  border-radius: var(--r-badge);
+}
+
+/* 시드 인용은 원문 발화 — 명조 (§5.3) */
+.quote {
+  font-family: var(--font-quote);
+  font-size: 13.5px;
+  color: var(--dim);
+  quotes: "“" "”";
+}
+
+.rowLatest {
+  margin-top: 5px;
+  font-size: 13px;
+  color: var(--dim);
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.speaker {
+  color: var(--amber); /* 발언자명 = amber (§5.2) */
+}
+
+.empty {
+  color: var(--dim);
+  padding: 24px 0;
+  text-align: center;
+}
+
+.notice {
+  font-size: 12px;
+  color: var(--dim);
+  margin: 8px 0 0;
+  padding-bottom: 8px;
+}

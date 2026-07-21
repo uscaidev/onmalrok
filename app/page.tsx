@@ -1,13 +1,15 @@
 import SiteHeader from "@/components/SiteHeader";
+import AgendaSection from "./AgendaSection";
 import HomeBrowser from "./HomeBrowser";
 import HomeHero from "./HomeHero";
-import { getKeywords, getMeetingIndex, getTopSpeakers } from "@/lib/data";
+import { getAgenda, getKeywords, getMeetingIndex, getTopSpeakers } from "@/lib/data";
 
 export default async function HomePage() {
-  const [meetings, keywords, speakers] = await Promise.all([
+  const [meetings, keywords, speakers, agenda] = await Promise.all([
     getMeetingIndex(),
     getKeywords(),
     getTopSpeakers(),
+    getAgenda(),
   ]);
   const topKeywords = Object.entries(keywords)
     .sort((a, b) => b[1] - a[1])
@@ -24,6 +26,7 @@ export default async function HomePage() {
         statementCount={statementCount}
         keywords={topKeywords}
       />
+      {agenda && <AgendaSection agenda={agenda} />}
       <HomeBrowser
         meetings={meetings}
         keywords={topKeywords}
