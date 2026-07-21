@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import "@/styles/tokens.css";
 import "./globals.css";
 import { CONTACT_URL, SITE_NAME, SITE_URL } from "@/lib/site";
@@ -59,6 +60,17 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             github.com/uscaidev
           </a>
         </footer>
+        {/* 네이버 애널리틱스 — wcslog.js 로드 완료 후 wcs_do() 실행 보장 */}
+        <Script id="naver-analytics" strategy="afterInteractive">
+          {`(function () {
+            if (!window.wcs_add) window.wcs_add = {};
+            window.wcs_add["wa"] = "17bcf88fe428bd0";
+            var s = document.createElement("script");
+            s.src = "//wcs.pstatic.net/wcslog.js";
+            s.onload = function () { if (window.wcs) wcs_do(); };
+            document.body.appendChild(s);
+          })();`}
+        </Script>
       </body>
     </html>
   );
