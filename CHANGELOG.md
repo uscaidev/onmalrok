@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## Phase P6 — 국정과제 축 (2026-07-21) · 트랙 A 파이프라인
+
+- **방향 확정**: 서비스 목적 = 대통령 발언·지시와 부처 이행 추적. 상위 프레임은 이재명 정부
+  123대 국정과제(korea.kr/govVision) — 구조: 과제 ⊃ 스레드 ⊃ 발언 (SPEC-PIPELINE.md §2.4)
+- `data/tasks/tasks.json` — 123과제 마스터(5목표·23전략·과제명·주관 부처·원문 PDF 링크),
+  govVision 페이지 파싱으로 구축. 정부 발표가 SSOT — 파이프라인은 수정하지 않음
+- `pipeline/task_map.py`(11단계, run_all 편입) — Turn 단위 3단 판정
+  (①과제명·"국정과제 N번" 직접 언급 → explicit ②키워드 2개 → topic ③1개 일치 LLM 판정 → ai_inferred)
+  → `tasks/map.json`(과제↔스레드/턴 매핑, 전 123과제 entries 유지 — "언급 0회"도 기록)
+- `tasks/keywords.json` — 과제별 검색 키워드 LLM 1회 생성 캐시.
+  자막은 띄어쓰기가 제각각이라 매칭은 공백 무시, 키워드는 구어 통용형("개헌") 중심으로 생성
+- 백필 결과(33개 회의): refs 228건(ai_inferred 205 · topic 15 · explicit 8),
+  언급 보유 과제 63/123, 과제↔스레드 연결 129건. LLM 비용 $0.05
+- korea.kr 공식 안건 앵커는 필수 해제(구두 지시가 공문에 선행할 수 있음 — 발화 기록이 1차 소스)
+
 ## Phase 1 — 기반 + 검색 (2026-07-21) · 트랙 B 웹 앱
 
 - 스키마: **SPEC-PIPELINE.md §2 (Statement–Turn–Agenda 3층 구조) 기준으로 구현**

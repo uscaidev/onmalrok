@@ -29,6 +29,12 @@
       "input_tokens": 296880,
       "output_tokens": 27339,
       "cost_usd": 0.1291
+    },
+    "task_map": {
+      "calls": 75,
+      "input_tokens": 96618,
+      "output_tokens": 15192,
+      "cost_usd": 0.0547
     }
   }
 }

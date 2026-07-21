@@ -1,0 +1,2445 @@
+{
+  "generated_at": "2026-07-21T17:47:30+09:00",
+  "entries": [
+    {
+      "task_no": 1,
+      "thread_ids": [
+        "connect-enforcement-decree-law",
+        "daily-supply-monitoring",
+        "develop-regional-incentive-index",
+        "institutionalize-reforms",
+        "introduce-presumptive-forfeiture",
+        "oversee-constitutional-discussion"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t63",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "개헌에 관한 어떤 방향을 주시거나...입법 지원을 좀 준비"
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t16",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "국정 과제 저희가 담당하고 있기 때문에 국조실에서 아마 좀 챙겨 가야 될 거라고"
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t17",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "5.18 정신을 헌법 전문에 넣는다."
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t18",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "정부 차원에서 개헌에 대한 우리가 지금 뭘 주도해서"
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t19",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "부마항쟁도 ... 헌정사에 의미 있는 거기 때문에 함께 하면"
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t55",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "헌법 개정하실 때 지방구대 조항을 확실히 헌법에 못 받는 것도 고려"
+        },
+        {
+          "tid": "2026-cab-0506-4cLwEz@t3",
+          "meeting_id": "2026-cab-0506-4cLwEz",
+          "date": "2026-05-06",
+          "grade": "topic",
+          "grade_evidence": "개헌 · 헌법개정"
+        },
+        {
+          "tid": "2026-cab-0526-B3JFkX@t6",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "ai_inferred",
+          "grade_evidence": "부산을 해양수도로, 동남권을 해양 수도권으로 육성"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t10",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "핵심 보훈 정책...독립유공자 유족 보상 범위를 넓히고 국제 협력 강화"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t44",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "법 체계 바로 세우고...3,494개 행정법 시행령 전수 조사 및 정비"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t54",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "혁신 조달 강화...공공 구매로 AI 로봇 등 첨단 분야 지원"
+        }
+      ]
+    },
+    {
+      "task_no": 2,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0602-HokLaJ@t14",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "예비군 훈련...의료 인력이나 응급 장비 등을 제대로 갖추지 않고 훈련이 강행"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t66",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "병력 자원 관리...무인 복합 첨단 체제 전환 대비 병사 역할 변화"
+        }
+      ]
+    },
+    {
+      "task_no": 3,
+      "thread_ids": [
+        "manage-interkorean-tensions"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0317-bzrcCS@t14",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "검찰개혁 관련 >> 예. 9시에 발표를 했습니다."
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t15",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "핵심은 수사와 기소를 분리한다. 중수청을 만들고 경찰 역할을 확대"
+        },
+        {
+          "tid": "2026-cab-0331-pWre_D@t25",
+          "meeting_id": "2026-cab-0331-pWre_D",
+          "date": "2026-03-31",
+          "grade": "ai_inferred",
+          "grade_evidence": "수사와 기소 분리를 하면서…검찰청의 수사 권한을 중수청으로 다 옮기고"
+        }
+      ]
+    },
+    {
+      "task_no": 4,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 5,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 6,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 7,
+      "thread_ids": [
+        "connect-enforcement-decree-law",
+        "revise-enforcement-decree-quickly"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0602-HokLaJ@t35",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "방송 미디어 통신 분야 정상화…방송산업법 하위법령 정비"
+        },
+        {
+          "tid": "2026-rpt-0716-_t27O7@t47",
+          "meeting_id": "2026-rpt-0716-_t27O7",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "방송의 공정성과 신뢰 제고 위해…제도적 토대 구축"
+        }
+      ]
+    },
+    {
+      "task_no": 8,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 9,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0602-HokLaJ@t61",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "재외국민 인증 활용 기관 기존 20개에서 190개로 확대"
+        }
+      ]
+    },
+    {
+      "task_no": 10,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 11,
+      "thread_ids": [
+        "connect-enforcement-decree-law",
+        "expand-overseas-korean-youth-support",
+        "improve-veterans-medical-access",
+        "reorganize-overseas-public-offices"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0602-HokLaJ@t4",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "독립운동...법을 개정했습니다. 2,300여명 국가 보훈 혜택"
+        }
+      ]
+    },
+    {
+      "task_no": 12,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 13,
+      "thread_ids": [
+        "improve-presentation-materials",
+        "reorganize-overseas-public-offices"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0120-1bgJaV@t37",
+          "meeting_id": "2026-cab-0120-1bgJaV",
+          "date": "2026-01-20",
+          "grade": "ai_inferred",
+          "grade_evidence": "인력 교육…AI 플랫폼을 구축하고 공관장 평가를 보완"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t42",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "공직 사회에 활력을 불어넣는 것...공무원의 역량 강화"
+        }
+      ]
+    },
+    {
+      "task_no": 14,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t79",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "AI를 통해서 행정 혁신...개인 정보를 보호"
+        },
+        {
+          "tid": "2026-cab-0120-1bgJaV@t62",
+          "meeting_id": "2026-cab-0120-1bgJaV",
+          "date": "2026-01-20",
+          "grade": "ai_inferred",
+          "grade_evidence": "복합민원 원스톱 신청 처리"
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t64",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "원스톱 민원 서비스도 제공해 나갈 계획"
+        }
+      ]
+    },
+    {
+      "task_no": 15,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 16,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 17,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 18,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2025-cab-1230-L2JG9h@t6",
+          "meeting_id": "2025-cab-1230-L2JG9h",
+          "date": "2025-12-30",
+          "grade": "ai_inferred",
+          "grade_evidence": "공공기관 혁신에 대한지지 사항을 위해 철도 공기업 운영 통합"
+        }
+      ]
+    },
+    {
+      "task_no": 19,
+      "thread_ids": [
+        "ai-safety-inspection",
+        "increase-penalties-prep",
+        "institutionalize-reforms",
+        "support-security-oriented-supplychain"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t63",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "규제 샌드박스법을...통합하는 통합 입법이라든가"
+        },
+        {
+          "tid": "2026-rpt-0114-kvXX3W@t38",
+          "meeting_id": "2026-rpt-0114-kvXX3W",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "AI 디지털 포용 교육을 실시해 왔고...국가의 AI 싱크탱크 역할"
+        },
+        {
+          "tid": "2026-rpt-0114-nIdLEw@t43",
+          "meeting_id": "2026-rpt-0114-nIdLEw",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "에너지 트레인은 철도 물류 활성화의 새로운 블루오션"
+        },
+        {
+          "tid": "2026-cab-0120-1bgJaV@t72",
+          "meeting_id": "2026-cab-0120-1bgJaV",
+          "date": "2026-01-20",
+          "grade": "topic",
+          "grade_evidence": "규제합리화 · 규제샌드박스"
+        },
+        {
+          "tid": "2026-cab-0120-1bgJaV@t91",
+          "meeting_id": "2026-cab-0120-1bgJaV",
+          "date": "2026-01-20",
+          "grade": "ai_inferred",
+          "grade_evidence": "규제 샌드박스가 끝나면 그 뒤에 이 사업에 대해"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t38",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "마이데이터 다운로드권 확대...AI 개발에 원본 데이터 활용 보호법 개정안"
+        }
+      ]
+    },
+    {
+      "task_no": 20,
+      "thread_ids": [
+        "increase-penalties-prep"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0715--PQDTo@t45",
+          "meeting_id": "2026-rpt-0715--PQDTo",
+          "date": "2026-07-15",
+          "grade": "ai_inferred",
+          "grade_evidence": "데이터 허브 역할을 하겠습니다"
+        }
+      ]
+    },
+    {
+      "task_no": 21,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 22,
+      "thread_ids": [
+        "strengthen-public-agency-management",
+        "sun-village-training-plan"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0114-kvXX3W@t12",
+          "meeting_id": "2026-rpt-0114-kvXX3W",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "생애 전주기 AI 인재양성...AI 휴먼 융합대학 신설"
+        }
+      ]
+    },
+    {
+      "task_no": 23,
+      "thread_ids": [
+        "ensure-transparency-sculpture-permits",
+        "increase-penalties-prep"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0210-usgbZR@t40",
+          "meeting_id": "2026-cab-0210-usgbZR",
+          "date": "2026-02-10",
+          "grade": "ai_inferred",
+          "grade_evidence": "AI 기본사회 추인 계획을 마련하고자 합니다"
+        },
+        {
+          "tid": "2026-rpt-0716-_t27O7@t54",
+          "meeting_id": "2026-rpt-0716-_t27O7",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "모두가 누리는 AI 기본 사회의 실현을"
+        }
+      ]
+    },
+    {
+      "task_no": 24,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t79",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "AI 민주정부 실현 지원 이런 내용"
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t64",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "AI 민원 서비스 이용 데이터를 분석해 지속적으로 답변 품질을 높여"
+        }
+      ]
+    },
+    {
+      "task_no": 25,
+      "thread_ids": [
+        "increase-penalties-prep",
+        "public-employment-audit"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0716-_t27O7@t8",
+          "meeting_id": "2026-rpt-0716-_t27O7",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "개인정보보호위원회 하반기 업무 계획...개인정보 보호 체계"
+        }
+      ]
+    },
+    {
+      "task_no": 26,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 27,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 28,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 29,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 30,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 31,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0114-nIdLEw@t4",
+          "meeting_id": "2026-rpt-0114-nIdLEw",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "자율주행 셔틀을 시범 운영하여 인천공항이 미래 모빌리티 거점"
+        },
+        {
+          "tid": "2026-rpt-0114-nIdLEw@t73",
+          "meeting_id": "2026-rpt-0114-nIdLEw",
+          "date": "2026-01-14",
+          "grade": "explicit",
+          "grade_evidence": "미래 모빌리티와 'K-AI 시티' 실현"
+        }
+      ]
+    },
+    {
+      "task_no": 32,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0112-CUltdo@t18",
+          "meeting_id": "2026-rpt-0112-CUltdo",
+          "date": "2026-01-12",
+          "grade": "topic",
+          "grade_evidence": "의료AI · 바이오헬스강국"
+        },
+        {
+          "tid": "2026-rpt-0112-CUltdo@t24",
+          "meeting_id": "2026-rpt-0112-CUltdo",
+          "date": "2026-01-12",
+          "grade": "ai_inferred",
+          "grade_evidence": "AI 빅데이터 기반 혁신 및 의료 기기 개발 지원을 확대"
+        },
+        {
+          "tid": "2026-rpt-0112-CUltdo@t59",
+          "meeting_id": "2026-rpt-0112-CUltdo",
+          "date": "2026-01-12",
+          "grade": "topic",
+          "grade_evidence": "의료AI · 바이오헬스강국"
+        }
+      ]
+    },
+    {
+      "task_no": 33,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 34,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 35,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 36,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 37,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 38,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t35",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "재생 에너지 관련된 그 내용은 굉장히 많이 들어 있습니다"
+        },
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t36",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "에너지 고속도로를 어떻게 확충하는 것이 가장 합리적인 방법"
+        }
+      ]
+    },
+    {
+      "task_no": 39,
+      "thread_ids": [
+        "pursue-diplomatic-supply-talks"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0203-96DaSs@t75",
+          "meeting_id": "2026-cab-0203-96DaSs",
+          "date": "2026-02-03",
+          "grade": "explicit",
+          "grade_evidence": "재생에너지 중심 에너지 대전환"
+        },
+        {
+          "tid": "2026-cab-0324-56VTWK@t12",
+          "meeting_id": "2026-cab-0324-56VTWK",
+          "date": "2026-03-24",
+          "grade": "explicit",
+          "grade_evidence": "재생에너지 중심 에너지 대전환"
+        },
+        {
+          "tid": "2026-cab-0406-IhS8yH@t34",
+          "meeting_id": "2026-cab-0406-IhS8yH",
+          "date": "2026-04-06",
+          "grade": "explicit",
+          "grade_evidence": "재생에너지 중심 에너지 대전환"
+        }
+      ]
+    },
+    {
+      "task_no": 40,
+      "thread_ids": [
+        "accelerate-solar-wind-income",
+        "bereaved-support-measures",
+        "bold-investment-planning",
+        "ensure-administrative-recovery-report",
+        "find-and-reward-exemplars",
+        "holiday-overseas-crowd-management",
+        "increase-penalties-prep",
+        "investigate-quickly-thoroughly",
+        "manage-interkorean-tensions",
+        "pursue-diplomatic-supply-talks",
+        "strengthen-public-agency-management"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t19",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "탄소중립 대응 산업 입지 인구 감소 지역에 대한 통합적 지원"
+        },
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t34",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "에너지 시장 그리고 에너지 산업 구조 변화 탄소 중립 전환에 대응"
+        },
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t82",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "기후 위기 대응 그리고 탄소 중립과 기후위기 적응"
+        },
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t90",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "탄소중립이라든가...스마트 시티 이런 거에 대해서"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t47",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "그린 보금자리론…탄소중립 이행을 위한 녹색금융"
+        },
+        {
+          "tid": "2026-rpt-0114-nIdLEw@t43",
+          "meeting_id": "2026-rpt-0114-nIdLEw",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "탄소중립과 에너지 전환 흐름에 대응해 철도 인프라 특성을 활용한 태양광 사업을 확대"
+        },
+        {
+          "tid": "2026-rpt-0114-nIdLEw@t65",
+          "meeting_id": "2026-rpt-0114-nIdLEw",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "공공 건축물 그린 리모델링 지원 사업 규모는 전년 대비 500억 증액"
+        },
+        {
+          "tid": "2026-cab-0324-56VTWK@t15",
+          "meeting_id": "2026-cab-0324-56VTWK",
+          "date": "2026-03-24",
+          "grade": "ai_inferred",
+          "grade_evidence": "탄소 중립, ... 5대 구조적 요인에 대해서도 돌파구"
+        },
+        {
+          "tid": "2026-cab-0324-56VTWK@t18",
+          "meeting_id": "2026-cab-0324-56VTWK",
+          "date": "2026-03-24",
+          "grade": "ai_inferred",
+          "grade_evidence": "전국적으로 분산형 태양광을 확산시켜서 에너지 자립도와 탄소 중립"
+        },
+        {
+          "tid": "2026-cab-0406-IhS8yH@t34",
+          "meeting_id": "2026-cab-0406-IhS8yH",
+          "date": "2026-04-06",
+          "grade": "ai_inferred",
+          "grade_evidence": "재생 에너지 기반의 탄소 중립섬으로 바꾸는 일을 해 나가고요"
+        },
+        {
+          "tid": "2026-cab-0406-IhS8yH@t44",
+          "meeting_id": "2026-cab-0406-IhS8yH",
+          "date": "2026-04-06",
+          "grade": "ai_inferred",
+          "grade_evidence": "에너지 대전환과 ... 녹색 전환화는 ... 기후금융 활성화"
+        },
+        {
+          "tid": "2026-cab-0406-IhS8yH@t8",
+          "meeting_id": "2026-cab-0406-IhS8yH",
+          "date": "2026-04-06",
+          "grade": "ai_inferred",
+          "grade_evidence": "탄소 중립 사회 실현을 위한 기업의 녹색 경영 금융 지원"
+        },
+        {
+          "tid": "2026-cab-0406-IhS8yH@t9",
+          "meeting_id": "2026-cab-0406-IhS8yH",
+          "date": "2026-04-06",
+          "grade": "ai_inferred",
+          "grade_evidence": "탄소 중립시대 친환경 기후 금융 활성화 방안"
+        }
+      ]
+    },
+    {
+      "task_no": 41,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 42,
+      "thread_ids": [
+        "new-defense-innovation-firms-nurture"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t82",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "탄소 중립과 기후위기 적응 역량 강화 그리고 순환 경제"
+        },
+        {
+          "tid": "2026-cab-0623-2uViqE@t5",
+          "meeting_id": "2026-cab-0623-2uViqE",
+          "date": "2026-06-23",
+          "grade": "ai_inferred",
+          "grade_evidence": "재생 에너지 중심의 에너지 믹스 탈플라스틱 순환 경제료의 이행"
+        }
+      ]
+    },
+    {
+      "task_no": 43,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 44,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 45,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 46,
+      "thread_ids": [
+        "bold-investment-planning",
+        "connect-enforcement-decree-law",
+        "ensure-administrative-recovery-report",
+        "increase-penalties-prep",
+        "strengthen-public-agency-management"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2025-cab-1223-AO9IYD@t22",
+          "meeting_id": "2025-cab-1223-AO9IYD",
+          "date": "2025-12-23",
+          "grade": "ai_inferred",
+          "grade_evidence": "금융과 산업이 결합하면 결국 지역 경제 활성화와 균형 발전을 위해... 동남권 투자공사"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t10",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "이번 국민 성장 펀드 추진에 관해서 굉장히 긍정적으로 우호적인 반응"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t11",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "국민 성장 펀드의 성공적 운용이라고 해. 목표를 다셨잖아요"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t12",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "국민 성장 펀드 사무국을 신설해서 인력을...배치했습니"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t15",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "기업은행이 국민 성장 펀드에 그 여기서 한 10조원 투자하시겠다고"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t16",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "topic",
+          "grade_evidence": "국민성장펀드 · 생산적금융"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t18",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "투자 부분 국민 성장펀드로 한 투자 부분은...에너지 인프라 쪽에 특화"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t2",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "금융 공공 기관이 생산적 금융, 포용적 금융, 신뢰받는 금융"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t20",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "5대 지주와 기업은행이 10조원씩을 국민장 펀드에 같이 참여"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t23",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "생산적 금융하고...정기적인 모임체를 만들어서 같이 공유"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t3",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "생산적 금융을 주제로 한국산업은행, 중소기업은행, 신용보증기금"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t35",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "생산적 금융으로 기업 금융으로 좀 전환을 해야...산업을 알아야"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t4",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "국민 성장 펀드는 금융위원회를 중심으로 하는 우리 정부의 핵심 경제 정책"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t43",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "포용 금융 및 생산적 금융에 대한 중점 추진 과제"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t6",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "topic",
+          "grade_evidence": "국민성장펀드 · 생산적금융"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t79",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "오늘 사실은...생산적 금융, 포용적 금융...금융의 역할을 재정립"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t8",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "신보는...생산적 금융을 확대하고 기업의 도전과 성장을 지원"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t9",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "topic",
+          "grade_evidence": "국민성장펀드 · 생산적금융"
+        },
+        {
+          "tid": "2026-cab-0305-sPS14B@t18",
+          "meeting_id": "2026-cab-0305-sPS14B",
+          "date": "2026-03-05",
+          "grade": "ai_inferred",
+          "grade_evidence": "생산적 금융 등 지금까지 해왔던 그런 정책들을 일관성 있게 계속해서 추진해 달라"
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t57",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "국민 성장 펀드 추진 현황 및 향후 계획 보고드리겠습니다."
+        },
+        {
+          "tid": "2026-cab-0406-IhS8yH@t44",
+          "meeting_id": "2026-cab-0406-IhS8yH",
+          "date": "2026-04-06",
+          "grade": "ai_inferred",
+          "grade_evidence": "미래 에너지 펀드·기후 기술 펀드로 녹색 자금 지원"
+        },
+        {
+          "tid": "2026-cab-0526-B3JFkX@t16",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "ai_inferred",
+          "grade_evidence": "국민 참여형 국민 성장 펀드 출시 계획이 보고됐습니다"
+        },
+        {
+          "tid": "2026-cab-0526-B3JFkX@t32",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "ai_inferred",
+          "grade_evidence": "국민 참여형 국민 성장 펀드 판매 실적 말씀드리면"
+        },
+        {
+          "tid": "2026-cab-0526-B3JFkX@t34",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "ai_inferred",
+          "grade_evidence": "그 국민성장 펀드가 6,억인데 ... 네. 이게 그 당시"
+        },
+        {
+          "tid": "2026-cab-0526-B3JFkX@t44",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "ai_inferred",
+          "grade_evidence": "생산적 금융 ... 국민성장펀드 ... 세제정 인센티브 강화"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t23",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "topic",
+          "grade_evidence": "국민성장펀드 · 생산적금융"
+        },
+        {
+          "tid": "2026-cab-0714-gXWij0@t47",
+          "meeting_id": "2026-cab-0714-gXWij0",
+          "date": "2026-07-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "국민 성장 펀드 내 초국가 경제 펀드 등을 통해서 재정 금융을 지원"
+        },
+        {
+          "tid": "2026-rpt-0715--PQDTo@t59",
+          "meeting_id": "2026-rpt-0715--PQDTo",
+          "date": "2026-07-15",
+          "grade": "topic",
+          "grade_evidence": "국민성장펀드 · 생산적금융"
+        },
+        {
+          "tid": "2026-rpt-0715--PQDTo@t6",
+          "meeting_id": "2026-rpt-0715--PQDTo",
+          "date": "2026-07-15",
+          "grade": "ai_inferred",
+          "grade_evidence": "생산적 금융 등을 지원하는 조세 개혁"
+        },
+        {
+          "tid": "2026-rpt-0715--PQDTo@t69",
+          "meeting_id": "2026-rpt-0715--PQDTo",
+          "date": "2026-07-15",
+          "grade": "ai_inferred",
+          "grade_evidence": "국민성장 펀드가 이제 중심으로 운영되고 있는데"
+        },
+        {
+          "tid": "2026-rpt-0715--PQDTo@t74",
+          "meeting_id": "2026-rpt-0715--PQDTo",
+          "date": "2026-07-15",
+          "grade": "ai_inferred",
+          "grade_evidence": "생산적 금융과 포용 금융을 지원하는"
+        }
+      ]
+    },
+    {
+      "task_no": 47,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t69",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "코리아 프리미엄을 위한 주주"
+        }
+      ]
+    },
+    {
+      "task_no": 48,
+      "thread_ids": [
+        "bold-investment-planning"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0210-usgbZR@t51",
+          "meeting_id": "2026-cab-0210-usgbZR",
+          "date": "2026-02-10",
+          "grade": "ai_inferred",
+          "grade_evidence": "결제도 이제 가상자산 이런 걸 통해서 하다 보니까"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t51",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "가상자산을 악용한 외환 범죄에 대해 특별 단속을 집중"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t63",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "가상자산 범죄를 적극 수사...범죄수익 환수역량 강화"
+        },
+        {
+          "tid": "2026-rpt-0715--PQDTo@t59",
+          "meeting_id": "2026-rpt-0715--PQDTo",
+          "date": "2026-07-15",
+          "grade": "ai_inferred",
+          "grade_evidence": "디지털 자산 및 보안 규율 체계를 조속히 마련"
+        }
+      ]
+    },
+    {
+      "task_no": 49,
+      "thread_ids": [
+        "bold-investment-planning",
+        "develop-regional-incentive-index",
+        "fuel-price-response-report",
+        "improve-presentation-materials",
+        "increase-penalties-prep"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0112-5DLxn1@t84",
+          "meeting_id": "2026-rpt-0112-5DLxn1",
+          "date": "2026-01-12",
+          "grade": "ai_inferred",
+          "grade_evidence": "5극 3 특화 사업 연계 글로벌 기업 유치 활동"
+        },
+        {
+          "tid": "2026-rpt-0112-5DLxn1@t86",
+          "meeting_id": "2026-rpt-0112-5DLxn1",
+          "date": "2026-01-12",
+          "grade": "ai_inferred",
+          "grade_evidence": "5극 3특 또한 공사가 앞장서겠습니다"
+        },
+        {
+          "tid": "2026-rpt-0112-5DLxn1@t91",
+          "meeting_id": "2026-rpt-0112-5DLxn1",
+          "date": "2026-01-12",
+          "grade": "ai_inferred",
+          "grade_evidence": "5극 3특에 맞게 특파 지역이 지금 특화 산업이 정해져"
+        },
+        {
+          "tid": "2026-rpt-0114-nIdLEw@t46",
+          "meeting_id": "2026-rpt-0114-nIdLEw",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "철도관광 상품 개발을 확대해 나가겠습니다"
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t48",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "모든 재정 사업과 재정 제도를 전환하겠습니다."
+        },
+        {
+          "tid": "2026-cab-0414-mvVDdp@t81",
+          "meeting_id": "2026-cab-0414-mvVDdp",
+          "date": "2026-04-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "5극 3특 엔진 선정 지원과 메가 특구 도입"
+        },
+        {
+          "tid": "2026-cab-0526-B3JFkX@t5",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "topic",
+          "grade_evidence": "5극3특 · 지역균형발전"
+        },
+        {
+          "tid": "2026-cab-0526-B3JFkX@t6",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "ai_inferred",
+          "grade_evidence": "5극 3특의 성공 모델을 만들고자"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t49",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "지역 균형 발전...지역별 GDP 분기별 공표·생활인구 지표 확대"
+        },
+        {
+          "tid": "2026-cab-0623-2uViqE@t60",
+          "meeting_id": "2026-cab-0623-2uViqE",
+          "date": "2026-06-23",
+          "grade": "ai_inferred",
+          "grade_evidence": "전남광주 통합 특별시 출범 준비 현황 및 계획"
+        },
+        {
+          "tid": "2026-rpt-0715--PQDTo@t59",
+          "meeting_id": "2026-rpt-0715--PQDTo",
+          "date": "2026-07-15",
+          "grade": "ai_inferred",
+          "grade_evidence": "정책금융의 지방 공급 목표를 164조원까지 확대"
+        },
+        {
+          "tid": "2026-rpt-0716-_t27O7@t54",
+          "meeting_id": "2026-rpt-0716-_t27O7",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "지역 AI 거점...지역 균형 발전을 위한 AI 거점"
+        }
+      ]
+    },
+    {
+      "task_no": 50,
+      "thread_ids": [
+        "bold-investment-planning",
+        "increase-penalties-prep"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t19",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "explicit",
+          "grade_evidence": "행정수도 세종 완성"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t70",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "세종시...행정수도 특별법 등 행정수도 기반 구축 추진"
+        },
+        {
+          "tid": "2026-rpt-0716-L64eg6@t12",
+          "meeting_id": "2026-rpt-0716-L64eg6",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "국토 교통부와 행정중심 복합도시 건설청"
+        },
+        {
+          "tid": "2026-rpt-0716-L64eg6@t23",
+          "meeting_id": "2026-rpt-0716-L64eg6",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "광주지방 행정중심복합도시건설청장과 문성세방금 청장"
+        },
+        {
+          "tid": "2026-rpt-0716-L64eg6@t24",
+          "meeting_id": "2026-rpt-0716-L64eg6",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "대통령 세종 집무실과 국회 세종 의사당이 들어서는 일대"
+        }
+      ]
+    },
+    {
+      "task_no": 51,
+      "thread_ids": [
+        "ai-safety-inspection",
+        "bold-investment-planning",
+        "consider-technical-judges",
+        "ensure-administrative-recovery-report",
+        "integrate-mot-agencies-and-discipline",
+        "promote-technology-market",
+        "public-employment-audit",
+        "redeploy-police-staffing",
+        "reorganize-overseas-public-offices",
+        "service-area-restructuring",
+        "shorten-industrial-accident-procedures",
+        "traditional-building-civic-campaign"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2025-cab-1230-L2JG9h@t4",
+          "meeting_id": "2025-cab-1230-L2JG9h",
+          "date": "2025-12-30",
+          "grade": "ai_inferred",
+          "grade_evidence": "공공 기관 얘기 나온 김에...공공기관 이전 목적"
+        },
+        {
+          "tid": "2025-cab-1230-L2JG9h@t9",
+          "meeting_id": "2025-cab-1230-L2JG9h",
+          "date": "2025-12-30",
+          "grade": "ai_inferred",
+          "grade_evidence": "균형 성장 분야에서는 공공기관 이전 계획을 수립"
+        },
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t19",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "공공기관 이전 지원 영역도 수행하고 있습니다"
+        },
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t21",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "2차 공공기관이 조속히 좀 되도록 지원하겠습니다"
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t53",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "공공기관 이전... 중앙정부 지원을 두는 게 역대에 없는 전례없는 그런 지원"
+        },
+        {
+          "tid": "2026-cab-0526-B3JFkX@t12",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "ai_inferred",
+          "grade_evidence": "공공기관 이전 국회 논의를 통해 동남권 투자공사 신설"
+        },
+        {
+          "tid": "2026-cab-0526-B3JFkX@t7",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "ai_inferred",
+          "grade_evidence": "공공기관 이전, 유망 기업 유치 그리고 어 청년 인재의 유입 촉진"
+        },
+        {
+          "tid": "2026-cab-0714-gXWij0@t47",
+          "meeting_id": "2026-cab-0714-gXWij0",
+          "date": "2026-07-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "2차 공공기관 이전 계획도 어 발표하도록 하겠습니다."
+        },
+        {
+          "tid": "2026-rpt-0716-L64eg6@t18",
+          "meeting_id": "2026-rpt-0716-L64eg6",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "수도권 행정 기관과 2차 공공 기관 이전 계획을 조속히 발표"
+        }
+      ]
+    },
+    {
+      "task_no": 52,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 53,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 54,
+      "thread_ids": [
+        "accelerate-solar-wind-income",
+        "bold-investment-planning",
+        "fuel-price-response-report",
+        "increase-penalties-prep"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t19",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "인구 감소 지역에 대한 통합적 지원"
+        },
+        {
+          "tid": "2026-rpt-0113-_LWZQp@t19",
+          "meeting_id": "2026-rpt-0113-_LWZQp",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "인구 감소 지역 20곳을 대상으로 지역사랑 휴가 지원제를 시범 추진"
+        },
+        {
+          "tid": "2026-rpt-0113-_LWZQp@t9",
+          "meeting_id": "2026-rpt-0113-_LWZQp",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "인구 소멸 위기 지역에 있는 여섯 개의 공립 박물관에서"
+        },
+        {
+          "tid": "2026-rpt-0114-nIdLEw@t43",
+          "meeting_id": "2026-rpt-0114-nIdLEw",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "인구 감소 지역 철도 관광 활성화와 평택~천안 복선화"
+        },
+        {
+          "tid": "2026-cab-0120-1bgJaV@t17",
+          "meeting_id": "2026-cab-0120-1bgJaV",
+          "date": "2026-01-20",
+          "grade": "ai_inferred",
+          "grade_evidence": "인구 감소 지역에 대해서는 추가로 더 이 지원"
+        },
+        {
+          "tid": "2026-cab-0120-1bgJaV@t25",
+          "meeting_id": "2026-cab-0120-1bgJaV",
+          "date": "2026-01-20",
+          "grade": "ai_inferred",
+          "grade_evidence": "인구 감소 지역이구요"
+        },
+        {
+          "tid": "2026-cab-0224-DwvR4w@t39",
+          "meeting_id": "2026-cab-0224-DwvR4w",
+          "date": "2026-02-24",
+          "grade": "ai_inferred",
+          "grade_evidence": "인구 감소 지역 인구 증간 분석을 ... 보고해 주시기 바랍니다."
+        },
+        {
+          "tid": "2026-cab-0224-DwvR4w@t40",
+          "meeting_id": "2026-cab-0224-DwvR4w",
+          "date": "2026-02-24",
+          "grade": "ai_inferred",
+          "grade_evidence": "농어촌 기본소득 대상 지역의 인구 동향을 분석해 봤습니다."
+        },
+        {
+          "tid": "2026-cab-0224-DwvR4w@t63",
+          "meeting_id": "2026-cab-0224-DwvR4w",
+          "date": "2026-02-24",
+          "grade": "ai_inferred",
+          "grade_evidence": "인구 감소 지역의 인구 증감 분석 결과입니다."
+        },
+        {
+          "tid": "2026-cab-0224-DwvR4w@t64",
+          "meeting_id": "2026-cab-0224-DwvR4w",
+          "date": "2026-02-24",
+          "grade": "ai_inferred",
+          "grade_evidence": "인구 감소 지역으로 지정을 했는데 ... 지정을 취소해 가지고 불이익을 주고 그러는 건 아니죠."
+        },
+        {
+          "tid": "2026-cab-0224-DwvR4w@t65",
+          "meeting_id": "2026-cab-0224-DwvR4w",
+          "date": "2026-02-24",
+          "grade": "ai_inferred",
+          "grade_evidence": "인구 감소 지역에 관한 그 규정을 지금 개정을 할 예정이고요."
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t47",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "지방 우대 지수는 서울과의 거리를 핵심 지표로 반영해서"
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t48",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "국비 보조 비율을 바꾸는 방법도 있습니다."
+        },
+        {
+          "tid": "2026-cab-0324-56VTWK@t15",
+          "meeting_id": "2026-cab-0324-56VTWK",
+          "date": "2026-03-24",
+          "grade": "ai_inferred",
+          "grade_evidence": "인구 감소 지역의 인센티브뿐만 아니라 신사업 신유형의 민간 투자"
+        },
+        {
+          "tid": "2026-cab-0324-56VTWK@t25",
+          "meeting_id": "2026-cab-0324-56VTWK",
+          "date": "2026-03-24",
+          "grade": "ai_inferred",
+          "grade_evidence": "농어촌 인구 감소 지역을 여행하시는 분들에게 여행 경비의 절반"
+        },
+        {
+          "tid": "2026-cab-0414-mvVDdp@t81",
+          "meeting_id": "2026-cab-0414-mvVDdp",
+          "date": "2026-04-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "지방 중심 내수 경기 활성화 정책…지역 소비 활력 회복"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t54",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "지방 제품 우선 구매 범위 확대...비수도권 이전 기업 지원"
+        }
+      ]
+    },
+    {
+      "task_no": 55,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 56,
+      "thread_ids": [
+        "ai-safety-inspection",
+        "promote-technology-market",
+        "public-employment-audit",
+        "redeploy-police-staffing",
+        "reorganize-overseas-public-offices",
+        "service-area-restructuring",
+        "traditional-building-civic-campaign"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2025-cab-1223-AO9IYD@t13",
+          "meeting_id": "2025-cab-1223-AO9IYD",
+          "date": "2025-12-23",
+          "grade": "ai_inferred",
+          "grade_evidence": "부산항은 북극 항로의 교차점에 위치한 지정학적 장점"
+        },
+        {
+          "tid": "2026-cab-0526-B3JFkX@t7",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "ai_inferred",
+          "grade_evidence": "북극 항로를 선도하는 남부 해양 수도권입니다"
+        }
+      ]
+    },
+    {
+      "task_no": 57,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0114-nIdLEw@t36",
+          "meeting_id": "2026-rpt-0114-nIdLEw",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "대중교통 이용자에 대한 배려는 좀 부족하지 않느냐"
+        }
+      ]
+    },
+    {
+      "task_no": 58,
+      "thread_ids": [
+        "vulnerable-household-linkage"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0715--PQDTo@t63",
+          "meeting_id": "2026-rpt-0715--PQDTo",
+          "date": "2026-07-15",
+          "grade": "ai_inferred",
+          "grade_evidence": "취약 채무자를 추가로 찾아낼 것과 채무조정 홍보를 강화할 것"
+        }
+      ]
+    },
+    {
+      "task_no": 59,
+      "thread_ids": [
+        "alternative-to-labor-detention",
+        "bold-investment-planning",
+        "include-midlow-credit-evaluation",
+        "vulnerable-household-linkage"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2025-cab-1230-L2JG9h@t9",
+          "meeting_id": "2025-cab-1230-L2JG9h",
+          "date": "2025-12-30",
+          "grade": "ai_inferred",
+          "grade_evidence": "균형 성장 분야에서는 공공기관 이전 계획...포용 금융 등 민생 안정을 강화"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t43",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "포용금융 이행…새출발 기금의 성공적 운영"
+        },
+        {
+          "tid": "2026-rpt-0113-djgPd0@t50",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "서민 금융…제도권 금융에서 공급하는 민간 서민 금융이 자체가 부족"
+        },
+        {
+          "tid": "2026-cab-0506-4cLwEz@t18",
+          "meeting_id": "2026-cab-0506-4cLwEz",
+          "date": "2026-05-06",
+          "grade": "ai_inferred",
+          "grade_evidence": "포용 금융이라고 ... 공공금융 기관의 의무"
+        },
+        {
+          "tid": "2026-cab-0506-4cLwEz@t26",
+          "meeting_id": "2026-cab-0506-4cLwEz",
+          "date": "2026-05-06",
+          "grade": "ai_inferred",
+          "grade_evidence": "신용이 낮거나...금융 취약계층에게 금융은 잔인하게 느껴집니다."
+        },
+        {
+          "tid": "2026-cab-0506-4cLwEz@t29",
+          "meeting_id": "2026-cab-0506-4cLwEz",
+          "date": "2026-05-06",
+          "grade": "ai_inferred",
+          "grade_evidence": "포용금융 평가 체계라는 거를 지금 종합적으로 마련"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t30",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "위기 요인이 빚이나 금융이면 신용회복위원회...서민금융지원센터 연계"
+        },
+        {
+          "tid": "2026-cab-0714-gXWij0@t48",
+          "meeting_id": "2026-cab-0714-gXWij0",
+          "date": "2026-07-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "사람 살리는 포용금융을 강력하게 추진해 오고 있습니다."
+        },
+        {
+          "tid": "2026-rpt-0715--PQDTo@t59",
+          "meeting_id": "2026-rpt-0715--PQDTo",
+          "date": "2026-07-15",
+          "grade": "topic",
+          "grade_evidence": "포용금융 · 마이크로크레딧"
+        }
+      ]
+    },
+    {
+      "task_no": 60,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t60",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "저희가 시정 방안을 조치하고 올해부터 이러한 것을 실적 조사를"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t18",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "장바구니 물가...물가 안정이 되도록 하겠습니다."
+        }
+      ]
+    },
+    {
+      "task_no": 61,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0113-djgPd0@t6",
+          "meeting_id": "2026-rpt-0113-djgPd0",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "중소기업 소상공인 지원 분야에 5년간 250조원"
+        },
+        {
+          "tid": "2026-rpt-0114-nIdLEw@t46",
+          "meeting_id": "2026-rpt-0114-nIdLEw",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "철도 관광과 열차 서비스 혁신으로 국민 행복을 실현"
+        }
+      ]
+    },
+    {
+      "task_no": 62,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 63,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0331-pWre_D@t35",
+          "meeting_id": "2026-cab-0331-pWre_D",
+          "date": "2026-03-31",
+          "grade": "ai_inferred",
+          "grade_evidence": "쪽방 옥탑방 거주자의 공공·민간 임대주택 이주를 지원"
+        }
+      ]
+    },
+    {
+      "task_no": 64,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0305-sPS14B@t18",
+          "meeting_id": "2026-cab-0305-sPS14B",
+          "date": "2026-03-05",
+          "grade": "ai_inferred",
+          "grade_evidence": "지배 구조 개선, 불공정거래 근절, 생산적 금융 등 정책들을 일관성 있게 계속해서 추진"
+        }
+      ]
+    },
+    {
+      "task_no": 65,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 66,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 67,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0120-1bgJaV@t83",
+          "meeting_id": "2026-cab-0120-1bgJaV",
+          "date": "2026-01-20",
+          "grade": "ai_inferred",
+          "grade_evidence": "중소기업 기술보호…제재를 취할 수 있도록"
+        }
+      ]
+    },
+    {
+      "task_no": 68,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 69,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 70,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 71,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0716-L64eg6@t173",
+          "meeting_id": "2026-rpt-0716-L64eg6",
+          "date": "2026-07-16",
+          "grade": "topic",
+          "grade_evidence": "어촌경제활성화 · 연안경제발전"
+        }
+      ]
+    },
+    {
+      "task_no": 72,
+      "thread_ids": [
+        "connect-enforcement-decree-law"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0526-B3JFkX@t16",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "ai_inferred",
+          "grade_evidence": "비상 국정 운영과 대응 현황이 토의됐습니다"
+        }
+      ]
+    },
+    {
+      "task_no": 73,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 74,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 75,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t56",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "산업 안전상의 문제를 식별하고 그리고 대응 방안도 모색"
+        },
+        {
+          "tid": "2026-rpt-0114-nIdLEw@t75",
+          "meeting_id": "2026-rpt-0114-nIdLEw",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "그 건설 공사의 그 관계자들이...정보를 공유해서...어느 단계에서 어떻게 점검을 하거나"
+        }
+      ]
+    },
+    {
+      "task_no": 76,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 77,
+      "thread_ids": [
+        "connect-enforcement-decree-law",
+        "daily-supply-monitoring",
+        "introduce-presumptive-forfeiture",
+        "investigate-quickly-thoroughly"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0414-mvVDdp@t34",
+          "meeting_id": "2026-cab-0414-mvVDdp",
+          "date": "2026-04-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "취약계층 사각 지대 발굴·긴급복지 지원 확대"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t29",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "폭염 특보 맞춤형 대응...복지 위기 가구 집중 발굴"
+        },
+        {
+          "tid": "2026-cab-0714-gXWij0@t48",
+          "meeting_id": "2026-cab-0714-gXWij0",
+          "date": "2026-07-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "기초 수급자 등 취약 채무자의 신속한 회생과 면책을 돕는 신속 면책 제도"
+        }
+      ]
+    },
+    {
+      "task_no": 78,
+      "thread_ids": [
+        "connect-enforcement-decree-law",
+        "coordinate-financial-agencies",
+        "increase-penalties-prep"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t65",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "통합돌봄 문제가 다 아주 크고 중요한 문제"
+        },
+        {
+          "tid": "2026-cab-0210-usgbZR@t35",
+          "meeting_id": "2026-cab-0210-usgbZR",
+          "date": "2026-02-10",
+          "grade": "ai_inferred",
+          "grade_evidence": "지역 사회 통합 돌보을 위한 국가 책임 강화"
+        },
+        {
+          "tid": "2026-cab-0630-dZLnc3@t73",
+          "meeting_id": "2026-cab-0630-dZLnc3",
+          "date": "2026-06-30",
+          "grade": "ai_inferred",
+          "grade_evidence": "돌봄 환경 등 적합 사물을 발굴 또 우수 모델 확산을 추진하겠습니다."
+        }
+      ]
+    },
+    {
+      "task_no": 79,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 80,
+      "thread_ids": [
+        "ensure-administrative-recovery-report"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0716-L64eg6@t104",
+          "meeting_id": "2026-rpt-0716-L64eg6",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "동물복지 정책은 실질적인 복지로 정책 패러다임을 전환"
+        },
+        {
+          "tid": "2026-rpt-0716-L64eg6@t133",
+          "meeting_id": "2026-rpt-0716-L64eg6",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "동물복지원 또는 복지청"
+        },
+        {
+          "tid": "2026-rpt-0716-L64eg6@t134",
+          "meeting_id": "2026-rpt-0716-L64eg6",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "동물복지원 설립을 하자"
+        }
+      ]
+    },
+    {
+      "task_no": 81,
+      "thread_ids": [
+        "accelerate-solar-wind-income",
+        "coordinate-financial-agencies",
+        "ensure-administrative-recovery-report",
+        "sun-village-training-plan"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2025-cab-1216-8p6pXm@t10",
+          "meeting_id": "2025-cab-1216-8p6pXm",
+          "date": "2025-12-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "사회연대경제 이해 증진과 가치 확산을 위해 초중등부터 평생교육에 집중"
+        },
+        {
+          "tid": "2025-cab-1216-8p6pXm@t24",
+          "meeting_id": "2025-cab-1216-8p6pXm",
+          "date": "2025-12-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "소셜 벤처·임팩트 운드 지원 확대…사회 연대 경제 기업 지원"
+        },
+        {
+          "tid": "2025-cab-1216-8p6pXm@t25",
+          "meeting_id": "2025-cab-1216-8p6pXm",
+          "date": "2025-12-16",
+          "grade": "topic",
+          "grade_evidence": "사회연대경제 · 사회적경제지원"
+        },
+        {
+          "tid": "2025-cab-1216-8p6pXm@t26",
+          "meeting_id": "2025-cab-1216-8p6pXm",
+          "date": "2025-12-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "협동조합…사회연대 경제 주체 간의 협력 의무 조항"
+        },
+        {
+          "tid": "2025-cab-1216-8p6pXm@t27",
+          "meeting_id": "2025-cab-1216-8p6pXm",
+          "date": "2025-12-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "새마을금고에 대해서도 금융위원회의 통제와 감독을 강화해 나갈 계획"
+        },
+        {
+          "tid": "2025-cab-1216-8p6pXm@t28",
+          "meeting_id": "2025-cab-1216-8p6pXm",
+          "date": "2025-12-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "대대적인 교육…사례를 구체적으로 오라인·오프라인 교육할 방법 집중 연구"
+        },
+        {
+          "tid": "2025-cab-1216-8p6pXm@t3",
+          "meeting_id": "2025-cab-1216-8p6pXm",
+          "date": "2025-12-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "사회 연대 경제 또는 사회적 경제를 활성화할 방침 방안들을 충분히 연구해 주시기 바랍니다."
+        },
+        {
+          "tid": "2025-cab-1216-8p6pXm@t4",
+          "meeting_id": "2025-cab-1216-8p6pXm",
+          "date": "2025-12-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "사회 연대 경제 통합 생태계의 구축 방안을 주제로 현안 토의"
+        },
+        {
+          "tid": "2025-cab-1216-8p6pXm@t5",
+          "meeting_id": "2025-cab-1216-8p6pXm",
+          "date": "2025-12-16",
+          "grade": "topic",
+          "grade_evidence": "사회연대경제 · 사회적기업지원"
+        },
+        {
+          "tid": "2025-cab-1216-8p6pXm@t7",
+          "meeting_id": "2025-cab-1216-8p6pXm",
+          "date": "2025-12-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "행안부에 지금 사회연대경제국을 만들었거든요"
+        },
+        {
+          "tid": "2026-cab-0224-DwvR4w@t58",
+          "meeting_id": "2026-cab-0224-DwvR4w",
+          "date": "2026-02-24",
+          "grade": "ai_inferred",
+          "grade_evidence": "사회 연대 경제 조직을 활성화시키는 방법을 강구하고요."
+        },
+        {
+          "tid": "2026-cab-0324-56VTWK@t18",
+          "meeting_id": "2026-cab-0324-56VTWK",
+          "date": "2026-03-24",
+          "grade": "ai_inferred",
+          "grade_evidence": "협동조합이 원활히 구성 운영될 수 있도록 사회연대경제 전문가 등을 활용해 주민 컨설팅과 실무 교육을 밀착 지"
+        },
+        {
+          "tid": "2026-cab-0623-2uViqE@t58",
+          "meeting_id": "2026-cab-0623-2uViqE",
+          "date": "2026-06-23",
+          "grade": "ai_inferred",
+          "grade_evidence": "이탈리아는 중소기업 소상공인 사회 연대 경제...실질적 협력 강화를"
+        },
+        {
+          "tid": "2026-cab-0630-dZLnc3@t72",
+          "meeting_id": "2026-cab-0630-dZLnc3",
+          "date": "2026-06-30",
+          "grade": "ai_inferred",
+          "grade_evidence": "사회연대 경제 발전 종합 계획을 보고 드리겠습니다"
+        },
+        {
+          "tid": "2026-cab-0630-dZLnc3@t73",
+          "meeting_id": "2026-cab-0630-dZLnc3",
+          "date": "2026-06-30",
+          "grade": "ai_inferred",
+          "grade_evidence": "위탁 우대 방식과 공공구매 확대 의무 구매 제도 도입"
+        },
+        {
+          "tid": "2026-cab-0630-dZLnc3@t74",
+          "meeting_id": "2026-cab-0630-dZLnc3",
+          "date": "2026-06-30",
+          "grade": "ai_inferred",
+          "grade_evidence": "사회연대 경제 규모를 GDP의 10%까지 확대할 계획"
+        }
+      ]
+    },
+    {
+      "task_no": 82,
+      "thread_ids": [
+        "bold-investment-planning"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0623-2uViqE@t34",
+          "meeting_id": "2026-cab-0623-2uViqE",
+          "date": "2026-06-23",
+          "grade": "topic",
+          "grade_evidence": "자산형성지원 · 청년자산형성"
+        },
+        {
+          "tid": "2026-rpt-0715--PQDTo@t6",
+          "meeting_id": "2026-rpt-0715--PQDTo",
+          "date": "2026-07-15",
+          "grade": "ai_inferred",
+          "grade_evidence": "청년 자산 형성 위한 청년 정책"
+        }
+      ]
+    },
+    {
+      "task_no": 83,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0112-CUltdo@t27",
+          "meeting_id": "2026-rpt-0112-CUltdo",
+          "date": "2026-01-12",
+          "grade": "ai_inferred",
+          "grade_evidence": "암등록 자료, 국가보험 자료, 사망자료 등의 빅데이터를 이용하여 신약 등재 항암제 임상 현장에서의 실제 효과"
+        },
+        {
+          "tid": "2026-rpt-0112-CUltdo@t59",
+          "meeting_id": "2026-rpt-0112-CUltdo",
+          "date": "2026-01-12",
+          "grade": "ai_inferred",
+          "grade_evidence": "지역 필수 공공의료 강화에 대해서는 각 기관별로... 실행했으면 좋겠습니다"
+        },
+        {
+          "tid": "2026-rpt-0716-imQ8RH@t53",
+          "meeting_id": "2026-rpt-0716-imQ8RH",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "지역 필수 공공의료 강화 추진하고 있습니다"
+        }
+      ]
+    },
+    {
+      "task_no": 84,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0112-CUltdo@t27",
+          "meeting_id": "2026-rpt-0112-CUltdo",
+          "date": "2026-01-12",
+          "grade": "ai_inferred",
+          "grade_evidence": "암치료 표준화·임상연구·공공정보 제공"
+        },
+        {
+          "tid": "2026-rpt-0112-CUltdo@t59",
+          "meeting_id": "2026-rpt-0112-CUltdo",
+          "date": "2026-01-12",
+          "grade": "ai_inferred",
+          "grade_evidence": "지역 필수 공공의료 강화, 필수 의료 수가 적정화"
+        },
+        {
+          "tid": "2026-rpt-0716-imQ8RH@t53",
+          "meeting_id": "2026-rpt-0716-imQ8RH",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "정부가 지역 필수 공공의료 강화를 추진하고 있습니다."
+        }
+      ]
+    },
+    {
+      "task_no": 85,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 86,
+      "thread_ids": [
+        "connect-enforcement-decree-law",
+        "increase-penalties-prep"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0112-CUltdo@t12",
+          "meeting_id": "2026-rpt-0112-CUltdo",
+          "date": "2026-01-12",
+          "grade": "explicit",
+          "grade_evidence": "국민 의료비 부담 완화"
+        },
+        {
+          "tid": "2026-cab-0210-usgbZR@t35",
+          "meeting_id": "2026-cab-0210-usgbZR",
+          "date": "2026-02-10",
+          "grade": "ai_inferred",
+          "grade_evidence": "간병비 본인부담 경감 추진 계획"
+        }
+      ]
+    },
+    {
+      "task_no": 87,
+      "thread_ids": [
+        "essential-goods-monitoring",
+        "review-direct-prosecution-rights"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0210-usgbZR@t38",
+          "meeting_id": "2026-cab-0210-usgbZR",
+          "date": "2026-02-10",
+          "grade": "ai_inferred",
+          "grade_evidence": "아이돌봄 서비스가 제공되고 있어서"
+        },
+        {
+          "tid": "2026-rpt-0716-imQ8RH@t44",
+          "meeting_id": "2026-rpt-0716-imQ8RH",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "양육비 선지급 제도 시행 이후"
+        }
+      ]
+    },
+    {
+      "task_no": 88,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 89,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 90,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 91,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0716-imQ8RH@t13",
+          "meeting_id": "2026-rpt-0716-imQ8RH",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "기초연금 개편에 대해 시뮬레이션"
+        }
+      ]
+    },
+    {
+      "task_no": 92,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 93,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t66",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "노동 시장 성평등을 조성하기 위한 연구"
+        }
+      ]
+    },
+    {
+      "task_no": 94,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 95,
+      "thread_ids": [
+        "essential-goods-monitoring",
+        "improve-presentation-materials",
+        "review-direct-prosecution-rights"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t66",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "노동 시장 성평등을 조성하기 위한 연구"
+        },
+        {
+          "tid": "2026-cab-0310-2B4Fqs@t37",
+          "meeting_id": "2026-cab-0310-2B4Fqs",
+          "date": "2026-03-10",
+          "grade": "ai_inferred",
+          "grade_evidence": "경력 보유 여성의 경제 활동 및 경력 단절 예방 지원 강화 방안 보고"
+        },
+        {
+          "tid": "2026-cab-0310-2B4Fqs@t38",
+          "meeting_id": "2026-cab-0310-2B4Fqs",
+          "date": "2026-03-10",
+          "grade": "ai_inferred",
+          "grade_evidence": "일가정 양립 지원 제도 추진"
+        },
+        {
+          "tid": "2026-rpt-0716-imQ8RH@t44",
+          "meeting_id": "2026-rpt-0716-imQ8RH",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "고용평등 공시제·일·가정 양립제도 공시"
+        }
+      ]
+    },
+    {
+      "task_no": 96,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 97,
+      "thread_ids": [
+        "essential-goods-monitoring",
+        "review-direct-prosecution-rights"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0109-ysUA7r@t66",
+          "meeting_id": "2026-rpt-0109-ysUA7r",
+          "date": "2026-01-09",
+          "grade": "ai_inferred",
+          "grade_evidence": "노동 시장 성평등을 조성하기 위한 연구"
+        },
+        {
+          "tid": "2026-rpt-0716-imQ8RH@t44",
+          "meeting_id": "2026-rpt-0716-imQ8RH",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "국가 성평등 정책을 총괄...성평등 거버넌스"
+        }
+      ]
+    },
+    {
+      "task_no": 98,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 99,
+      "thread_ids": [
+        "energy-coop-staffing-review",
+        "increase-penalties-prep",
+        "sun-village-training-plan"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0114-kvXX3W@t10",
+          "meeting_id": "2026-rpt-0114-kvXX3W",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "AI 단과대학 설립...전주기적 인재양성 체계"
+        },
+        {
+          "tid": "2026-rpt-0114-kvXX3W@t9",
+          "meeting_id": "2026-rpt-0114-kvXX3W",
+          "date": "2026-01-14",
+          "grade": "ai_inferred",
+          "grade_evidence": "AI 교육 워크숍...AI 대학 운영을 본격화하여 초격차 1등 AI 대학"
+        },
+        {
+          "tid": "2026-cab-0317-bzrcCS@t66",
+          "meeting_id": "2026-cab-0317-bzrcCS",
+          "date": "2026-03-17",
+          "grade": "ai_inferred",
+          "grade_evidence": "평생 교육... 첫 유초등부터 평생 교육까지 모두 AI 교육을 추진"
+        },
+        {
+          "tid": "2026-rpt-0716-_t27O7@t54",
+          "meeting_id": "2026-rpt-0716-_t27O7",
+          "date": "2026-07-16",
+          "grade": "ai_inferred",
+          "grade_evidence": "AI 교육...12개 부처가...하나의 교육 프로그램"
+        },
+        {
+          "tid": "2026-cab-0721-bCztV4@t45",
+          "meeting_id": "2026-cab-0721-bCztV4",
+          "date": "2026-07-21",
+          "grade": "ai_inferred",
+          "grade_evidence": "대학에서 학생들을 대상으로 그 반도체라든지 AI 교육을 시키는 부트캠프도...95개 대학에서 교육 중"
+        }
+      ]
+    },
+    {
+      "task_no": 100,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 101,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 102,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 103,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 104,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 105,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0113-_LWZQp@t6",
+          "meeting_id": "2026-rpt-0113-_LWZQp",
+          "date": "2026-01-13",
+          "grade": "ai_inferred",
+          "grade_evidence": "예술인 복지 기금은 그 예술인 맞춤형 복지를 제공"
+        }
+      ]
+    },
+    {
+      "task_no": 106,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0113-_LWZQp@t22",
+          "meeting_id": "2026-rpt-0113-_LWZQp",
+          "date": "2026-01-13",
+          "grade": "explicit",
+          "grade_evidence": "모두가 즐기는 스포츠"
+        }
+      ]
+    },
+    {
+      "task_no": 107,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0113-_LWZQp@t19",
+          "meeting_id": "2026-rpt-0113-_LWZQp",
+          "date": "2026-01-13",
+          "grade": "explicit",
+          "grade_evidence": "3천만 세계인이 찾는 관광산업 기반 구축"
+        }
+      ]
+    },
+    {
+      "task_no": 108,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 109,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 110,
+      "thread_ids": [
+        "increase-penalties-prep"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0305-sPS14B@t20",
+          "meeting_id": "2026-cab-0305-sPS14B",
+          "date": "2026-03-05",
+          "grade": "ai_inferred",
+          "grade_evidence": "연합 방위 태세는 한미가 긴밀한 공조하에... FTX 훈련 등 정상적으로 준비를 철저히"
+        }
+      ]
+    },
+    {
+      "task_no": 111,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 112,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 113,
+      "thread_ids": [
+        "ai-drone-military-adoption-accelerate",
+        "build-multilateral-security-network",
+        "defense-rnd-budget-increase",
+        "new-defense-innovation-firms-nurture",
+        "nuclear-submarine-acquisition-accelerate",
+        "public-private-defense-cooperation-strengthen"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0526-B3JFkX@t19",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "ai_inferred",
+          "grade_evidence": "인공지능과 드론 기술 도입을 가속화해야 합니다"
+        }
+      ]
+    },
+    {
+      "task_no": 114,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0210-usgbZR@t46",
+          "meeting_id": "2026-cab-0210-usgbZR",
+          "date": "2026-02-10",
+          "grade": "ai_inferred",
+          "grade_evidence": "평화공존 제도화...전쟁과 핵 없는 한반가 우리의 정부의 목표입니다."
+        }
+      ]
+    },
+    {
+      "task_no": 115,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 116,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 117,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 118,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 119,
+      "thread_ids": [
+        "ai-drone-military-adoption-accelerate",
+        "build-multilateral-security-network",
+        "defense-rnd-budget-increase",
+        "new-defense-innovation-firms-nurture",
+        "nuclear-submarine-acquisition-accelerate",
+        "public-private-defense-cooperation-strengthen"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0526-B3JFkX@t19",
+          "meeting_id": "2026-cab-0526-B3JFkX",
+          "date": "2026-05-26",
+          "grade": "ai_inferred",
+          "grade_evidence": "국익 중심의 실용 외교로 긴밀한 다자 안보 네트워크"
+        }
+      ]
+    },
+    {
+      "task_no": 120,
+      "thread_ids": [],
+      "turn_refs": [
+        {
+          "tid": "2026-rpt-0112-CUltdo@t27",
+          "meeting_id": "2026-rpt-0112-CUltdo",
+          "date": "2026-01-12",
+          "grade": "ai_inferred",
+          "grade_evidence": "WHO나 UICC와 같은 국제 기관들과의 정책 개발 또는 암관리 모델의 글로벌 확산에 노력하겠습니다"
+        }
+      ]
+    },
+    {
+      "task_no": 121,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 122,
+      "thread_ids": [],
+      "turn_refs": []
+    },
+    {
+      "task_no": 123,
+      "thread_ids": [
+        "bereaved-support-measures",
+        "establish-strict-sanctions",
+        "find-and-reward-exemplars",
+        "holiday-overseas-crowd-management",
+        "investigate-quickly-thoroughly",
+        "manage-interkorean-tensions",
+        "pursue-diplomatic-supply-talks",
+        "revise-enforcement-decree-quickly",
+        "roadcorp-safety-reward",
+        "strengthen-public-agency-management"
+      ],
+      "turn_refs": [
+        {
+          "tid": "2026-cab-0305-sPS14B@t7",
+          "meeting_id": "2026-cab-0305-sPS14B",
+          "date": "2026-03-05",
+          "grade": "ai_inferred",
+          "grade_evidence": "재외국민 안전보호 문제…신속하게 대응"
+        },
+        {
+          "tid": "2026-cab-0406-IhS8yH@t8",
+          "meeting_id": "2026-cab-0406-IhS8yH",
+          "date": "2026-04-06",
+          "grade": "ai_inferred",
+          "grade_evidence": "외교적 역량을 총동원해 ... 재외국민 안전 보호"
+        },
+        {
+          "tid": "2026-cab-0602-HokLaJ@t61",
+          "meeting_id": "2026-cab-0602-HokLaJ",
+          "date": "2026-06-02",
+          "grade": "ai_inferred",
+          "grade_evidence": "동포 비자로 통합…재외동포의 역사와 가치가 국정교과서에 수록"
+        }
+      ]
+    }
+  ]
+}

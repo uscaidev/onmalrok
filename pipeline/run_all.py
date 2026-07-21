@@ -9,7 +9,7 @@ import traceback
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")  # Windows 콘솔(cp949) 대응
 
-from . import build_index, correct, discover, enrich, poll_captions, segment, threads
+from . import build_index, correct, discover, enrich, poll_captions, segment, task_map, threads
 from .state import load_state, save_state
 from .validate import validate_meeting
 
@@ -59,11 +59,12 @@ def main() -> int:
                 traceback.print_exc()
     save_state(state)
 
-    # 03 교정 → 04~06 3층 구조 → 07 스레드 → 08 색인 (§8: 단계별 격리)
+    # 03 교정 → 04~06 3층 구조 → 07 스레드 → 11 과제 매핑 → 08 색인 (§8: 단계별 격리)
     for name, step in (
         ("correct", lambda: correct.run(state)),
         ("enrich", lambda: enrich.run(state, workers=3)),
         ("threads", lambda: threads.run(state)),
+        ("task_map", lambda: task_map.run(state)),
         ("build_index", build_index.run),
     ):
         try:

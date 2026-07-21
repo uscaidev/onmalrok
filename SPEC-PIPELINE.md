@@ -41,6 +41,9 @@ data/
 ├─ index/keywords.json           # 키워드 카운트
 ├─ dump/latest.json              # 전체 덤프 (오픈데이터)
 ├─ state/videos.json             # 상태 머신 (§3) — 파이프라인 내부용, 앱은 읽기만
+├─ tasks/tasks.json              # 국정과제 123 마스터 (§2.4) — 공식 목록, 수동 구축·개정 시만 갱신
+├─ tasks/keywords.json           # 과제별 검색 키워드 캐시 (§2.4) — LLM 1회 생성, 이후 재사용
+├─ tasks/map.json                # 과제↔스레드/턴 매핑 (§2.4) — 파이프라인 산출
 └─ glossary.json                 # 교정 용어집 (§5.2)
 ```
 
@@ -101,6 +104,40 @@ interface Statement {
 
 SPEC.md §4.2 ThreadNode에서 `sid` → `tid`로 참조를 승격한다: `{ tid, rep_sid, meeting_id, date, role, grade, grade_evidence, reviewed, rel_label }`. 노드의 실체는 "화자의 발언 턴"이고, UI 인용은 rep_sid를 쓴다.
 
+### 2.4 국정과제 축 (GovTask) — 2026-07-21 방향 확정
+
+서비스의 상위 프레임. 이재명 정부 **123대 국정과제**(korea.kr/govVision: 5대 국정목표 → 전략 → 과제 123개, 과제별 주관 부처 표기)를 고정 축으로 삼아 스레드·발언을 그 아래에 건다. 구조: **국정과제(고정 축) ⊃ 스레드(지시 단위) ⊃ Turn/Statement(원문)**. 부처별 뷰는 tasks.json의 ministries를 피벗해 프론트에서 파생한다(별도 산출물 없음).
+
+```typescript
+// tasks/tasks.json — 공식 목록 마스터. 정부 발표가 SSOT이며 파이프라인은 수정하지 않는다
+interface GovTask {
+  no: number;                    // 1~123 공식 순번
+  title: string;                 // 공식 과제명
+  goal: string;                  // 5대 국정목표
+  strategy: string;              // 전략 (목표 하위)
+  ministries: string[];          // 주관 부처 (공식 괄호 표기 기준, 복수 가능)
+  source: string;                // korea.kr/govVision 원문 링크
+}
+
+// tasks/map.json — 파이프라인 산출 (11 task_map.py)
+interface TaskMap {
+  generated_at: string;
+  entries: {
+    task_no: number;
+    thread_ids: string[];        // 이 과제에 연결된 지시 스레드
+    turn_refs: {                 // 과제 관련 언급 전체(스레드 노드 포함 — 과제 타임라인·"언급 0회" 통계용)
+      tid: string; meeting_id: string; date: string;
+      grade: "explicit" | "topic" | "ai_inferred";   // explicit = 과제명·순번 직접 언급
+      grade_evidence?: string;
+    }[];
+  }[];
+}
+```
+
+- 매핑 판정은 **Turn 단위**(스레드와 동일한 3단: 과제명 직접 언급 → 키워드 → LLM, 근거 배지 원칙 동일)
+- 매핑이 없는 과제도 entries에 빈 배열로 포함한다 — "국무회의 언급 0회"는 그 자체로 기록이다
+- 평가 금지 원칙(SPEC.md §1-5) 유지: 이행률·달성도 산출 금지. 노출은 상태 사실만("관련 발언 N건 · 마지막 부처 보고 YYYY-MM-DD · 후속 대기 N일째")
+
 ## 3. 상태 머신 (핵심)
 
 `data/state/videos.json`의 영상별 상태:
@@ -145,6 +182,7 @@ discovered ──자막 확인──▶ waiting_captions ──자막 생성됨�
 | 08 | build_index.py | 검색 샤드·keywords·meetings 목록·dump 생성 |
 | 09 | alerts.py | 키워드 알림 매칭 + Resend 발송 + RSS 정적 생성 |
 | 10 | merge_contributions.py | 시민 기여 3인 합의 머지(SPEC.md §13.2) — Turn 단위 화자 라벨은 tid 대상 |
+| 11 | task_map.py | §2.4 과제 매핑 — 신규 Turn·Thread × tasks.json 3단 판정 → tasks/map.json 갱신. 전 과제 entries 포함(빈 배열 유지) |
 
 ## 5. 자막 지속 보강 루프
 
@@ -202,6 +240,12 @@ discovered ──자막 확인──▶ waiting_captions ──자막 생성됨�
 ### Phase P4 — 요약·스레드·색인·알림
 - [ ] 06~09 + 월간 재보강 workflow
 - ✅ 신규 회의 무개입 전체 처리(감지→배포) 3회 연속 성공
+
+### Phase P6 — 국정과제 축 (2026-07-21 추가)
+- [ ] tasks/tasks.json 마스터 구축(korea.kr/govVision 123과제: 목표·전략·과제명·주관 부처)
+- [ ] 11 task_map.py + run_all 편입 + validate(전 123과제 entries 존재, task_no 유효 범위)
+- ✅ 임의 과제 3개에서 매핑 turn_refs의 rep_sid 인용이 실제 관련 발언인지 수동 확인
+- ✅ 백필: 기존 33개 회의 전체에 대해 map.json 생성
 
 ### Phase P5 — 시민 기여 머지
 - [ ] 10 merge_contributions (SPEC.md §13 계약)
