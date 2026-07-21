@@ -1,9 +1,10 @@
-# 수집·자막 파이프라인 — 일 3회 KST 06:00 / 12:00 / 21:00 (SPEC-PIPELINE.md §1)
+# 수집·자막 파이프라인 — 일 1회 KST 06:00 (사용자 결정으로 §1의 일 3회에서 하향.
+# 회의는 평소 주 1회라 매일 아침 1회면 전일 방송분 자막까지 충분히 포착)
 name: pipeline
 
 on:
   schedule:
-    - cron: "0 21,3,12 * * *"  # UTC
+    - cron: "0 21 * * *"  # UTC 21:00 = KST 06:00
   workflow_dispatch:
 
 permissions:
