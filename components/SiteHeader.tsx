@@ -10,6 +10,11 @@ export default function SiteHeader({ query }: { query?: string }) {
           .
         </span>
       </Link>
+      <nav className={styles.nav}>
+        <Link href="/tasks" className={styles.navLink}>
+          국정과제
+        </Link>
+      </nav>
       <form className={styles.searchForm} action="/search" role="search">
         <input
           className={styles.searchInput}

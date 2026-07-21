@@ -29,6 +29,22 @@
   margin-left: 1px;
 }
 
+.nav {
+  flex-shrink: 0;
+}
+
+.navLink {
+  color: var(--dim);
+  font-size: 14px;
+  padding: 6px 10px;
+  border-radius: var(--r-chip);
+}
+
+.navLink:hover {
+  color: var(--txt);
+  background: var(--card-sub);
+}
+
 .searchForm {
   display: flex;
   flex: 1;

@@ -2,7 +2,7 @@
 // 파일 경로·형식에 대한 지식을 여기에만 둔다. 서버(빌드 시) 전용.
 import { readdir, readFile } from "node:fs/promises";
 import path from "node:path";
-import type { Meeting, MeetingIndexItem } from "./types";
+import type { GovTask, Meeting, MeetingIndexItem, TaskMapEntry, Thread } from "./types";
 
 const dataDir = path.join(process.cwd(), "data");
 
@@ -31,6 +31,31 @@ export async function getAllMeetings(): Promise<Meeting[]> {
     files.map(async (f) => JSON.parse(await readFile(path.join(dataDir, "meetings", f), "utf8")) as Meeting)
   );
   return meetings.sort((a, b) => (a.date < b.date ? 1 : -1));
+}
+
+// ── 국정과제 축 (SPEC-PIPELINE.md §2.4) ──
+
+export async function getTasks(): Promise<GovTask[]> {
+  const raw = await readFile(path.join(dataDir, "tasks", "tasks.json"), "utf8");
+  return (JSON.parse(raw) as { tasks: GovTask[] }).tasks;
+}
+
+export async function getTaskMap(): Promise<TaskMapEntry[]> {
+  const raw = await readFile(path.join(dataDir, "tasks", "map.json"), "utf8");
+  return (JSON.parse(raw) as { entries: TaskMapEntry[] }).entries;
+}
+
+export async function getThreadsByIds(ids: string[]): Promise<Thread[]> {
+  if (ids.length === 0) return [];
+  // id는 데이터 유래지만 경로 조작 방지 원칙(getMeeting과 동일)으로 파일 목록과 대조
+  const files = await readdir(path.join(dataDir, "threads"));
+  const wanted = new Set(ids.map((id) => `${id}.json`));
+  const threads = await Promise.all(
+    files
+      .filter((f) => wanted.has(f))
+      .map(async (f) => JSON.parse(await readFile(path.join(dataDir, "threads", f), "utf8")) as Thread)
+  );
+  return threads;
 }
 
 /** 홈 화면 "주요 발언자" 칩 — 전체 회의에서 발언 턴 수 상위 화자 (사회자 제외) */

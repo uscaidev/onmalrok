@@ -10,13 +10,13 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0716-imQ8RH",
+    "id": "2026-rpt-0716-_t27O7",
     "kind": "report",
-    "title": "(26.7.16.) 보건복지부·질병관리청·식품의약품안전처·성평등가족부·국민권익위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
+    "title": "(26.7.16.) 과학기술정보통신부·우주항공청·방송미디어통신위원회·개인정보보호위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
     "date": "2026-07-16",
-    "youtube_id": "imQ8RHurjTc",
-    "duration_sec": 7367,
-    "statement_count": 1247,
+    "youtube_id": "_t27O7XlfRY",
+    "duration_sec": 8440,
+    "statement_count": 1121,
     "pipeline_status": "done"
   },
   {
@@ -30,13 +30,13 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0716-_t27O7",
+    "id": "2026-rpt-0716-imQ8RH",
     "kind": "report",
-    "title": "(26.7.16.) 과학기술정보통신부·우주항공청·방송미디어통신위원회·개인정보보호위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
+    "title": "(26.7.16.) 보건복지부·질병관리청·식품의약품안전처·성평등가족부·국민권익위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
     "date": "2026-07-16",
-    "youtube_id": "_t27O7XlfRY",
-    "duration_sec": 8440,
-    "statement_count": 1121,
+    "youtube_id": "imQ8RHurjTc",
+    "duration_sec": 7367,
+    "statement_count": 1247,
     "pipeline_status": "done"
   },
   {
@@ -220,16 +220,6 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0114-kvXX3W",
-    "kind": "report",
-    "title": "(26.1.14.) 과학기술정보통신부 소속 우주, 과학기술원, AI, ICT 기관 업무보고",
-    "date": "2026-01-14",
-    "youtube_id": "kvXX3W0Wb6E",
-    "duration_sec": 6967,
-    "statement_count": 692,
-    "pipeline_status": "done"
-  },
-  {
     "id": "2026-rpt-0114-nIdLEw",
     "kind": "report",
     "title": "(26.1.14.) 국토교통부 산하기관 민생·안전 분야 업무보고",
@@ -240,13 +230,13 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0113-djgPd0",
+    "id": "2026-rpt-0114-kvXX3W",
     "kind": "report",
-    "title": "(26.1.13.) 금융위원회 소속 한국산업은행 등 업무보고",
-    "date": "2026-01-13",
-    "youtube_id": "djgPd09rn0c",
-    "duration_sec": 7478,
-    "statement_count": 822,
+    "title": "(26.1.14.) 과학기술정보통신부 소속 우주, 과학기술원, AI, ICT 기관 업무보고",
+    "date": "2026-01-14",
+    "youtube_id": "kvXX3W0Wb6E",
+    "duration_sec": 6967,
+    "statement_count": 692,
     "pipeline_status": "done"
   },
   {
@@ -260,13 +250,13 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0112-5DLxn1",
+    "id": "2026-rpt-0113-djgPd0",
     "kind": "report",
-    "title": "(26.1.12.) 산업통상부 공공기관 [자원·수출 분야] 업무보고",
-    "date": "2026-01-12",
-    "youtube_id": "5DLxn1ybiNY",
-    "duration_sec": 8358,
-    "statement_count": 870,
+    "title": "(26.1.13.) 금융위원회 소속 한국산업은행 등 업무보고",
+    "date": "2026-01-13",
+    "youtube_id": "djgPd09rn0c",
+    "duration_sec": 7478,
+    "statement_count": 822,
     "pipeline_status": "done"
   },
   {
@@ -277,6 +267,16 @@
     "youtube_id": "CUltdoq_NnU",
     "duration_sec": 7190,
     "statement_count": 726,
+    "pipeline_status": "done"
+  },
+  {
+    "id": "2026-rpt-0112-5DLxn1",
+    "kind": "report",
+    "title": "(26.1.12.) 산업통상부 공공기관 [자원·수출 분야] 업무보고",
+    "date": "2026-01-12",
+    "youtube_id": "5DLxn1ybiNY",
+    "duration_sec": 8358,
+    "statement_count": 870,
     "pipeline_status": "done"
   },
   {

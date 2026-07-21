@@ -110,6 +110,30 @@ export interface Thread {
   updated_at: string;
 }
 
+// 국정과제 축 — SPEC-PIPELINE.md §2.4 (과제 ⊃ 스레드 ⊃ 발언)
+export interface GovTask {
+  no: number; // 1~123 공식 순번
+  title: string;
+  goal: string; // 5대 국정목표
+  strategy: string;
+  ministries: string[]; // 주관 부처 (공식 표기)
+  source: string; // korea.kr/govVision 원문 PDF
+}
+
+export interface TaskTurnRef {
+  tid: string;
+  meeting_id: string;
+  date: string;
+  grade: LinkGrade;
+  grade_evidence: string;
+}
+
+export interface TaskMapEntry {
+  task_no: number;
+  thread_ids: string[];
+  turn_refs: TaskTurnRef[]; // 과제 관련 언급 전체 — 빈 배열 = "언급 0회"도 기록
+}
+
 // 검색 색인 — SPEC.md §4.3
 export interface SearchDoc {
   sid: string;
