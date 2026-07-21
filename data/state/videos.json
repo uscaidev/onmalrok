@@ -175,6 +175,22 @@
       "title": "(26.1.12.) 산업통상부 공공기관 [자원·수출 분야] 업무보고",
       "youtube_id": "5DLxn1ybiNY"
     },
+    "6zcO6o0hdfk": {
+      "caption_source": null,
+      "discovered_at": "2026-07-21T17:14:22+09:00",
+      "duration_sec": null,
+      "error": "yt-dlp: ERROR: [youtube] 6zcO6o0hdfk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T17:14:23+09:00",
+      "meeting_id": null,
+      "published_at": "2026-07-21T14:15:34+09:00",
+      "retry_count": 1,
+      "source": "rss",
+      "stages": {},
+      "status": "waiting_captions",
+      "title": "물가안정 방해하는 매점매석 확실한 몰수로 근절! #국무회의 #국정 #유가 #물가 #물가안정 #매점매석 #근절 #공정 #이재명 #대통령 #이재명대통령",
+      "youtube_id": "6zcO6o0hdfk"
+    },
     "8p6pXmVYoek": {
       "caption_source": "auto",
       "corrected_at": "2026-07-21T16:06:34+09:00",
@@ -491,6 +507,22 @@
       "title": "(26.1.8.) 국민삶에 플러스, 국민이 안전하고 행복한 나라를 만들겠습니다-행정안전부 소속·소방청·소방청 산하기관 업무보고",
       "youtube_id": "LvEXuSgIkZM"
     },
+    "SO-yzg3HFxM": {
+      "caption_source": null,
+      "discovered_at": "2026-07-21T17:14:22+09:00",
+      "duration_sec": null,
+      "error": "yt-dlp: ERROR: [youtube] SO-yzg3HFxM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T17:14:22+09:00",
+      "meeting_id": null,
+      "published_at": "2026-07-21T14:30:34+09:00",
+      "retry_count": 1,
+      "source": "rss",
+      "stages": {},
+      "status": "waiting_captions",
+      "title": "왼손은 몰라야 한다? 선행은 알아야 한다! #국무회의 #국정 #선행 #기부 #기업 #이재명 #대통령 #이재명대통령",
+      "youtube_id": "SO-yzg3HFxM"
+    },
     "_LWZQp7Zz-E": {
       "caption_source": "auto",
       "corrected_at": "2026-07-21T16:29:12+09:00",
@@ -540,6 +572,22 @@
       "status": "processed",
       "title": "(26.7.16.) 과학기술정보통신부·우주항공청·방송미디어통신위원회·개인정보보호위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
       "youtube_id": "_t27O7XlfRY"
+    },
+    "bCztV423lfc": {
+      "caption_source": null,
+      "discovered_at": "2026-07-21T17:14:22+09:00",
+      "duration_sec": null,
+      "error": "yt-dlp: ERROR: [youtube] bCztV423lfc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T17:14:25+09:00",
+      "meeting_id": null,
+      "published_at": "2026-07-21T12:06:45+09:00",
+      "retry_count": 1,
+      "source": "rss",
+      "stages": {},
+      "status": "waiting_captions",
+      "title": "(26.7.21.) 이재명 대통령 제31회 국무회의",
+      "youtube_id": "bCztV423lfc"
     },
     "bzrcCSt88CU": {
       "caption_source": "auto",
@@ -856,6 +904,22 @@
       "status": "processed",
       "title": "(26.1.9.) 책임있는 연구, 신뢰받는 정책-연구회 및 연구기관 국무총리 업무보고",
       "youtube_id": "ysUA7rbC9cU"
+    },
+    "zVOLUhEfjXs": {
+      "caption_source": null,
+      "discovered_at": "2026-07-21T17:14:22+09:00",
+      "duration_sec": null,
+      "error": "yt-dlp: ERROR: [youtube] zVOLUhEfjXs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T17:14:24+09:00",
+      "meeting_id": null,
+      "published_at": "2026-07-21T14:00:17+09:00",
+      "retry_count": 1,
+      "source": "rss",
+      "stages": {},
+      "status": "waiting_captions",
+      "title": "이재명 대통령이 콕 집어 칭찬한 이유는?~ #국무회의 #국정 #정부 #공무원 #재해 #재해복구 #열일 #신기록 #이재명 #대통령 #이재명대통령",
+      "youtube_id": "zVOLUhEfjXs"
     }
   }
 }
