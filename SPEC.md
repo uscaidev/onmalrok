@@ -17,6 +17,7 @@
 - 모호한 부분은 이 문서의 철학(§1)에 비추어 판단하고, 판단 근거를 커밋 메시지에 남긴다.
 - **[2026-07-21 방향 확정] 부처 브리핑**: 실무 공무원용 파생 뷰 `/briefing/[id]` — 회의×부처로 자른 **지시사항(대통령 턴)·답변사항(해당 부처 화자 턴)**. 항목 판정은 웹 빌드 시 결정적 계산만(화자 부처 매칭 + 발언 내 부처 호명 + 과제 매핑 소관 — LLM 추가 없음), 항목마다 근거 표기. 개조식(□/○) 복사 제공하되 **"AI 추출 초안 · 원문 대조 필수" 라벨 고정**, 조치계획 칸은 만들지 않는다(§1-5 평가 금지 — 그건 공무원의 일). 화면은 2단: 좌 발췌 목록(항목 체크로 포함/제외 + 구간 재생 검증) / 우 복사 미리보기(체크된 항목만 개조식 실시간 반영 = 복사될 텍스트 그대로, 전체 복사 버튼 하나). 열람·복사 무료. (2026-07-21 사용자 결정: 이메일 발송·부서 키워드 필터는 만들지 않는다.)
 - **[2026-07-21 방향 확정] 국정과제 축**: 서비스의 상위 프레임은 이재명 정부 123대 국정과제다(데이터 계약: SPEC-PIPELINE.md §2.4, `data/tasks/`). 구조는 국정과제 ⊃ 스레드 ⊃ 발언. 과제별 트래커 화면과 **부처별 뷰**(tasks.json ministries 피벗)를 스레드 화면(Phase 3)과 함께 설계한다. 노출은 상태 사실만("관련 발언 N건 · 마지막 보고 날짜 · 후속 대기 N일째" · "언급 0회") — §1-5 평가 금지 원칙 유지.
+- **[2026-07-21 방향 확정] 의제 뷰**: 홈에 "지금 활발한 의제" 섹션(§6.1)을 둔다 — 기간 토글(4주/3개월/6개월, 기준일=최신 회의일) × 분야 칩(룰 기반 7±1개 + **미분류 노출 필수**) × "이 기간의 흐름" AI 브리프(AiLabel 고정) × 의제 목록(의제문 title + 시드 지시 원문 인용 PlayLink + 최근 응답 PlayLink). 데이터 계약: SPEC-PIPELINE.md §2.5(`data/index/agenda.json`, `data/fields.json`). 설계 의도는 역할 분리다: 분야 칩은 결정적 룰(탐색 안정성), 흐름 브리프는 매 실행 재생성(의제 변화 추종) — 룰의 경직성과 AI의 불안정성이 서로를 보완한다. 국정과제 축과 별개 진입점이며(돌발 의제는 123과제에 안 잡힘), 별도 탭이 아니라 홈 섹션으로 시작한다.
 
 ---
 
@@ -308,6 +309,12 @@ create table contributor_stats (
 
 - 헤더: 로고(開 red 마크) + 통합 검색바 + LIVE 배지(당일 생중계 있을 때만)
 - 필터 칩: 전체/국무회의/업무보고 + 인기 키워드(keywords.json 상위) + 주요 발언자. 다중 선택 아님(단일 토글)
+- **"지금 활발한 의제" 섹션** (agenda.json 소비, 검색바 아래·그리드 위):
+  - 기간 토글: 4주(기본)/3개월/6개월. 기준일은 agenda.json `ref_date`(최신 회의일). 기간 필터·건수 집계는 `node_dates` 클라이언트 계산
+  - 분야 칩(단일 토글): 전체 + fields + **미분류(점선 테두리)**. 미분류는 숨기지 않는다 — 미분류 증가가 fields.json 갱신 신호
+  - "이 기간의 흐름" 카드: briefs에서 해당 기간 항목 렌더. **AiLabel("AI 요약 · 원문 대조 필요") 고정**, 항목마다 관련 스레드 링크(§9-3의 PlayLink 종착은 스레드 페이지 경유로 충족)
+  - 의제 목록(기간 내 노드 수 내림차순, 상위 6): 행 = title(의제문, sans) + "AI 요약" 라벨 + 분야 칩 + 시드 지시 날짜 red 배지 + 시드 인용(명조 + PlayLink) + 최근 응답(날짜·발언자 "AI 추정" 병기 + PlayLink) + "발언 N건". 행 클릭 → `/threads/[id]`
+  - 하단 고지 고정: "의제문·흐름은 AI 요약 초안 · 발언자 표기는 AI 추정 · 상태 기록이며 평가가 아닙니다"
 - 영상 그리드: 3열(≥1024px)/2열/1열. MeetingCard, 최신순. pipeline_status≠done인 회의는 "처리 대기" 배지로 노출(숨기지 않음)
 - 검색 실행 → `/search?q=` 결과 페이지: 문장 카드(명조 인용 + 하이라이트 + PlayLink + 회의 메타). 검색은 MiniSearch 클라이언트
 
@@ -390,7 +397,7 @@ create table contributor_stats (
 | 04_summarize | statements → chapters + summary.brief | 챕터: 화제 전환점 추출. 요약: 5문단 이내, 각 문단에 근거 sid 배열 첨부(프론트가 PlayLink 생성) |
 | 05_speakers | statements → speaker | 사회자 소개 발화("다음은 ○○부 장관")+문체 단서로 추정. 확신 낮으면 null. inferred=true 고정 |
 | 06_threads | 신규 statements × 기존 threads | 3단 판정 — ①룰: 정규식(`지난\s*(회의\|[0-9]+월)`, `지시하신`, `말씀하신`) 매치 → explicit + grade_evidence=해당 구절 ②키워드: thread.topic_tags 2개 이상 포함 → topic ③LLM: 후보쌍(같은 태그 스레드 최근 노드)만 판정 → ai_inferred, reviewed=false. 신규 스레드 생성은 explicit 지시 발화(대통령 화자 + 명령형)에서만 |
-| 07_build_index | 전체 → search 샤드 + keywords.json + dump | dump = meetings+threads 병합, 라이선스 필드 포함 |
+| 07_build_index | 전체 → search 샤드 + keywords.json + dump | dump = meetings+threads 병합, 라이선스 필드 포함. 의제 뷰 인덱스(agenda.json)는 별도 단계 — SPEC-PIPELINE.md §2.5·§4-12 |
 | 08_alerts | 베타 명단 CSV × 신규 문장 | 키워드 매치 시 Resend 발송(매치 없으면 미발송) + `/public/rss/{kw}.xml` 갱신 |
 
 ### 8.3 실패 규칙 (무너지지 않는 실패)
@@ -432,6 +439,7 @@ create table contributor_stats (
 
 ### Phase 3 — 스레드
 - [ ] 06_threads + 스레드 페이지 + 시청 화면 통합(Strip·과거 카드·↩칩·◆마커)
+- [ ] 홈 "지금 활발한 의제" 섹션(§6.1) — agenda.json 소비, 기간·분야 필터는 클라이언트 계산 (데이터: SPEC-PIPELINE Phase P7)
 - [ ] 검수 UI: `data/threads` 파일의 reviewed 필드를 PR로 수정하는 운영 문서(별도 admin 화면 만들지 않음)
 - ✅ 샘플 스레드 1개(지시→계획→이행)가 3화면(스레드/시청/홈)에서 상호 이동
 - ✅ ai_inferred 노드에 검수 대기 배지 + AiNotice 자동 표시

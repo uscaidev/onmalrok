@@ -39,6 +39,8 @@ data/
 ├─ index/meetings.json           # 경량 목록
 ├─ index/search-{n}.json         # 검색 샤드 (SPEC.md §4.3)
 ├─ index/keywords.json           # 키워드 카운트
+├─ index/agenda.json             # 의제 뷰 인덱스 (§2.5) — 12 agenda_view.py 산출
+├─ fields.json                   # 분야 매핑 테이블 (§2.5) — 사람이 PR로만 갱신
 ├─ dump/latest.json              # 전체 덤프 (오픈데이터)
 ├─ state/videos.json             # 상태 머신 (§3) — 파이프라인 내부용, 앱은 읽기만
 ├─ tasks/tasks.json              # 국정과제 123 마스터 (§2.4) — 공식 목록, 수동 구축·개정 시만 갱신
@@ -139,6 +141,43 @@ interface TaskMap {
 - 평가 금지 원칙(SPEC.md §1-5) 유지: 이행률·달성도 산출 금지. 노출은 상태 사실만("관련 발언 N건 · 마지막 부처 보고 YYYY-MM-DD · 후속 대기 N일째")
 - **부처 브리핑(SPEC.md §0)은 파이프라인 산출물이 아니다** — 웹이 turns·task_map에서 빌드 시 파생(결정적). 후속 과제(P7 후보): 대통령 지시 턴의 수신 부처 LLM 태깅으로 호명 없는 지시의 재현율 보강
 
+### 2.5 의제 뷰 (Agenda View) — 2026-07-21 방향 확정
+
+홈 "지금 활발한 의제" 섹션(SPEC.md §6.1)용 파생 인덱스. 스레드를 **기간 창 × 분야**로 자르고 기간별 "흐름 브리프"를 붙인다. 2층 설계가 원칙: **분야 칩은 룰(결정적·멱등), 흐름 브리프는 AI(매 실행 전량 재생성)** — 룰의 경직성은 브리프가 보완하고, AI 서술의 불안정성은 원문 재생 링크가 보완한다.
+
+```typescript
+// data/fields.json — 분야 매핑 테이블. 정적 룰이며 사람이 PR로만 갱신한다(LLM 자동 수정 금지)
+interface FieldTable {
+  fields: { id: string; label: string; keywords: string[] }[];  // 7±1개 굵은 분야(경제·물가, 과학기술, …)
+  proposals?: { field_id: string; keyword: string; reason: string; thread_id: string }[];
+  // proposals = 12 agenda_view.py가 미분류 스레드를 보고 남기는 "키워드 추가 제안".
+  // 적용은 사람이 keywords로 옮기는 PR로만 — 룰은 결정적으로 유지하되 룰 자체는 진화시킨다
+}
+
+// data/index/agenda.json — 12 agenda_view.py 산출
+interface AgendaIndex {
+  generated_at: string;
+  ref_date: string;                    // 기간 창 기준일 = 최신 회의 날짜 (실행일 아님 — 수집 공백 왜곡 방지)
+  fields: { id: string; label: string; thread_count: number }[];   // "미분류(etc)" 포함 필수
+  threads: {
+    id: string; title: string; stage: string;
+    field_ids: string[];               // 키워드 매칭 분야(최대 2). 미매치면 ["etc"] — 숨기지 않는다
+    node_dates: string[];              // 기간 창(4주/3개월/6개월) 필터·집계는 프론트 클라이언트 계산
+    seed: { date: string; quote: string; speaker: string | null;   // 스레드를 연 explicit 지시 발화
+            meeting_id: string; youtube_id: string; t: number };   // t = rep_sid start_sec - 3(어긋남 여유)
+    latest: { date: string; speaker: string | null; rel_label: string;
+              meeting_id: string; youtube_id: string; t: number }; // 최신 노드(최근 응답)
+  }[];
+  briefs: { window_days: 28 | 90 | 180;
+            items: { text: string; thread_ids: string[] }[] }[];   // 항목당 근거 thread_ids ≥1 필수
+}
+```
+
+- 분야 매칭은 `topic_tags + title` 키워드 포함 검사만(결정적). 미분류율이 커지는 것 자체가 fields.json 갱신 신호이므로 미분류를 반드시 **노출**한다
+- **Thread.title 생성 규칙 상향**(07 threads.py): 시드 지시 발화 범위 내 **명사형 의제문 25자 내외**(예: "유가 급등 대응 방안 마련과 소관 부처 지정"). 발화에 없는 내용 추가 금지. 기존 스레드 title은 1회 백필. title은 AI 산출이므로 웹 노출 시 AiLabel 대상
+- 흐름 브리프: 기간 창 안에서 움직인 스레드 목록(제목·태그·노드 수·신규 여부)을 입력으로 LLM이 3~5항목 생성. 매 실행 전량 재생성(누적 편집 없음), 항목마다 thread_ids 필수, 웹은 "AI 요약 · 원문 대조 필요" 라벨 고정
+- seed.quote = 시드 explicit 노드의 grade_evidence. speaker는 Turn 화자(inferred — 웹은 "AI 추정" 병기)
+
 ## 3. 상태 머신 (핵심)
 
 `data/state/videos.json`의 영상별 상태:
@@ -184,6 +223,7 @@ discovered ──자막 확인──▶ waiting_captions ──자막 생성됨�
 | 09 | alerts.py | 키워드 알림 매칭 + Resend 발송 + RSS 정적 생성 |
 | 10 | merge_contributions.py | 시민 기여 3인 합의 머지(SPEC.md §13.2) — Turn 단위 화자 라벨은 tid 대상 |
 | 11 | task_map.py | §2.4 과제 매핑 — 신규 Turn·Thread × tasks.json 3단 판정 → tasks/map.json 갱신. 전 과제 entries 포함(빈 배열 유지) |
+| 12 | agenda_view.py | §2.5 의제 뷰 — 결정적 부분(분야 매칭·seed/latest 조인·node_dates)은 코드로, 흐름 브리프만 LLM. 미분류 스레드에 대한 fields.json 키워드 제안(proposals) 기록 |
 
 ## 5. 자막 지속 보강 루프
 
@@ -212,7 +252,8 @@ discovered ──자막 확인──▶ waiting_captions ──자막 생성됨�
 2. Turn.sid_range·AgendaBlock.sid_range가 겹치지 않고 전 문장을 커버
 3. text_raw 비어있는 문장 0건
 4. thread_refs의 grade 값이 3종 enum 내
-5. 검증 실패 → 해당 meeting을 `partial`로 강등하고 커밋은 진행(무너지지 않는 실패)
+5. agenda.json: 전 스레드 포함, field_ids가 fields.json에 실존(또는 "etc"), seed/latest의 meeting_id·youtube_id 실존, briefs 각 항목 thread_ids ≥1
+6. 검증 실패 → 해당 meeting을 `partial`로 강등하고 커밋은 진행(무너지지 않는 실패)
 
 ## 8. 실패 규칙
 
@@ -247,6 +288,12 @@ discovered ──자막 확인──▶ waiting_captions ──자막 생성됨�
 - [ ] 11 task_map.py + run_all 편입 + validate(전 123과제 entries 존재, task_no 유효 범위)
 - ✅ 임의 과제 3개에서 매핑 turn_refs의 rep_sid 인용이 실제 관련 발언인지 수동 확인
 - ✅ 백필: 기존 33개 회의 전체에 대해 map.json 생성
+
+### Phase P7 — 의제 뷰 (2026-07-21 추가)
+- [ ] fields.json 초안(7±1분야 — 미분류율 20% 이하 목표) + 12 agenda_view.py + run_all 편입 + validate §7-5
+- [ ] 07 threads.py title 의제문 규칙 상향 + 기존 스레드 title 1회 백필
+- ✅ agenda.json 임의 스레드 3개의 seed 재생 링크가 실제 지시 발화 구간인지 수동 확인
+- ✅ 동일 입력 재실행 시 briefs 제외 산출 불변(결정적 부분 멱등)
 
 ### Phase P5 — 시민 기여 머지
 - [ ] 10 merge_contributions (SPEC.md §13 계약)
