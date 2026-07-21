@@ -9,7 +9,7 @@ import traceback
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")  # Windows 콘솔(cp949) 대응
 
-from . import discover, poll_captions, segment
+from . import correct, discover, poll_captions, segment
 from .state import load_state, save_state
 from .validate import validate_meeting
 
@@ -57,6 +57,14 @@ def main() -> int:
                 failed += 1
                 rec["error"] = f"segment: {e}"
                 traceback.print_exc()
+    save_state(state)
+
+    # 03 교정: 배치 수거 → 신규 제출 (API 키 없으면 내부에서 건너뜀)
+    try:
+        correct.run(state)
+    except Exception:
+        print("[correct] 실패 — 다음 실행에서 재시도")
+        traceback.print_exc()
     save_state(state)
 
     counts: dict[str, int] = {}
