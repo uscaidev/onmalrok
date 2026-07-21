@@ -80,6 +80,11 @@ def available() -> bool:
     return provider() is not None
 
 
+def active_model() -> str:
+    return {"anthropic": MODEL, "openrouter": OPENROUTER_MODEL,
+            "openai": OPENAI_MODEL}.get(provider() or "", "")
+
+
 def get_client():
     import anthropic
     return anthropic.Anthropic(api_key=_get_key("ANTHROPIC_API_KEY"))
