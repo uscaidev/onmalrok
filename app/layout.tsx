@@ -4,7 +4,7 @@ import "./globals.css";
 import styles from "./layout.module.css";
 
 export const metadata: Metadata = {
-  title: { default: "Open Policy — 국무회의·국민업무보고 아카이브", template: "%s · Open Policy" },
+  title: { default: "온말록 — 국무회의·국민업무보고 아카이브", template: "%s · 온말록" },
   description:
     "국무회의·국민업무보고 영상을 자막 문장 단위로 검색하고 원문 구간을 바로 재생하는 아카이브",
 };
