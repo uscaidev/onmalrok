@@ -77,7 +77,10 @@ def _save_meeting(meeting: dict) -> None:
 
 def build_prompt(statements: list[dict]) -> str:
     glossary = _load_json(GLOSSARY_FILE, {})
-    top = sorted(glossary.items())[:GLOSSARY_PROMPT_LIMIT]
+    counts = _load_json(CANDIDATES_FILE, {})
+    # 관찰 빈도순 상위 N개만 주입 (토큰 상한)
+    top = sorted(glossary.items(),
+                 key=lambda kv: -counts.get(f"{kv[0]}→{kv[1]}", 0))[:GLOSSARY_PROMPT_LIMIT]
     glossary_text = "\n".join(f'- "{k}" → "{v}"' for k, v in top) or "(아직 없음)"
     sentences = "\n".join(
         f"{int(s['sid'].split('#')[1])}. {s['text_raw']}" for s in statements
@@ -338,8 +341,13 @@ def _pending_meetings(state: dict) -> list[dict]:
     ]
 
 
-def run_sync(state: dict, limit: int, only_meeting: str | None = None) -> None:
-    """OpenRouter 동기 교정. 실행당 최대 limit개 회의 (0 = 무제한)."""
+def run_sync(state: dict, limit: int, only_meeting: str | None = None,
+             workers: int = 1) -> None:
+    """동기 교정. 실행당 최대 limit개 회의 (0 = 무제한). workers>1이면 청크 병렬 호출."""
+    from concurrent.futures import ThreadPoolExecutor
+
+    from .state import save_state
+
     targets = _pending_meetings(state)
     if only_meeting:
         targets = [r for r in targets if r["meeting_id"] == only_meeting]
@@ -347,23 +355,30 @@ def run_sync(state: dict, limit: int, only_meeting: str | None = None) -> None:
     if limit:
         targets = targets[:limit]
 
-    for rec in targets:
+    for idx, rec in enumerate(targets, 1):
         mid = rec["meeting_id"]
         meeting = _load_meeting(mid)
         if meeting is None:
             continue
         stmts = meeting["statements"]
+        chunks = [stmts[s:s + CHUNK_SIZE] for s in range(0, len(stmts), CHUNK_SIZE)]
+
+        def _call(chunk):
+            raw = llm.complete(build_prompt(chunk), stage="correct")
+            return parse_corrections(raw)
+
         total_applied, failed_chunks = 0, 0
-        for start in range(0, len(stmts), CHUNK_SIZE):
-            chunk = stmts[start:start + CHUNK_SIZE]
-            try:
-                raw = llm.complete(build_prompt(chunk), stage="correct")
-                corrections = parse_corrections(raw)
-            except Exception as e:
-                failed_chunks += 1
-                print(f"[correct] {mid}|{start + 1} 실패: {e}")
-                continue
-            total_applied += apply_corrections(meeting, corrections)
+        with ThreadPoolExecutor(max_workers=max(workers, 1)) as pool:
+            futures = [(i, pool.submit(_call, c)) for i, c in enumerate(chunks)]
+            for i, fut in futures:
+                try:
+                    corrections = fut.result()
+                except Exception as e:
+                    failed_chunks += 1
+                    print(f"[correct] {mid}|{i * CHUNK_SIZE + 1} 실패: {e}")
+                    continue
+                # 적용·용어집 축적은 메인 스레드에서 순차 수행 (스레드 안전)
+                total_applied += apply_corrections(meeting, corrections)
 
         if failed_chunks == 0:
             rec["stages"]["correct"] = "done"
@@ -375,8 +390,9 @@ def run_sync(state: dict, limit: int, only_meeting: str | None = None) -> None:
         if errors:
             meeting["pipeline_status"] = "partial"
         _save_meeting(meeting)
-        print(f"[correct] {mid} 교정 {total_applied}건 적용"
-              f" (실패 청크 {failed_chunks}, status={meeting['pipeline_status']})")
+        save_state(state)  # 회의 단위로 진행 상황 저장 — 중단 시 다음 실행에서 이어서
+        print(f"[correct] ({idx}/{len(targets)}) {mid} 교정 {total_applied}건 적용"
+              f" (실패 청크 {failed_chunks}, status={meeting['pipeline_status']})", flush=True)
 
 
 # ---------------------------------------------------------------- 진입점
@@ -409,6 +425,7 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=1, help="처리할 회의 수 (0=무제한)")
     ap.add_argument("--meeting", type=str, default=None, help="특정 meeting_id만")
+    ap.add_argument("--workers", type=int, default=1, help="청크 병렬 호출 수")
     args = ap.parse_args()
     if llm.provider() is None:
         print("[correct] API 키 없음")
@@ -418,7 +435,7 @@ def main() -> None:
         collect_batches(state)
         submit_pending(state)
     else:
-        run_sync(state, limit=args.limit, only_meeting=args.meeting)
+        run_sync(state, limit=args.limit, only_meeting=args.meeting, workers=args.workers)
     save_state(state)
 
 

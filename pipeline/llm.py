@@ -8,6 +8,7 @@
 """
 import json
 import os
+import threading
 import time
 from datetime import datetime
 
@@ -126,9 +127,12 @@ def load_prompt(name: str) -> str:
         return f.read()
 
 
+_usage_lock = threading.Lock()
+
+
 def record_usage(stage: str, input_tokens: int, output_tokens: int, calls: int = 1,
                  provider_name: str = "anthropic") -> None:
-    """월 단위 사용량 누적."""
+    """월 단위 사용량 누적 (스레드 안전)."""
     if provider_name == "openrouter":
         in_price, out_price = OPENROUTER_USD_PER_MTOK_INPUT, OPENROUTER_USD_PER_MTOK_OUTPUT
     elif provider_name == "openai":
@@ -136,22 +140,23 @@ def record_usage(stage: str, input_tokens: int, output_tokens: int, calls: int =
     else:
         in_price, out_price = BATCH_USD_PER_MTOK_INPUT, BATCH_USD_PER_MTOK_OUTPUT
     month = datetime.now(KST).strftime("%Y-%m")
-    usage = {}
-    if USAGE_FILE.exists():
-        with open(USAGE_FILE, encoding="utf-8") as f:
-            usage = json.load(f)
-    entry = usage.setdefault(month, {}).setdefault(
-        stage, {"calls": 0, "input_tokens": 0, "output_tokens": 0, "cost_usd": 0.0}
-    )
-    entry["calls"] += calls
-    entry["input_tokens"] += input_tokens
-    entry["output_tokens"] += output_tokens
-    entry["cost_usd"] = round(
-        entry["cost_usd"]
-        + input_tokens / 1e6 * in_price
-        + output_tokens / 1e6 * out_price,
-        4,
-    )
-    with open(USAGE_FILE, "w", encoding="utf-8") as f:
-        json.dump(usage, f, ensure_ascii=False, indent=2)
-        f.write("\n")
+    with _usage_lock:
+        usage = {}
+        if USAGE_FILE.exists():
+            with open(USAGE_FILE, encoding="utf-8") as f:
+                usage = json.load(f)
+        entry = usage.setdefault(month, {}).setdefault(
+            stage, {"calls": 0, "input_tokens": 0, "output_tokens": 0, "cost_usd": 0.0}
+        )
+        entry["calls"] += calls
+        entry["input_tokens"] += input_tokens
+        entry["output_tokens"] += output_tokens
+        entry["cost_usd"] = round(
+            entry["cost_usd"]
+            + input_tokens / 1e6 * in_price
+            + output_tokens / 1e6 * out_price,
+            4,
+        )
+        with open(USAGE_FILE, "w", encoding="utf-8") as f:
+            json.dump(usage, f, ensure_ascii=False, indent=2)
+            f.write("\n")
