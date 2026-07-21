@@ -180,6 +180,7 @@
     },
     "AO9IYDn6xAg": {
       "caption_source": "auto",
+      "corrected_at": "2026-07-21T15:59:57+09:00",
       "discovered_at": "2026-07-21T09:08:41+09:00",
       "duration_sec": 1742,
       "error": null,
@@ -190,6 +191,7 @@
       "retry_count": 0,
       "source": "backfill",
       "stages": {
+        "correct": "done",
         "segment": "done"
       },
       "status": "processed",

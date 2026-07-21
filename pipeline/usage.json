@@ -1,0 +1,10 @@
+{
+  "2026-07": {
+    "correct": {
+      "calls": 10,
+      "input_tokens": 17412,
+      "output_tokens": 40778,
+      "cost_usd": 0.0858
+    }
+  }
+}

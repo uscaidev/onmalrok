@@ -92,7 +92,9 @@ def complete(prompt: str, stage: str, max_tokens: int = 8000) -> str:
         key = _openai_key()
         body = {
             "model": OPENAI_MODEL,
-            "max_completion_tokens": max_tokens,  # gpt-5 계열은 max_tokens 미지원
+            "max_completion_tokens": max_tokens + 4000,  # 추론 토큰 여유분 포함
+            "reasoning_effort": "minimal",   # 교정은 기계적 작업 — 추론 토큰 소진 방지
+            "response_format": {"type": "json_object"},
             "messages": [{"role": "user", "content": prompt}],
         }
     else:

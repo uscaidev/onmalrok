@@ -110,9 +110,25 @@ def apply_corrections(meeting: dict, corrections: list[dict]) -> int:
 
 # ---------------------------------------------------------------- 용어집 (§5.2)
 
+def is_glossary_worthy(wrong: str, right: str) -> bool:
+    """용어집 승격 자격: 전역 치환해도 안전한 쌍만.
+
+    - 2자 이하 어절('거'→'것', '배우'→'배후')은 실제 단어와 충돌 위험 → 제외
+    - 문장부호가 섞인 쌍('처입니다.'→'처음입니다.')은 문맥 의존 → 제외
+    - 띄어쓰기만 다른 쌍은 문장별 교정으로 충분 → 제외
+    """
+    if len(wrong) < 3:
+        return False
+    if re.search(r"[.,?!·]", wrong) or re.search(r"[.,?!]", right):
+        return False
+    if wrong.replace(" ", "") == right.replace(" ", ""):
+        return False
+    return True
+
+
 def collect_glossary_candidates(raw: str, corrected: str) -> None:
     """단어 단위 diff에서 치환쌍을 추출해 후보에 누적. 빈도 2회 이상이면 용어집 승격."""
-    pairs = extract_pairs(raw, corrected)
+    pairs = [(w, r) for w, r in extract_pairs(raw, corrected) if is_glossary_worthy(w, r)]
     if not pairs:
         return
     candidates = _load_json(CANDIDATES_FILE, {})
