@@ -1,0 +1,12 @@
+.playLink {
+  color: var(--blue);
+  font-family: Roboto, var(--font-ui);
+  font-weight: 500;
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.playLink:hover {
+  text-decoration: underline;
+}

@@ -7,3 +7,4 @@ out/
 .env*
 *.tsbuildinfo
 next-env.d.ts
+public/search-index/

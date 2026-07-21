@@ -1,0 +1,74 @@
+.strip {
+  background: var(--card);
+  border-radius: var(--r-card);
+  padding: 12px;
+}
+
+.header {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.title:hover {
+  text-decoration: underline;
+}
+
+.count {
+  color: var(--dim);
+  font-size: 12px;
+}
+
+.nodes {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  list-style: none;
+}
+
+.node {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  background: var(--card-sub);
+  border: 1px solid var(--line);
+  border-radius: var(--r-chip);
+  padding: 8px 10px;
+  min-width: 108px;
+}
+
+/* §5.2 색-의미 매핑: 노드 보더 */
+.order {
+  border-left: 3px solid var(--red);
+}
+
+.report,
+.interim {
+  border-left: 3px solid var(--blue);
+}
+
+.result {
+  border-left: 3px solid var(--green);
+}
+
+.current {
+  border-color: var(--red);
+}
+
+.roleTag {
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.date {
+  color: var(--dim);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}

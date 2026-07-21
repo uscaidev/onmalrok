@@ -1,0 +1,248 @@
+{
+  "id": "2026-cab-0708-dQw4w9",
+  "kind": "cabinet",
+  "title": "[샘플] 제30회 국무회의",
+  "date": "2026-07-08",
+  "youtube_id": "dQw4w9WgXcQ",
+  "duration_sec": 1980,
+  "source": {
+    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "text": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=sample-0708"
+  },
+  "summary": {
+    "brief": "폭염 대응 취약계층 보호 대책과 소상공인 채무 조정 프로그램 시행 방안이 보고됐다. 대통령은 소상공인 지원 신청 절차 간소화를 당부했다.",
+    "paragraphs": [
+      {
+        "text": "행정안전부는 전국 무더위쉼터 6만 2천 곳 운영 현황을 보고하고, 취약계층 방문 건강관리 인력을 8월까지 한시적으로 확대 배치하겠다고 밝혔다.",
+        "sids": ["2026-cab-0708-dQw4w9#5", "2026-cab-0708-dQw4w9#6"]
+      },
+      {
+        "text": "기획재정부는 연 매출 3억 원 이하 소상공인을 대상으로 하는 채무 조정 프로그램의 접수를 8월부터 시작한다고 보고했다.",
+        "sids": ["2026-cab-0708-dQw4w9#8"]
+      },
+      {
+        "text": "대통령은 소상공인 지원의 신청 절차를 최대한 간소화하고, 다음 회의에서 접수 현황을 보고할 것을 지시했다.",
+        "sids": ["2026-cab-0708-dQw4w9#9", "2026-cab-0708-dQw4w9#10"]
+      }
+    ],
+    "generated_at": "2026-07-09T06:10:00+09:00",
+    "model": "claude-sonnet-fixture"
+  },
+  "agenda": [
+    {
+      "aid": "2026-cab-0708-dQw4w9@a1",
+      "title": "개회 및 모두발언",
+      "start_sec": 0,
+      "sid_range": ["2026-cab-0708-dQw4w9#1", "2026-cab-0708-dQw4w9#3"],
+      "official": false
+    },
+    {
+      "aid": "2026-cab-0708-dQw4w9@a2",
+      "title": "폭염 대응 보고",
+      "start_sec": 300,
+      "sid_range": ["2026-cab-0708-dQw4w9#4", "2026-cab-0708-dQw4w9#6"],
+      "official": true
+    },
+    {
+      "aid": "2026-cab-0708-dQw4w9@a3",
+      "title": "소상공인 채무 조정 보고",
+      "start_sec": 900,
+      "sid_range": ["2026-cab-0708-dQw4w9#7", "2026-cab-0708-dQw4w9#8"],
+      "official": true
+    },
+    {
+      "aid": "2026-cab-0708-dQw4w9@a4",
+      "title": "마무리 발언",
+      "start_sec": 1500,
+      "sid_range": ["2026-cab-0708-dQw4w9#9", "2026-cab-0708-dQw4w9#11"],
+      "official": false
+    }
+  ],
+  "turns": [
+    {
+      "tid": "2026-cab-0708-dQw4w9@t1",
+      "speaker": { "name": "사회자", "inferred": true, "verified": false },
+      "sid_range": ["2026-cab-0708-dQw4w9#1", "2026-cab-0708-dQw4w9#1"],
+      "agenda_id": "2026-cab-0708-dQw4w9@a1",
+      "rep_sid": "2026-cab-0708-dQw4w9#1"
+    },
+    {
+      "tid": "2026-cab-0708-dQw4w9@t2",
+      "speaker": { "name": "대통령", "inferred": true, "verified": false },
+      "sid_range": ["2026-cab-0708-dQw4w9#2", "2026-cab-0708-dQw4w9#3"],
+      "agenda_id": "2026-cab-0708-dQw4w9@a1",
+      "rep_sid": "2026-cab-0708-dQw4w9#3"
+    },
+    {
+      "tid": "2026-cab-0708-dQw4w9@t3",
+      "speaker": { "name": "행정안전부 장관", "inferred": true, "verified": false },
+      "sid_range": ["2026-cab-0708-dQw4w9#4", "2026-cab-0708-dQw4w9#5"],
+      "agenda_id": "2026-cab-0708-dQw4w9@a2",
+      "rep_sid": "2026-cab-0708-dQw4w9#5"
+    },
+    {
+      "tid": "2026-cab-0708-dQw4w9@t4",
+      "speaker": null,
+      "sid_range": ["2026-cab-0708-dQw4w9#6", "2026-cab-0708-dQw4w9#6"],
+      "agenda_id": "2026-cab-0708-dQw4w9@a2",
+      "rep_sid": "2026-cab-0708-dQw4w9#6"
+    },
+    {
+      "tid": "2026-cab-0708-dQw4w9@t5",
+      "speaker": { "name": "기획재정부 장관", "inferred": true, "verified": false },
+      "sid_range": ["2026-cab-0708-dQw4w9#7", "2026-cab-0708-dQw4w9#8"],
+      "agenda_id": "2026-cab-0708-dQw4w9@a3",
+      "rep_sid": "2026-cab-0708-dQw4w9#8"
+    },
+    {
+      "tid": "2026-cab-0708-dQw4w9@t6",
+      "speaker": { "name": "대통령", "inferred": true, "verified": false },
+      "sid_range": ["2026-cab-0708-dQw4w9#9", "2026-cab-0708-dQw4w9#10"],
+      "agenda_id": "2026-cab-0708-dQw4w9@a4",
+      "rep_sid": "2026-cab-0708-dQw4w9#9"
+    },
+    {
+      "tid": "2026-cab-0708-dQw4w9@t7",
+      "speaker": { "name": "사회자", "inferred": true, "verified": false },
+      "sid_range": ["2026-cab-0708-dQw4w9#11", "2026-cab-0708-dQw4w9#11"],
+      "agenda_id": "2026-cab-0708-dQw4w9@a4",
+      "rep_sid": "2026-cab-0708-dQw4w9#11"
+    }
+  ],
+  "statements": [
+    {
+      "sid": "2026-cab-0708-dQw4w9#1",
+      "start_sec": 10,
+      "text": "제30회 국무회의를 시작하겠습니다.",
+      "text_raw": "제삼십회 국무회의를 시작하겠습니다",
+      "corrected": true,
+      "turn_id": "2026-cab-0708-dQw4w9@t1",
+      "agenda_id": "2026-cab-0708-dQw4w9@a1",
+      "text_verified": false,
+      "history": [],
+      "thread_refs": []
+    },
+    {
+      "sid": "2026-cab-0708-dQw4w9#2",
+      "start_sec": 63,
+      "text": "오늘 회의에서는 민생 안정과 관련된 안건을 중심으로 심의하겠습니다.",
+      "text_raw": "오늘 회의에서는 민생 안정과 관련된 안건을 중심으로 심의하겠습니다",
+      "corrected": false,
+      "turn_id": "2026-cab-0708-dQw4w9@t2",
+      "agenda_id": "2026-cab-0708-dQw4w9@a1",
+      "text_verified": false,
+      "history": [],
+      "thread_refs": []
+    },
+    {
+      "sid": "2026-cab-0708-dQw4w9#3",
+      "start_sec": 152,
+      "text": "폭염이 이어지고 있습니다. 취약계층 보호 대책을 각 부처가 빈틈없이 점검해 주시기 바랍니다.",
+      "text_raw": "폭염이 이어지고 있습니다 취약 계층 보호 대책을 각 부처가 빈틈없이 점검해 주시기 바랍니다",
+      "corrected": true,
+      "turn_id": "2026-cab-0708-dQw4w9@t2",
+      "agenda_id": "2026-cab-0708-dQw4w9@a1",
+      "text_verified": false,
+      "history": [],
+      "thread_refs": []
+    },
+    {
+      "sid": "2026-cab-0708-dQw4w9#4",
+      "start_sec": 305,
+      "text": "폭염 대응 상황과 무더위쉼터 운영 현황을 보고드리겠습니다.",
+      "text_raw": "폭염 대응 상황과 무더위 쉼터 운영 현황을 보고드리겠습니다",
+      "corrected": true,
+      "turn_id": "2026-cab-0708-dQw4w9@t3",
+      "agenda_id": "2026-cab-0708-dQw4w9@a2",
+      "text_verified": false,
+      "history": [],
+      "thread_refs": []
+    },
+    {
+      "sid": "2026-cab-0708-dQw4w9#5",
+      "start_sec": 394,
+      "text": "전국 무더위쉼터 6만 2천 곳을 운영하고 있으며 이용 현황을 매일 점검하고 있습니다.",
+      "text_raw": "전국 무더위 쉼터 육만 이천 곳을 운영하고 있으며 이용 현황을 매일 점검하고 있습니다",
+      "corrected": true,
+      "turn_id": "2026-cab-0708-dQw4w9@t3",
+      "agenda_id": "2026-cab-0708-dQw4w9@a2",
+      "text_verified": false,
+      "history": [],
+      "thread_refs": []
+    },
+    {
+      "sid": "2026-cab-0708-dQw4w9#6",
+      "start_sec": 486,
+      "text": "취약계층 방문 건강관리 인력을 8월까지 한시적으로 확대 배치하겠습니다.",
+      "text_raw": "취약 계층 방문 건강 관리 인력을 팔월까지 한시적으로 확대 배치하겠습니다",
+      "corrected": true,
+      "turn_id": "2026-cab-0708-dQw4w9@t4",
+      "agenda_id": "2026-cab-0708-dQw4w9@a2",
+      "text_verified": false,
+      "history": [],
+      "thread_refs": []
+    },
+    {
+      "sid": "2026-cab-0708-dQw4w9#7",
+      "start_sec": 905,
+      "text": "소상공인 채무 조정 프로그램의 세부 시행 방안을 보고드리겠습니다.",
+      "text_raw": "소상공인 채무 조정 프로그램의 세부 시행 방안을 보고드리겠습니다",
+      "corrected": false,
+      "turn_id": "2026-cab-0708-dQw4w9@t5",
+      "agenda_id": "2026-cab-0708-dQw4w9@a3",
+      "text_verified": false,
+      "history": [],
+      "thread_refs": []
+    },
+    {
+      "sid": "2026-cab-0708-dQw4w9#8",
+      "start_sec": 1024,
+      "text": "연 매출 3억 원 이하 소상공인을 대상으로 8월부터 접수를 시작합니다.",
+      "text_raw": "연 매출 삼억 원 이하 소상공인을 대상으로 팔월부터 접수를 시작합니다",
+      "corrected": true,
+      "turn_id": "2026-cab-0708-dQw4w9@t5",
+      "agenda_id": "2026-cab-0708-dQw4w9@a3",
+      "text_verified": false,
+      "history": [],
+      "thread_refs": []
+    },
+    {
+      "sid": "2026-cab-0708-dQw4w9#9",
+      "start_sec": 1507,
+      "text": "소상공인 지원은 신청 절차를 최대한 간소화해 주시기 바랍니다.",
+      "text_raw": "소상공인 지원은 신청 절차를 최대한 간소화해 주시기 바랍니다",
+      "corrected": false,
+      "turn_id": "2026-cab-0708-dQw4w9@t6",
+      "agenda_id": "2026-cab-0708-dQw4w9@a4",
+      "text_verified": false,
+      "history": [],
+      "thread_refs": []
+    },
+    {
+      "sid": "2026-cab-0708-dQw4w9#10",
+      "start_sec": 1622,
+      "text": "다음 회의에서 접수 현황을 보고해 주세요.",
+      "text_raw": "다음 회의에서 접수 현황을 보고해 주세요",
+      "corrected": false,
+      "turn_id": "2026-cab-0708-dQw4w9@t6",
+      "agenda_id": "2026-cab-0708-dQw4w9@a4",
+      "text_verified": false,
+      "history": [],
+      "thread_refs": []
+    },
+    {
+      "sid": "2026-cab-0708-dQw4w9#11",
+      "start_sec": 1803,
+      "text": "이상으로 회의를 마치겠습니다.",
+      "text_raw": "이상으로 회의를 마치겠습니다",
+      "corrected": false,
+      "turn_id": "2026-cab-0708-dQw4w9@t7",
+      "agenda_id": "2026-cab-0708-dQw4w9@a4",
+      "text_verified": false,
+      "history": [],
+      "thread_refs": []
+    }
+  ],
+  "stats": { "statement_count": 11, "turn_count": 7 },
+  "pipeline_status": "done"
+}
