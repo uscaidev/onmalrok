@@ -1,0 +1,630 @@
+{
+  "videos": {
+    "-PQDToDJhEc": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:46+09:00",
+      "duration_sec": 8852,
+      "error": null,
+      "kind": "report",
+      "last_checked": "2026-07-21T09:09:06+09:00",
+      "meeting_id": "2026-rpt-0715--PQDTo",
+      "published_at": "2026-07-15T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.7.15.) 재정경제부·국가데이터처·금융위원회·기획예산처 업무보고｜삶으로 체감하는 대체불가 대한민국",
+      "youtube_id": "-PQDToDJhEc"
+    },
+    "1bgJaVy1mco": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 9181,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:08+09:00",
+      "meeting_id": "2026-cab-0120-1bgJaV",
+      "published_at": "2026-01-20T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 1월 20일) 이재명 대통령 제2회 국무회의",
+      "youtube_id": "1bgJaVy1mco"
+    },
+    "2B4Fqs2bxA4": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 7232,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:10+09:00",
+      "meeting_id": "2026-cab-0310-2B4Fqs",
+      "published_at": "2026-03-10T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 3월 10일 자막 생중계) 이재명 대통령 제9회 국무회의",
+      "youtube_id": "2B4Fqs2bxA4"
+    },
+    "2uViqEBQj3k": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 5335,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:12+09:00",
+      "meeting_id": "2026-cab-0623-2uViqE",
+      "published_at": "2026-06-23T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 6월 23일 자막 수정) 제27회 국무회의 겸 제12차 비상경제점검회의",
+      "youtube_id": "2uViqEBQj3k"
+    },
+    "4cLwEz8zTm4": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 9907,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:13+09:00",
+      "meeting_id": "2026-cab-0506-4cLwEz",
+      "published_at": "2026-05-06T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 5월 6일 자막 생중계) 이재명 대통령 제20회 국무회의 겸 제7차 비상경제점검회의",
+      "youtube_id": "4cLwEz8zTm4"
+    },
+    "56VTWKdWaLQ": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 7279,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:16+09:00",
+      "meeting_id": "2026-cab-0324-56VTWK",
+      "published_at": "2026-03-24T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 3월 24일 자막 생중계) 최근 중동 상황 평가 및 대응 방향 | 이재명 대통령 제11회 국무회의",
+      "youtube_id": "56VTWKdWaLQ"
+    },
+    "5DLxn1ybiNY": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:46+09:00",
+      "duration_sec": 8358,
+      "error": null,
+      "kind": "report",
+      "last_checked": "2026-07-21T09:09:17+09:00",
+      "meeting_id": "2026-rpt-0112-5DLxn1",
+      "published_at": "2026-01-12T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.1.12.) 산업통상부 공공기관 [자원·수출 분야] 업무보고",
+      "youtube_id": "5DLxn1ybiNY"
+    },
+    "8p6pXmVYoek": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 6052,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:20+09:00",
+      "meeting_id": "2025-cab-1216-8p6pXm",
+      "published_at": "2025-12-16T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2025년 12월 16일) 이재명 대통령 제54회 국무회의",
+      "youtube_id": "8p6pXmVYoek"
+    },
+    "8wBdu9uItyw": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:05:14+09:00",
+      "duration_sec": 55,
+      "error": "재생시간 55초 — 본회의 아님 (소급 제외)",
+      "kind": "report",
+      "last_checked": "2026-07-21T09:05:16+09:00",
+      "meeting_id": null,
+      "published_at": "2026-07-16T20:31:42+09:00",
+      "retry_count": 0,
+      "source": "rss",
+      "stages": {},
+      "status": "excluded",
+      "title": "잼프의 칭찬은 장관을 춤추게 한다~ 잘한다! 잘한다! 잘한다니까~👏 업무보고 중 장관들의 성과 어필 릴레이 #고용노동부 #국토교통부 #산림청",
+      "youtube_id": "8wBdu9uItyw"
+    },
+    "96DaSsoqmJM": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 6140,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:22+09:00",
+      "meeting_id": "2026-cab-0203-96DaSs",
+      "published_at": "2026-02-03T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 2월 3일 자막 생중계) 이재명 대통령 제4회 국무회의",
+      "youtube_id": "96DaSsoqmJM"
+    },
+    "AO9IYDn6xAg": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 1742,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:24+09:00",
+      "meeting_id": "2025-cab-1223-AO9IYD",
+      "published_at": "2025-12-23T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2025년 12월 23일) 이재명 대통령 제55회 국무회의",
+      "youtube_id": "AO9IYDn6xAg"
+    },
+    "B3JFkXjhjw4": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 4755,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:26+09:00",
+      "meeting_id": "2026-cab-0526-B3JFkX",
+      "published_at": "2026-05-26T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 5월 26일 자막 생중계) 제23회 국무회의 겸 제10차 비상경제점검회의 | 중동 전쟁 관련 비상 국정 운영 및 대응 상황",
+      "youtube_id": "B3JFkXjhjw4"
+    },
+    "CUltdoq_NnU": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:46+09:00",
+      "duration_sec": 7190,
+      "error": null,
+      "kind": "report",
+      "last_checked": "2026-07-21T09:09:28+09:00",
+      "meeting_id": "2026-rpt-0112-CUltdo",
+      "published_at": "2026-01-12T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.1.12.) 보건복지부 소속 국민건강보험공단 등 업무보고",
+      "youtube_id": "CUltdoq_NnU"
+    },
+    "DwvR4wCxPW4": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 6276,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:30+09:00",
+      "meeting_id": "2026-cab-0224-DwvR4w",
+      "published_at": "2026-02-24T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 2월 24일 자막 생중계) 이재명 대통령 제6회 국무회의",
+      "youtube_id": "DwvR4wCxPW4"
+    },
+    "HokLaJPum3U": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 11119,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:32+09:00",
+      "meeting_id": "2026-cab-0602-HokLaJ",
+      "published_at": "2026-06-02T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 6월 2일 자막 수정) 제24회 국무회의 겸 제11차 비상경제점검회의",
+      "youtube_id": "HokLaJPum3U"
+    },
+    "IhS8yHvW8-E": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 9439,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:35+09:00",
+      "meeting_id": "2026-cab-0406-IhS8yH",
+      "published_at": "2026-04-06T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 4월 6일 자막 생중계) 이재명 대통령 제14회 국무회의 겸 제4차 비상경제점검회의",
+      "youtube_id": "IhS8yHvW8-E"
+    },
+    "JNVYRxuKnNk": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 4462,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:37+09:00",
+      "meeting_id": "2025-cab-1209-JNVYRx",
+      "published_at": "2025-12-09T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2025년 12월 9일) 이재명 대통령 제53회 국무회의",
+      "youtube_id": "JNVYRxuKnNk"
+    },
+    "L2JG9hSvWEw": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 4042,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:40+09:00",
+      "meeting_id": "2025-cab-1230-L2JG9h",
+      "published_at": "2025-12-30T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2025년 12월 30일) 이재명 대통령 제56회 국무회의",
+      "youtube_id": "L2JG9hSvWEw"
+    },
+    "L64eg6CC2X4": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:46+09:00",
+      "duration_sec": 7939,
+      "error": null,
+      "kind": "report",
+      "last_checked": "2026-07-21T09:09:42+09:00",
+      "meeting_id": "2026-rpt-0716-L64eg6",
+      "published_at": "2026-07-16T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.7.16.) 국토교통부·행정중심복합도시건설청·새만금개발청·농림축산식품부·산림청·농촌진흥청·해양수산부·해양경찰청 업무보고｜삶으로 체감하는 대체불가 대한민국",
+      "youtube_id": "L64eg6CC2X4"
+    },
+    "LvEXuSgIkZM": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:46+09:00",
+      "duration_sec": 7681,
+      "error": null,
+      "kind": "report",
+      "last_checked": "2026-07-21T09:09:44+09:00",
+      "meeting_id": "2026-rpt-0108-LvEXuS",
+      "published_at": "2026-01-08T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.1.8.) 국민삶에 플러스, 국민이 안전하고 행복한 나라를 만들겠습니다-행정안전부 소속·소방청·소방청 산하기관 업무보고",
+      "youtube_id": "LvEXuSgIkZM"
+    },
+    "_LWZQp7Zz-E": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:46+09:00",
+      "duration_sec": 16047,
+      "error": null,
+      "kind": "report",
+      "last_checked": "2026-07-21T09:09:46+09:00",
+      "meeting_id": "2026-rpt-0113-_LWZQp",
+      "published_at": "2026-01-13T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.1.13.) 문화체육관광부 소속·공공기관 업무보고",
+      "youtube_id": "_LWZQp7Zz-E"
+    },
+    "_t27O7XlfRY": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:46+09:00",
+      "duration_sec": 8440,
+      "error": null,
+      "kind": "report",
+      "last_checked": "2026-07-21T09:09:49+09:00",
+      "meeting_id": "2026-rpt-0716-_t27O7",
+      "published_at": "2026-07-16T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.7.16.) 과학기술정보통신부·우주항공청·방송미디어통신위원회·개인정보보호위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
+      "youtube_id": "_t27O7XlfRY"
+    },
+    "bzrcCSt88CU": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 6921,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:52+09:00",
+      "meeting_id": "2026-cab-0317-bzrcCS",
+      "published_at": "2026-03-17T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 3월 17일 자막 생중계) 최근 중동 상황 평가 및 대응 방향｜이재명 대통령 제10회 국무회의",
+      "youtube_id": "bzrcCSt88CU"
+    },
+    "dZLnc3sgHMo": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 5249,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:54+09:00",
+      "meeting_id": "2026-cab-0630-dZLnc3",
+      "published_at": "2026-06-30T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 6월 30일 자막 수정) 제28회 국무회의 겸 제13차 비상경제점검회의",
+      "youtube_id": "dZLnc3sgHMo"
+    },
+    "djgPd09rn0c": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:46+09:00",
+      "duration_sec": 7478,
+      "error": null,
+      "kind": "report",
+      "last_checked": "2026-07-21T09:09:56+09:00",
+      "meeting_id": "2026-rpt-0113-djgPd0",
+      "published_at": "2026-01-13T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.1.13.) 금융위원회 소속 한국산업은행 등 업무보고",
+      "youtube_id": "djgPd09rn0c"
+    },
+    "gXWij0P7xPk": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 11653,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:09:57+09:00",
+      "meeting_id": "2026-cab-0714-gXWij0",
+      "published_at": "2026-07-14T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.7.14.) 이재명 대통령 제30회 국무회의",
+      "youtube_id": "gXWij0P7xPk"
+    },
+    "imQ8RHurjTc": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:05:14+09:00",
+      "duration_sec": 7367,
+      "error": null,
+      "kind": "report",
+      "last_checked": "2026-07-21T09:05:17+09:00",
+      "meeting_id": "2026-rpt-0716-imQ8RH",
+      "published_at": "2026-07-16T18:29:59+09:00",
+      "retry_count": 0,
+      "source": "rss",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.7.16.) 보건복지부·질병관리청·식품의약품안전처·성평등가족부·국민권익위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
+      "youtube_id": "imQ8RHurjTc"
+    },
+    "kvXX3W0Wb6E": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:46+09:00",
+      "duration_sec": 6967,
+      "error": null,
+      "kind": "report",
+      "last_checked": "2026-07-21T09:10:00+09:00",
+      "meeting_id": "2026-rpt-0114-kvXX3W",
+      "published_at": "2026-01-14T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.1.14.) 과학기술정보통신부 소속 우주, 과학기술원, AI, ICT 기관 업무보고",
+      "youtube_id": "kvXX3W0Wb6E"
+    },
+    "liy_A14_Kco": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:05:14+09:00",
+      "duration_sec": 59,
+      "error": "재생시간 59초 — 본회의 아님 (소급 제외)",
+      "kind": "report",
+      "last_checked": "2026-07-21T09:05:14+09:00",
+      "meeting_id": null,
+      "published_at": "2026-07-17T10:04:06+09:00",
+      "retry_count": 0,
+      "source": "rss",
+      "stages": {},
+      "status": "excluded",
+      "title": "지루한 업무보고는 가라~ 멀리가!💦꿀잼보장 업무보고 등장✨ 부처별 비장의 무기는?!🎬 #이재명 #대통령 #보건복지부 #식약처 #홍보영상",
+      "youtube_id": "liy_A14_Kco"
+    },
+    "mvVDdpyEmrc": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 7889,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:10:02+09:00",
+      "meeting_id": "2026-cab-0414-mvVDdp",
+      "published_at": "2026-04-14T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 4월 14일 자막 생중계) 이재명 대통령 제16회 국무회의 겸 제5차 비상경제점검회의",
+      "youtube_id": "mvVDdpyEmrc"
+    },
+    "nIdLEwH6pSY": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:46+09:00",
+      "duration_sec": 11349,
+      "error": null,
+      "kind": "report",
+      "last_checked": "2026-07-21T09:10:04+09:00",
+      "meeting_id": "2026-rpt-0114-nIdLEw",
+      "published_at": "2026-01-14T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.1.14.) 국토교통부 산하기관 민생·안전 분야 업무보고",
+      "youtube_id": "nIdLEwH6pSY"
+    },
+    "pWre_Dyn9dw": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 7618,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:10:06+09:00",
+      "meeting_id": "2026-cab-0331-pWre_D",
+      "published_at": "2026-03-31T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 3월 31일 자막 생중계) 이재명 대통령 제13회 국무회의",
+      "youtube_id": "pWre_Dyn9dw"
+    },
+    "sPS14B4GNbU": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 3558,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:10:08+09:00",
+      "meeting_id": "2026-cab-0305-sPS14B",
+      "published_at": "2026-03-05T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 3월 5일 자막 생중계) 최근 중동상황  평가 및 대응방향 | 이재명 대통령 제8회 임시 국무회의",
+      "youtube_id": "sPS14B4GNbU"
+    },
+    "usgbZRUi1Us": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:41+09:00",
+      "duration_sec": 5844,
+      "error": null,
+      "kind": "cabinet",
+      "last_checked": "2026-07-21T09:10:10+09:00",
+      "meeting_id": "2026-cab-0210-usgbZR",
+      "published_at": "2026-02-10T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(2026년 2월 10일 자막 생중계) 이재명 대통령 제5회 국무회의",
+      "youtube_id": "usgbZRUi1Us"
+    },
+    "ysUA7rbC9cU": {
+      "caption_source": "auto",
+      "discovered_at": "2026-07-21T09:08:46+09:00",
+      "duration_sec": 10169,
+      "error": null,
+      "kind": "report",
+      "last_checked": "2026-07-21T09:10:12+09:00",
+      "meeting_id": "2026-rpt-0109-ysUA7r",
+      "published_at": "2026-01-09T00:00:00+09:00",
+      "retry_count": 0,
+      "source": "backfill",
+      "stages": {
+        "segment": "done"
+      },
+      "status": "processed",
+      "title": "(26.1.9.) 책임있는 연구, 신뢰받는 정책-연구회 및 연구기관 국무총리 업무보고",
+      "youtube_id": "ysUA7rbC9cU"
+    }
+  }
+}
