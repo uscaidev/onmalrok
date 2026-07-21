@@ -35,6 +35,18 @@
       "input_tokens": 96618,
       "output_tokens": 15192,
       "cost_usd": 0.0547
+    },
+    "backfill_titles": {
+      "calls": 14,
+      "input_tokens": 19920,
+      "output_tokens": 5229,
+      "cost_usd": 0.0154
+    },
+    "agenda_view": {
+      "calls": 4,
+      "input_tokens": 7142,
+      "output_tokens": 2969,
+      "cost_usd": 0.0077
     }
   }
 }

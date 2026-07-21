@@ -1,0 +1,5924 @@
+{
+  "generated_at": "2026-07-21T20:25:03+09:00",
+  "ref_date": "2026-07-21",
+  "fields": [
+    {
+      "id": "economy",
+      "label": "경제·물가",
+      "thread_count": 66
+    },
+    {
+      "id": "livelihood",
+      "label": "민생·복지",
+      "thread_count": 23
+    },
+    {
+      "id": "scitech",
+      "label": "과학기술",
+      "thread_count": 23
+    },
+    {
+      "id": "safety",
+      "label": "안전·재난",
+      "thread_count": 20
+    },
+    {
+      "id": "energy",
+      "label": "에너지·환경",
+      "thread_count": 19
+    },
+    {
+      "id": "security",
+      "label": "외교·안보",
+      "thread_count": 18
+    },
+    {
+      "id": "governance",
+      "label": "행정·개혁",
+      "thread_count": 55
+    },
+    {
+      "id": "etc",
+      "label": "미분류",
+      "thread_count": 27
+    }
+  ],
+  "threads": [
+    {
+      "id": "accelerate-capital-market-laws",
+      "title": "상법·자본시장법 등 입법 속도 제고",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-03-17"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 2929,
+        "quote": "우리 상법이나 관련 입법들 좀 속도를 좀 내게 좀 해 주세요."
+      },
+      "latest": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 2929
+      }
+    },
+    {
+      "id": "accelerate-economic-recovery",
+      "title": "민생·경제 회복 가속화 방안 마련",
+      "stage": "order",
+      "field_ids": [
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 68,
+        "quote": "민생·경제 회복에 박차를 가해 주시기 바랍니다"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 68
+      }
+    },
+    {
+      "id": "accelerate-korail-sr-integration",
+      "title": "코레일·SR 통합 약속 이행 신속화",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-03-17"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 5259,
+        "quote": "최대한 신속하게 원래 우리 약속한 것이기도 하고"
+      },
+      "latest": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 5259
+      }
+    },
+    {
+      "id": "accelerate-renewable-transition",
+      "title": "화석연료 중심 산업의 재생에너지 전환 가속화",
+      "stage": "order",
+      "field_ids": [
+        "energy"
+      ],
+      "node_dates": [
+        "2026-04-06"
+      ],
+      "seed": {
+        "date": "2026-04-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 532,
+        "quote": "화석 연료 중심의 산업 체계를 과감하게 그리고 신속하게 전환해야 되겠습니다."
+      },
+      "latest": {
+        "date": "2026-04-06",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 532
+      }
+    },
+    {
+      "id": "accelerate-solar-wind-income",
+      "title": "햇빛·바람 소득 관련 부처 속도 관리",
+      "stage": "progress",
+      "field_ids": [
+        "energy"
+      ],
+      "node_dates": [
+        "2026-02-03",
+        "2026-02-10",
+        "2026-02-24",
+        "2026-02-24",
+        "2026-02-24",
+        "2026-03-24",
+        "2026-07-14"
+      ],
+      "seed": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 5653,
+        "quote": "행안부 그다음에 농림부 농식품부 이것도 속도를 좀 챙겨 주시기 바라고요"
+      },
+      "latest": {
+        "date": "2026-07-14",
+        "speaker": "산림청장",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0714-gXWij0",
+        "youtube_id": "gXWij0P7xPk",
+        "t": 1191
+      }
+    },
+    {
+      "id": "activate-debt-restructuring",
+      "title": "채무조정 실효적 활성화",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-04-06"
+      ],
+      "seed": {
+        "date": "2026-04-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 3050,
+        "quote": "조정이 실제로 활성화되는 게 중요한데"
+      },
+      "latest": {
+        "date": "2026-04-06",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 3050
+      }
+    },
+    {
+      "id": "activate-system",
+      "title": "시스템 가동 지시 이행",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-04-06"
+      ],
+      "seed": {
+        "date": "2026-04-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 2212,
+        "quote": "그렇게 시스템을 좀 가동하도록 그렇게 지시하겠습니다."
+      },
+      "latest": {
+        "date": "2026-04-06",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 2212
+      }
+    },
+    {
+      "id": "actively-manage-security-policy",
+      "title": "한반도 정세 등 안보 상황 적극 관리",
+      "stage": "order",
+      "field_ids": [
+        "security"
+      ],
+      "node_dates": [
+        "2026-03-05"
+      ],
+      "seed": {
+        "date": "2026-03-05",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 3425,
+        "quote": "각 부처에서...국민들이 불안하지 않게...한반도 정세나 안보 상황이 불안정하게 되지 않도록 적극적으로 좀 "
+      },
+      "latest": {
+        "date": "2026-03-05",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 3425
+      }
+    },
+    {
+      "id": "adjust-palace-safety-management",
+      "title": "궁궐 무료개방 관련 안전관리 문체부 협의",
+      "stage": "order",
+      "field_ids": [
+        "safety"
+      ],
+      "node_dates": [
+        "2026-03-31"
+      ],
+      "seed": {
+        "date": "2026-03-31",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 7540,
+        "quote": "무료 개방에 대한 이야기도 ... 문체부와 상의하면서 하겠습니다"
+      },
+      "latest": {
+        "date": "2026-03-31",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 7540
+      }
+    },
+    {
+      "id": "ai-drone-military-adoption-accelerate",
+      "title": "인공지능·드론 군 도입 가속화",
+      "stage": "order",
+      "field_ids": [
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-05-26"
+      ],
+      "seed": {
+        "date": "2026-05-26",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 616,
+        "quote": "인공지능과 드론 기술 도입을 가속화하고"
+      },
+      "latest": {
+        "date": "2026-05-26",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 616
+      }
+    },
+    {
+      "id": "ai-generated-content-labeling",
+      "title": "AI창작물 표시제도 법제 정비",
+      "stage": "order",
+      "field_ids": [
+        "scitech",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 2716,
+        "quote": "인공지능으로 만든 가짜 그림...표시하는 그 법제를 지금 어 추진하고 있고"
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 2716
+      }
+    },
+    {
+      "id": "ai-safety-inspection",
+      "title": "AI·첨단장비 활용 안전점검 도입",
+      "stage": "plan",
+      "field_ids": [
+        "scitech",
+        "safety"
+      ],
+      "node_dates": [
+        "2026-01-14",
+        "2026-01-20",
+        "2026-02-10",
+        "2026-02-24",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-10",
+        "2026-05-06",
+        "2026-05-06",
+        "2026-05-26",
+        "2026-06-02",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-01-14",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0114-nIdLEw",
+        "youtube_id": "nIdLEwH6pSY",
+        "t": 8768,
+        "quote": "최대한 AI 또 첨단 장비를 활용한 그런 안전 점검이 좀 필요하다고 보고요"
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "국민참여단 조남원",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 7187
+      }
+    },
+    {
+      "id": "airport-demand-impact-survey",
+      "title": "인천공항 유입 외국인 지방이동 수요 파악",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-01-14"
+      ],
+      "seed": {
+        "date": "2026-01-14",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0114-nIdLEw",
+        "youtube_id": "nIdLEwH6pSY",
+        "t": 3981,
+        "quote": "인천공항에 들어오는 외국인들이 지방으로 가는 게 어느 정도 수요에서 형성되는지에 대한 좀 수요 파악을 정확히"
+      },
+      "latest": {
+        "date": "2026-01-14",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0114-nIdLEw",
+        "youtube_id": "nIdLEwH6pSY",
+        "t": 3981
+      }
+    },
+    {
+      "id": "alternative-to-labor-detention",
+      "title": "노역장 수형자 사회봉사 대체 권장",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-06-02"
+      ],
+      "seed": {
+        "date": "2026-06-02",
+        "speaker": "대통령",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 2785,
+        "quote": "노역장 유치자 중에서 사회봉사로 좀 대체할 수 있도록 한 그런 방안 저희들이 적극 좀 권장하고 있습니다."
+      },
+      "latest": {
+        "date": "2026-06-02",
+        "speaker": "대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 2785
+      }
+    },
+    {
+      "id": "basic-public-goods-list",
+      "title": "기본공공물품 목록화",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-10"
+      ],
+      "seed": {
+        "date": "2026-03-10",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0310-2B4Fqs",
+        "youtube_id": "2B4Fqs2bxA4",
+        "t": 4053,
+        "quote": "기본 공공 물품이어서 그런 리스트를 한번 별도로 정리해 볼 필요가 있는 거 같아요."
+      },
+      "latest": {
+        "date": "2026-03-10",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0310-2B4Fqs",
+        "youtube_id": "2B4Fqs2bxA4",
+        "t": 4053
+      }
+    },
+    {
+      "id": "bereaved-support-measures",
+      "title": "유가족 지원 대책 마련",
+      "stage": "plan",
+      "field_ids": [
+        "economy",
+        "livelihood"
+      ],
+      "node_dates": [
+        "2025-12-30",
+        "2026-01-08",
+        "2026-01-08",
+        "2026-01-08",
+        "2026-03-10",
+        "2026-04-06",
+        "2026-04-14",
+        "2026-07-14",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2025-12-30",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2025-cab-1230-L2JG9h",
+        "youtube_id": "L2JG9hSvWEw",
+        "t": 103,
+        "quote": "유가족들에 대한 지원 대책도 세심하게 살펴봐 주시기 바랍니다"
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": null,
+        "rel_label": "업계 지원대책 질의",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 244
+      }
+    },
+    {
+      "id": "block-fake-news-price-manipulation",
+      "title": "가짜뉴스·시세조작 범죄 차단",
+      "stage": "plan",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-03-05",
+        "2026-04-06"
+      ],
+      "seed": {
+        "date": "2026-03-05",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 109,
+        "quote": "가짜 뉴스나 또 시세 조작 같은 범죄 행위도 철저하게 차단하기 바랍니다"
+      },
+      "latest": {
+        "date": "2026-04-06",
+        "speaker": "정은경 보건복지부 장관",
+        "rel_label": "유통 질서 단속 계획 보고",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 96
+      }
+    },
+    {
+      "id": "bold-investment-planning",
+      "title": "과감한 투자 기획",
+      "stage": "plan",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-02-03",
+        "2026-02-10",
+        "2026-03-05",
+        "2026-03-10",
+        "2026-03-17",
+        "2026-03-17",
+        "2026-03-24",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-06-02",
+        "2026-06-23",
+        "2026-07-15",
+        "2026-07-15",
+        "2026-07-15",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 1431,
+        "quote": "과감하게 투자를 하는게 맞죠? 예. 그렇게 하십시오. 기획을 좀 해서."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "과학기술정보통신부 장관",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 6644
+      }
+    },
+    {
+      "id": "boost-and-police-local-tourism",
+      "title": "지방관광 활성화 및 단속",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-01-20"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 8214,
+        "quote": "관광을 늘려...바가지, 불친절 이런 거 하면 안 된다...철저히 단속도 단속"
+      },
+      "latest": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 8214
+      }
+    },
+    {
+      "id": "build-multilateral-security-network",
+      "title": "다자 안보 네트워크 구축",
+      "stage": "order",
+      "field_ids": [
+        "security"
+      ],
+      "node_dates": [
+        "2026-05-26"
+      ],
+      "seed": {
+        "date": "2026-05-26",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 616,
+        "quote": "다자 안보 네트워을 경고하게 구축해야 되겠습니다"
+      },
+      "latest": {
+        "date": "2026-05-26",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 616
+      }
+    },
+    {
+      "id": "cancel-illicit-fuel-sales-license",
+      "title": "가짜 석유 판매 사업 취소",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-03-05"
+      ],
+      "seed": {
+        "date": "2026-03-05",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 1888,
+        "quote": "가짜 석유를 팔거나...그 사업을 한...취소를 시키든지 해가지고 못 하게 해야 되는 거 아닙니까?"
+      },
+      "latest": {
+        "date": "2026-03-05",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 1888
+      }
+    },
+    {
+      "id": "check-heat-shelter-hours",
+      "title": "무더위쉼터 운영시간 확대 점검",
+      "stage": "order",
+      "field_ids": [
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 915,
+        "quote": "무더위 쉼터 운영 시간을 ... 확대하는 방안이 있을지 한번 점검해 주기 바랍니다."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 915
+      }
+    },
+    {
+      "id": "check-supply-risk-items",
+      "title": "수급 우려 품목 포괄적 점검",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-24"
+      ],
+      "seed": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 93,
+        "quote": "각 부처는 수급 우려 품목을 포괄적이고 꼼꼼하게 점검하시고"
+      },
+      "latest": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 93
+      }
+    },
+    {
+      "id": "collect-diaspora-contacts",
+      "title": "재외국민·재외동포 연락처 확보 및 정보서비스",
+      "stage": "order",
+      "field_ids": [
+        "security"
+      ],
+      "node_dates": [
+        "2026-06-02"
+      ],
+      "seed": {
+        "date": "2026-06-02",
+        "speaker": "대통령",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 7630,
+        "quote": "재외국민·재외동포들의 연락처도 좀 확보하고 필요한 뭐 정보 서비스도 좀 제공하고"
+      },
+      "latest": {
+        "date": "2026-06-02",
+        "speaker": "대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 7630
+      }
+    },
+    {
+      "id": "collect-review-viewer-feedback",
+      "title": "시청자 건의·의견 수집 및 점검",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0716-imQ8RH",
+        "youtube_id": "imQ8RHurjTc",
+        "t": 7302,
+        "quote": "실질적인 건의 지적이나 의견이 있는 거는 다 수집해서 각 기관들이 나눠서 점검하도록 하십시오."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0716-imQ8RH",
+        "youtube_id": "imQ8RHurjTc",
+        "t": 7302
+      }
+    },
+    {
+      "id": "combat-misinformation",
+      "title": "가짜뉴스·허위정보 대응",
+      "stage": "order",
+      "field_ids": [
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 882,
+        "quote": "가짜 뉴스 ... 명백한 허위 사실을 정말로 그럴 듯하게 퍼뜨려서"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 882
+      }
+    },
+    {
+      "id": "compensate-based-on-production-cost",
+      "title": "생산원가 기준 보전 검토",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-24"
+      ],
+      "seed": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 2124,
+        "quote": "생산 원가 기준으로 기업들이 손해를 안 보는 네. 걸로 그렇게 좀 해 주면"
+      },
+      "latest": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 2124
+      }
+    },
+    {
+      "id": "confirm-bid-bond-implementation",
+      "title": "입찰 보증금 제도 시행 여부 확인",
+      "stage": "plan",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-15",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 3637,
+        "quote": "페이퍼 컴퍼니들 낙 입찰 보증금 내는 제도는 시행하고 있습니까?...8월부터 시행할 예정입니다."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "식품의약품안전처장",
+        "rel_label": "시행 일정·지원 계획 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 265
+      }
+    },
+    {
+      "id": "connect-enforcement-decree-law",
+      "title": "시행령 중심 조치 추진",
+      "stage": "progress",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-02-03",
+        "2026-02-10",
+        "2026-02-10",
+        "2026-02-10",
+        "2026-02-24",
+        "2026-02-24",
+        "2026-02-24",
+        "2026-02-24",
+        "2026-03-10",
+        "2026-03-10",
+        "2026-03-10",
+        "2026-03-10",
+        "2026-03-24",
+        "2026-03-24",
+        "2026-03-24",
+        "2026-03-31",
+        "2026-03-31",
+        "2026-03-31",
+        "2026-04-06",
+        "2026-04-14",
+        "2026-04-14",
+        "2026-04-14",
+        "2026-05-06",
+        "2026-05-26",
+        "2026-05-26",
+        "2026-05-26",
+        "2026-06-02",
+        "2026-06-02",
+        "2026-06-02",
+        "2026-06-02",
+        "2026-06-02",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-15",
+        "2026-07-15",
+        "2026-07-15",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-21",
+        "2026-07-21",
+        "2026-07-21",
+        "2026-07-21",
+        "2026-07-21",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 2368,
+        "quote": "이번에는 시간이 좀 짧기 때문에 시행령으로 하고"
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 7835
+      }
+    },
+    {
+      "id": "consider-award-minagri",
+      "title": "농식품부 표창·포상 검토",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-14"
+      ],
+      "seed": {
+        "date": "2026-07-14",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0714-gXWij0",
+        "youtube_id": "gXWij0P7xPk",
+        "t": 5444,
+        "quote": "나중에 저기 총리님 보셔 가지고 그 표창을 하든지 포상을 하든지 한번 해 보시죠"
+      },
+      "latest": {
+        "date": "2026-07-14",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0714-gXWij0",
+        "youtube_id": "gXWij0P7xPk",
+        "t": 5444
+      }
+    },
+    {
+      "id": "consider-emergency-measures",
+      "title": "수출 통제 포함 비상 전력·원자력 가동 확대 방안 검토",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "energy"
+      ],
+      "node_dates": [
+        "2026-03-17"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 136,
+        "quote": "필요하다면 수출 통제도 검토하고 어, 원자력 발전소에 가동을 늘린다든지 이런 비상 대책도 강구해야 되겠습니다"
+      },
+      "latest": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 136
+      }
+    },
+    {
+      "id": "consider-technical-judges",
+      "title": "기술전공자 기술전문 판사 임용 제도 도입 검토",
+      "stage": "plan",
+      "field_ids": [
+        "scitech",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-05-26"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 8432,
+        "quote": "기술 전공한 사람들이 기술 판사로 임용돼서...도입해 달라는 게 업계 요구입니다."
+      },
+      "latest": {
+        "date": "2026-05-26",
+        "speaker": null,
+        "rel_label": "해양수도권 기업유치·국제법원 추진 보",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 216
+      }
+    },
+    {
+      "id": "consolidate-sme-policies",
+      "title": "중소기업 정책 통합·축소로 규모화 추진 방안",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-17"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 4157,
+        "quote": "중기부의 모든 방향들은 많이 하는 것보다는 다 줄여서 통합해서 좀 하나로 좀 규모가 있게 하는 걸로"
+      },
+      "latest": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 4157
+      }
+    },
+    {
+      "id": "consult-signage-language-change",
+      "title": "현판 표기 변경에 대한 의견수렴 절차 마련",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-01-20"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 8755,
+        "quote": "앞으로 의견 수령을 좀 거쳐 나가도록 하겠습니다."
+      },
+      "latest": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 8755
+      }
+    },
+    {
+      "id": "coordinate-financial-agencies",
+      "title": "금융위·기재부·행안부 공동 협의 지침 마련",
+      "stage": "plan",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-24",
+        "2026-04-06",
+        "2026-04-14",
+        "2026-04-14",
+        "2026-05-06",
+        "2026-05-26",
+        "2026-06-02",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-07-15",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 4992,
+        "quote": "작은 부분은 금융위하고 기획재정부하고 행안부가 같이 좀 더 어 협의하시면 좋을 것 같습니다"
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "과학기술정보통신부 장관",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 6644
+      }
+    },
+    {
+      "id": "criminal-investigation-accountability",
+      "title": "형사수사 실시 및 책임 규명 조치",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 807,
+        "quote": "형사적으로 문제되는 부분들은 다 정확하게 수사하고 밝혀서 책임을 물어야 될 것 같습니다"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 807
+      }
+    },
+    {
+      "id": "daily-supply-monitoring",
+      "title": "정부 부처별 1일 단위 수급 동향 세밀 모니터링",
+      "stage": "plan",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-31",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-04-14",
+        "2026-04-14",
+        "2026-05-26",
+        "2026-06-02",
+        "2026-06-23",
+        "2026-06-30"
+      ],
+      "seed": {
+        "date": "2026-03-31",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 87,
+        "quote": "정부 각 부처는 담당 품목의 동향을 1일 단위로 세밀하게 모니터링하고"
+      },
+      "latest": {
+        "date": "2026-06-30",
+        "speaker": "에너지 보고",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0630-dZLnc3",
+        "youtube_id": "dZLnc3sgHMo",
+        "t": 1599
+      }
+    },
+    {
+      "id": "data-protection-utilization-balance",
+      "title": "개인정보 보호와 데이터 활용의 균형관리 방안 마련",
+      "stage": "order",
+      "field_ids": [
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 449,
+        "quote": "보호도 잘하면서 활용도 잘할 수 있게 하는 그러려면... 잘 챙겨 주기 바랍니다."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 449
+      }
+    },
+    {
+      "id": "dawon-sys-contract-explanation",
+      "title": "다원시스 납품 지연 관련 3차 계약 경위 설명",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-01-14"
+      ],
+      "seed": {
+        "date": "2026-01-14",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0114-nIdLEw",
+        "youtube_id": "nIdLEwH6pSY",
+        "t": 7604,
+        "quote": "납품 지연이 있음에도 불구하고 3차 계약을 진행했거든요...그 문제에 대한 말씀을 좀 해 주셔야겠어요"
+      },
+      "latest": {
+        "date": "2026-01-14",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0114-nIdLEw",
+        "youtube_id": "nIdLEwH6pSY",
+        "t": 7604
+      }
+    },
+    {
+      "id": "defense-rnd-budget-increase",
+      "title": "방산 연구개발 예산의 지속적 확대 추진",
+      "stage": "order",
+      "field_ids": [
+        "scitech",
+        "security"
+      ],
+      "node_dates": [
+        "2026-05-26"
+      ],
+      "seed": {
+        "date": "2026-05-26",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 616,
+        "quote": "연구 개발 예산의 지속적인 확대"
+      },
+      "latest": {
+        "date": "2026-05-26",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 616
+      }
+    },
+    {
+      "id": "define-gmo-labeling-format",
+      "title": "GMO 표시 방식 및 글자 크기 규정 마련",
+      "stage": "order",
+      "field_ids": [
+        "energy"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 3763,
+        "quote": "표시도 어떻게 해라는 걸 정의해야 되겠죠...12포인트 이상으로 하게 됩니다."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 3763
+      }
+    },
+    {
+      "id": "develop-citizen-invested-infra",
+      "title": "국민참여형 인프라 투자 발굴 확대",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-17"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 4981,
+        "quote": "국민들이 참여할 수 있게 해 주면... 최대한 많이 발굴해서 합시다."
+      },
+      "latest": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 4981
+      }
+    },
+    {
+      "id": "develop-regional-incentive-index",
+      "title": "지방 인센티브 지수 개발 추진",
+      "stage": "plan",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-05-26",
+        "2026-05-26"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 1236,
+        "quote": "이 지수 개발은 하고 있어요. 행안부가 하고 있을 것 같은데."
+      },
+      "latest": {
+        "date": "2026-05-26",
+        "speaker": "해양수산부 장관",
+        "rel_label": "5극 3특 추진 취지 설명 보고",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 31
+      }
+    },
+    {
+      "id": "diaspora-communication-platform",
+      "title": "재외동포 DB 통합 소통 플랫폼 구축",
+      "stage": "order",
+      "field_ids": [
+        "security"
+      ],
+      "node_dates": [
+        "2026-06-02"
+      ],
+      "seed": {
+        "date": "2026-06-02",
+        "speaker": "대통령",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 7630,
+        "quote": "현재 동포 DB 구축이나 커뮤니티 지원과 통합 플랫폼 구축하면 아마 훨씬 더 소통이나 이런 체계들이 좀 잡혀"
+      },
+      "latest": {
+        "date": "2026-06-02",
+        "speaker": "대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 7630
+      }
+    },
+    {
+      "id": "distribute-useful-video-comments",
+      "title": "영상 유용 발언 선별 후 각 부처 분배",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 7018,
+        "quote": "필요한 유용한 얘기들은 잘 체크해서 각 부처로 나눠 주든지"
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 7018
+      }
+    },
+    {
+      "id": "diversify-supply-chains",
+      "title": "에너지·원자재 공급망 전략적 다변화",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "energy"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 68,
+        "quote": "에너지·원자재 공급망의 전략적인 다변화"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 68
+      }
+    },
+    {
+      "id": "energy-coop-staffing-review",
+      "title": "에너지협동조합 인력 데려오기 검토",
+      "stage": "plan",
+      "field_ids": [
+        "energy",
+        "governance"
+      ],
+      "node_dates": [
+        "2025-12-16",
+        "2026-01-08",
+        "2026-01-08",
+        "2026-01-12",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-03-05",
+        "2026-03-17",
+        "2026-03-31"
+      ],
+      "seed": {
+        "date": "2025-12-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2025-cab-1216-8p6pXm",
+        "youtube_id": "8p6pXmVYoek",
+        "t": 2387,
+        "quote": "그 아예 데려다가 한번 쓰든지 그것도 검토해 보십시오"
+      },
+      "latest": {
+        "date": "2026-03-31",
+        "speaker": "보건복지부 장관",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 1833
+      }
+    },
+    {
+      "id": "energy-supply-diversification",
+      "title": "에너지 수급 다변화 및 재생에너지 전환 가속",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "energy"
+      ],
+      "node_dates": [
+        "2026-04-06",
+        "2026-06-02"
+      ],
+      "seed": {
+        "date": "2026-04-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 532,
+        "quote": "관계부처는 에너지 수급 다변화와 재생 에너지 중심의 에너지 대전환에도 속도를 내야 되겠습니다."
+      },
+      "latest": {
+        "date": "2026-06-02",
+        "speaker": "기상청장",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 8909
+      }
+    },
+    {
+      "id": "enhance-data-office-role",
+      "title": "데이터처 업무보·역할 강화",
+      "stage": "order",
+      "field_ids": [
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 4481,
+        "quote": "데이터처를 첫번째 업무보로 별도로 좀 받고...데이터 역할을 좀 더 강화하도록 하시죠."
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 4481
+      }
+    },
+    {
+      "id": "ensure-administrative-recovery-report",
+      "title": "행정복구 및 관계부처 보고 관리",
+      "stage": "plan",
+      "field_ids": [
+        "safety",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-03-17",
+        "2026-03-24",
+        "2026-03-24",
+        "2026-03-31",
+        "2026-04-06",
+        "2026-05-06",
+        "2026-05-06",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 6232,
+        "quote": "좀 각별히 신경 써 주시기 바랍니다."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "농림축산식품부 장관",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 4137
+      }
+    },
+    {
+      "id": "ensure-service-charge-transparency",
+      "title": "관리비 내역 공개 및 부당징수 차단",
+      "stage": "progress",
+      "field_ids": [
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-02-24",
+        "2026-03-05",
+        "2026-04-06"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 5904,
+        "quote": "관리비 내역을 요청할 수 있다...바가지 씌우는 건 어떻게 하기로 했어요?"
+      },
+      "latest": {
+        "date": "2026-04-06",
+        "speaker": "정은경 보건복지부 장관",
+        "rel_label": "수급 관리 중간 경과 보고",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 96
+      }
+    },
+    {
+      "id": "ensure-transparency-sculpture-permits",
+      "title": "인허가 절차 투명·공정한 설명 확보",
+      "stage": "result",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-02-10",
+        "2026-02-10",
+        "2026-03-05",
+        "2026-03-10",
+        "2026-03-31",
+        "2026-03-31",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 8844,
+        "quote": "인허가 절차에 대해서는...최대한 투명하게 공정하게...납득할 수 있게 잘 설명하는게 중요합니다."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": null,
+        "rel_label": "지시 이행 결과 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 380
+      }
+    },
+    {
+      "id": "eradicate-workplace-abuse",
+      "title": "직장내 갑질 근절 조치",
+      "stage": "order",
+      "field_ids": [
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 1149,
+        "quote": "직장내 갑질이라고 하는 거죠. 이것도 ... 각 부처에"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 1149
+      }
+    },
+    {
+      "id": "essential-goods-monitoring",
+      "title": "필수품 독과점 실태 점검",
+      "stage": "plan",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-10",
+        "2026-04-06",
+        "2026-07-16",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-03-10",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0310-2B4Fqs",
+        "youtube_id": "2B4Fqs2bxA4",
+        "t": 3771,
+        "quote": "각 부처에서는 좀 그런 고민도 해와 주세요."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "기획재정부 장관",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 2312
+      }
+    },
+    {
+      "id": "establish-strict-sanctions",
+      "title": "신속·엄중한 제재 기준 마련",
+      "stage": "plan",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-02-03",
+        "2026-02-24",
+        "2026-03-05",
+        "2026-04-14",
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 3774,
+        "quote": "방법을 좀 찾아서 최대한 신속하게 하십시다. 예. 최대한 어 엄중하게"
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "조달청장",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 3544
+      }
+    },
+    {
+      "id": "expand-ai-education",
+      "title": "일반 국민 대상 AI 교육 확대",
+      "stage": "plan",
+      "field_ids": [
+        "livelihood",
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-03-17",
+        "2026-03-24"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 6632,
+        "quote": "일반 국민들 대상으로도... 교육시키려고"
+      },
+      "latest": {
+        "date": "2026-03-24",
+        "speaker": "과학기술정보통신부 장관",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 6654
+      }
+    },
+    {
+      "id": "expand-bankruptcy-access",
+      "title": "면책 접근성 제고 및 홍보 확대",
+      "stage": "order",
+      "field_ids": [
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-07-14"
+      ],
+      "seed": {
+        "date": "2026-07-14",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0714-gXWij0",
+        "youtube_id": "gXWij0P7xPk",
+        "t": 8557,
+        "quote": "면책될 수 있게 하고 또 그 접근도 쉽게...홍보를 좀 많이 하십시오"
+      },
+      "latest": {
+        "date": "2026-07-14",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0714-gXWij0",
+        "youtube_id": "gXWij0P7xPk",
+        "t": 8557
+      }
+    },
+    {
+      "id": "expand-cyber-vulnerability-checks",
+      "title": "예방적 사이버 취약점 점검 확대",
+      "stage": "order",
+      "field_ids": [
+        "livelihood",
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 1550,
+        "quote": "예방적 차원에서...길이 뚫리는 길이 있나 없나 체크하는 거는...해 줘야 될 것 같기도 하고요."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 1550
+      }
+    },
+    {
+      "id": "expand-debt-collection-staff",
+      "title": "체납관리단 인력 과감한 확대",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-07-15",
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 5203,
+        "quote": "인원을 뽑는데 좀 늘리라는 얘기고...과감하게 좀 많이 뽑으세요."
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 3194
+      }
+    },
+    {
+      "id": "expand-fiscal-disclosure",
+      "title": "모두의 재정 5,009종 공개 확대",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 7566,
+        "quote": "모두의 재정에서는 5,009종까지 확대해서 공개하도록 하겠습니다."
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 7566
+      }
+    },
+    {
+      "id": "expand-food-market-quickly",
+      "title": "푸드마켓 신속 확대 방안 마련",
+      "stage": "plan",
+      "field_ids": [
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-02-03",
+        "2026-02-10"
+      ],
+      "seed": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 4531,
+        "quote": "신속하게 좀 확대하시고요."
+      },
+      "latest": {
+        "date": "2026-02-10",
+        "speaker": "이재명 대통령",
+        "rel_label": "푸드마켓 신속확대 관련 지원 지시",
+        "meeting_id": "2026-cab-0210-usgbZR",
+        "youtube_id": "usgbZRUi1Us",
+        "t": 95
+      }
+    },
+    {
+      "id": "expand-illegal-lending-one-stop",
+      "title": "사금융 원스톱 전담지원 체계 운영",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-05-06"
+      ],
+      "seed": {
+        "date": "2026-05-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 5869,
+        "quote": "한 번만 신고하면 전담자가 지정되어 옆에서 모든 절차를 원스톱으로 지원하는 전담 체계가 가동 중입니다"
+      },
+      "latest": {
+        "date": "2026-05-06",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 5869
+      }
+    },
+    {
+      "id": "expand-investigations-corruption",
+      "title": "부정·부패 수사 필요시 전면적 수행",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 764,
+        "quote": "수사상 필요하면 충분히 다 수사하면 좋겠어요"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 764
+      }
+    },
+    {
+      "id": "expand-overseas-korean-youth-support",
+      "title": "재외동포 청년 모국 정착 지원 및 누리집 접근성 개선",
+      "stage": "plan",
+      "field_ids": [
+        "livelihood",
+        "security"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-06-02"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 5680,
+        "quote": "모국 정착이 재외동포 청년의 현실적인 진로가 되도록 하겠다. 통일부 누리집을 자유롭게 이용할 수 있게 하겠다"
+      },
+      "latest": {
+        "date": "2026-06-02",
+        "speaker": "보훈처 장관",
+        "rel_label": "지시 결과·정책설명 보고",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 43
+      }
+    },
+    {
+      "id": "expand-pumped-storage",
+      "title": "양수발전 대량 확대 추진",
+      "stage": "order",
+      "field_ids": [
+        "energy"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 2584,
+        "quote": "양수 발전도 많이 늘리려고 하고 있습니다"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 2584
+      }
+    },
+    {
+      "id": "expand-transmission-grid",
+      "title": "송전망 확충으로 재생에너지 활용 제고",
+      "stage": "order",
+      "field_ids": [
+        "energy"
+      ],
+      "node_dates": [
+        "2026-03-05"
+      ],
+      "seed": {
+        "date": "2026-03-05",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 2738,
+        "quote": "송전망 부족 때문에...재생에너지는 생산 여력이 있는데도 지금 제대로 쓰지 못하는 상황"
+      },
+      "latest": {
+        "date": "2026-03-05",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 2738
+      }
+    },
+    {
+      "id": "expedite-flood-recovery",
+      "title": "집중호우 피해 복구 신속 추진",
+      "stage": "order",
+      "field_ids": [
+        "safety"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 915,
+        "quote": "피해 복구를 최대한 서둘러 주시기 바랍니다."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 915
+      }
+    },
+    {
+      "id": "expedite-mega-projects",
+      "title": "3대 메가프로젝트 관련 절차 최대한 신속화",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-14"
+      ],
+      "seed": {
+        "date": "2026-07-14",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0714-gXWij0",
+        "youtube_id": "gXWij0P7xPk",
+        "t": 774,
+        "quote": "모든 관련 절차를 최대한 빠르게 진행해 주시기 바랍니다"
+      },
+      "latest": {
+        "date": "2026-07-14",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0714-gXWij0",
+        "youtube_id": "gXWij0P7xPk",
+        "t": 774
+      }
+    },
+    {
+      "id": "expedite-transmission-build",
+      "title": "송배전망 구축 조속 추진",
+      "stage": "plan",
+      "field_ids": [
+        "economy",
+        "energy"
+      ],
+      "node_dates": [
+        "2026-03-17",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 4981,
+        "quote": "송배전망 구축... 이거 빨리 해야 될 거 아닙니까?"
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "보건복지부 장관",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 6065
+      }
+    },
+    {
+      "id": "explain-sanctions-policy",
+      "title": "제재정책 강화 취지 명확한 설명",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 1248,
+        "quote": "명확하게…제재를 강화한다라는 것이고...충분히 설명하면 좋겠어요."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 1248
+      }
+    },
+    {
+      "id": "factory-accident-investigation",
+      "title": "공장사고 원인 철저 조사 및 재발방지 대책 마련",
+      "stage": "order",
+      "field_ids": [
+        "safety"
+      ],
+      "node_dates": [
+        "2026-06-02"
+      ],
+      "seed": {
+        "date": "2026-06-02",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 604,
+        "quote": "관계 당국은 사고 원인을 철저히 조사하고 재발 방지 대책 수립에도 만전을 기해야 되겠습니다."
+      },
+      "latest": {
+        "date": "2026-06-02",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 604
+      }
+    },
+    {
+      "id": "find-and-reward-exemplars",
+      "title": "칭찬 사례 발굴 및 포상 확대",
+      "stage": "progress",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-02-10",
+        "2026-03-24",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 516,
+        "quote": "칭찬 사례 이런 거 좀 많이 발굴하십시오...포상도 좀 하고"
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": null,
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-rpt-0716-L64eg6",
+        "youtube_id": "L64eg6CC2X4",
+        "t": 579
+      }
+    },
+    {
+      "id": "form-private-advisory-panel",
+      "title": "민간 자문단 구성 추진",
+      "stage": "order",
+      "field_ids": [
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 7551,
+        "quote": "민간 자문단 한번 꾸려 보겠습니다."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 7551
+      }
+    },
+    {
+      "id": "foster-advanced-industries",
+      "title": "로봇·우주·K바이오·K방산 등 첨단산업 육성",
+      "stage": "order",
+      "field_ids": [
+        "scitech",
+        "security"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 68,
+        "quote": "로봇, 우주 항공, 또 K바이오, K방산 등 ... 새로운 엔진을 육성해야 됩니다"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 68
+      }
+    },
+    {
+      "id": "fuel-price-response-report",
+      "title": "주유소 유류값 대응방안 및 대응부처 지정 보고",
+      "stage": "plan",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-05",
+        "2026-03-10",
+        "2026-03-10",
+        "2026-03-17",
+        "2026-03-17",
+        "2026-04-06",
+        "2026-04-14",
+        "2026-04-14",
+        "2026-05-06",
+        "2026-05-06",
+        "2026-05-26",
+        "2026-06-02",
+        "2026-06-23",
+        "2026-06-23",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-03-05",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 1533,
+        "quote": "주유소 석유 가격이 하루 만에...요거에 대한 대응 방안과 대응 부처는 어디 어디예요?"
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "농림축산식품부 장관",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 4137
+      }
+    },
+    {
+      "id": "fuel-tax-policy-study",
+      "title": "유류세 대책 연구",
+      "stage": "plan",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-10",
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-03-10",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0310-2B4Fqs",
+        "youtube_id": "2B4Fqs2bxA4",
+        "t": 2076,
+        "quote": "그 연구를 잘 해 보시."
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "경제부총리",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 1604
+      }
+    },
+    {
+      "id": "hoarding-emergency-action",
+      "title": "매점·매석 긴급수거 및 몰수 명령 절차",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-05-06"
+      ],
+      "seed": {
+        "date": "2026-05-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 2186,
+        "quote": "긴급 수거 조치까지 같이 하기 때문에 어떤 그 몰수 전에 이거를 이렇게 옮겨라라고 명령도 같이 할 수 있습니"
+      },
+      "latest": {
+        "date": "2026-05-06",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 2186
+      }
+    },
+    {
+      "id": "holiday-overseas-crowd-management",
+      "title": "명절 해외출장 혼잡 해결 점검",
+      "stage": "plan",
+      "field_ids": [
+        "safety"
+      ],
+      "node_dates": [
+        "2026-01-14",
+        "2026-04-06"
+      ],
+      "seed": {
+        "date": "2026-01-14",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0114-nIdLEw",
+        "youtube_id": "nIdLEwH6pSY",
+        "t": 3070,
+        "quote": "그래서 그거 좀 어떻게 해결이 되지 않느냐? 해결할 수 없느냐? 김원께서 좀 잘 살펴라"
+      },
+      "latest": {
+        "date": "2026-04-06",
+        "speaker": null,
+        "rel_label": "해상 운송·대체로 확보 계획 보고",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 204
+      }
+    },
+    {
+      "id": "holiday-safety-emergency-check",
+      "title": "명절 안전대책 및 비상대응 이중점검",
+      "stage": "plan",
+      "field_ids": [
+        "safety"
+      ],
+      "node_dates": [
+        "2026-02-10",
+        "2026-03-05",
+        "2026-03-10",
+        "2026-04-14",
+        "2026-04-14",
+        "2026-05-06",
+        "2026-06-02"
+      ],
+      "seed": {
+        "date": "2026-02-10",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0210-usgbZR",
+        "youtube_id": "usgbZRUi1Us",
+        "t": 95,
+        "quote": "안전 대책을 철저하게 수립하고 또 ... 비상 대응 체계를 2중 3중으로 철저하게 점검해 주시기 바랍니다"
+      },
+      "latest": {
+        "date": "2026-06-02",
+        "speaker": "질병관리청장",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 8745
+      }
+    },
+    {
+      "id": "impose-sanctions-unfair-pricing",
+      "title": "부당이익 추구 행위에 대한 제재 시행",
+      "stage": "plan",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-03-05",
+        "2026-04-14",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-03-05",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 1698,
+        "quote": "부당하게 좀 이익을 추구하는 행위는 좀 제재하시고요"
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "건설정책국장",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-rpt-0716-L64eg6",
+        "youtube_id": "L64eg6CC2X4",
+        "t": 1282
+      }
+    },
+    {
+      "id": "improve-competition-prosecution",
+      "title": "공정거래 전속고발 제도 개선",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-02-03",
+        "2026-03-31",
+        "2026-03-31",
+        "2026-03-31"
+      ],
+      "seed": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 3435,
+        "quote": "공정 거래 사건은 누군가가 꼭 고발해야 되고 고발 안 하면 수사도 못 하고"
+      },
+      "latest": {
+        "date": "2026-03-31",
+        "speaker": "경찰청장",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 4131
+      }
+    },
+    {
+      "id": "improve-coop-legal-framework",
+      "title": "협동조합 온라인 화상회의 법제 정비",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-04-06"
+      ],
+      "seed": {
+        "date": "2026-04-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 8491,
+        "quote": "온라인 화상 회의를 통해 의사 결정을 할 수 있도록 관련 법 제도를 개선하겠습니다."
+      },
+      "latest": {
+        "date": "2026-04-06",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 8491
+      }
+    },
+    {
+      "id": "improve-presentation-materials",
+      "title": "보고자료 정성·시각화 개선",
+      "stage": "plan",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-02-03",
+        "2026-02-03",
+        "2026-02-24",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-10",
+        "2026-03-17",
+        "2026-03-24",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-05-06",
+        "2026-05-06",
+        "2026-05-06",
+        "2026-05-26",
+        "2026-05-26",
+        "2026-06-02",
+        "2026-06-02",
+        "2026-06-02",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 3333,
+        "quote": "이 자료 좀 정성스럽게 하세요. 그 카메라도 가끔씩 내용을 좀 찍어 주세요."
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 1023
+      }
+    },
+    {
+      "id": "improve-veterans-medical-access",
+      "title": "지역 보훈 진료 접근성 강화",
+      "stage": "plan",
+      "field_ids": [
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-06-02"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 6382,
+        "quote": "집 근처에서 진료받을 수 있도록 보건 의료 접근성을 강화한다."
+      },
+      "latest": {
+        "date": "2026-06-02",
+        "speaker": "보훈처 장관",
+        "rel_label": "지시 결과·정책설명 보고",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 43
+      }
+    },
+    {
+      "id": "include-midlow-credit-evaluation",
+      "title": "중저신용자 포용금융 평가 도입",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-05-06"
+      ],
+      "seed": {
+        "date": "2026-05-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 6090,
+        "quote": "중저신용자에 대한 포용 금융을 얼마만큼 실현했냐를 좀 평가를 해 가지고"
+      },
+      "latest": {
+        "date": "2026-05-06",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 6090
+      }
+    },
+    {
+      "id": "increase-illegal-boat-bond",
+      "title": "불법어선 담보금 대폭 인상",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-02-03"
+      ],
+      "seed": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 4228,
+        "quote": "이거를 다섯 배 정도 올리면 상당한 제재 효과가 있을 것으로"
+      },
+      "latest": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 4228
+      }
+    },
+    {
+      "id": "increase-penalties-prep",
+      "title": "과징금·법정형 상향 정부입법 준비",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-02-03",
+        "2026-02-10",
+        "2026-02-24",
+        "2026-02-24",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-10",
+        "2026-03-10",
+        "2026-03-17",
+        "2026-03-24",
+        "2026-03-24",
+        "2026-03-24",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-04-14",
+        "2026-04-14",
+        "2026-05-06",
+        "2026-05-06",
+        "2026-05-26",
+        "2026-05-26",
+        "2026-06-02",
+        "2026-06-02",
+        "2026-06-02",
+        "2026-06-02",
+        "2026-06-02",
+        "2026-06-23",
+        "2026-06-23",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-15",
+        "2026-07-15",
+        "2026-07-15",
+        "2026-07-15",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 2656,
+        "quote": "법정형을 상향하는 거는 법제처가 좀 준비를 하든지 해 가지고 정부입법으로"
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "보건복지부 실무자",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-rpt-0716-imQ8RH",
+        "youtube_id": "imQ8RHurjTc",
+        "t": 2345
+      }
+    },
+    {
+      "id": "increase-tax-staff",
+      "title": "국세청 세무인력 증원 추진",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 3318,
+        "quote": "필요하면 인력 지금 만 명인데 더 늘려도 돼요...속도를 좀 내서"
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 3318
+      }
+    },
+    {
+      "id": "inspect-aircraft-recovery",
+      "title": "여객기 시신 수습 경과 점검",
+      "stage": "order",
+      "field_ids": [
+        "safety"
+      ],
+      "node_dates": [
+        "2026-03-17"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 853,
+        "quote": "이 경과를 잘 좀 챙겨 보세요."
+      },
+      "latest": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 853
+      }
+    },
+    {
+      "id": "inspect-fall-accidents",
+      "title": "추락사고 안전대·사다리 현장점검",
+      "stage": "order",
+      "field_ids": [
+        "safety"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 3630,
+        "quote": "A자형 사다리... 라튼간 좀 챙겨 보세요"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 3630
+      }
+    },
+    {
+      "id": "inspect-similar-sites",
+      "title": "유사장소 안전점검 서둘러 시행",
+      "stage": "order",
+      "field_ids": [
+        "safety"
+      ],
+      "node_dates": [
+        "2026-06-02"
+      ],
+      "seed": {
+        "date": "2026-06-02",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 604,
+        "quote": "다른 유사장소들에 대해서 안전 점검도 서둘러 주길 바랍니다."
+      },
+      "latest": {
+        "date": "2026-06-02",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 604
+      }
+    },
+    {
+      "id": "institutionalize-reforms",
+      "title": "개혁 제도화(입법 중심) 추진",
+      "stage": "progress",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2025-12-30",
+        "2026-01-09",
+        "2026-02-24",
+        "2026-03-10",
+        "2026-03-10",
+        "2026-06-30",
+        "2026-06-30"
+      ],
+      "seed": {
+        "date": "2025-12-30",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2025-cab-1230-L2JG9h",
+        "youtube_id": "L2JG9hSvWEw",
+        "t": 3395,
+        "quote": "개혁을...가급적 제도화하자...가능하면 입법으로 가급적"
+      },
+      "latest": {
+        "date": "2026-06-30",
+        "speaker": null,
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0630-dZLnc3",
+        "youtube_id": "dZLnc3sgHMo",
+        "t": 3314
+      }
+    },
+    {
+      "id": "integrate-mot-agencies-and-discipline",
+      "title": "국토부 기관통합 및 인사조치 단행",
+      "stage": "plan",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 7850,
+        "quote": "기관 통합도 빨리 하시고요...그걸 과감하게 인사 조치하십시오."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "국토교통부 장관",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-rpt-0716-L64eg6",
+        "youtube_id": "L64eg6CC2X4",
+        "t": 324
+      }
+    },
+    {
+      "id": "integrated-grievance-management",
+      "title": "민원 통합관리 방안 마련",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-14"
+      ],
+      "seed": {
+        "date": "2026-07-14",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0714-gXWij0",
+        "youtube_id": "gXWij0P7xPk",
+        "t": 9169,
+        "quote": "이거를 통합 관리 방안을 좀 찾아보세요"
+      },
+      "latest": {
+        "date": "2026-07-14",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0714-gXWij0",
+        "youtube_id": "gXWij0P7xPk",
+        "t": 9169
+      }
+    },
+    {
+      "id": "introduce-ai-legal-advice",
+      "title": "법제처 AI 자문도입 검토",
+      "stage": "order",
+      "field_ids": [
+        "scitech",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-06-02"
+      ],
+      "seed": {
+        "date": "2026-06-02",
+        "speaker": "대통령",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 5235,
+        "quote": "요즘은 이런 거 다 인공지능이 하면 되는 거 아니에요. 물론 최종 검수는 사람이 해야 되겠죠."
+      },
+      "latest": {
+        "date": "2026-06-02",
+        "speaker": "대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 5235
+      }
+    },
+    {
+      "id": "introduce-presumptive-forfeiture",
+      "title": "몰수에 대한 간주·추정 규정 도입",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-02-03",
+        "2026-05-06",
+        "2026-06-02",
+        "2026-06-02",
+        "2026-06-30",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 3105,
+        "quote": "몰수 규정에 대해서 일종이 간주 추정 규정을 만들면 되잖아요"
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 7835
+      }
+    },
+    {
+      "id": "introduce-whistleblower-reward",
+      "title": "신고포상제 도입(과징금의 30% 배분)",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 1310,
+        "quote": "신고 포상제를 대규모로 도입해 가지고 징수된 과징금에 30%쯤 준다."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 1310
+      }
+    },
+    {
+      "id": "investigate-quickly-thoroughly",
+      "title": "수사 기관 신속·철저 조사 실시",
+      "stage": "result",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-02-10",
+        "2026-02-24",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-10",
+        "2026-03-24",
+        "2026-03-31",
+        "2026-03-31",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-04-14",
+        "2026-04-14",
+        "2026-07-15",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 516,
+        "quote": "수사 기관도 철저하게 또 신속하게 조사해서 다시는 이런 일이 생기지 않게 했으면 좋겠습니다."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "산림청장",
+        "rel_label": "지시 이행 결과 보고",
+        "meeting_id": "2026-rpt-0716-L64eg6",
+        "youtube_id": "L64eg6CC2X4",
+        "t": 3908
+      }
+    },
+    {
+      "id": "investigation-system-reform",
+      "title": "진상조사 제도 개선 서둘러 추진",
+      "stage": "plan",
+      "field_ids": [
+        "economy",
+        "livelihood"
+      ],
+      "node_dates": [
+        "2025-12-30",
+        "2026-01-08",
+        "2026-04-14"
+      ],
+      "seed": {
+        "date": "2025-12-30",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2025-cab-1230-L2JG9h",
+        "youtube_id": "L2JG9hSvWEw",
+        "t": 103,
+        "quote": "진상 조사를 위한 제도 개선을 최대한 서둘러 주시고"
+      },
+      "latest": {
+        "date": "2026-04-14",
+        "speaker": "고용노동부 장관",
+        "rel_label": "지시에 대한 추진 내용 보고",
+        "meeting_id": "2026-cab-0414-mvVDdp",
+        "youtube_id": "mvVDdpyEmrc",
+        "t": 60
+      }
+    },
+    {
+      "id": "livestock-biosecurity-deployment",
+      "title": "가축 방역 인력 최대 투입",
+      "stage": "order",
+      "field_ids": [
+        "safety"
+      ],
+      "node_dates": [
+        "2026-02-10"
+      ],
+      "seed": {
+        "date": "2026-02-10",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0210-usgbZR",
+        "youtube_id": "usgbZRUi1Us",
+        "t": 95,
+        "quote": "가축 방역 기관과 해당 지자체의 인력을 최대한 투입해서 집중해 주시기 바랍니다"
+      },
+      "latest": {
+        "date": "2026-02-10",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0210-usgbZR",
+        "youtube_id": "usgbZRUi1Us",
+        "t": 95
+      }
+    },
+    {
+      "id": "maintain-population-decline-pilot",
+      "title": "인구소멸지역 시범사업(지역화폐 지원)",
+      "stage": "plan",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-03-05",
+        "2026-04-06",
+        "2026-07-14",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 6529,
+        "quote": "20개 지역 인구 소멸 지역 20개 지역을 뽑아서...개인은 10만 원을 지역 화폐로 돌려 줍니다."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "방송·미디어통신위원장 김종철",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 7749
+      }
+    },
+    {
+      "id": "manage-interkorean-tensions",
+      "title": "남북 신뢰유지 및 긴장 관리",
+      "stage": "progress",
+      "field_ids": [
+        "security",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-03-17",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 516,
+        "quote": "남북 사이에 이런 신뢰가 깨지지 않도록 ... 최선으로 잘 관리하시기 바랍니다."
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 3194
+      }
+    },
+    {
+      "id": "manage-repeated-accident-sites",
+      "title": "동일 유형 반복사고 사업장 특별관리",
+      "stage": "order",
+      "field_ids": [
+        "livelihood",
+        "safety"
+      ],
+      "node_dates": [
+        "2026-06-02"
+      ],
+      "seed": {
+        "date": "2026-06-02",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 604,
+        "quote": "동일한 사업장 안에서 동일한 유형의 사고가 반복적으로 발생하는 것은 심각한 문제입니다. 특별히 잘 챙겨 주시"
+      },
+      "latest": {
+        "date": "2026-06-02",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 604
+      }
+    },
+    {
+      "id": "market-stability-program-execution",
+      "title": "100조원 시장안정프로그램 신속 집행",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-05"
+      ],
+      "seed": {
+        "date": "2026-03-05",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 109,
+        "quote": "100조원 규모의 시장 안정 프로그램을 적절하게 또 신속하게 집행 관리해 주시 바랍니다"
+      },
+      "latest": {
+        "date": "2026-03-05",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 109
+      }
+    },
+    {
+      "id": "military-part-performance-validation",
+      "title": "중소기업 무기체계 부품 군 성능입증",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "security"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-03-05"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 6136,
+        "quote": "중소기업 무기체계 부품 성능을 군에서 입증해 준다."
+      },
+      "latest": {
+        "date": "2026-03-05",
+        "speaker": "재경부 장관",
+        "rel_label": "경제분야 대응 경과 보고",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 1006
+      }
+    },
+    {
+      "id": "minimize-procurement-corruption",
+      "title": "입찰 비리 최소화 방안 마련",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 3733,
+        "quote": "입찰 비리는 최소화 없게 될 수 있도록 하십시오."
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 3733
+      }
+    },
+    {
+      "id": "mitigate-petroleum-price-impact",
+      "title": "석유제품 가격 충격 완화 방안 마련",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-24"
+      ],
+      "seed": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 2124,
+        "quote": "국민 삶에 미칠 충격을 조금이라도 줄이기 위한 구체적 방안을 신속하게 마련해야 되겠습니다"
+      },
+      "latest": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 2124
+      }
+    },
+    {
+      "id": "national-visitor-group-management",
+      "title": "국민창관단 실무관리체계 마련",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0716-imQ8RH",
+        "youtube_id": "imQ8RHurjTc",
+        "t": 48,
+        "quote": "챙기겠습니다."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0716-imQ8RH",
+        "youtube_id": "imQ8RHurjTc",
+        "t": 48
+      }
+    },
+    {
+      "id": "new-defense-innovation-firms-nurture",
+      "title": "신남보 혁신기업 육성 방안 마련",
+      "stage": "plan",
+      "field_ids": [
+        "economy",
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-05-26",
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-05-26",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 616,
+        "quote": "세계 시장을 선도할 미래 신남보 혁신 기업 육성에도 박찰를 가해야 되겠습니다"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 78
+      }
+    },
+    {
+      "id": "normalize-tax-arrear-management",
+      "title": "체납 관리 정상화 조치 마련",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 3027,
+        "quote": "그걸 반드시 싹 가로...바로 잡아야 됩니다."
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 3027
+      }
+    },
+    {
+      "id": "nuclear-submarine-acquisition-accelerate",
+      "title": "핵추진잠수함 도입 속도 강화",
+      "stage": "order",
+      "field_ids": [
+        "security"
+      ],
+      "node_dates": [
+        "2026-05-26"
+      ],
+      "seed": {
+        "date": "2026-05-26",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 616,
+        "quote": "핵수진 잠수함 도입에 속도를 내야 되겠습니다"
+      },
+      "latest": {
+        "date": "2026-05-26",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 616
+      }
+    },
+    {
+      "id": "oversee-capital-market",
+      "title": "자본시장 정상화·선진화 관리",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 6961,
+        "quote": "자본 시장 정상화 선진화 문제는 중요한 과제니까 잘 챙겨 보십시오."
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 6961
+      }
+    },
+    {
+      "id": "oversee-constitutional-discussion",
+      "title": "헌법 개정 논의 국조실 관리",
+      "stage": "progress",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-03-17",
+        "2026-05-06"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 1329,
+        "quote": "국조실에서 아마 좀 챙겨 가야 될 거라고 생각하고 있습니다."
+      },
+      "latest": {
+        "date": "2026-05-06",
+        "speaker": "국무조정실 국무1차장",
+        "rel_label": "국조실 총괄TF 점검 보고",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 587
+      }
+    },
+    {
+      "id": "parliament-perjury-cases-speed",
+      "title": "국회 위증 고발 사건 신속처리",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-02-10"
+      ],
+      "seed": {
+        "date": "2026-02-10",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0210-usgbZR",
+        "youtube_id": "usgbZRUi1Us",
+        "t": 532,
+        "quote": "국회 위증 고발 사건에 대해서는 ... 신속하게 가려 줘야"
+      },
+      "latest": {
+        "date": "2026-02-10",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0210-usgbZR",
+        "youtube_id": "usgbZRUi1Us",
+        "t": 532
+      }
+    },
+    {
+      "id": "preemptively-handle-disputes",
+      "title": "분쟁 여지 사전 정리·대응",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 7835,
+        "quote": "분쟁의 여지가 있는 부분들은 가급적이면 미리미리 좀 정하시고요."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 7835
+      }
+    },
+    {
+      "id": "preferential-measures-for-regional-firms",
+      "title": "지방기업 우대 및 펀드 매칭 강화",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-17"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 4157,
+        "quote": "지방 관련된 기업들의 사업에는 훨씬 더 가중치를 주고 ... 펀드 구성 부분도 지방하고 매칭 비율도 지방일 "
+      },
+      "latest": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 4157
+      }
+    },
+    {
+      "id": "prepare-broadcast-monitoring",
+      "title": "중계·모니터링 요약 소개 준비",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 1023,
+        "quote": "지금부터 준비를 누가 좀 하세요. 거기에 의미 있는...요약, 중간중간 정리해서 소개할 수 있도록 준비해 주"
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 1023
+      }
+    },
+    {
+      "id": "prepare-consumption-support",
+      "title": "유류세 인하·바우처 등 소비지원",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-17"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 2508,
+        "quote": "유류세를 내리든지 아니면 바우처를 주든지 기타 소비 지원을 해 주든지 해야 될 거 아니에요?"
+      },
+      "latest": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 2508
+      }
+    },
+    {
+      "id": "prepare-demand-reduction-measures",
+      "title": "자동차 5·10부제 등 수요절감 대책",
+      "stage": "order",
+      "field_ids": [
+        "energy"
+      ],
+      "node_dates": [
+        "2026-03-17"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 136,
+        "quote": "에너지 절약 노력의 범사회적 확산을 위해서 필요하면 자동차 5부제 또는 10부제 등 다각도의 수요 절감 대책"
+      },
+      "latest": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 136
+      }
+    },
+    {
+      "id": "prepare-heatwave-measures",
+      "title": "폭염 대비 촘촘한 대응체계 마련",
+      "stage": "order",
+      "field_ids": [
+        "livelihood",
+        "safety"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 915,
+        "quote": "폭염에 대한 대비도 촘촘하게 수립해 주십시오."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 915
+      }
+    },
+    {
+      "id": "prepare-housing-financial-measures",
+      "title": "부동산·금융 대책 준비",
+      "stage": "progress",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-17",
+        "2026-04-14",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 1547,
+        "quote": "그 준비 잘하십시오."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "국무총리",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 8237
+      }
+    },
+    {
+      "id": "prepare-supplementary-budget-guidelines",
+      "title": "추경 예산 추가 확보 지침 마련",
+      "stage": "plan",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-24",
+        "2026-04-06"
+      ],
+      "seed": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 4992,
+        "quote": "그 재정이 부족하면 추경 예산을 더 확보하시고요."
+      },
+      "latest": {
+        "date": "2026-04-06",
+        "speaker": "정은경 보건복지부 장관",
+        "rel_label": "추경·재정 대응 계획 보고",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 96
+      }
+    },
+    {
+      "id": "prepare-worst-case-measures",
+      "title": "최악 가정 대비책 철저 수립·시행",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-03-24"
+      ],
+      "seed": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 93,
+        "quote": "최악의 상황까지 가정한 대비책을 철저하게 수립 시행해 주시기 바랍니다"
+      },
+      "latest": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 93
+      }
+    },
+    {
+      "id": "prevent-corruption-in-prices",
+      "title": "물가 관리상 부패 개입 차단",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 2105,
+        "quote": "중간에서 좀 약간 부패 요소가 끼어들지 않게 최선을 다해서 주시고 합니다."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 2105
+      }
+    },
+    {
+      "id": "price-monitoring-rapid-investigation",
+      "title": "지역 중심 가격모니터링·신속 제재",
+      "stage": "plan",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-03-05",
+        "2026-04-06"
+      ],
+      "seed": {
+        "date": "2026-03-05",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 1698,
+        "quote": "지역들을 중심으로해서 공정이 조사를 시작하면 그 관련한 제재도 신속하게 내릴 수 있습니다"
+      },
+      "latest": {
+        "date": "2026-04-06",
+        "speaker": "정은경 보건복지부 장관",
+        "rel_label": "가격·유통 모니터링 보고",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 96
+      }
+    },
+    {
+      "id": "promote-local-renewables",
+      "title": "마을단위 재생에너지 권장·홍보",
+      "stage": "plan",
+      "field_ids": [
+        "energy"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-02-03",
+        "2026-03-10",
+        "2026-05-06",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 7290,
+        "quote": "재생 에너지로 국민 소득 높이고...마을 단위로 권장을 해야 되니까 홍보도 좀 잘하시고요."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "식품의약품안전처장",
+        "rel_label": "홍보 계획 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 225
+      }
+    },
+    {
+      "id": "promote-paternity-leave",
+      "title": "남성 육아휴직 사용 촉진 방안",
+      "stage": "order",
+      "field_ids": [
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-03-10"
+      ],
+      "seed": {
+        "date": "2026-03-10",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0310-2B4Fqs",
+        "youtube_id": "2B4Fqs2bxA4",
+        "t": 5496,
+        "quote": "한번 살펴보겠습니다. 남성이 안 쓰면..."
+      },
+      "latest": {
+        "date": "2026-03-10",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0310-2B4Fqs",
+        "youtube_id": "2B4Fqs2bxA4",
+        "t": 5496
+      }
+    },
+    {
+      "id": "promote-planning-capability",
+      "title": "국장·과장 기획기능 자체 강화 유도",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 7670,
+        "quote": "국장 과장들이 자기의 기획 기능을 스스로 공부하고...보고을 만들어 낼 수 있도록 계속 좀 유도해 볼 생각입"
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 7670
+      }
+    },
+    {
+      "id": "promote-renewable-transition",
+      "title": "재생에너지 중심 에너지믹스 전환",
+      "stage": "order",
+      "field_ids": [
+        "energy"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 68,
+        "quote": "재생 에너지 중심의 에너지 믹스 탈플라스틱 순환 경제료의 이행을 서둘러야겠습니다"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 68
+      }
+    },
+    {
+      "id": "promote-technology-market",
+      "title": "기술거래 유·무료 영역 구분 활성화",
+      "stage": "plan",
+      "field_ids": [
+        "economy",
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-02-03",
+        "2026-05-26"
+      ],
+      "seed": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 4803,
+        "quote": "공공이나 대들 같이 예를 들면 무상 거래 영역, 유료 거래 영역 이렇게 나눠서 해도 되고도 확대하도록 해 보"
+      },
+      "latest": {
+        "date": "2026-05-26",
+        "speaker": null,
+        "rel_label": "산업·기술 집적화 계획 보고",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 81
+      }
+    },
+    {
+      "id": "public-agency-followup-6months",
+      "title": "6개월 후 공공기관 재점검",
+      "stage": "progress",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2025-12-30",
+        "2026-01-08",
+        "2026-01-09"
+      ],
+      "seed": {
+        "date": "2025-12-30",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2025-cab-1230-L2JG9h",
+        "youtube_id": "L2JG9hSvWEw",
+        "t": 2779,
+        "quote": "6개월 후에 한번 다시 잘 챙겨 볼 테고 총리실에서요"
+      },
+      "latest": {
+        "date": "2026-01-09",
+        "speaker": "국무총리",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-rpt-0109-ysUA7r",
+        "youtube_id": "ysUA7rbC9cU",
+        "t": 101
+      }
+    },
+    {
+      "id": "public-employment-audit",
+      "title": "공공기관 고용관행 일괄 신속점검",
+      "stage": "plan",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-03-10",
+        "2026-05-06",
+        "2026-05-26",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-03-10",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0310-2B4Fqs",
+        "youtube_id": "2B4Fqs2bxA4",
+        "t": 6249,
+        "quote": "어 한 번에 모아 가지고 어 신속하게"
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "국민참여단 조남원",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 7187
+      }
+    },
+    {
+      "id": "public-private-defense-cooperation-strengthen",
+      "title": "민관협력 방산체계 강화",
+      "stage": "order",
+      "field_ids": [
+        "security"
+      ],
+      "node_dates": [
+        "2026-05-26"
+      ],
+      "seed": {
+        "date": "2026-05-26",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 616,
+        "quote": "민관 협력 체계 강화 등을 통해서"
+      },
+      "latest": {
+        "date": "2026-05-26",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 616
+      }
+    },
+    {
+      "id": "pursue-capital-market-reforms",
+      "title": "자본시장 구조개선 신속 도입",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 5478,
+        "quote": "반드시 필요한 조치는 저항이 있더라도 반 신속하게 도입 받도록 하시고요."
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 5478
+      }
+    },
+    {
+      "id": "pursue-diplomatic-supply-talks",
+      "title": "외교 통한 수급 협의 추진",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "security"
+      ],
+      "node_dates": [
+        "2026-03-31",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-04-14",
+        "2026-04-14",
+        "2026-05-06",
+        "2026-05-06",
+        "2026-05-26",
+        "2026-05-26",
+        "2026-06-02",
+        "2026-06-02",
+        "2026-06-23",
+        "2026-06-23",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-07-14",
+        "2026-07-14"
+      ],
+      "seed": {
+        "date": "2026-03-31",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 2165,
+        "quote": "외교 분야에서 우리 정부가 나서서 좀 정리를 해 줘야"
+      },
+      "latest": {
+        "date": "2026-07-14",
+        "speaker": "참석자",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0714-gXWij0",
+        "youtube_id": "gXWij0P7xPk",
+        "t": 5019
+      }
+    },
+    {
+      "id": "pursue-imjeong-preservation-agreement",
+      "title": "임정청사 보존 협의 추진",
+      "stage": "progress",
+      "field_ids": [
+        "security"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-03-05",
+        "2026-03-05"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 2937,
+        "quote": "외교부에서 중국 정부하고 ... 보존 협박이라든지 ... 해 놔야 되지 않습니까?"
+      },
+      "latest": {
+        "date": "2026-03-05",
+        "speaker": "재경부 장관",
+        "rel_label": "경제분야 대응 경과 보고",
+        "meeting_id": "2026-cab-0305-sPS14B",
+        "youtube_id": "sPS14B4GNbU",
+        "t": 1006
+      }
+    },
+    {
+      "id": "pursue-international-film-coproduction",
+      "title": "이탈리아와 국제영화 공동제작 추진",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-01-20"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 6382,
+        "quote": "이탈리아 총리께서 영화 공동제작하자고 그러대요...빨리 좀 한번 해 보시죠."
+      },
+      "latest": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 6382
+      }
+    },
+    {
+      "id": "pursue-multilingual-ai-cooperation",
+      "title": "학습단계 포함 다국어 AI 협력 추진",
+      "stage": "order",
+      "field_ids": [
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 5556,
+        "quote": "처음부터 논의를 해서...학습 단계부터 모델이...언어 그 데이터들이 들어오는 게 좀 좋습니다."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 5556
+      }
+    },
+    {
+      "id": "railcar-replacement-plan",
+      "title": "대규모 철도차량 교체 특별대책 마련",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "safety"
+      ],
+      "node_dates": [
+        "2026-01-14"
+      ],
+      "seed": {
+        "date": "2026-01-14",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0114-nIdLEw",
+        "youtube_id": "nIdLEwH6pSY",
+        "t": 8768,
+        "quote": "별도로...대규모 차량 교체에 따른 특별 그 대책...별도로 작성해서 좀 제출해 주세요"
+      },
+      "latest": {
+        "date": "2026-01-14",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0114-nIdLEw",
+        "youtube_id": "nIdLEwH6pSY",
+        "t": 8768
+      }
+    },
+    {
+      "id": "reassess-and-report-standards",
+      "title": "강도 기준 재검토 및 보고",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 4835,
+        "quote": "강도나 이런 것들 또 다시 한번 검토해서 보고해 주시기 바랍니다."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 4835
+      }
+    },
+    {
+      "id": "redeploy-police-staffing",
+      "title": "생활치환 중심 경찰 인력 전환 추진",
+      "stage": "plan",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-03-31",
+        "2026-05-26"
+      ],
+      "seed": {
+        "date": "2026-03-31",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 5649,
+        "quote": "생활 치환으로 전환할 수 있는 부분은 최대한 전환을 좀 해서"
+      },
+      "latest": {
+        "date": "2026-05-26",
+        "speaker": null,
+        "rel_label": "남부 해양수도권 기업유치 계획 보고",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 81
+      }
+    },
+    {
+      "id": "reflect-crisis-management-items",
+      "title": "성장·위기 관련 최종안 반영",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-03-24"
+      ],
+      "seed": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 4389,
+        "quote": "이번에 배운 내용들을 철저하게 반영한 것들이 하나 좀 들어가면 어떨까 싶습니다"
+      },
+      "latest": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 4389
+      }
+    },
+    {
+      "id": "reform-tax-expenditures",
+      "title": "조세지출·세제감면 정비",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-17"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 2508,
+        "quote": "세금 감면 제도 조세 지출 제도를 정비를 한번 해야 되겠네."
+      },
+      "latest": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 2508
+      }
+    },
+    {
+      "id": "regular-diplomatic-missions-meetings",
+      "title": "재외공관 정기 간담회 개최",
+      "stage": "order",
+      "field_ids": [
+        "security"
+      ],
+      "node_dates": [
+        "2026-06-02"
+      ],
+      "seed": {
+        "date": "2026-06-02",
+        "speaker": "대통령",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 7630,
+        "quote": "정기적으로 재외공관들이 간담회 같은 걸 좀 많이 하면 좋겠어요."
+      },
+      "latest": {
+        "date": "2026-06-02",
+        "speaker": "대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 7630
+      }
+    },
+    {
+      "id": "regular-field-visits",
+      "title": "주간 현장 방문 정례화",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 3630,
+        "quote": "맨날 매주 간다고 했습니다. 매주 가고... 매주 가겠습니다"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 3630
+      }
+    },
+    {
+      "id": "reorganize-overseas-public-offices",
+      "title": "공공기관 해외지사·대사관 관계 재정비",
+      "stage": "plan",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-05-06",
+        "2026-05-26",
+        "2026-05-26",
+        "2026-06-02",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 3333,
+        "quote": "공공기관의 지사들과 대사관과의 관계를 재정비하는 것입니다."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "방송·미디어통신위원장 김종철",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 2606
+      }
+    },
+    {
+      "id": "report-digital-currency",
+      "title": "디지털화폐 별도 보고",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-06-23",
+        "2026-06-30",
+        "2026-07-14",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-21",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 5260,
+        "quote": "디지털 화폐 부분은 나중에 ... 따로 보고 한번 해 주세요"
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 4835
+      }
+    },
+    {
+      "id": "report-suicide-statistics",
+      "title": "4월 자살 통계 확인·통보",
+      "stage": "order",
+      "field_ids": [
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 3493,
+        "quote": "4월 통계 아직 못 봤어요. 확인되는데 저한테 좀 알려 주시고요"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 3493
+      }
+    },
+    {
+      "id": "review-direct-prosecution-rights",
+      "title": "직접고발권 부여 방향 검토",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-03-31",
+        "2026-06-23",
+        "2026-06-23",
+        "2026-07-14",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-03-31",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 4652,
+        "quote": "일단은 직접 고발권을 주는 방향으로 검토하는게 필요할 것 같"
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "성평등가족부 장관",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-rpt-0716-imQ8RH",
+        "youtube_id": "imQ8RHurjTc",
+        "t": 4105
+      }
+    },
+    {
+      "id": "review-frontier-model-development",
+      "title": "프런티어 모델 개발 검토",
+      "stage": "order",
+      "field_ids": [
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 1983,
+        "quote": "우리도 이런 어떤 고도화된 어떤 프런티어 모델 개발에 대한 좀 고민이 필요합니다."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 1983
+      }
+    },
+    {
+      "id": "review-fuel-price-cap",
+      "title": "석유 최고가격제 도입 검토",
+      "stage": "progress",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-06-23",
+        "2026-06-30"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 1582,
+        "quote": "최고 가격제를 ... 어떻게 하는 게 좋은지 검토 중에 있습니다"
+      },
+      "latest": {
+        "date": "2026-06-30",
+        "speaker": "재경부 보고",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0630-dZLnc3",
+        "youtube_id": "dZLnc3sgHMo",
+        "t": 1332
+      }
+    },
+    {
+      "id": "review-gmo-standards",
+      "title": "GMO 기준 심층 검토",
+      "stage": "order",
+      "field_ids": [
+        "energy"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 4804,
+        "quote": "좀 더 심층으로 좀 검토해 가지고 다시 한번 얘기해 보죠."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 4804
+      }
+    },
+    {
+      "id": "review-recovery-of-permits-benefits",
+      "title": "인허가 특혜 회수 시스템 도입 검토",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-01-20"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 8972,
+        "quote": "인허가, 특허...특혜가 많이 주어지는 경우에는 그 일부를 회수하는 시스템을 반드시 고민을 좀 해 주시기 바"
+      },
+      "latest": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 8972
+      }
+    },
+    {
+      "id": "review-renewable-utilization",
+      "title": "선남 해안 재생에너지 활용 방안 검토",
+      "stage": "order",
+      "field_ids": [
+        "energy"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 2584,
+        "quote": "선남 해안 중심으로 일단 재생 에너지를 어떻게 우리가 활용을 할 거냐는 ... 잘 좀 고려해 주시기 바랍니다"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 2584
+      }
+    },
+    {
+      "id": "review-scope-of-prosecution-rights",
+      "title": "직접 고발권 범위 확대 검토",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-03-31"
+      ],
+      "seed": {
+        "date": "2026-03-31",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 4652,
+        "quote": "직접 고발을 할 수 있는 경우를 어느 범위까지 넓힐 거냐 검토"
+      },
+      "latest": {
+        "date": "2026-03-31",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 4652
+      }
+    },
+    {
+      "id": "revise-enforcement-decree-quickly",
+      "title": "시행령 신속 개정",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-02-03",
+        "2026-02-10",
+        "2026-02-24",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-06-02",
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 2836,
+        "quote": "그 빨리 고치십시다 그러면 시행령"
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "관계자",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 2584
+      }
+    },
+    {
+      "id": "roadcorp-safety-reward",
+      "title": "도로공사 안전 실적에 따른 포상 체계 마련",
+      "stage": "plan",
+      "field_ids": [
+        "safety",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-01-14",
+        "2026-02-10",
+        "2026-02-24",
+        "2026-03-05",
+        "2026-04-06",
+        "2026-04-14",
+        "2026-04-14",
+        "2026-07-16",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-01-14",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0114-nIdLEw",
+        "youtube_id": "nIdLEwH6pSY",
+        "t": 4840,
+        "quote": "그 일을 제대로 해는 사람들에게는 정확한 그분에게 포상을 하다거나 응분의 그 상을 줄 수 있도록 해야 된다"
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "개인정보보호위원장",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 811
+      }
+    },
+    {
+      "id": "satellite-imagery-analysis",
+      "title": "전국 위성사진 정기적 확인·분석",
+      "stage": "order",
+      "field_ids": [
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-05-06"
+      ],
+      "seed": {
+        "date": "2026-05-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 4373,
+        "quote": "정기적으로 위성사진을 전 국토에 대해서 찍는 걸로 알고 있는데 주기적으로 확인을 좀 해 봐야 될 것 같은데요"
+      },
+      "latest": {
+        "date": "2026-05-06",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 4373
+      }
+    },
+    {
+      "id": "secure-alternative-supplies",
+      "title": "안정적 추가 대체 공급선 발굴",
+      "stage": "order",
+      "field_ids": [
+        "security"
+      ],
+      "node_dates": [
+        "2026-03-17"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 136,
+        "quote": "외교 역량과 자원을 총동원해서 안정적인 추가 대체 공급선 발굴에 총력을 기울여야 되겠습니다."
+      },
+      "latest": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 136
+      }
+    },
+    {
+      "id": "secure-vulnerable-areas",
+      "title": "취약지역 안전관리 강화",
+      "stage": "order",
+      "field_ids": [
+        "livelihood",
+        "safety"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 915,
+        "quote": "제 취약 지역에 대한 안전 관리에 총력을 다해 주셔야 되겠습니다."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 915
+      }
+    },
+    {
+      "id": "seize-hoarded-goods-early",
+      "title": "매점·매석 물품 초기 압수·몰수 강화",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 2137,
+        "quote": "초기에 그 대상 매점·매석 물품은 아예 압수 몰수를 좀 강하면 좋겠어요."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 2137
+      }
+    },
+    {
+      "id": "select-second-space-center",
+      "title": "제2우주센터 공모에 따른 선정",
+      "stage": "order",
+      "field_ids": [
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 5945,
+        "quote": "지금 8월 6일까지 공모 중이고요. 예. 들어오면 선정할 계획으로 있습니다."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 5945
+      }
+    },
+    {
+      "id": "send-delegation-for-local-talks",
+      "title": "현지 파견을 통한 구체적 협의 추진",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-03-31"
+      ],
+      "seed": {
+        "date": "2026-03-31",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 2165,
+        "quote": "필요하면 현지의 사람들을 좀 보내서라도 좀 구체적 협의나 이런 걸 좀 해 보면 좋을 것 같아요"
+      },
+      "latest": {
+        "date": "2026-03-31",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 2165
+      }
+    },
+    {
+      "id": "service-area-restructuring",
+      "title": "휴게소 신규 경영회사 운영 추진",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-01-14",
+        "2026-03-10",
+        "2026-03-10",
+        "2026-04-06",
+        "2026-04-06",
+        "2026-05-06",
+        "2026-05-26",
+        "2026-05-26",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-01-14",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0114-nIdLEw",
+        "youtube_id": "nIdLEwH6pSY",
+        "t": 5667,
+        "quote": "휴게소 문제...새로운 그 경영회사 만들어서 운영하는 걸로 지금 결정이 됐지 않습니까?"
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": null,
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-rpt-0716-L64eg6",
+        "youtube_id": "L64eg6CC2X4",
+        "t": 1139
+      }
+    },
+    {
+      "id": "shift-to-loan-guarantee-support",
+      "title": "융자·지급보증 중심 지원 전환 지침",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-24"
+      ],
+      "seed": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 4992,
+        "quote": "그거 최소화하고 필요하면은 어쨌든 2차 보전으로 바꾸고 지급보증 그 보증을 하고"
+      },
+      "latest": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 4992
+      }
+    },
+    {
+      "id": "shorten-industrial-accident-procedures",
+      "title": "산재보상 절차 기간 단축 입법 추진",
+      "stage": "progress",
+      "field_ids": [
+        "safety",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-02-10",
+        "2026-02-24",
+        "2026-03-24",
+        "2026-03-31",
+        "2026-04-14",
+        "2026-04-14",
+        "2026-05-26",
+        "2026-06-23",
+        "2026-06-30",
+        "2026-06-30",
+        "2026-06-30"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 7507,
+        "quote": "산재보상 절차 기간을 단축한다...국회한테 가서...빨리빨리 하십시오."
+      },
+      "latest": {
+        "date": "2026-06-30",
+        "speaker": null,
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0630-dZLnc3",
+        "youtube_id": "dZLnc3sgHMo",
+        "t": 3688
+      }
+    },
+    {
+      "id": "startup-regulation-review",
+      "title": "창업 관련 규제 전면 정비",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-02-03"
+      ],
+      "seed": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 117,
+        "quote": "창업 관련 규제 전반을 제로베이스 차원에서 손 볼 필요가 있습니다"
+      },
+      "latest": {
+        "date": "2026-02-03",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0203-96DaSs",
+        "youtube_id": "96DaSsoqmJM",
+        "t": 117
+      }
+    },
+    {
+      "id": "streamline-overseas-mission-staffing",
+      "title": "재외공관 주재관 선발 제도 정비",
+      "stage": "order",
+      "field_ids": [
+        "security",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-01-20"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 4525,
+        "quote": "공공기관 재정비...주제관 선발 제도를 한번 들여다보도록 하겠습니다."
+      },
+      "latest": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 4525
+      }
+    },
+    {
+      "id": "strengthen-annual-meeting-supervision",
+      "title": "주주총회 표결 결과 발표·감독 강화",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 2305,
+        "quote": "표결 결과를 즉시 발표하는게 아니고...그런 부분에 대해서도 감독을 잘해야 될 것 같아요."
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 2305
+      }
+    },
+    {
+      "id": "strengthen-avian-management",
+      "title": "계란·조류 관리 강화",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 5260,
+        "quote": "계란 문제는 매년 반복... 조류도감 관리도 좀 잘해야 될 것 같습니다"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 5260
+      }
+    },
+    {
+      "id": "strengthen-coop-capacity",
+      "title": "협동조합 활동가 교육·역량 강화",
+      "stage": "progress",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-04-06",
+        "2026-04-14",
+        "2026-04-14"
+      ],
+      "seed": {
+        "date": "2026-04-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 8491,
+        "quote": "교육된 훈련된 협동조합 활동가들이 그리 많지 않아서"
+      },
+      "latest": {
+        "date": "2026-04-14",
+        "speaker": null,
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0414-mvVDdp",
+        "youtube_id": "mvVDdpyEmrc",
+        "t": 6917
+      }
+    },
+    {
+      "id": "strengthen-discipline-rewards",
+      "title": "공직자 문책·포상·징계 엄정화",
+      "stage": "plan",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2025-12-16",
+        "2026-01-20",
+        "2026-01-20",
+        "2026-01-20",
+        "2026-02-03",
+        "2026-02-24",
+        "2026-02-24",
+        "2026-02-24",
+        "2026-02-24",
+        "2026-02-24",
+        "2026-03-24",
+        "2026-03-24",
+        "2026-04-14",
+        "2026-05-06"
+      ],
+      "seed": {
+        "date": "2025-12-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2025-cab-1216-8p6pXm",
+        "youtube_id": "8p6pXmVYoek",
+        "t": 5479,
+        "quote": "문책이나 이런 것도 좀 엄정하게 좀 해야 될 것 같습니다"
+      },
+      "latest": {
+        "date": "2026-05-06",
+        "speaker": "이재명 대통령",
+        "rel_label": "감찰 1·2차 계획 보고",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 1270
+      }
+    },
+    {
+      "id": "strengthen-field-inspections",
+      "title": "최고가격제 현장 점검 강화",
+      "stage": "order",
+      "field_ids": [
+        "economy"
+      ],
+      "node_dates": [
+        "2026-03-17"
+      ],
+      "seed": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 136,
+        "quote": "최고 가격제 시행 효과를 보다 충분히 체감하실 수 있도록 현장 점검 강화 등 가용 수단을 총동원해 주시기 바"
+      },
+      "latest": {
+        "date": "2026-03-17",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0317-bzrcCS",
+        "youtube_id": "bzrcCSt88CU",
+        "t": 136
+      }
+    },
+    {
+      "id": "strengthen-land-disposal-duty",
+      "title": "농지 미경작 시 처분 의무 강화",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-05-06"
+      ],
+      "seed": {
+        "date": "2026-05-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 4877,
+        "quote": "걸려서 1년 내에 저기 경작을 안 하거나 계속 경작을 한 번이라도 안 하면 그때는 처분 대상이 된다 이렇게 "
+      },
+      "latest": {
+        "date": "2026-05-06",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 4877
+      }
+    },
+    {
+      "id": "strengthen-local-product-quality-control",
+      "title": "담내품 전수조사 기반 품질관리 강화",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-01-20"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 6221,
+        "quote": "담내품을 ...전수 조사를 했습니다...품질 관리가 덜 된 거 같습니다."
+      },
+      "latest": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 6221
+      }
+    },
+    {
+      "id": "strengthen-national-data-office",
+      "title": "데이터처 권한을 CDO 수준으로 강화",
+      "stage": "order",
+      "field_ids": [
+        "scitech"
+      ],
+      "node_dates": [
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 4209,
+        "quote": "데이터처를 대한민국 데이터 최고 책임자 CDO다. 이렇게 생각하고 업무하셔야 됩니다."
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 4209
+      }
+    },
+    {
+      "id": "strengthen-privacy-penalties",
+      "title": "개인정보 제재금 대폭 인상",
+      "stage": "order",
+      "field_ids": [
+        "scitech",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 1201,
+        "quote": "제재금을 대규모로 좀 대폭 올려 가지고 개인정보 보호 그 비용을 훨씬 초과하게"
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-rpt-0716-_t27O7",
+        "youtube_id": "_t27O7XlfRY",
+        "t": 1201
+      }
+    },
+    {
+      "id": "strengthen-public-agency-management",
+      "title": "부처 책임하 공공기관 관리 강화",
+      "stage": "plan",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2025-12-30",
+        "2026-01-08",
+        "2026-01-08",
+        "2026-01-08",
+        "2026-01-08",
+        "2026-01-13",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-02-03",
+        "2026-04-06",
+        "2026-04-06"
+      ],
+      "seed": {
+        "date": "2025-12-30",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2025-cab-1230-L2JG9h",
+        "youtube_id": "L2JG9hSvWEw",
+        "t": 2779,
+        "quote": "각 부처가 책임지는 거예요...각 소속 산하기관들 또 공공 기관들이 제 역할을 하도록 잘 관리하십시오"
+      },
+      "latest": {
+        "date": "2026-04-06",
+        "speaker": null,
+        "rel_label": "공공기관 역할·관리 보고",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 204
+      }
+    },
+    {
+      "id": "strengthen-renewable-industry-support",
+      "title": "재생에너지 산업 지원 투자 강화",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "energy"
+      ],
+      "node_dates": [
+        "2026-06-23"
+      ],
+      "seed": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 2477,
+        "quote": "재생 에너지 관련된 산업에 대한 지원 투자를 각별히 좀 신경을 써야 될 것 같아요"
+      },
+      "latest": {
+        "date": "2026-06-23",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0623-2uViqE",
+        "youtube_id": "2uViqEBQj3k",
+        "t": 2477
+      }
+    },
+    {
+      "id": "strengthen-sanctions-support-programs",
+      "title": "지원사업 위반 시 강력 제재 조치 강화",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-16",
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-15",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 2758,
+        "quote": "위반했을 때 다음번 사업을 정말 강력하게 못 하게 한다거나 이런 강력한 제재 조치들을 각 부처가 좀 강화하기"
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 5664
+      }
+    },
+    {
+      "id": "strengthen-wildfire-prevention-controls",
+      "title": "입산통제 강화 및 지방정부 공고",
+      "stage": "result",
+      "field_ids": [
+        "safety",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-01-20",
+        "2026-02-10",
+        "2026-06-02",
+        "2026-07-16",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 6733,
+        "quote": "입산 통제를 좀 강화해 그 지방 정부가 할 수 있도록 공고하기로 했고요."
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "산림청장",
+        "rel_label": "지시 이행 결과 보고",
+        "meeting_id": "2026-rpt-0716-L64eg6",
+        "youtube_id": "L64eg6CC2X4",
+        "t": 3908
+      }
+    },
+    {
+      "id": "strengthen-wildfire-prevention",
+      "title": "산불 예방 강화",
+      "stage": "plan",
+      "field_ids": [
+        "safety"
+      ],
+      "node_dates": [
+        "2026-02-10",
+        "2026-06-02",
+        "2026-07-16"
+      ],
+      "seed": {
+        "date": "2026-02-10",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0210-usgbZR",
+        "youtube_id": "usgbZRUi1Us",
+        "t": 95,
+        "quote": "산불 예방에 더 힘써 주시길 바랍니다"
+      },
+      "latest": {
+        "date": "2026-07-16",
+        "speaker": "농촌진흥청장",
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-rpt-0716-L64eg6",
+        "youtube_id": "L64eg6CC2X4",
+        "t": 3802
+      }
+    },
+    {
+      "id": "strict-warlevel-material-control",
+      "title": "요소·헬륨·알루미늄 전시수준 엄격관리",
+      "stage": "order",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-03-31"
+      ],
+      "seed": {
+        "date": "2026-03-31",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 87,
+        "quote": "요소 또 요소수, 헬륨, 알루미늄 등 핵심 원자재 역시도 전시 물자의 준한 수준으로 엄격하게 관리해야"
+      },
+      "latest": {
+        "date": "2026-03-31",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0331-pWre_D",
+        "youtube_id": "pWre_Dyn9dw",
+        "t": 87
+      }
+    },
+    {
+      "id": "structural-safety-inspection",
+      "title": "구조적 안전 근본 점검 및 철저 보완",
+      "stage": "plan",
+      "field_ids": [
+        "safety"
+      ],
+      "node_dates": [
+        "2025-12-30",
+        "2026-01-08",
+        "2026-01-08",
+        "2026-01-13",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-01-20",
+        "2026-01-20",
+        "2026-02-03",
+        "2026-02-10",
+        "2026-02-24",
+        "2026-03-05",
+        "2026-03-05",
+        "2026-03-10",
+        "2026-05-06",
+        "2026-06-30"
+      ],
+      "seed": {
+        "date": "2025-12-30",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2025-cab-1230-L2JG9h",
+        "youtube_id": "L2JG9hSvWEw",
+        "t": 103,
+        "quote": "전 부처는 다시는 이러한 비극이 반복되지 않도록 구조적 안전 문제를 근본부터 점검하고 철저하게 보완해 주시기"
+      },
+      "latest": {
+        "date": "2026-06-30",
+        "speaker": null,
+        "rel_label": "지시에 대한 추진 계획 보고",
+        "meeting_id": "2026-cab-0630-dZLnc3",
+        "youtube_id": "dZLnc3sgHMo",
+        "t": 2321
+      }
+    },
+    {
+      "id": "study-expand-gm-labeling",
+      "title": "간장·식용유 등 표시대상 확대 연구",
+      "stage": "order",
+      "field_ids": [
+        "energy"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 3124,
+        "quote": "그런 소스류에 관해서는 저희가 좀 더 정착을 지금 해 보겠다는 말씀입니다."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 3124
+      }
+    },
+    {
+      "id": "sun-village-training-plan",
+      "title": "햇빛마을 교육방법 집중 연구",
+      "stage": "plan",
+      "field_ids": [
+        "energy"
+      ],
+      "node_dates": [
+        "2025-12-16",
+        "2026-01-08",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-01-14",
+        "2026-01-14"
+      ],
+      "seed": {
+        "date": "2025-12-16",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2025-cab-1216-8p6pXm",
+        "youtube_id": "8p6pXmVYoek",
+        "t": 4151,
+        "quote": "교육할 수 있는 그 방법을 집중적으로 먼저 좀 연구를 해 주시는 게 필요합니다"
+      },
+      "latest": {
+        "date": "2026-01-14",
+        "speaker": "정보통신기획평가원장",
+        "rel_label": "연간 성과·추진과제 보고",
+        "meeting_id": "2026-rpt-0114-kvXX3W",
+        "youtube_id": "kvXX3W0Wb6E",
+        "t": 6039
+      }
+    },
+    {
+      "id": "support-evacuation-oversseas-citizens",
+      "title": "재외국민 단 한명도 방치 없는 귀국 지원",
+      "stage": "plan",
+      "field_ids": [
+        "security"
+      ],
+      "node_dates": [
+        "2026-03-24",
+        "2026-04-06",
+        "2026-07-14"
+      ],
+      "seed": {
+        "date": "2026-03-24",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0324-56VTWK",
+        "youtube_id": "56VTWKdWaLQ",
+        "t": 93,
+        "quote": "하여튼 그런 사람 없게 하십시오. 한 명이라도."
+      },
+      "latest": {
+        "date": "2026-07-14",
+        "speaker": "금융위원장",
+        "rel_label": "채무자 지원 창구 도입 보고",
+        "meeting_id": "2026-cab-0714-gXWij0",
+        "youtube_id": "gXWij0P7xPk",
+        "t": 121
+      }
+    },
+    {
+      "id": "support-security-oriented-supplychain",
+      "title": "소재부품장비 산업안보 전환 지원",
+      "stage": "order",
+      "field_ids": [
+        "security"
+      ],
+      "node_dates": [
+        "2026-01-20"
+      ],
+      "seed": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 6922,
+        "quote": "소재부품 장비를 ...안보 자산으로 접근을 해서 생태계를 강화하자면...지원도 좀 해 주고"
+      },
+      "latest": {
+        "date": "2026-01-20",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0120-1bgJaV",
+        "youtube_id": "1bgJaVy1mco",
+        "t": 6922
+      }
+    },
+    {
+      "id": "traditional-building-civic-campaign",
+      "title": "국토관리원 주관 재래건축 시민운동 결합",
+      "stage": "plan",
+      "field_ids": [
+        "etc"
+      ],
+      "node_dates": [
+        "2026-01-14",
+        "2026-05-26"
+      ],
+      "seed": {
+        "date": "2026-01-14",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-rpt-0114-nIdLEw",
+        "youtube_id": "nIdLEwH6pSY",
+        "t": 10202,
+        "quote": "국토한정관리원에서 그 시민운동 내지는...좀 결합시켜서 해 주기를...꼭 당부드리겠습니다"
+      },
+      "latest": {
+        "date": "2026-05-26",
+        "speaker": null,
+        "rel_label": "남부 해양수도권 계획 요약 보고",
+        "meeting_id": "2026-cab-0526-B3JFkX",
+        "youtube_id": "B3JFkXjhjw4",
+        "t": 81
+      }
+    },
+    {
+      "id": "urge-financial-sector-debt-relief",
+      "title": "금융권 선제적 사전 채무조정 촉구",
+      "stage": "order",
+      "field_ids": [
+        "economy",
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-04-06"
+      ],
+      "seed": {
+        "date": "2026-04-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 3050,
+        "quote": "금융권에서 먼저 사전적 채무 조정들을 많이 해야 되는데요."
+      },
+      "latest": {
+        "date": "2026-04-06",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0406-IhS8yH",
+        "youtube_id": "IhS8yHvW8-E",
+        "t": 3050
+      }
+    },
+    {
+      "id": "use-administrative-discretion",
+      "title": "법률 시행 위한 광범위 행정재량 활용",
+      "stage": "order",
+      "field_ids": [
+        "governance"
+      ],
+      "node_dates": [
+        "2026-07-21"
+      ],
+      "seed": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 7835,
+        "quote": "그 법률에서 ... 그 법률 시행을 위해서 필요한 것은 광범위한 재량을 가지고 원래 할 수 있는 거예요."
+      },
+      "latest": {
+        "date": "2026-07-21",
+        "speaker": "이재명 대통령",
+        "rel_label": "지시",
+        "meeting_id": "2026-cab-0721-bCztV4",
+        "youtube_id": "bCztV423lfc",
+        "t": 7835
+      }
+    },
+    {
+      "id": "valley-maintenance-report",
+      "title": "계곡정비 시안 수립 및 결과보고",
+      "stage": "progress",
+      "field_ids": [
+        "energy",
+        "governance"
+      ],
+      "node_dates": [
+        "2026-05-06",
+        "2026-06-23",
+        "2026-07-14"
+      ],
+      "seed": {
+        "date": "2026-05-06",
+        "speaker": "이재명 대통령",
+        "meeting_id": "2026-cab-0506-4cLwEz",
+        "youtube_id": "4cLwEz8zTm4",
+        "t": 1270,
+        "quote": "계곡 정비도 일정한 시안을 정해서음 체크를 하고 그 결과 보고를 저한테도"
+      },
+      "latest": {
+        "date": "2026-07-14",
+        "speaker": "행정안전부 장관",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-cab-0714-gXWij0",
+        "youtube_id": "gXWij0P7xPk",
+        "t": 9898
+      }
+    },
+    {
+      "id": "vulnerable-household-linkage",
+      "title": "위기가구 관련기관 상호연계 체계 구축",
+      "stage": "progress",
+      "field_ids": [
+        "economy",
+        "livelihood"
+      ],
+      "node_dates": [
+        "2026-06-02",
+        "2026-07-14",
+        "2026-07-14",
+        "2026-07-15"
+      ],
+      "seed": {
+        "date": "2026-06-02",
+        "speaker": "대통령",
+        "meeting_id": "2026-cab-0602-HokLaJ",
+        "youtube_id": "HokLaJPum3U",
+        "t": 2785,
+        "quote": "위기를 촉발한 위험 요인이...빚이나 금융에 대한 부분이면 신용회복위원회...상호 연계하고 있습니다."
+      },
+      "latest": {
+        "date": "2026-07-15",
+        "speaker": "발언자 (요약)",
+        "rel_label": "관련 경과 보고",
+        "meeting_id": "2026-rpt-0715--PQDTo",
+        "youtube_id": "-PQDToDJhEc",
+        "t": 5930
+      }
+    }
+  ],
+  "briefs": [
+    {
+      "window_days": 28,
+      "items": [
+        {
+          "text": "시행령 중심으로 법·제도 정비 추진 흐름: 시행령 중심 조치 추진과 과징금·법정형 상향 정부입법 준비 논의가 각각 활발히 이어짐(발언 26건·마지막 2026-07-21, 발언 25건·마지막 2026-07-16).",
+          "thread_ids": [
+            "connect-enforcement-decree-law",
+            "increase-penalties-prep"
+          ]
+        },
+        {
+          "text": "물가·유류 및 필수품 수급 관리 흐름: 주유소 유류값 대응방안 및 대응부처 지정 보고, 석유 최고가격제 도입 검토, 필수품 독과점 실태 점검과 1일 단위 수급 모니터링 관련 발언들이 이 기간에 이어짐(발언 5건·마지막 2026-07-21, 발언 2건·마지막 2026-06-30, 발언 2건·마지막 2026-07-21, 발언 2건·마지막 2026-06-30).",
+          "thread_ids": [
+            "fuel-price-response-report",
+            "review-fuel-price-cap",
+            "essential-goods-monitoring",
+            "daily-supply-monitoring"
+          ]
+        },
+        {
+          "text": "법집행·조사·제재 관련 강화 흐름: 직접고발권 부여 방향 검토, 수사 기관 신속·철저 조사 실시, 몰수 간주·추정 규정 도입, 지원사업 위반 시 강력 제재 조치 강화 논의가 이어짐(발언 6건·마지막 2026-07-16, 발언 2건·마지막 2026-07-16, 발언 2건·마지막 2026-07-21, 발언 4건·마지막 2026-07-21).",
+          "thread_ids": [
+            "review-direct-prosecution-rights",
+            "investigate-quickly-thoroughly",
+            "introduce-presumptive-forfeiture",
+            "strengthen-sanctions-support-programs"
+          ]
+        },
+        {
+          "text": "행정보고·자료관리 및 관계부처 협의 흐름: 행정복구 및 관계부처 보고 관리, 보고자료 정성·시각화 개선, 금융위·기재부·행안부 공동 협의 지침 마련 관련 발언들이 이 기간에 이어짐(발언 7건·마지막 2026-07-21, 발언 6건·마지막 2026-07-15, 발언 4건·마지막 2026-07-21).",
+          "thread_ids": [
+            "ensure-administrative-recovery-report",
+            "improve-presentation-materials",
+            "coordinate-financial-agencies"
+          ]
+        }
+      ]
+    },
+    {
+      "window_days": 90,
+      "items": [
+        {
+          "text": "시행령(하위법령) 개정과 연계한 조치 추진 관련 논의가 가장 활발했으며, 관련 발언이 35건으로 마지막 발언은 2026-07-21에 이루어졌다.",
+          "thread_ids": [
+            "connect-enforcement-decree-law"
+          ]
+        },
+        {
+          "text": "과징금·법정형 상향을 위한 정부입법 준비가 이어졌고, 해당 스레드에서 34건의 발언이 있으며 마지막 발언은 2026-07-16이다.",
+          "thread_ids": [
+            "increase-penalties-prep"
+          ]
+        },
+        {
+          "text": "연료·유류 관련 대응과 모니터링 논의가 복수로 진행되어 주유소 유류값 대응 및 대응부처 지정 보고(9건, 마지막 2026-07-21), 석유 최고가격제 도입 검토(2건, 마지막 2026-06-30), 필수품 독과점 실태 점검(2건, 마지막 2026-07-21) 등이 동시에 언급되었다.",
+          "thread_ids": [
+            "fuel-price-response-report",
+            "review-fuel-price-cap",
+            "essential-goods-monitoring"
+          ]
+        },
+        {
+          "text": "디지털·첨단기술 관련 보고와 안전점검 도입 논의가 병행되어 디지털화폐 별도 보고(8건, 신규, 마지막 2026-07-21)와 AI·첨단장비 활용 안전점검 도입(7건, 마지막 2026-07-16)이 진행되었다.",
+          "thread_ids": [
+            "report-digital-currency",
+            "ai-safety-inspection"
+          ]
+        }
+      ]
+    },
+    {
+      "window_days": 180,
+      "items": [
+        {
+          "text": "시행령(하위법령) 개정·정비를 중심으로 관련 법·제도 조치들이 동시에 추진되었고, 이와 관련해 시행령 중심 조치 추진·신속 개정 스레드에서 각각 발언이 이어졌다.",
+          "thread_ids": [
+            "connect-enforcement-decree-law",
+            "revise-enforcement-decree-quickly"
+          ]
+        },
+        {
+          "text": "과징금·법정형 상향 등 처벌 강화와 몰수·간주 규정, 제재 기준 마련 등 제재·징계 체계 보완 관련 논의가 여러 스레드에서 진행되었다.",
+          "thread_ids": [
+            "increase-penalties-prep",
+            "introduce-presumptive-forfeiture",
+            "establish-strict-sanctions"
+          ]
+        },
+        {
+          "text": "공공·민간 영역의 수급·물가·재원 대응을 위해 주유소 유류값·필수품·1일 단위 수급 모니터링과 외교적 수급 협의, 금융·재정 부처 공동 협의 지침 마련이 병행되었다.",
+          "thread_ids": [
+            "fuel-price-response-report",
+            "essential-goods-monitoring",
+            "daily-supply-monitoring",
+            "pursue-diplomatic-supply-talks",
+            "coordinate-financial-agencies"
+          ]
+        },
+        {
+          "text": "행정·수사·보고 관리 체계 정비 관련해 행정복구·관계부처 보고 관리, 신속·철저한 수사 지시 및 디지털화폐 별도 보고 등 행정·감사·보고 관행 개선 논의가 이어졌다.",
+          "thread_ids": [
+            "ensure-administrative-recovery-report",
+            "investigate-quickly-thoroughly",
+            "report-digital-currency"
+          ]
+        }
+      ]
+    }
+  ]
+}
