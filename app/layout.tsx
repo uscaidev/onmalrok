@@ -29,6 +29,16 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <footer className={styles.footer}>
           요약·화자 구분·연결 관계는 AI가 생성한 것으로 오류가 있을 수 있습니다. 원문 확인을
           권장합니다. 영상 출처: KTV 국민방송 · 텍스트 출처: korea.kr·유튜브 자동 자막
+          <br />
+          문의사항:{" "}
+          <a
+            className={styles.footerLink}
+            href="https://github.com/uscaidev"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            github.com/uscaidev
+          </a>
         </footer>
       </body>
     </html>

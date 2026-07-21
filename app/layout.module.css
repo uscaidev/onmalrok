@@ -7,3 +7,11 @@
   margin-top: 48px;
   text-align: center;
 }
+
+.footerLink {
+  color: var(--blue);
+}
+
+.footerLink:hover {
+  text-decoration: underline;
+}
