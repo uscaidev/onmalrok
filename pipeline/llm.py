@@ -28,20 +28,20 @@ USAGE_FILE = ROOT / "pipeline" / "usage.json"
 PROMPTS_DIR = ROOT / "pipeline" / "prompts"
 
 
-def _openrouter_key() -> str | None:
+def _get_key(name: str) -> str | None:
     """환경변수 우선, 없으면 Windows 사용자 환경변수(레지스트리)에서 읽는다.
 
     (셸 시작 이후 등록된 변수는 자식 프로세스에 전파되지 않으므로 로컬 실행 대비)
     """
-    key = os.environ.get("OPENROUTER_API_KEY")
+    key = os.environ.get(name)
     if not key:
         try:
             import winreg
             with winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Environment") as h:
-                key = winreg.QueryValueEx(h, "OPENROUTER_API_KEY")[0]
+                key = winreg.QueryValueEx(h, name)[0]
         except OSError:
             return None
-    # 저장 형태 방어: 따옴표·공백·"Bearer " 접두 등이 섞여 있으면 sk- 토큰만 추출
+    # 저장 형태 방어: 따옴표·공백 등이 섞여 있으면 sk- 토큰만 추출
     key = key.strip().strip('"').strip("'")
     if " " in key:
         for token in key.split():
@@ -51,8 +51,12 @@ def _openrouter_key() -> str | None:
     return key or None
 
 
+def _openrouter_key() -> str | None:
+    return _get_key("OPENROUTER_API_KEY")
+
+
 def provider() -> str | None:
-    if os.environ.get("ANTHROPIC_API_KEY"):
+    if _get_key("ANTHROPIC_API_KEY"):
         return "anthropic"
     if _openrouter_key():
         return "openrouter"
@@ -65,7 +69,7 @@ def available() -> bool:
 
 def get_client():
     import anthropic
-    return anthropic.Anthropic()
+    return anthropic.Anthropic(api_key=_get_key("ANTHROPIC_API_KEY"))
 
 
 def complete(prompt: str, stage: str, max_tokens: int = 8000) -> str:
