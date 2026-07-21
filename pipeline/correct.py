@@ -225,6 +225,7 @@ def _apply_batch_results(client, batch_id: str, info: dict, state: dict, batches
             if rec:
                 rec["stages"]["correct"] = "done"
                 rec["corrected_at"] = now_kst()
+            meeting["pipeline_status"] = "done"
         else:
             meeting["pipeline_status"] = "partial"
         errors = validate_meeting(meeting)
@@ -300,16 +301,110 @@ def _build_request(custom_id: str, statements: list[dict]) -> dict:
     }
 
 
+# ---------------------------------------------------------------- 동기 경로 (OpenRouter)
+
+def parse_corrections(text: str) -> list[dict]:
+    """응답에서 {"corrections":[...]} 추출. 코드펜스·잡문 허용."""
+    text = text.strip()
+    if text.startswith("```"):
+        text = re.sub(r"^```[a-z]*\s*|\s*```$", "", text)
+    start, end = text.find("{"), text.rfind("}")
+    if start == -1 or end == -1:
+        raise ValueError("JSON 객체 없음")
+    return json.loads(text[start:end + 1])["corrections"]
+
+
+def _pending_meetings(state: dict) -> list[dict]:
+    return [
+        rec for rec in state["videos"].values()
+        if rec["status"] == "processed" and rec.get("meeting_id")
+        and rec["stages"].get("correct") != "done"
+    ]
+
+
+def run_sync(state: dict, limit: int, only_meeting: str | None = None) -> None:
+    """OpenRouter 동기 교정. 실행당 최대 limit개 회의 (0 = 무제한)."""
+    targets = _pending_meetings(state)
+    if only_meeting:
+        targets = [r for r in targets if r["meeting_id"] == only_meeting]
+    targets.sort(key=lambda r: r["meeting_id"])
+    if limit:
+        targets = targets[:limit]
+
+    for rec in targets:
+        mid = rec["meeting_id"]
+        meeting = _load_meeting(mid)
+        if meeting is None:
+            continue
+        stmts = meeting["statements"]
+        total_applied, failed_chunks = 0, 0
+        for start in range(0, len(stmts), CHUNK_SIZE):
+            chunk = stmts[start:start + CHUNK_SIZE]
+            try:
+                raw = llm.complete(build_prompt(chunk), stage="correct")
+                corrections = parse_corrections(raw)
+            except Exception as e:
+                failed_chunks += 1
+                print(f"[correct] {mid}|{start + 1} 실패: {e}")
+                continue
+            total_applied += apply_corrections(meeting, corrections)
+
+        if failed_chunks == 0:
+            rec["stages"]["correct"] = "done"
+            rec["corrected_at"] = now_kst()
+            meeting["pipeline_status"] = "done"     # 이전 실패로 partial이었어도 복원
+        else:
+            meeting["pipeline_status"] = "partial"  # 다음 실행에서 회의 전체 재시도 (멱등)
+        errors = validate_meeting(meeting)
+        if errors:
+            meeting["pipeline_status"] = "partial"
+        _save_meeting(meeting)
+        print(f"[correct] {mid} 교정 {total_applied}건 적용"
+              f" (실패 청크 {failed_chunks}, status={meeting['pipeline_status']})")
+
+
 # ---------------------------------------------------------------- 진입점
 
+# 동기 경로에서 실행당 처리할 최대 회의 수 (cron 1회 실행 시간 상한 방어)
+SYNC_MEETINGS_PER_RUN = 10
+
+
 def run(state: dict) -> None:
-    if not llm.available():
-        pending = sum(
-            1 for rec in state["videos"].values()
-            if rec["status"] == "processed" and rec["stages"].get("correct") != "done"
-        )
+    prov = llm.provider()
+    if prov is None:
+        pending = len(_pending_meetings(state))
         if pending:
-            print(f"[correct] ANTHROPIC_API_KEY 없음 — 교정 건너뜀 (대기 회의 {pending}건)")
+            print(f"[correct] API 키 없음 — 교정 건너뜀 (대기 회의 {pending}건)")
         return
-    collect_batches(state)
-    submit_pending(state)
+    if prov == "anthropic":
+        collect_batches(state)
+        submit_pending(state)
+    else:
+        run_sync(state, limit=SYNC_MEETINGS_PER_RUN)
+
+
+def main() -> None:
+    """수동 실행: python -m pipeline.correct [--limit N] [--meeting ID]"""
+    import argparse
+    import sys as _sys
+    from .state import load_state, save_state
+    if _sys.stdout.encoding and _sys.stdout.encoding.lower() != "utf-8":
+        _sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--limit", type=int, default=1, help="처리할 회의 수 (0=무제한)")
+    ap.add_argument("--meeting", type=str, default=None, help="특정 meeting_id만")
+    args = ap.parse_args()
+    if llm.provider() is None:
+        print("[correct] API 키 없음")
+        return
+    state = load_state()
+    if llm.provider() == "anthropic":
+        collect_batches(state)
+        submit_pending(state)
+    else:
+        run_sync(state, limit=args.limit, only_meeting=args.meeting)
+    save_state(state)
+
+
+if __name__ == "__main__":
+    main()
