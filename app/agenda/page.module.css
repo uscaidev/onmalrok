@@ -1,0 +1,25 @@
+.pageHead {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 24px 16px 0;
+}
+
+.pageTitle {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--txt);
+  margin: 0 0 6px;
+}
+
+.pageMeta {
+  font-size: 13px;
+  color: var(--dim);
+  margin: 0;
+}
+
+.empty {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 40px 16px;
+  color: var(--dim);
+}

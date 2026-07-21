@@ -6,6 +6,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const [meetings, tasks] = await Promise.all([getMeetingIndex(), getTasks()]);
   return [
     { url: SITE_URL, changeFrequency: "daily", priority: 1 },
+    { url: `${SITE_URL}/agenda`, changeFrequency: "daily", priority: 0.9 },
     { url: `${SITE_URL}/tasks`, changeFrequency: "daily", priority: 0.9 },
     ...tasks.map((t) => ({
       url: `${SITE_URL}/tasks/${t.no}`,

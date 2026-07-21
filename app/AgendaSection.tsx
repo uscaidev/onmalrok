@@ -20,7 +20,6 @@ const STAGE_LABEL: Record<string, string> = {
   followup_pending: "후속 대기",
 };
 
-const TOP_N = 6;
 const DAY_MS = 86_400_000;
 
 function windowCount(t: AgendaThread, refDate: string, days: number): number {
@@ -33,8 +32,17 @@ function shortDate(iso: string): string {
   return `${Number(m)}.${Number(d)}`;
 }
 
-// 홈 "지금 활발한 의제" 섹션 (§6.1) — 기간·분야 필터는 클라이언트 계산 (SPEC-PIPELINE.md §2.5)
-export default function AgendaSection({ agenda }: { agenda: AgendaIndex }) {
+// "지금 활발한 의제" 뷰 (§6.9) — 기간·분야 필터는 클라이언트 계산 (SPEC-PIPELINE.md §2.5)
+export default function AgendaSection({
+  agenda,
+  limit = 6,
+  showTitle = true,
+}: {
+  agenda: AgendaIndex;
+  limit?: number;
+  showTitle?: boolean;
+}) {
+  const TOP_N = limit;
   const [days, setDays] = useState<number>(WINDOWS[0].days);
   const [field, setField] = useState<string>("all");
 
@@ -59,7 +67,7 @@ export default function AgendaSection({ agenda }: { agenda: AgendaIndex }) {
   return (
     <section className={styles.section} aria-label="지금 활발한 의제">
       <div className={styles.head}>
-        <h2 className={styles.title}>지금 활발한 의제</h2>
+        {showTitle && <h2 className={styles.title}>지금 활발한 의제</h2>}
         <div className={styles.windows} role="group" aria-label="기간 선택">
           {WINDOWS.map((w) => (
             <button

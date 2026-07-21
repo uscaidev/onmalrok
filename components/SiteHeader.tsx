@@ -11,6 +11,9 @@ export default function SiteHeader({ query }: { query?: string }) {
         </span>
       </Link>
       <nav className={styles.nav}>
+        <Link href="/agenda" className={styles.navLink}>
+          의제
+        </Link>
         <Link href="/tasks" className={styles.navLink}>
           국정과제
         </Link>
