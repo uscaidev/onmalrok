@@ -18,6 +18,9 @@
   --r-chip: 8px;        /* 필터 칩 (유튜브 동일) */
   --r-pill: 18px;       /* 버튼 pill (유튜브 동일) */
   --r-badge: 4px;       /* 재생시간·등급 배지 (유튜브 duration 배지 동일) */
+  /* ── 레이아웃 ── */
+  --header-h: 56px;    /* 전역 헤더 높이 — 사이드바 top 오프셋 기준 */
+  --sidenav-w: 72px;   /* 데스크톱 미니 사이드바 폭 (유튜브 미니 가이드 실측) */
   /* ── 서체 ── */
   --font-ui: Roboto, 'Pretendard Variable', Pretendard, sans-serif;
   --font-quote: 'Noto Serif KR', serif;

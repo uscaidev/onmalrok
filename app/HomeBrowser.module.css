@@ -4,6 +4,27 @@
   padding: 0 16px;
 }
 
+.status {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--dim);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  padding: 12px 0 0;
+}
+
+.status:hover {
+  color: var(--txt);
+}
+
+.statusDot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--dim);
+}
+
 .chips {
   display: flex;
   align-items: center;

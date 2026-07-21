@@ -2,7 +2,8 @@
   display: flex;
   align-items: center;
   gap: 16px;
-  padding: 10px 16px;
+  height: var(--header-h);
+  padding: 0 16px;
   border-bottom: 1px solid var(--line);
   position: sticky;
   top: 0;
@@ -27,22 +28,6 @@
   font-size: 17px;
   font-weight: 700;
   margin-left: 1px;
-}
-
-.nav {
-  flex-shrink: 0;
-}
-
-.navLink {
-  color: var(--dim);
-  font-size: 14px;
-  padding: 6px 10px;
-  border-radius: var(--r-chip);
-}
-
-.navLink:hover {
-  color: var(--txt);
-  background: var(--card-sub);
 }
 
 .searchForm {
@@ -77,12 +62,14 @@
 }
 
 .searchBtn {
+  display: flex;
+  align-items: center;
   background: var(--card-sub);
   border: 1px solid var(--line);
   border-left: none;
   border-radius: 0 var(--r-pill) var(--r-pill) 0;
   padding: 8px 18px;
-  font-size: 14px;
+  color: var(--txt);
 }
 
 .searchBtn:hover {

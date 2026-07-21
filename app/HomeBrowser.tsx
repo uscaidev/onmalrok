@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import type { MeetingIndexItem, MeetingKind } from "@/lib/types";
 import MeetingCard from "@/components/MeetingCard";
+import { formatDate, kindLabel } from "@/lib/format";
 import styles from "./HomeBrowser.module.css";
 
 type Filter = "all" | MeetingKind;
@@ -20,6 +21,8 @@ export default function HomeBrowser({
 }) {
   const [filter, setFilter] = useState<Filter>("all");
   const visible = filter === "all" ? meetings : meetings.filter((m) => m.kind === filter);
+  const latest = meetings[0];
+  const statementCount = meetings.reduce((sum, m) => sum + m.statement_count, 0);
 
   const kindChip = (value: Filter, label: string) => (
     <button
@@ -34,6 +37,13 @@ export default function HomeBrowser({
 
   return (
     <main className={styles.main}>
+      {latest && (
+        <Link href={`/watch/${latest.id}`} className={styles.status}>
+          <span className={styles.statusDot} aria-hidden />
+          최신 반영 · {kindLabel(latest.kind)} {formatDate(latest.date)} · 회의{" "}
+          {meetings.length.toLocaleString()}건 · 발언 {statementCount.toLocaleString()}문장
+        </Link>
+      )}
       <div className={styles.chips}>
         {kindChip("all", "전체")}
         {kindChip("cabinet", "국무회의")}

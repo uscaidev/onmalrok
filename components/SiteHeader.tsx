@@ -1,7 +1,49 @@
+"use client";
+
 import Link from "next/link";
+import { Suspense } from "react";
+import { useSearchParams } from "next/navigation";
 import styles from "./SiteHeader.module.css";
 
-export default function SiteHeader({ query }: { query?: string }) {
+function SearchIcon() {
+  return (
+    <svg
+      width="16"
+      height="16"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      aria-hidden
+    >
+      <circle cx="10.5" cy="10.5" r="6.5" />
+      <path d="M21 21l-5.2-5.2" />
+    </svg>
+  );
+}
+
+function SearchForm() {
+  const query = useSearchParams().get("q") ?? "";
+  return (
+    <form className={styles.searchForm} action="/search" role="search">
+      <input
+        key={query}
+        className={styles.searchInput}
+        type="search"
+        name="q"
+        defaultValue={query}
+        placeholder="발언·지시·안건 검색"
+        aria-label="발언 검색"
+      />
+      <button className={styles.searchBtn} type="submit" aria-label="검색">
+        <SearchIcon />
+      </button>
+    </form>
+  );
+}
+
+export default function SiteHeader() {
   return (
     <header className={styles.header}>
       <Link href="/" className={styles.logo}>
@@ -10,27 +52,9 @@ export default function SiteHeader({ query }: { query?: string }) {
           .
         </span>
       </Link>
-      <nav className={styles.nav}>
-        <Link href="/agenda" className={styles.navLink}>
-          의제
-        </Link>
-        <Link href="/tasks" className={styles.navLink}>
-          국정과제
-        </Link>
-      </nav>
-      <form className={styles.searchForm} action="/search" role="search">
-        <input
-          className={styles.searchInput}
-          type="search"
-          name="q"
-          defaultValue={query ?? ""}
-          placeholder="발언 검색"
-          aria-label="발언 검색"
-        />
-        <button className={styles.searchBtn} type="submit" aria-label="검색">
-          🔍
-        </button>
-      </form>
+      <Suspense>
+        <SearchForm />
+      </Suspense>
     </header>
   );
 }

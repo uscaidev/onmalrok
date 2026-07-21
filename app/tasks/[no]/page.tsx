@@ -5,7 +5,6 @@ import AiNotice from "@/components/AiNotice";
 import GradeBadge from "@/components/GradeBadge";
 import PlayLink from "@/components/PlayLink";
 import QuoteText from "@/components/QuoteText";
-import SiteHeader from "@/components/SiteHeader";
 import { getMeeting, getTaskMap, getTasks, getThreadsByIds } from "@/lib/data";
 import { formatDate, kindLabel } from "@/lib/format";
 import { SITE_URL } from "@/lib/site";
@@ -92,7 +91,6 @@ export default async function TaskPage({ params }: { params: { no: string } }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
-      <SiteHeader />
       <main className={styles.main}>
         <nav className={styles.crumb}>
           <Link href="/tasks">국정과제</Link> · {task.goal} · {task.strategy}

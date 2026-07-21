@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import SiteHeader from "@/components/SiteHeader";
 import { buildBriefing } from "@/lib/briefing";
 import { getMeeting, getMeetingIndex, getTaskMap, getTasks } from "@/lib/data";
 import BriefingClient from "./BriefingClient";
@@ -23,7 +22,6 @@ export default async function BriefingPage({ params }: { params: { id: string } 
 
   return (
     <>
-      <SiteHeader />
       <BriefingClient
         meetingId={meeting.id}
         title={meeting.title}

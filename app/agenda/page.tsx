@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import SiteHeader from "@/components/SiteHeader";
 import AgendaSection from "../AgendaSection";
 import { getAgenda } from "@/lib/data";
 import styles from "./page.module.css";
@@ -15,7 +14,6 @@ export default async function AgendaPage() {
 
   return (
     <>
-      <SiteHeader />
       <main>
         <div className={styles.pageHead}>
           <h1 className={styles.pageTitle}>지금 활발한 의제</h1>

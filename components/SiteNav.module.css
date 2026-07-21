@@ -1,0 +1,72 @@
+/* 모바일(기본): 하단 탭바 — 유튜브 앱 문법 */
+.nav {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+  display: flex;
+  background: var(--bg);
+  border-top: 1px solid var(--line);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 0 6px;
+  font-size: 10px;
+  color: var(--txt);
+}
+
+.icon {
+  display: flex;
+}
+
+.icon svg {
+  width: 22px;
+  height: 22px;
+}
+
+.itemActive .icon svg {
+  stroke-width: 2.4;
+}
+
+/* 데스크톱(≥1024px): 좌측 미니 사이드바 */
+@media (min-width: 1024px) {
+  .nav {
+    top: var(--header-h);
+    right: auto;
+    bottom: 0;
+    width: var(--sidenav-w);
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    border-top: none;
+    padding: 8px 0 16px;
+  }
+
+  .item {
+    flex: none;
+    width: 64px;
+    gap: 6px;
+    padding: 12px 0 10px;
+    border-radius: 10px;
+  }
+
+  .item:hover {
+    background: var(--card-sub);
+  }
+
+  .itemActive {
+    background: var(--card-sub);
+  }
+
+  .icon svg {
+    width: 24px;
+    height: 24px;
+  }
+}

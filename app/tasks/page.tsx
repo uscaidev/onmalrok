@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import SiteHeader from "@/components/SiteHeader";
 import { getTaskMap, getTasks } from "@/lib/data";
 import TasksBrowser, { type TaskRow } from "./TasksBrowser";
 import styles from "./TasksBrowser.module.css";
@@ -31,7 +30,6 @@ export default async function TasksPage() {
 
   return (
     <>
-      <SiteHeader />
       <main className={styles.main}>
         <div className={styles.pageHead}>
           <h1 className={styles.pageTitle}>123대 국정과제</h1>
