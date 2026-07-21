@@ -1,0 +1,20 @@
+.briefingBar {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 8px 16px 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.briefingLink {
+  color: var(--dim);
+  font-size: 12px;
+  padding: 5px 10px;
+  background: var(--card-sub);
+  border-radius: var(--r-pill);
+}
+
+.briefingLink:hover {
+  color: var(--txt);
+  background: var(--hover);
+}
