@@ -202,214 +202,82 @@
   ],
   "proposals": [
     {
-      "field_id": "governance",
-      "keyword": "의사결정",
-      "reason": "다수 스레드 제목·태그에 등장하며 행정·조직적 절차 강화 관련 내용이라 행정 분야에 적합함",
-      "thread_id": "activate-system"
+      "field_id": "security",
+      "keyword": "요소수",
+      "reason": "요소수 전시·수준 엄격관리 내용은 전략물자·수급 안보와 직결되므로 외교·안보 분야로 분류",
+      "thread_id": "strict-warlevel-material-control"
+    },
+    {
+      "field_id": "security",
+      "keyword": "헬륨",
+      "reason": "헬륨 전시 물자 수준 관리 언급은 공급·전략적 중요성으로 안보 분야에 해당",
+      "thread_id": "strict-warlevel-material-control"
+    },
+    {
+      "field_id": "security",
+      "keyword": "알루미늄",
+      "reason": "알루미늄 전시수준 관리는 전략물자 통제 차원으로 외교·안보 분야에 적합",
+      "thread_id": "strict-warlevel-material-control"
+    },
+    {
+      "field_id": "energy",
+      "keyword": "대체 공급선",
+      "reason": "최악 가정 대비책에 '대체 공급선'이 언급돼 에너지·환경(공급망 안정) 분야와 관련됨",
+      "thread_id": "prepare-worst-case-measures"
     },
     {
       "field_id": "governance",
-      "keyword": "의사결정",
-      "reason": "다원시스 3차 계약 경위 설명은 행정 의사결정 절차성 검토에 해당함",
-      "thread_id": "dawon-sys-contract-explanation"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "행정",
-      "reason": "지방 인센티브 지수 개발은 정부 정책·행정 설계 관련 과제임",
+      "keyword": "지수 개발",
+      "reason": "지방 인센티브 지수 개발 추진은 제도·지표 마련에 관한 행정적 과제이므로 행정·개혁 분야에 해당",
       "thread_id": "develop-regional-incentive-index"
     },
     {
       "field_id": "governance",
-      "keyword": "의견 수렴",
-      "reason": "현판 표기 변경은 절차적 여론 수렴·행정 처리 절차와 관련됨",
-      "thread_id": "consult-signage-language-change"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "보고",
-      "reason": "보고자료 정성·시각화 개선은 행정 보고 품질 향상과 관련된 사안임",
-      "thread_id": "improve-presentation-materials"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "국민참여단",
-      "reason": "중계·모니터링 요약은 국민참여단 활동 정리와 행정 소통 관련임",
-      "thread_id": "prepare-broadcast-monitoring"
-    },
-    {
-      "field_id": "security",
-      "keyword": "중동",
-      "reason": "현지 파견을 통한 구체 협의는 외교·안보(중동 관련) 현장 외교 활동과 연관됨",
-      "thread_id": "send-delegation-for-local-talks"
-    },
-    {
-      "field_id": "energy",
-      "keyword": "요소수",
-      "reason": "요소·헬륨 등 전시 물자 수준 관리는 에너지·자원 관리 이슈임",
-      "thread_id": "strict-warlevel-material-control"
-    },
-    {
-      "field_id": "energy",
-      "keyword": "헬륨",
-      "reason": "요소·헬륨 등 전시 물자 수준 관리는 에너지·자원 관리 이슈임",
-      "thread_id": "strict-warlevel-material-control"
-    },
-    {
-      "field_id": "energy",
-      "keyword": "알루미늄",
-      "reason": "요소·헬륨·알루미늄 엄격관리 언급으로 자원 관리 차원에서 에너지·환경 분야 해당",
-      "thread_id": "strict-warlevel-material-control"
-    },
-    {
-      "field_id": "livelihood",
-      "keyword": "계란 문제",
-      "reason": "계란·조류 관리 강화는 식품 물가·민생 안정 문제와 직결됨",
-      "thread_id": "strengthen-avian-management"
-    },
-    {
-      "field_id": "livelihood",
-      "keyword": "조류 관리",
-      "reason": "조류 관리 강화는 축산·식품 안전과 민생 영향이 커서 복지·민생 분야로 분류됨",
-      "thread_id": "strengthen-avian-management"
+      "keyword": "기획 기능",
+      "reason": "국장·과장 기획기능 강화는 공무원 조직·행정 역량 강화 관련 사안임",
+      "thread_id": "promote-planning-capability"
     },
     {
       "field_id": "economy",
       "keyword": "국세청",
-      "reason": "국세청 세무인력 증원은 조세·재정·경제 행정에 직결되는 사안임",
+      "reason": "국세청 세무인력 증원은 조세·재정 인력 정책으로 경제·물가 분야에 해당",
       "thread_id": "increase-tax-staff"
     },
     {
-      "field_id": "economy",
-      "keyword": "인력 확대",
-      "reason": "세무 인력 확대는 경제행정·세수 관리 역량 강화와 관련됨",
-      "thread_id": "increase-tax-staff"
-    },
-    {
-      "field_id": "economy",
-      "keyword": "지방공항활성화",
-      "reason": "인천공항 유입 외국인 지방이동 수요 파악은 지역공항 활성화와 관광·경제 효과 연계 사안임",
-      "thread_id": "airport-demand-impact-survey"
-    },
-    {
-      "field_id": "economy",
-      "keyword": "연계교통",
-      "reason": "지방공항 활성화와 연계된 수요·교통망 문제는 경제·지역발전 이슈임",
-      "thread_id": "airport-demand-impact-survey"
-    },
-    {
       "field_id": "governance",
-      "keyword": "점검",
-      "reason": "시청자 건의·의견 수집 및 점검은 공적 소통·행정 대응 절차에 해당함",
-      "thread_id": "collect-review-viewer-feedback"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "검토",
-      "reason": "인허가 특혜 회수 시스템 도입 검토는 제도개선·행정정책 검토 사안임",
-      "thread_id": "review-recovery-of-permits-benefits"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "기획 기능",
-      "reason": "국장·과장 기획기능 강화는 조직 내부 행정 역량 강화 관련임",
-      "thread_id": "promote-planning-capability"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "최악의 상황",
-      "reason": "최악 가정 대비책 수립은 행정의 위기관리·비상계획 수립과 관련됨",
-      "thread_id": "prepare-worst-case-measures"
-    },
-    {
-      "field_id": "security",
-      "keyword": "구체적 협의",
-      "reason": "현지 파견으로 구체 협의 추진은 외교적·안보적 협상 활동에 해당함",
-      "thread_id": "send-delegation-for-local-talks"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "약속",
-      "reason": "코레일·SR 통합 약속 이행 신속화는 정부·공공기관 간 합의 이행 관리 문제임",
-      "thread_id": "accelerate-korail-sr-integration"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "신속 추진",
-      "reason": "코레일·SR 통합 관련 신속 추진 요청은 행정 집행 속도와 관련된 사안임",
-      "thread_id": "accelerate-korail-sr-integration"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "현지 파견",
-      "reason": "현지 파견을 통한 협의는 행정 실행·외교 업무 수행 방식에 관한 표현임",
-      "thread_id": "send-delegation-for-local-talks"
+      "keyword": "3차계약",
+      "reason": "다원시스 관련 3차 계약 경위 설명은 계약·행정 절차 투명성 문제로 행정·개혁 분야에 적합",
+      "thread_id": "dawon-sys-contract-explanation"
     },
     {
       "field_id": "livelihood",
       "keyword": "사회봉사 대체",
-      "reason": "노역장 수형자 사회봉사 대체 권장은 형벌 집행 방식 변화로 복지·사회정책과 연관됨",
+      "reason": "노역장 수형자의 사회봉사 대체 권장은 형집행·복지적 대안으로 민생·복지 분야 관련",
       "thread_id": "alternative-to-labor-detention"
     },
     {
-      "field_id": "governance",
-      "keyword": "법률 개정",
-      "reason": "농지 미경작 시 처분 의무 강화는 법령 개정 필요성을 직접적으로 언급함",
-      "thread_id": "strengthen-land-disposal-duty"
+      "field_id": "security",
+      "keyword": "가짜 뉴스",
+      "reason": "가짜뉴스·시세조작 범죄 차단은 정보안보·사회안전 문제로 외교·안보 분야와 연계됨",
+      "thread_id": "block-fake-news-price-manipulation"
     },
     {
       "field_id": "livelihood",
       "keyword": "지방 관광",
-      "reason": "지방관광 활성화는 지역경제·민생 일자리와 직결되는 민생 분야 사안임",
-      "thread_id": "boost-and-police-local-tourism"
-    },
-    {
-      "field_id": "security",
-      "keyword": "단속",
-      "reason": "관광지 바가지·불친절 단속은 치안·질서 유지 관련으로 외교·안보보다는 공공안전 성격 있으나 강한 치안 집행 표현으로 안보 분야에 배정 가능함",
+      "reason": "지방관광 활성화 및 단속은 지역경제·생활문화와 밀접해 민생·복지 분야에 해당",
       "thread_id": "boost-and-police-local-tourism"
     },
     {
       "field_id": "governance",
-      "keyword": "예산 확보",
-      "reason": "국제영화 공동제작 추진에서 예산 확보는 정부 예산집행·지원 절차와 관련됨",
-      "thread_id": "pursue-international-film-coproduction"
+      "keyword": "현지 파견",
+      "reason": "현지 파견을 통한 협의 추진은 행정적 대응·외교 실행 방식으로 행정·개혁 분야에 포함될 수 있음",
+      "thread_id": "send-delegation-for-local-talks"
     },
     {
-      "field_id": "governance",
-      "keyword": "공무원 전문성",
-      "reason": "기획 기능·국장 과장 역량 강화는 공무원 전문성 제고와 행정개혁 영역임",
-      "thread_id": "promote-planning-capability"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "국민창관단",
-      "reason": "국민창관단 실무관리체계 마련은 국민 관련 조직 운영·행정 관리 사안임",
-      "thread_id": "national-visitor-group-management"
-    },
-    {
-      "field_id": "security",
-      "keyword": "무관용 원칙",
-      "reason": "가짜뉴스·시세조작 범죄 차단에서 무관용 원칙 적용은 치안·법집행 정책 성격임",
-      "thread_id": "block-fake-news-price-manipulation"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "중계",
-      "reason": "중계·모니터링 요약 준비는 행정 홍보·소통 방법과 관련된 표현임",
-      "thread_id": "prepare-broadcast-monitoring"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "부처 분배",
-      "reason": "영상 유용 발언 선별 후 각 부처 분배는 내부 행정 업무 분담 절차와 연관됨",
-      "thread_id": "distribute-useful-video-comments"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "재래건축",
-      "reason": "재래건축 시민운동 결합은 국토 관리와 공공운동 연계 행정 사안임",
-      "thread_id": "traditional-building-civic-campaign"
+      "field_id": "scitech",
+      "keyword": "과학기술",
+      "reason": "요청된 스레드 중 명시적 과학기술 언급은 적으나 기술 납품·장비 관련 이슈(다원시스 납품지연)는 과학기술 분야로도 관련성이 있어 제안",
+      "thread_id": "dawon-sys-contract-explanation"
     }
   ]
 }
