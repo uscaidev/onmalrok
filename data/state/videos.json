@@ -366,10 +366,10 @@
       "duration_sec": null,
       "error": "yt-dlp: ERROR: [youtube] DhdgLoJl2I4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
       "kind": "cabinet",
-      "last_checked": "2026-07-31T17:10:51+09:00",
+      "last_checked": "2026-08-01T09:13:57+09:00",
       "meeting_id": null,
       "published_at": "2026-07-30T23:26:40+09:00",
-      "retry_count": 1,
+      "retry_count": 2,
       "source": "rss",
       "stages": {},
       "status": "waiting_captions",
@@ -427,6 +427,22 @@
       "status": "processed",
       "title": "(2026년 6월 2일 자막 수정) 제24회 국무회의 겸 제11차 비상경제점검회의",
       "youtube_id": "HokLaJPum3U"
+    },
+    "I5n8ckpYOdA": {
+      "caption_source": null,
+      "discovered_at": "2026-08-01T09:13:57+09:00",
+      "duration_sec": null,
+      "error": "yt-dlp: ERROR: [youtube] I5n8ckpYOdA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "kind": "report",
+      "last_checked": "2026-08-01T09:13:58+09:00",
+      "meeting_id": null,
+      "published_at": "2026-08-01T08:00:14+09:00",
+      "retry_count": 1,
+      "source": "rss",
+      "stages": {},
+      "status": "waiting_captions",
+      "title": "(26.7.16. 수정본) 과학기술정보통신부·우주항공청·방송미디어통신위원회·개인정보보호위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
+      "youtube_id": "I5n8ckpYOdA"
     },
     "IhS8yHvW8-E": {
       "caption_source": "auto",
@@ -875,6 +891,22 @@
       "status": "processed",
       "title": "(26.1.14.) 국토교통부 산하기관 민생·안전 분야 업무보고",
       "youtube_id": "nIdLEwH6pSY"
+    },
+    "o9eEocflgZI": {
+      "caption_source": null,
+      "discovered_at": "2026-08-01T09:13:57+09:00",
+      "duration_sec": null,
+      "error": "yt-dlp: ERROR: [youtube] o9eEocflgZI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "kind": "report",
+      "last_checked": "2026-08-01T09:13:59+09:00",
+      "meeting_id": null,
+      "published_at": "2026-08-01T07:00:17+09:00",
+      "retry_count": 1,
+      "source": "rss",
+      "stages": {},
+      "status": "waiting_captions",
+      "title": "(26.7.15. 수정본) 재정경제부·국가데이터처·금융위원회·기획예산처 업무보고｜삶으로 체감하는 대체불가 대한민국",
+      "youtube_id": "o9eEocflgZI"
     },
     "pWre_Dyn9dw": {
       "caption_source": "auto",
