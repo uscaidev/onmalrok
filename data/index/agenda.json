@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:17:27+09:00",
+  "generated_at": "2026-08-05T15:14:52+09:00",
   "ref_date": "2026-07-21",
   "fields": [
     {
@@ -5816,41 +5816,33 @@
       "window_days": 28,
       "items": [
         {
-          "text": "시행령 중심의 조치 추진과 과징금·법정형 상향 등 법·제도 강화를 동시에 검토하는 논의가 이어졌다.",
+          "text": "시행령 중심 조치와 과징금·법정형 상향 등 법·제도 강화 관련 논의가 이어졌으며 두 스레드에서 각각 발언 26건(마지막 2026-07-21)과 25건(마지막 2026-07-16)이 기록되었다.",
           "thread_ids": [
             "connect-enforcement-decree-law",
             "increase-penalties-prep"
           ]
         },
         {
-          "text": "유류 가격·물자 수급 관련해서 일일 모니터링·주유소 대응 방안·석유 최고가격제 검토 등이 병행되며 수급 관리 체계 논의가 진행됐다.",
+          "text": "유류·필수품 수급 및 가격 관련 모니터링과 대응 마련 흐름이 여러 스레드에서 나타났으며 주유소 유류값 대응(5건, 마지막 2026-07-21), 정부 일일 수급 동향 모니터링(2건, 마지막 2026-06-30), 필수품 독과점 점검(2건, 마지막 2026-07-21)이 해당된다.",
           "thread_ids": [
             "fuel-price-response-report",
             "daily-supply-monitoring",
-            "review-fuel-price-cap"
+            "essential-goods-monitoring"
           ]
         },
         {
-          "text": "디지털화폐 별도 보고 신설과 AI창작물 표시제도·AI 안전점검 도입 등 디지털·첨단기술 관련 정책 점검과 법제 정비가 이루어졌다.",
+          "text": "디지털·첨단 기술·데이터 관련 보고·점검이 병행되어 디지털화폐 별도 보고(신규·8건, 마지막 2026-07-21), AI·첨단장비 안전점검 도입(3건, 마지막 2026-07-16), 개인정보 보호와 데이터 활용 균형 방안(신규·1건, 마지막 2026-07-16) 등이 논의되었다.",
           "thread_ids": [
             "report-digital-currency",
-            "ai-generated-content-labeling",
-            "ai-safety-inspection"
+            "ai-safety-inspection",
+            "data-protection-utilization-balance"
           ]
         },
         {
-          "text": "행정복구·관계부처 보고 관리, 보고자료 시각화 개선·관계부처 공동 협의 지침 마련 등 보고·관리 체계 정비 논의가 반복됐다.",
+          "text": "행정관리·보고 체계와 집행 인력·제도 운영 관련 논의가 이어져 행정복구 및 관계부처 보고 관리(7건, 마지막 2026-07-21), 금융부처 공동 협의 지침(4건, 마지막 2026-07-21), 체납관리단 인력 확대(2건, 마지막 2026-07-15) 등이 제기되었다.",
           "thread_ids": [
             "ensure-administrative-recovery-report",
-            "improve-presentation-materials",
-            "coordinate-financial-agencies"
-          ]
-        },
-        {
-          "text": "지원사업 위반 시 제재 강화·몰수 간주 규정 도입·체납관리단 인력 확대 등 재정·제재 관련 집행력 확보 방안들이 병행 검토됐다.",
-          "thread_ids": [
-            "strengthen-sanctions-support-programs",
-            "introduce-presumptive-forfeiture",
+            "coordinate-financial-agencies",
             "expand-debt-collection-staff"
           ]
         }
@@ -5860,38 +5852,40 @@
       "window_days": 90,
       "items": [
         {
-          "text": "시행령 개정 관련 논의가 집중되어 시행령 중심 조치 추진·신속 개정 건이 다수 발언되었고 관련해 과징금·법정형 상향 정부입법 준비가 병행 보고되었다.",
+          "text": "시행령(주로 [connect-enforcement-decree-law], [revise-enforcement-decree-quickly]) 중심으로 관련 규정 정비와 신속 개정 요청이 계속되었고 해당 스레드에서 총 37건의 발언이 있었다.",
           "thread_ids": [
             "connect-enforcement-decree-law",
-            "revise-enforcement-decree-quickly",
-            "increase-penalties-prep"
+            "revise-enforcement-decree-quickly"
           ]
         },
         {
-          "text": "공급·유통 대응 흐름에서 외교를 통한 수급 협의와 일일 수급 모니터링, 주유소 유류값 대응 및 석유 가격제 검토 보고가 연계되어 논의되었다.",
+          "text": "과징금·법정형 상향과 몰수 간주·추정 규정 도입 논의가 병행되어 정부입법 준비와 관련 입법 검토가 이어졌다.",
           "thread_ids": [
-            "pursue-diplomatic-supply-talks",
-            "daily-supply-monitoring",
+            "increase-penalties-prep",
+            "introduce-presumptive-forfeiture"
+          ]
+        },
+        {
+          "text": "유류·연료 분야에서 주유소 유류값 대응 방안·대응부처 지정, 석유 최고가격제 검토, 일일 수급 모니터링 등 수급·가격 대응 관련 보고와 점검이 다수 진행되었다.",
+          "thread_ids": [
             "fuel-price-response-report",
-            "review-fuel-price-cap"
+            "review-fuel-price-cap",
+            "daily-supply-monitoring"
           ]
         },
         {
-          "text": "행정관리·복구와 관련해 행정복구 및 관계부처 보고 관리와 공공기관 고용관행 점검, 체납관리단 인력 확대 등의 행정조직·관리 개선 논의가 이어졌다.",
+          "text": "디지털·AI 분야에서는 디지털화폐 별도 보고 제출과 AI·첨단장비 활용 안전점검 도입 논의가 이루어졌다.",
           "thread_ids": [
-            "ensure-administrative-recovery-report",
+            "report-digital-currency",
+            "ai-safety-inspection"
+          ]
+        },
+        {
+          "text": "공공기관·금융·행정 분야에서 공공기관 고용관행 점검, 금융·기재·행안부 공동 협의 지침 마련, 행정복구 및 관계부처 보고 관리 등 운영·감독·협의 체계 정비 발언이 있었다.",
+          "thread_ids": [
             "public-employment-audit",
-            "expand-debt-collection-staff"
-          ]
-        },
-        {
-          "text": "안전·점검 체계 강화 흐름으로 AI·첨단장비 활용 안전점검 도입, 구조적 안전 및 산불·입산통제 강화, 휴게소 운영 재구성 등이 다수 발언으로 다뤄졌다.",
-          "thread_ids": [
-            "ai-safety-inspection",
-            "structural-safety-inspection",
-            "strengthen-wildfire-prevention",
-            "strengthen-wildfire-prevention-controls",
-            "service-area-restructuring"
+            "coordinate-financial-agencies",
+            "ensure-administrative-recovery-report"
           ]
         }
       ]
@@ -5900,33 +5894,41 @@
       "window_days": 180,
       "items": [
         {
-          "text": "시행령(하위법령) 중심으로 관련 규정 정비 및 신속 개정 요구가 이어지며 시행령 개정 추진과 관련된 논의가 다수 발생했다.",
+          "text": "시행령(하위법령) 개정·정비 관련 논의가 집중되었으며, 시행령 중심 조치 추진과 시행령 신속 개정·revise-enforcement-decree-quickly 두 스레드에서 총 65건의 발언이 이루어졌다.",
           "thread_ids": [
             "connect-enforcement-decree-law",
             "revise-enforcement-decree-quickly"
           ]
         },
         {
-          "text": "과징금·법정형 상향 등 처벌 수위 강화 관련 정부입법 준비와 몰수 간주·추정 규정 도입, 신속·엄중한 제재 기준 마련 논의가 병행됐다.",
+          "text": "과징금·법정형 상향 등 처벌 강화 관련 정부입법 준비 및 별도 제재 기준 마련 논의가 진행되었으며, increase-penalties-prep와 establish-strict-sanctions 스레드에서 각각 54건·5건의 발언이 있었다.",
           "thread_ids": [
             "increase-penalties-prep",
-            "introduce-presumptive-forfeiture",
             "establish-strict-sanctions"
           ]
         },
         {
-          "text": "유류값·필수품 수급 관리와 관련해 주유소 유류값 대응방안 보고, 외교를 통한 수급 협의, 부처별 일일 수급 모니터링 지시가 이어졌다.",
+          "text": "유류 및 필수품 수급·가격 대응과 관련해 주유소 유류값 대응방안, 일일 수급 모니터링, 필수품 독과점 점검 등 세부 대책 논의가 이루어졌고 fuel-price-response-report, daily-supply-monitoring, essential-goods-monitoring 스레드에서 각각 17건·9건·4건의 발언이 있었다.",
           "thread_ids": [
             "fuel-price-response-report",
-            "pursue-diplomatic-supply-talks",
-            "daily-supply-monitoring"
+            "daily-supply-monitoring",
+            "essential-goods-monitoring"
           ]
         },
         {
-          "text": "금융·재정·행정 협의체 구성과 디지털자산 보고 등 금융정책·감독 관련 협업·보고 체계 정비 논의가 발생했다.",
+          "text": "행정 복구·보고·재정·금융 협의 등 부처간 협업 체계 관련 논의가 있었으며 ensure-administrative-recovery-report, coordinate-financial-agencies, prepare-housing-financial-measures 스레드에서 각각 14건·11건·7건의 발언이 있었다.",
           "thread_ids": [
+            "ensure-administrative-recovery-report",
             "coordinate-financial-agencies",
-            "report-digital-currency"
+            "prepare-housing-financial-measures"
+          ]
+        },
+        {
+          "text": "안전·점검·보상 관련 흐름으로 AI·첨단장비 활용 안전점검, 구조적 안전 근본 점검, 산재보상 절차 기간 단축 입법 추진 등 세 분야에서 ai-safety-inspection, structural-safety-inspection, shorten-industrial-accident-procedures 스레드에 각각 12건·8건·11건의 발언이 있었다.",
+          "thread_ids": [
+            "ai-safety-inspection",
+            "structural-safety-inspection",
+            "shorten-industrial-accident-procedures"
           ]
         }
       ]
