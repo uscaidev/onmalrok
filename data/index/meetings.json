@@ -10,6 +10,16 @@
     "pipeline_status": "done"
   },
   {
+    "id": "2026-rpt-0716-L64eg6",
+    "kind": "report",
+    "title": "(26.7.16.) 국토교통부·행정중심복합도시건설청·새만금개발청·농림축산식품부·산림청·농촌진흥청·해양수산부·해양경찰청 업무보고｜삶으로 체감하는 대체불가 대한민국",
+    "date": "2026-07-16",
+    "youtube_id": "L64eg6CC2X4",
+    "duration_sec": 7939,
+    "statement_count": 1380,
+    "pipeline_status": "done"
+  },
+  {
     "id": "2026-rpt-0716-imQ8RH",
     "kind": "report",
     "title": "(26.7.16.) 보건복지부·질병관리청·식품의약품안전처·성평등가족부·국민권익위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
@@ -27,16 +37,6 @@
     "youtube_id": "_t27O7XlfRY",
     "duration_sec": 8440,
     "statement_count": 1121,
-    "pipeline_status": "done"
-  },
-  {
-    "id": "2026-rpt-0716-L64eg6",
-    "kind": "report",
-    "title": "(26.7.16.) 국토교통부·행정중심복합도시건설청·새만금개발청·농림축산식품부·산림청·농촌진흥청·해양수산부·해양경찰청 업무보고｜삶으로 체감하는 대체불가 대한민국",
-    "date": "2026-07-16",
-    "youtube_id": "L64eg6CC2X4",
-    "duration_sec": 7939,
-    "statement_count": 1380,
     "pipeline_status": "done"
   },
   {
@@ -220,16 +220,6 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0114-kvXX3W",
-    "kind": "report",
-    "title": "(26.1.14.) 과학기술정보통신부 소속 우주, 과학기술원, AI, ICT 기관 업무보고",
-    "date": "2026-01-14",
-    "youtube_id": "kvXX3W0Wb6E",
-    "duration_sec": 6967,
-    "statement_count": 692,
-    "pipeline_status": "done"
-  },
-  {
     "id": "2026-rpt-0114-nIdLEw",
     "kind": "report",
     "title": "(26.1.14.) 국토교통부 산하기관 민생·안전 분야 업무보고",
@@ -240,13 +230,13 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0113-_LWZQp",
+    "id": "2026-rpt-0114-kvXX3W",
     "kind": "report",
-    "title": "(26.1.13.) 문화체육관광부 소속·공공기관 업무보고",
-    "date": "2026-01-13",
-    "youtube_id": "_LWZQp7Zz-E",
-    "duration_sec": 16047,
-    "statement_count": 2068,
+    "title": "(26.1.14.) 과학기술정보통신부 소속 우주, 과학기술원, AI, ICT 기관 업무보고",
+    "date": "2026-01-14",
+    "youtube_id": "kvXX3W0Wb6E",
+    "duration_sec": 6967,
+    "statement_count": 692,
     "pipeline_status": "done"
   },
   {
@@ -260,13 +250,13 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0112-5DLxn1",
+    "id": "2026-rpt-0113-_LWZQp",
     "kind": "report",
-    "title": "(26.1.12.) 산업통상부 공공기관 [자원·수출 분야] 업무보고",
-    "date": "2026-01-12",
-    "youtube_id": "5DLxn1ybiNY",
-    "duration_sec": 8358,
-    "statement_count": 870,
+    "title": "(26.1.13.) 문화체육관광부 소속·공공기관 업무보고",
+    "date": "2026-01-13",
+    "youtube_id": "_LWZQp7Zz-E",
+    "duration_sec": 16047,
+    "statement_count": 2068,
     "pipeline_status": "done"
   },
   {
@@ -277,6 +267,16 @@
     "youtube_id": "CUltdoq_NnU",
     "duration_sec": 7190,
     "statement_count": 726,
+    "pipeline_status": "done"
+  },
+  {
+    "id": "2026-rpt-0112-5DLxn1",
+    "kind": "report",
+    "title": "(26.1.12.) 산업통상부 공공기관 [자원·수출 분야] 업무보고",
+    "date": "2026-01-12",
+    "youtube_id": "5DLxn1ybiNY",
+    "duration_sec": 8358,
+    "statement_count": 870,
     "pipeline_status": "done"
   },
   {
