@@ -202,328 +202,148 @@
   ],
   "proposals": [
     {
+      "field_id": "governance",
+      "keyword": "다원시스 납품지연",
+      "reason": "스레드 제목·태그에 '다원시스'와 '납품지연'이 명시되어 있어 계약·행정절차 설명 관련으로 행정 분야에 적합하다",
+      "thread_id": "dawon-sys-contract-explanation"
+    },
+    {
       "field_id": "energy",
-      "keyword": "요소수",
-      "reason": "제목·태그에 '요소수'가 명시되어 있어 에너지·공급관리 분야로 분류할 수 있음",
+      "keyword": "요소수 헬륨 알루미늄",
+      "reason": "태그에 '요소수, 헬륨, 알루미늄'이 직접 등장하므로 전략적 자원·물자 관리 차원에서 에너지·환경 분야에 해당한다",
       "thread_id": "strict-warlevel-material-control"
     },
     {
-      "field_id": "energy",
-      "keyword": "헬륨",
-      "reason": "태그에 '헬륨'이 등장하므로 국가물자·에너지 관리 관점에서 분류가 적절함",
-      "thread_id": "strict-warlevel-material-control"
-    },
-    {
       "field_id": "governance",
-      "keyword": "3차계약",
-      "reason": "태그에 '3차계약'이 있어 계약·계획적 의사결정 사안으로 행정·개혁 분야에 해당함",
-      "thread_id": "dawon-sys-contract-explanation"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "납품지연",
-      "reason": "태그에 '납품지연'이 명시되어 있어 행정적 책임·절차 개선 관점으로 분류됨",
-      "thread_id": "dawon-sys-contract-explanation"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "의사결정",
-      "reason": "태그에 '의사결정'이 포함되어 행정 절차·책임 규명 관련으로 분류할 수 있음",
-      "thread_id": "dawon-sys-contract-explanation"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "의사결정",
-      "reason": "태그에 '의사결정'이 있어 행정 운영·절차 개선 이슈로 분류됨",
-      "thread_id": "activate-system"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "시스템 가동",
-      "reason": "제목·태그에 '시스템 가동'이 있어 행정 집행·운영 관련으로 분류 가능함",
-      "thread_id": "activate-system"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "현장 소통",
-      "reason": "태그에 '현장 소통'이 있어 행정 실행·현장관리 관점으로 분류될 수 있음",
-      "thread_id": "activate-system"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "국토부",
-      "reason": "태그에 '국토부'가 있어 중앙행정기관 관련 사안으로 행정 분야에 해당함",
-      "thread_id": "accelerate-korail-sr-integration"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "코레일 SR 통합",
-      "reason": "태그에 '코레일 SR 통합'이 명시되어 있어 공공기관 통합·행정조정 사안으로 분류됨",
-      "thread_id": "accelerate-korail-sr-integration"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "신속 추진",
-      "reason": "태그에 '신속 추진'이 포함되어 있어 행정 집행 속도·이행 관리 관점으로 분류 가능함",
-      "thread_id": "accelerate-korail-sr-integration"
-    },
-    {
-      "field_id": "economy",
-      "keyword": "지방공항활성화",
-      "reason": "태그에 '지방공항활성화'가 등장하여 지역경제·물류 수요 관련 경제 분야로 적합함",
-      "thread_id": "airport-demand-impact-survey"
-    },
-    {
-      "field_id": "security",
-      "keyword": "연계교통",
-      "reason": "태그에 '연계교통'이 있어 공항-지역 이동성·교통안보 관점에서 외교·안보(국가 인프라 보호) 관련될 수 있음",
-      "thread_id": "airport-demand-impact-survey"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "수요파악",
-      "reason": "태그에 '수요파악'이 있어 정책기획·행정조사 관점으로 분류 가능함",
-      "thread_id": "airport-demand-impact-survey"
-    },
-    {
-      "field_id": "security",
-      "keyword": "중동",
-      "reason": "태그에 '중동'이 있어 외교·안보 관련 지역 협의 사안으로 분류됨",
-      "thread_id": "send-delegation-for-local-talks"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "현지 파견",
-      "reason": "태그에 '현지 파견'이 있어 행정 집행·교섭 활동 관련으로 분류 가능함",
-      "thread_id": "send-delegation-for-local-talks"
-    },
-    {
-      "field_id": "security",
-      "keyword": "구체적 협의",
-      "reason": "태그에 '구체적 협의'가 있어 대외협상·외교 실무와 연관되어 외교·안보 분야로 적절함",
-      "thread_id": "send-delegation-for-local-talks"
-    },
-    {
-      "field_id": "security",
-      "keyword": "가석방",
-      "reason": "태그에 '가석방'이 포함되어 형사정책·교정 관련 치안·안보 분야로 분류될 수 있음",
-      "thread_id": "alternative-to-labor-detention"
-    },
-    {
-      "field_id": "security",
-      "keyword": "사회봉사 대체",
-      "reason": "태그에 '사회봉사 대체'가 있어 형사·교정제도 개선 사안으로 외교·안보(치안) 분야에 해당함",
-      "thread_id": "alternative-to-labor-detention"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "법무부",
-      "reason": "태그에 '법무부'가 명시되어 있어 중앙행정기관 소관 사안으로 행정 분야에 적합함",
-      "thread_id": "alternative-to-labor-detention"
-    },
-    {
-      "field_id": "security",
-      "keyword": "가짜 뉴스",
-      "reason": "태그에 '가짜 뉴스'가 있어 허위정보·정보안보 측면에서 외교·안보 분야로 분류될 수 있음",
-      "thread_id": "block-fake-news-price-manipulation"
-    },
-    {
-      "field_id": "economy",
-      "keyword": "시세 조작",
-      "reason": "태그에 '시세 조작'이 있어 시장질서·경제범죄 관점으로 경제 분야에 적절함",
-      "thread_id": "block-fake-news-price-manipulation"
-    },
-    {
-      "field_id": "livelihood",
-      "keyword": "지방 관광",
-      "reason": "태그에 '지방 관광'이 있어 지역 민생·소상공인·관광산업 활성화 관련으로 분류됨",
-      "thread_id": "boost-and-police-local-tourism"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "단속",
-      "reason": "태그에 '단속'이 포함되어 있어 행정 집행·법집행 관련 사안으로 분류 가능함",
-      "thread_id": "boost-and-police-local-tourism"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "여론 조사",
-      "reason": "태그에 '여론 조사'가 있어 정책결정 전 의견수렴 절차로 행정 분야에 적합함",
-      "thread_id": "consult-signage-language-change"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "현판",
-      "reason": "태목에 '현판'이 있어 행정·문화재 표기 관리 관련으로 분류될 수 있음",
-      "thread_id": "consult-signage-language-change"
+      "keyword": "행정 기획 기능 강화",
+      "reason": "태그에 '기획 기능'·'국장 과장'이 있어 정부 내부 조직·기능 강화 논의로 행정 분야에 적합하다",
+      "thread_id": "promote-planning-capability"
     },
     {
       "field_id": "livelihood",
       "keyword": "계란 문제",
-      "reason": "태그에 '계란 문제'가 명시되어 있어 식품 안전·민생 물가 측면으로 민생·복지 분야에 해당함",
+      "reason": "태그에 '계란 문제'·'조류 관리'가 있어 식품 안전·민생 영향 관점에서 민생·복지 분야에 해당한다",
       "thread_id": "strengthen-avian-management"
     },
     {
+      "field_id": "energy",
+      "keyword": "대체 공급선",
+      "reason": "태그에 '대체 공급선'이 있어 에너지·물자 공급 안정성 관련 논의로 에너지·환경 분야와 연관된다",
+      "thread_id": "prepare-worst-case-measures"
+    },
+    {
       "field_id": "governance",
-      "keyword": "지수 개발",
-      "reason": "태그에 '지수 개발'이 있어 정책지표 설계·행정 기획 관점으로 행정·개혁 분야에 적합함",
+      "keyword": "인허가 특혜 회수",
+      "reason": "태그 '인허가 특혜 회수'가 명시되어 있어 제도·행정 개선(회수 시스템) 논의로 행정 분야에 해당한다",
+      "thread_id": "review-recovery-of-permits-benefits"
+    },
+    {
+      "field_id": "governance",
+      "keyword": "지방 인센티브 지수",
+      "reason": "태그에 '지수 개발'·'지방 인센티브'가 있어 지방정책 평가·행정 인센티브 설계에 관한 행정 분야 적합하다",
       "thread_id": "develop-regional-incentive-index"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "지방 인센티브",
-      "reason": "태그에 '지방 인센티브'가 있어 지역정책·행정조정 관련 사안으로 분류됨",
-      "thread_id": "develop-regional-incentive-index"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "기획 기능",
-      "reason": "태그에 '기획 기능'이 있어 공무원 역량 및 행정구조 개선 관련으로 분류 가능함",
-      "thread_id": "promote-planning-capability"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "국장 과장",
-      "reason": "태그에 '국장 과장'이 있어 조직내 직급별 행정 역량 문제로 분류됨",
-      "thread_id": "promote-planning-capability"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "중계",
-      "reason": "태그에 '중계'가 있어 정부 소통·홍보 운영 관련 행정 분야로 분류될 수 있음",
-      "thread_id": "prepare-broadcast-monitoring"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "모니터링",
-      "reason": "태그에 '모니터링'이 포함되어 있어 정책 추진 검토·관리 측면에서 행정 분야에 적절함",
-      "thread_id": "prepare-broadcast-monitoring"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "영상 공보",
-      "reason": "태그에 '영상 공보'가 있어 홍보물 배포·행정 소통과 연계되어 행정 분류가 가능함",
-      "thread_id": "distribute-useful-video-comments"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "보고자료 정성",
-      "reason": "태그에 '자료'·제목의 '보고' 관련 표현이 있어 행정 문서 품질 개선 사안으로 분류됨",
-      "thread_id": "improve-presentation-materials"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "정성·시각화",
-      "reason": "제목에 '정성·시각화 개선'이 명시되어 있어 보고서 작성·행정자료 개선 측면으로 분류 가능함",
-      "thread_id": "improve-presentation-materials"
-    },
-    {
-      "field_id": "economy",
-      "keyword": "국세청",
-      "reason": "태그에 '국세청'이 있어 조세·재정 인력 문제로 경제 분야에 해당함",
-      "thread_id": "increase-tax-staff"
-    },
-    {
-      "field_id": "economy",
-      "keyword": "세무인력",
-      "reason": "태그에 '세무 공무원' 등 인력 확대 요청이 있어 조세 행정·재정 분야로 분류됨",
-      "thread_id": "increase-tax-staff"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "국민참여단",
-      "reason": "태그에 '국민참여단'이 있어 시민참여·행정협업 사안으로 행정 분야에 분류 가능함",
-      "thread_id": "prepare-broadcast-monitoring"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "시청자 건의",
-      "reason": "태그에 '방송 의견'·제목의 '시청자 건의'가 있어 민원 처리·행정 소통 관련으로 분류됨",
-      "thread_id": "collect-review-viewer-feedback"
     },
     {
       "field_id": "livelihood",
-      "keyword": "국민창관단",
-      "reason": "태그에 '국민창관단'이 있어 민관 참여단 운영·민생 소통 관련으로 민생·복지 분야에 적절함",
+      "keyword": "사회봉사 대체",
+      "reason": "태그 '사회봉사 대체'와 '노역장'이 있어 형사제재 대신 사회복지적 대체 처분 논의로 민생·복지 분야에 해당한다",
+      "thread_id": "alternative-to-labor-detention"
+    },
+    {
+      "field_id": "security",
+      "keyword": "현지 파견 중동 협의",
+      "reason": "태그 '현지 파견'·'중동'·'구체적 협의'가 있어 외교·안보(대외협상·파견) 분야와 연관된다",
+      "thread_id": "send-delegation-for-local-talks"
+    },
+    {
+      "field_id": "scitech",
+      "keyword": "영화 공동제작 이탈리아",
+      "reason": "태그에 '영화 공동제작'·'이탈리아'가 있어 문화콘텐츠 산업과 기술·산업 협력 측면에서 과학기술·산업 분야로 분류 가능하다",
+      "thread_id": "pursue-international-film-coproduction"
+    },
+    {
+      "field_id": "governance",
+      "keyword": "현판 한글 표기 의견수렴",
+      "reason": "태그 '현판'·'한글 표기'·'의견 수렴'이 있어 공공 표지·행정절차 관련으로 행정 분야에 적합하다",
+      "thread_id": "consult-signage-language-change"
+    },
+    {
+      "field_id": "scitech",
+      "keyword": "중계 모니터링 요약",
+      "reason": "태그 '중계'·'모니터링'이 있어 방송 기술·시스템 운영과 관련된 기술적 지원 논의로 과학기술 분야에 해당한다",
+      "thread_id": "prepare-broadcast-monitoring"
+    },
+    {
+      "field_id": "livelihood",
+      "keyword": "영상 유용 발언 분배",
+      "reason": "태그 '영상 공보'·'부처 분배'가 있어 공적 홍보·민원 안내와 관련된 민생 지원 차원으로 분류된다",
+      "thread_id": "distribute-useful-video-comments"
+    },
+    {
+      "field_id": "security",
+      "keyword": "가짜 뉴스 시세 조작 차단",
+      "reason": "태그 '가짜 뉴스'·'시세 조작'이 직접 등장하므로 정보안보·범죄 대응 차원에서 외교·안보(정보안전 포함) 분야에 해당한다",
+      "thread_id": "block-fake-news-price-manipulation"
+    },
+    {
+      "field_id": "governance",
+      "keyword": "보고자료 시각화 개선",
+      "reason": "태그 '자료'·'보고'·'정성스럽게'가 있어 공문서·보고체계 개선과 관련된 행정 분야에 적합하다",
+      "thread_id": "improve-presentation-materials"
+    },
+    {
+      "field_id": "energy",
+      "keyword": "인천공항 연계교통 지방공항활성화",
+      "reason": "태그 '인천공항'·'연계교통'·'지방공항활성화'가 있어 교통수단·공항 환경 및 에너지·환경 정책 분야와 연관된다",
+      "thread_id": "airport-demand-impact-survey"
+    },
+    {
+      "field_id": "governance",
+      "keyword": "국민창관단 실무관리체계",
+      "reason": "태그 '국민창관단'이 명시되어 있어 국민 참여 조직의 관리·운영 체계 개선이 행정 분야에 적절하다",
       "thread_id": "national-visitor-group-management"
     },
     {
       "field_id": "governance",
-      "keyword": "재래건축",
-      "reason": "태그에 '재래건축'이 있어 국토관리·문화유산 관리 측면에서 행정 분야로 분류됨",
-      "thread_id": "traditional-building-civic-campaign"
+      "keyword": "시청자 건의 수집 점검",
+      "reason": "태그 '방송 의견'·'수집'·'점검'이 있어 민원·행정 대응 절차 개선 차원으로 행정 분야에 해당한다",
+      "thread_id": "collect-review-viewer-feedback"
     },
     {
       "field_id": "governance",
-      "keyword": "국토관리원",
-      "reason": "태그에 '국토관리원'이 있어 중앙기관 주도 캠페인으로 행정 분류가 적절함",
-      "thread_id": "traditional-building-civic-campaign"
-    },
-    {
-      "field_id": "economy",
-      "keyword": "스타트업",
-      "reason": "태그에 '스타트업'이 있어 기업지원·산업정책 관점에서 경제 분야로 분류될 수 있음",
-      "thread_id": "review-recovery-of-permits-benefits"
+      "keyword": "국민참여단 모니터링",
+      "reason": "태그 '국민참여단'·'모니터링'이 있어 참여형 거버넌스 운영·관리로 행정 분야에 해당한다",
+      "thread_id": "prepare-broadcast-monitoring"
     },
     {
       "field_id": "governance",
-      "keyword": "인허가",
-      "reason": "태그에 '인허가'가 명시되어 있어 행정절차·제도개선 사안으로 분류됨",
-      "thread_id": "review-recovery-of-permits-benefits"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "국부펀드",
-      "reason": "태그에 '국부펀드'가 등장하여 공공재정·운용 관련 행정 사안으로 분류 가능함",
-      "thread_id": "review-recovery-of-permits-benefits"
-    },
-    {
-      "field_id": "scitech",
-      "keyword": "영화 공동제작",
-      "reason": "태그에 '영화 공동제작'이 있어 문화콘텐츠·기술협력(제작기술 공유) 측면에서 과학기술·문화 융합으로 분류 가능함",
-      "thread_id": "pursue-international-film-coproduction"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "예산 확보",
-      "reason": "태그에 '예산 확보'가 있어 재정 조달·사업 추진 관점에서 행정 분야에 적절함",
-      "thread_id": "pursue-international-film-coproduction"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "강도 기준",
-      "reason": "태그에 '강도'·제목의 '강도 기준 재검토'가 있어 규범·제도 기준 재검토 관련으로 행정 분야에 해당함",
+      "keyword": "강도 기준 재검토",
+      "reason": "태그 '강도'·'검토'가 있어 제도·기준 재검토 관련 행정(법령·기준) 분야로 적합하다",
       "thread_id": "reassess-and-report-standards"
     },
     {
-      "field_id": "economy",
-      "keyword": "대체 공급선",
-      "reason": "태그에 '대체 공급선'이 있어 공급망·경제적 대응 대책 관점에서 경제 분야로 분류됨",
-      "thread_id": "prepare-worst-case-measures"
-    },
-    {
-      "field_id": "economy",
-      "keyword": "영향 분석",
-      "reason": "태그에 '영향 분석'이 있어 경제적 영향·정책평가 관점에서 경제 분야로 적절함",
-      "thread_id": "prepare-worst-case-measures"
-    },
-    {
-      "field_id": "governance",
-      "keyword": "체크",
-      "reason": "태그에 '체크'가 있어 행정적 검토·업무지시 과정 관련으로 분류될 수 있음",
-      "thread_id": "distribute-useful-video-comments"
-    },
-    {
       "field_id": "livelihood",
-      "keyword": "협동조합",
-      "reason": "태그에 '협동조합'이 있어 지역경제·민생 지원·사회적 경제 분야로 분류됨",
+      "keyword": "지방 관광 바가지 단속",
+      "reason": "태그 '지방 관광'·'바가지 단속'이 있어 지역 관광 소비자 보호 및 민생 분야로 분류된다",
+      "thread_id": "boost-and-police-local-tourism"
+    },
+    {
+      "field_id": "governance",
+      "keyword": "현지 파견 직접 방문 사례",
+      "reason": "태그 '직접 방문'·'비서실 사례'가 있어 정부현장 파견 사례·행정집행 관련으로 행정 분야 적합하다",
+      "thread_id": "send-delegation-for-local-talks"
+    },
+    {
+      "field_id": "governance",
+      "keyword": "협동조합 활동가 양성",
+      "reason": "태그 '협동조합'·'활동가 양성'이 있어 사회경제조직 지원·행정 정책 수립 관점으로 행정 분야에 해당한다",
       "thread_id": "strengthen-coop-capacity"
     },
     {
       "field_id": "governance",
-      "keyword": "교육",
-      "reason": "태그에 '교육'이 있어 역량강화·행정 프로그램 관점으로 분류 가능함",
-      "thread_id": "strengthen-coop-capacity"
+      "keyword": "재래건축 시민운동 결합",
+      "reason": "태그 '재래건축'·'시민운동'이 있어 국토관리 및 공공운동 연계 행정 정책으로 분류된다",
+      "thread_id": "traditional-building-civic-campaign"
     }
   ]
 }
