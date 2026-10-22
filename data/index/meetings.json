@@ -10,16 +10,6 @@
     "pipeline_status": "done"
   },
   {
-    "id": "2026-rpt-0716-L64eg6",
-    "kind": "report",
-    "title": "(26.7.16.) 국토교통부·행정중심복합도시건설청·새만금개발청·농림축산식품부·산림청·농촌진흥청·해양수산부·해양경찰청 업무보고｜삶으로 체감하는 대체불가 대한민국",
-    "date": "2026-07-16",
-    "youtube_id": "L64eg6CC2X4",
-    "duration_sec": 7939,
-    "statement_count": 1380,
-    "pipeline_status": "done"
-  },
-  {
     "id": "2026-rpt-0716-imQ8RH",
     "kind": "report",
     "title": "(26.7.16.) 보건복지부·질병관리청·식품의약품안전처·성평등가족부·국민권익위원회 업무보고｜삶으로 체감하는 대체불가 대한민국",
@@ -27,6 +17,16 @@
     "youtube_id": "imQ8RHurjTc",
     "duration_sec": 7367,
     "statement_count": 1247,
+    "pipeline_status": "done"
+  },
+  {
+    "id": "2026-rpt-0716-L64eg6",
+    "kind": "report",
+    "title": "(26.7.16.) 국토교통부·행정중심복합도시건설청·새만금개발청·농림축산식품부·산림청·농촌진흥청·해양수산부·해양경찰청 업무보고｜삶으로 체감하는 대체불가 대한민국",
+    "date": "2026-07-16",
+    "youtube_id": "L64eg6CC2X4",
+    "duration_sec": 7939,
+    "statement_count": 1380,
     "pipeline_status": "done"
   },
   {
