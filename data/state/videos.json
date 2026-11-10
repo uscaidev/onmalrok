@@ -1664,6 +1664,22 @@
       "title": "신속! 혁신! #대통령 빈자리 채우며 총리가 강하게 당부한 내용은?! 제39회 #국무회의 풀버전 #명벤져스",
       "youtube_id": "ukNaz5JiNi0"
     },
+    "upoeCY7FE74": {
+      "caption_source": null,
+      "discovered_at": "2026-11-10T12:05:14+09:00",
+      "duration_sec": null,
+      "error": "yt-dlp: ERROR: [youtube] upoeCY7FE74: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "kind": "cabinet",
+      "last_checked": "2026-11-10T12:05:14+09:00",
+      "meeting_id": null,
+      "published_at": "2026-11-10T11:13:14+09:00",
+      "retry_count": 1,
+      "source": "rss",
+      "stages": {},
+      "status": "waiting_captions",
+      "title": "(26.11.10.) 이재명 대통령 제48회 국무회의",
+      "youtube_id": "upoeCY7FE74"
+    },
     "usgbZRUi1Us": {
       "caption_source": "auto",
       "corrected_at": "2026-07-21T16:09:14+09:00",
